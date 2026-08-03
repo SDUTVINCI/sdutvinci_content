@@ -1,4 +1,5 @@
 ---
+vinciId: 9f2453d1-0f00-5454-a0fc-d5b5b1c2d654
 title: 国赛一等奖！Vinci 机器人队在 2026 Robocon 排球赛取得新突破
 date: 2026-07-16
 author: Vinci 机器人队
