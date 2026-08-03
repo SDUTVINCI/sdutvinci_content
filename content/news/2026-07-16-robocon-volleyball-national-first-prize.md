@@ -6,29 +6,29 @@ tags:
   - Robocon
   - 排球赛
   - 国赛一等奖
-image: /images/news/2026-robocon-volleyball/round-of-16-nanchang-8-6.jpg
+image: https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/round-of-16-nanchang-8-6-c42fbab9.webp
 summary: 山东理工大学 Vinci 机器人队在 2026 年全国大学生机器人大赛 Robocon 排球赛中获得国赛一等奖。
 ---
 
 
 
 2026 年 7 月 16 日，山东理工大学 Vinci 机器人队在全国大学生机器人大赛 Robocon 排球赛中获得**国赛一等奖**。这是属于每一位参赛队员、指导老师与历届团队成员的共同荣誉，也为 Vinci 的 Robocon 参赛历程写下了新的高光时刻。
-![Vinci 机器人队荣获 2026 Robocon 排球赛国赛一等奖](/images/news/2026-robocon-volleyball/national-first-prize.jpg)
+![Vinci 机器人队荣获 2026 Robocon 排球赛国赛一等奖](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/national-first-prize-aead21a8.webp)
 
 
 
 ## 8:6 战胜南昌大学，晋级全国八强
 
 在 7 月 16 日进行的机器人排球挑战赛 16 进 8 淘汰赛中，山东理工大学迎战南昌大学。经过场上较量，Vinci 机器人队以 **8:6** 获胜，成功晋级全国八强。
-![2026 Robocon 排球赛 16 进 8 赛程](/images/news/2026-robocon-volleyball/knockout-schedule.jpg)
-![山东理工大学 8 比 6 战胜南昌大学](/images/news/2026-robocon-volleyball/round-of-16-nanchang-8-6.jpg)
+![2026 Robocon 排球赛 16 进 8 赛程](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/knockout-schedule-b08b88da.webp)
+![山东理工大学 8 比 6 战胜南昌大学](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/round-of-16-nanchang-8-6-c42fbab9.webp)
 
 
 ## 7:8 惜败西安交通大学
 
 随后的 8 进 4 比赛中，山东理工大学对阵西安交通大学。双方将比赛悬念保持到最后，Vinci 机器人队最终以 **7:8** 一分惜败，遗憾未能继续晋级。虽然止步八强，团队仍凭借本届赛事的整体表现获得国赛一等奖，为这段全力以赴的征程留下了值得铭记的结果。
 
-![山东理工大学 7 比 8 惜败西安交通大学](/images/news/2026-robocon-volleyball/quarterfinal-xjtu-7-8.jpg)
+![山东理工大学 7 比 8 惜败西安交通大学](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/quarterfinal-xjtu-7-8-e6ab095c.webp)
 
 ## 从训练场到国赛赛场
 
@@ -36,19 +36,19 @@ summary: 山东理工大学 Vinci 机器人队在 2026 年全国大学生机器�
 
 比赛现场，两台机器人在队员操控与团队协作下完成场上任务。场边成员全程关注运行状态，为每一次上场做好检查、支持与应变准备。
 
-![Vinci 机器人队参加 2026 Robocon 排球赛](/images/news/2026-robocon-volleyball/competition.jpg)
+![Vinci 机器人队参加 2026 Robocon 排球赛](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/competition-1a5d978f.webp)
 
-![队员与机器人在比赛现场](/images/news/2026-robocon-volleyball/team.jpg)
+![队员与机器人在比赛现场](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/team-fa528c2b.webp)
 
 ## 第二十五届 Robocon 赛事现场
 
 本届赛事是第二十五届全国大学生机器人大赛 Robocon 暨 ABU Robocon 2026 国内选拔赛。来自全国高校的参赛队伍齐聚赛场，在机器人排球挑战中交流、竞技。
 
-![第二十五届全国大学生机器人大赛 Robocon 官方宣传图](/images/news/2026-robocon-volleyball/official-poster.jpg)
+![第二十五届全国大学生机器人大赛 Robocon 官方宣传图](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/official-poster-6ff894c0.webp)
 
-![2026 Robocon 参赛队伍在场馆集结](/images/news/2026-robocon-volleyball/arena-lineup.jpg)
+![2026 Robocon 参赛队伍在场馆集结](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/arena-lineup-4620302d.webp)
 
-![2026 Robocon 国内选拔赛开幕现场](/images/news/2026-robocon-volleyball/opening.jpg)
+![2026 Robocon 国内选拔赛开幕现场](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/opening-8eba4c79.webp)
 
 ## 一项由团队共同完成的荣誉
 
@@ -62,4 +62,4 @@ summary: 山东理工大学 Vinci 机器人队在 2026 年全国大学生机器�
 
 赛场会落幕，热爱与探索不会停止。下一次上场，我们继续并肩作战。
 
-![第二十五届全国大学生机器人大赛 Robocon 宣传现场](/images/news/2026-robocon-volleyball/event.jpg)
+![第二十五届全国大学生机器人大赛 Robocon 宣传现场](https://cdn.sdutvincirobot.top/site-assets/images/news/2026-robocon-volleyball/event-af0c6901.webp)
