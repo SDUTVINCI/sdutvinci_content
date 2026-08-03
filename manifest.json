@@ -1,0 +1,1312 @@
+{
+  "formatVersion": 1,
+  "layoutVersion": 1,
+  "serializerVersion": 1,
+  "generatedAt": "2026-07-27T12:14:25.000Z",
+  "snapshot": {
+    "path": ".vinci/snapshot.json",
+    "sha256": "909dfcb8e9d3055d250d60330f03f714078955c73b9c57c87f9f02d464b3c636"
+  },
+  "files": [
+    {
+      "path": "members/2018/王虓.md",
+      "sha256": "e0c8ec484d7d174c002f15dd740af278d6034803afc9b2664febb50e505b0124",
+      "bytes": 457
+    },
+    {
+      "path": "members/2022/王子铭.md",
+      "sha256": "33fcf9f7ce05b0c05fc08d39dfb73ccc137540e51fb0f5b25449c7802f3e8393",
+      "bytes": 611
+    },
+    {
+      "path": "members/2022/邹昌迪.md",
+      "sha256": "aaa1720cebf004304377c46847eab787181ae76953b7b815977007d885a6df5f",
+      "bytes": 448
+    },
+    {
+      "path": "members/2023/曹启硕.md",
+      "sha256": "c71f48aba7e618fc78dc21e39aa72a4f8dd1ee0e8e556dca1260f652e4376eef",
+      "bytes": 207
+    },
+    {
+      "path": "members/2023/李坤.md",
+      "sha256": "53a462477fc446f562e487da1fde88c71a713f419c222f7e751b8f7b48fb966b",
+      "bytes": 256
+    },
+    {
+      "path": "members/2023/杨智伟.md",
+      "sha256": "29678b9024d4517e7be539ba5bf88099dfbe17a9b9eec40988b136e6000dca6a",
+      "bytes": 259
+    },
+    {
+      "path": "members/2023/穆化仓.md",
+      "sha256": "f4401b8b15479cde2a6e6d80a9eb0c2f57f2627268513bb6c22874d88adbde89",
+      "bytes": 249
+    },
+    {
+      "path": "members/2023/董佳辉.md",
+      "sha256": "f8b12f562a58ddd8084edd0a98a55aaec69c234acb36d3e8f83ad59772be4b87",
+      "bytes": 4717
+    },
+    {
+      "path": "members/2023/陈厚瑞.md",
+      "sha256": "9f78cb9c6fe8a087a4e4810b48719b941dee9519a1fd90e66dd773a26104bc89",
+      "bytes": 301
+    },
+    {
+      "path": "members/2024/尚凡兴.md",
+      "sha256": "2f5ff47e490da1fa126ff9a333153272de0b9e097b1e27d1ecdbb1170b96ca40",
+      "bytes": 283
+    },
+    {
+      "path": "members/2024/林沼君.md",
+      "sha256": "2f5184342c797a79649e4da1163103894247988022c480b2f3eace7eef64730f",
+      "bytes": 247
+    },
+    {
+      "path": "members/2024/苏利昊.md",
+      "sha256": "3c07e1bf011837c2aa150b77c82144ad11720239ef2382a533414a6b206d0f74",
+      "bytes": 302
+    },
+    {
+      "path": "members/2025/冯平川.md",
+      "sha256": "3d8a6fa27a2dbc49659943c4b44bc6fc229e4b44a1adf67f9afc21ab8f0cda71",
+      "bytes": 236
+    },
+    {
+      "path": "members/2025/刘业晗.md",
+      "sha256": "a102d6e1a2e4e6d836a51745df90509eb7c7ee2b2cd456375f1b4744aa8afe8d",
+      "bytes": 248
+    },
+    {
+      "path": "members/2025/卢湘东.md",
+      "sha256": "0eb074307dac9fd6e12f0d1e1980c3b1ab4d541122263010cbe4418884911850",
+      "bytes": 330
+    },
+    {
+      "path": "members/2025/商芷晨.md",
+      "sha256": "61216bc77d87c0ad648a6785cc21a5a1982530d1daf2843aa24d54bbf8e97bd9",
+      "bytes": 204
+    },
+    {
+      "path": "members/2025/孙亚诚.md",
+      "sha256": "bcc972a8186d8529e94a57cd53a33535ac57eda7838644c5be51d8c30470e7fb",
+      "bytes": 250
+    },
+    {
+      "path": "members/2025/孙凯臣.md",
+      "sha256": "b8135e1c7c2578101d2ba551d526c5377c26822647216489cf7c3dc022887054",
+      "bytes": 202
+    },
+    {
+      "path": "members/2025/崔功岩.md",
+      "sha256": "bdb0e75611e59ecf7dc26ebba79353d3247262c962a35eb2597927e922c48a82",
+      "bytes": 272
+    },
+    {
+      "path": "members/2025/崔启文.md",
+      "sha256": "3a410d0c1d59ba8defbbf137e0712dfe9781269b5858eb882d6ac018ac1a89cc",
+      "bytes": 228
+    },
+    {
+      "path": "members/2025/张丽敏.md",
+      "sha256": "6764074593d9e9182bffbfbe8baf4d2a99e65ceb94f8b1bad339dc844d46e499",
+      "bytes": 277
+    },
+    {
+      "path": "members/2025/张爱煜.md",
+      "sha256": "7aef0669a495941cad5167d0dc8e26242aca22feda8b3eca876c33562263bd76",
+      "bytes": 258
+    },
+    {
+      "path": "members/2025/张益豪.md",
+      "sha256": "8ad311e522b793e57ba569cf7198ca5425bff069727dd9795c1b1f55ee6c6907",
+      "bytes": 243
+    },
+    {
+      "path": "members/2025/张长飞.md",
+      "sha256": "14f7b687301acead0e4d6fe3443149417d263b42423f47e677b30f13f537d735",
+      "bytes": 271
+    },
+    {
+      "path": "members/2025/房梓豪.md",
+      "sha256": "f49e72514f75e9219db5a2600a14bac82a6225bd84ad83d5fd497054aacdc41c",
+      "bytes": 351
+    },
+    {
+      "path": "members/2025/王燕华.md",
+      "sha256": "74ee7caf01ba0147e1d3f825767460b772224b88dc0995bd122f336dc4a170d2",
+      "bytes": 247
+    },
+    {
+      "path": "members/2025/薛金鸽.md",
+      "sha256": "afe6a22a68477744f1a4794f906096ffd3d6746aaf17906b80a17ecdb0465954",
+      "bytes": 271
+    },
+    {
+      "path": "members/2025/韩文凯.md",
+      "sha256": "662cb864d5dee010ead197a4ab0749dfc1c689e10612a9370965a8b5377e5a94",
+      "bytes": 301
+    },
+    {
+      "path": "members/2026/骆富涵.md",
+      "sha256": "74881e9a1ca2007f8c0ec8c52f53d0fb60bd772d4a84afbecee4f8941b777774",
+      "bytes": 244
+    },
+    {
+      "path": "members/teacher/宫金良.md",
+      "sha256": "8fad2395b10ac926b77246714dd9f4993d46205f61046c120701c76989e939e9",
+      "bytes": 881
+    },
+    {
+      "path": "members/teacher/巩丽.md",
+      "sha256": "a3caa3ae92d917a37a7559d721fc67e0f3af019810713b921334634d7b3fd4d9",
+      "bytes": 428
+    },
+    {
+      "path": "members/teacher/张彦斐.md",
+      "sha256": "35a32431f123f7c15cbf4a5d71e6e3566f8545622810fa033cd6ed8700a0245b",
+      "bytes": 758
+    },
+    {
+      "path": "news/2024-07-06-接受赛委会采访.md",
+      "sha256": "4f34f2466207780f2cdc6de9e2ebb95d06cca067042387c7d7b166944b2a9223",
+      "bytes": 505
+    },
+    {
+      "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
+      "sha256": "e5f23cf8c8e067fb8fd84d6c690ebefdb2cdbb557e99cd49077e722c47db94fc",
+      "bytes": 3942
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0100-编译环境准备.md",
+      "sha256": "556c5caabc7231dcb17e2315c9039961851f22b09b8924955faca1fac2130701",
+      "bytes": 6395
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0200-个性化配置.md",
+      "sha256": "f1fee1f561e7051edb9fa03b49ba1d4827e6f4c21d4508f9eeb978d34d014210",
+      "bytes": 1711
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0300-插件开发.md",
+      "sha256": "dcb4d04a0d9f1ba2cb7edda98e43a869243cf387855166352bc08ff67f732086",
+      "bytes": 3529
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0400-补充工具.md",
+      "sha256": "5d6e73e08ffb973abc38332580aebe14e3ebcac867f89bd20d66ac65b0c65651",
+      "bytes": 233
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0500-其他参考资料添加USB和硬盘格式还有网卡教程：.md",
+      "sha256": "fbb52da525e3700ac46c372e832b1688348cd77d2d6e2288fb93099ef0ce04f4",
+      "bytes": 165
+    },
+    {
+      "path": "wiki/2021-09-16-OpenWrt编译教学/index.md",
+      "sha256": "07151b48bc19bea780acb9869a37fc09a6a9f6dea05a3a6ce15e029aaa5de97a",
+      "bytes": 81
+    },
+    {
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养计划.md",
+      "sha256": "efc452e39b0e3290ccc4e89fc31f66084b2beed2aa298f7d39c330a37424bd43",
+      "bytes": 795
+    },
+    {
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/index.md",
+      "sha256": "48fffe9b78c0c06dfcc6050097b8c8422aac231368e8da21e7719d64f6cd2654",
+      "bytes": 795
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
+      "sha256": "edd7ce3593f7ea9e9ecfefc68f87f2731c46eaa2a679e05deb31494dfd3c3f00",
+      "bytes": 11829
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0200-C++基础初识.md",
+      "sha256": "5bbb3c11186dddb7695ef9b3a64b5f1e406af0d0ab1988dc54024c43560de026",
+      "bytes": 12063
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
+      "sha256": "545e5a8a71c07ae3eb3dfe7fb3a2671e45c5965a6cf2ff168fcb7d5949611e48",
+      "bytes": 19244
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0400-输入输出.md",
+      "sha256": "e5b4b46d0fc80361bc4ea8ba14f6e54998d643a3a327953fedaa24f6046c8916",
+      "bytes": 3968
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0500-运算符.md",
+      "sha256": "e989f51626121f08e329949e375e12f1d5ecfb0bc97b9f5b24d392c39d97e1b8",
+      "bytes": 7595
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0600-程序流程结构.md",
+      "sha256": "043c953283edbd4aa559e624d94501e721028d7a1b9f3c962acd7af9ac9640dc",
+      "bytes": 14098
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0700-数组.md",
+      "sha256": "cf651f2ca5af1c64a1e3d48f53f98f977c46f978b7d72350cdb7e4bd3d0b6a3e",
+      "bytes": 8619
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0800-函数与头文件.md",
+      "sha256": "7886b6d997d4f4d84e32a66e2c8e7ab06ace324e647b4fd6be5781ef8f949c03",
+      "bytes": 27100
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0900-指针.md",
+      "sha256": "2222d13604bf743d0fd0f9dfa7fc987055727cf971a15b07052416f7b7aeb7d4",
+      "bytes": 6447
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1000-结构体与共用体.md",
+      "sha256": "264959ae680fe31149e7754e6b95bc63bbe672b34caf1cdc2c3f9cb165c5a163",
+      "bytes": 14976
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1100-内存分区与生命周期.md",
+      "sha256": "fb5d7695e133f95a5afa4a8e6876246d836e507d8ee0098e8b28ffa170e17cdc",
+      "bytes": 8510
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1200-引用.md",
+      "sha256": "e3663726f38898ff84e1ac97bd1342770e66ebefc47baf41741e41cc645d92ad",
+      "bytes": 4899
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1300-函数提高与命名空间.md",
+      "sha256": "1944e0ebd98f42c1ef3a1640bc5d7d89f68d7b9718d85e0eb76f41d4aedc5a64",
+      "bytes": 6737
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0100-封装.md",
+      "sha256": "ab6c88380a43df128185be855a63548717d5cf98a664267c38b40f8cbc5138c5",
+      "bytes": 5422
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0200-对象初始化和清理.md",
+      "sha256": "14117aff0ba84259f1496a237ecf8497889c778bc22844fa1c501624163f98cd",
+      "bytes": 13371
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0300-对象模型与this指针.md",
+      "sha256": "20eb2f9082c9cec847a266f01e7abce437fb87737a7366828c616c5e5a12b2bf",
+      "bytes": 4758
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0400-友元与运算符重载.md",
+      "sha256": "143d783d306720b962be4249754f2fbb26376281d61701751e5e9a70ceda3a52",
+      "bytes": 10855
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0500-继承.md",
+      "sha256": "4b24ed7bfcaa53665a2990dd0fd47e6db792eafc0788481123ed428ab6ea9d3e",
+      "bytes": 13887
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0600-多态.md",
+      "sha256": "ae7128bc7cad742f14e91abf74afe10626b60d4c2474a7a3eb9b33bd8ea99866",
+      "bytes": 13028
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-类和对象.md",
+      "sha256": "d6c45e49f394a0c9626e11a112aa7132cf8fa8b94f813e674b9ebeb6d844213f",
+      "bytes": 260
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1500-文件操作.md",
+      "sha256": "66169c7da69c6499a32379cdb5f2daee1bc80ca09c4637c692485c66290a34a2",
+      "bytes": 5679
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1600-异常处理与错误码.md",
+      "sha256": "3eaf69438be5dab4dac123bbefe911b1854c31591c0d6fe958aa25a205b2944c",
+      "bytes": 20502
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1700-模板.md",
+      "sha256": "448f13a388b8f3ca8f4edcfd6f9816f0fd5fa3c8fd5a9a84ce7f01cb5e2d1797",
+      "bytes": 26604
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0100-STL初识.md",
+      "sha256": "58617aed4703a286f83137e47fa89291c33f240491df0a5f3c1d7be7e2707c64",
+      "bytes": 7715
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0200-std-array.md",
+      "sha256": "b73c28c28e0bd36261dc954f079d956325283dbec4e63edf0ad9e0cb7f5f8627",
+      "bytes": 8186
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0300-string容器.md",
+      "sha256": "36d7bbcf95eea67b3da6323b7e7ded112b6068782be1d463ca234c75bbc65584",
+      "bytes": 10419
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0400-vector与deque容器.md",
+      "sha256": "da2e09191cdecc644ca760636f7dd15c6e3934c948de81e36aa7d3c8a7b0056b",
+      "bytes": 22096
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0500-stack-queue-list容器.md",
+      "sha256": "8adf8289e6cbd2485c3aaf9015c6251d276d68c49211b9e3d190b673a570c9d6",
+      "bytes": 16651
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0600-set-map容器.md",
+      "sha256": "b46bdf61fffc0e7fd7c7e3071baa0539a3d3dbaff78d51f8cc4f553b45d2de03",
+      "bytes": 19534
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0700-函数对象与谓词.md",
+      "sha256": "affd0a6b9fc6057ef43504038074bfdcbb34848781fdec167743296502d61b56",
+      "bytes": 7602
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0800-常用算法.md",
+      "sha256": "e4ec5e705414c2921e0f4f6aa51d33021bc8d0a5047e1b56fced41a353747dc3",
+      "bytes": 28928
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-STL提高编程.md",
+      "sha256": "f6bfe7b8fa1d56c2fb5fb09a9b209a378cb601e6881df20465f36c6c1d39c7c4",
+      "bytes": 879
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/1900-C++类型转换.md",
+      "sha256": "48fbb46d716466a665832bc9f28de7cf0f4438b73172691a773550f07b9bd1d5",
+      "bytes": 8735
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0100-auto.md",
+      "sha256": "fb89285c1bbb318285091e27f0ddb409adef29786aa1625a81006f88f4f48b35",
+      "bytes": 9770
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0200-nullptr.md",
+      "sha256": "225bfa74db49a00fde457729c93c884f69d27db59136b4a708d6c2a776f7dc5b",
+      "bytes": 7771
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0300-using.md",
+      "sha256": "c7685aeb1ad8fb066ec66083a13e25a9538fd6fdc78697d8f81888f3f8a6834c",
+      "bytes": 8233
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0400-enum-class.md",
+      "sha256": "2a1c359762d868d5a210d1d25ee5902d48f3ddf545880f0f61a85da0ba7b5f41",
+      "bytes": 7859
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0500-范围for循环.md",
+      "sha256": "03a74a553cd568e449564687a9aa0e3023a4cc4d70774a093dac98b2a55b7e59",
+      "bytes": 8605
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0600-结构化绑定.md",
+      "sha256": "d4bc3266c16587e00458613c0bf3c5aaca97df4726790289ce4a124953c5ea3e",
+      "bytes": 8184
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0700-constexpr.md",
+      "sha256": "65408465971c02c2c7ef1b9b7c59c1b84874e9e7a9993e42b61c7dc0429532de",
+      "bytes": 9853
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0800-RAII.md",
+      "sha256": "3fabac79dc0b614e44a88e74ea8b3144e5bdb9956655c5a413326bb60d77b994",
+      "bytes": 9328
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0900-智能指针.md",
+      "sha256": "1f3d849b6e38c2611716fc6bbedb59f56a16cce97245e694ee5156c82d265654",
+      "bytes": 11034
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1000-右值引用和移动语义.md",
+      "sha256": "ac7c1c89db36e3f3501ba91f2bf8ab9c1d53bbdccbf258ff4d3a04f9b68f727e",
+      "bytes": 9796
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1100-Lambda表达式.md",
+      "sha256": "7192ddc5208baa7b3d8e1e0800241ddf801165a8c1abcb457b145b926a2a1f04",
+      "bytes": 10683
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1200-std-function.md",
+      "sha256": "cb3290c9d4de4d2cc4092d43b7e6917b4beef95bb33250405c53a3143a04f7cd",
+      "bytes": 9185
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1300-std-bind.md",
+      "sha256": "3fdd581b13c730157d4978dc4ce7a109ccbe6c8ad036cc2b92584601e10bae5e",
+      "bytes": 8315
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1400-std-optional.md",
+      "sha256": "b5f8c7f8952d67edb7dce0a7fa0a294c9acf2d62ff232a774736ae04adbfc7dc",
+      "bytes": 9279
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1500-std-variant.md",
+      "sha256": "6af6e68de11788df701a332c73f93c8e2f4fa78321ab3a6a72e797aad4c4ba12",
+      "bytes": 10286
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1600-std-span.md",
+      "sha256": "90423f5afd531e75339b7de51b894c4d3c56187551326cadc17d8f7a5d816342",
+      "bytes": 8271
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
+      "sha256": "588e9e4630dea9d16fd8412490c0dcc5aab90857211c45532b4a5c3779478cd0",
+      "bytes": 7907
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1800-std-chrono.md",
+      "sha256": "029381bf25a053732ca1eb85a37d349c7647b8cb7ef93edd337028c8b9974dcd",
+      "bytes": 10163
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0100-std-thread.md",
+      "sha256": "2961dcba930ddaaba1ea6f7458f13639af555765a4f5cbdd145862d2408abcd6",
+      "bytes": 4426
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0200-mutex-lock-guard.md",
+      "sha256": "010efe5d645cded400a50e88237a439abc57a0cdf1a5eb90a6b606c50b69f533",
+      "bytes": 3855
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0300-std-atomic.md",
+      "sha256": "848eab2439ef790b3b4dae48d60c380e917b637f5adee32a6ac2be9046f9f6ac",
+      "bytes": 3349
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0400-condition-variable.md",
+      "sha256": "a7b11132941b85b35e693fcba2d24035f10270c2943acbf9f3490e1c9b17516a",
+      "bytes": 4339
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-并发编程.md",
+      "sha256": "b1a1df92cd29a407bca377a7475ae299111929af09b1381f2190d578db60252e",
+      "bytes": 3380
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
+      "sha256": "faf307784fdb94b99d4f7e3c2b85c6051f36ef975aac82cd1128bbdbbb3d0dff",
+      "bytes": 10815
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-2100-modules简介.md",
+      "sha256": "136bd167644baeb291c4778eedea633c4bc8adf9199c671081777679b27a514a",
+      "bytes": 8459
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-现代C++.md",
+      "sha256": "d1b5b3a92e2341292310966e4a296e99bb5ad1aa519eede4c24c60ebb1033e6d",
+      "bytes": 7137
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0100-定时器与异步IO.md",
+      "sha256": "c7d2eeb3670854668e7702dd28bc6fefe659e8b9fe4506d3515d105bb477187a",
+      "bytes": 28979
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0200-Boost.Asio基础.md",
+      "sha256": "72eb71390b4886c35fc8bab9aaec278f588dac4308542a1573728558236b0e44",
+      "bytes": 17400
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0300-串口通信.md",
+      "sha256": "90df634153524c8cab832ae82675b1f2ab3f13df72a941902f151c7256aa4a34",
+      "bytes": 22110
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0400-TCP通信.md",
+      "sha256": "7d16a4685e960949ea06ca16b24840a456a58d771fdb348214ba3fe09cc2f832",
+      "bytes": 18319
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0500-UDP通信.md",
+      "sha256": "35160d12bce8d4e5eca7c1cd2603b7ca8693a550510e47552c63d3e5353348ab",
+      "bytes": 18334
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0600-机器人工程写法与ROS2集成.md",
+      "sha256": "f5679aef9870754423c759d5f1942652ec313091e704ecb5bbc0df4b358c9f61",
+      "bytes": 17478
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-Boost.Asio异步IO库.md",
+      "sha256": "787d42775969adcdb499a26f3193a86462246c0a565525c93dba69a78a152643",
+      "bytes": 5569
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0200-Eigen线性代数库.md",
+      "sha256": "aaed223ad17cf72671f36b7756376375c3fb68527db8f4c216bd9887bd86a161",
+      "bytes": 82
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0300-OpenCV计算机视觉库.md",
+      "sha256": "c5f07d380e51a25274032d6833add0a12459089c92a294736bef3b9977862b98",
+      "bytes": 86
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0400-PCL点云库.md",
+      "sha256": "c8202ee73490c64dd1e9d30b29977af2c29d6729eb6f92b9a0bf417ac67cd6ee",
+      "bytes": 74
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0500-Sophus李群李代数库.md",
+      "sha256": "dc0b60c999494150ad2697166600f457c02c357fd9eecc5e50daf2d38959e6e0",
+      "bytes": 87
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-常用库.md",
+      "sha256": "45a8e481914cf2f46c1b7e7d8ebd6a32415191718e1859fdcf70a2d7747a25b9",
+      "bytes": 77
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
+      "sha256": "d00ddc88513530d9687bfc7cc7f0a2197464a875f64625bf8263700c307e5be4",
+      "bytes": 19500
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
+      "sha256": "bdc3940b4b2658e252f9d108aa45f38ca455d845f088873dd3ef168b0fb0ef38",
+      "bytes": 11633
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
+      "sha256": "dc16d87c366362c87a82fdf3dbebb78b38754dffb6a24511b4cb00362203788d",
+      "bytes": 16245
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
+      "sha256": "04a39a11864ada62db53c1bc6005c2c59e3814d56d796a240b7b3fcd0fcaa29a",
+      "bytes": 15198
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
+      "sha256": "d22cdcbe0b19031aae1b23586c409201b0d3f2fd9cdb7c4d22ae992a52a2d4cf",
+      "bytes": 13930
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
+      "sha256": "029e48ecaa4d68c7f943d5e422f5323b849f1a431da16ee254f18b9385643972",
+      "bytes": 7503
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/index.md",
+      "sha256": "d2c8f8eecd78cdb50699283756357cfcfd53888bf30a3d448928c38d46c84b05",
+      "bytes": 131
+    },
+    {
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0100-前言.md",
+      "sha256": "bb1385e3e826babcc8ef7b1c9f419b2e455d06644af5ba9cfe3bdec185e95310",
+      "bytes": 1088
+    },
+    {
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-arduino库(了解即可).md",
+      "sha256": "253d6eccade692af2b6d3446c989eeec7945df42e487ac48378aef622eb79b7f",
+      "bytes": 2693
+    },
+    {
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0300-51单片机(了解即可).md",
+      "sha256": "7112104a276985e0c0690657f34f22273bd3ef13192e84a50ebc41b8b385e4df",
+      "bytes": 1303
+    },
+    {
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
+      "sha256": "cd87972c7d2d44ec2f543254d7b7d4d1dce0c06bbd8e5f34caa6ec01966a44a6",
+      "bytes": 91512
+    },
+    {
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/index.md",
+      "sha256": "dd02dc3244a6d98f635af0a8debba8f48fe3da40491a31bf68a2aaabaa0dde13",
+      "bytes": 82
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0100-C_C++环境搭建.md",
+      "sha256": "9690e5d4009f2544ad068a60ffbe2bd70c5897b02d62bcb6e3439b29b5ea0df4",
+      "bytes": 202
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
+      "sha256": "67d075871931f6db57968c3cb6e22734622b78722d73f4a615c55a635573afcb",
+      "bytes": 8167
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0300-Linux基本配置.md",
+      "sha256": "6c177bf1e45c04d306fab5502070897b43f47db0a89ec68601724a87243f5066",
+      "bytes": 152
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0400-CMake工程搭建.md",
+      "sha256": "d23f7ea1cc4b694d7bbe42056506c26c7c865c3bafff4d97250ae350fe343864",
+      "bytes": 178
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0500-OpenCV__CUDA环境搭建.md",
+      "sha256": "947ec6d64657d2f2b7a52a87c5ff244fd446391b8699637ad4554c40e13e9a05",
+      "bytes": 22494
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0600-YOLO环境搭建.md",
+      "sha256": "be423dff8bb15050177138ece16075d7782594f6ef1563b61c7f67258968a6ae",
+      "bytes": 216
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0700-ROS环境搭建.md",
+      "sha256": "902d296de50ef3393d36316eeb24b138d2b3346088b8fb08b4f9f24e5c9a590f",
+      "bytes": 2485
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0800-QT环境搭建.md",
+      "sha256": "e8b2e6c5cc24c85646d93e3ba629e60bff6d2f0fc406d436188613724b3f6d95",
+      "bytes": 3444
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0900-Docker环境搭建.md",
+      "sha256": "fd24c4f027e964f575d2916ba73cdaeb8d635cde4bae07b1ab2adbb788f4b6f3",
+      "bytes": 132
+    },
+    {
+      "path": "wiki/2023-12-10-电控视觉环境搭建/index.md",
+      "sha256": "6c1f3bdcdd9b30246ea70e767b386537de48209c3c5cfd46b5cd90b0145720f1",
+      "bytes": 133
+    },
+    {
+      "path": "wiki/2023-12-29-Git教学/0100-Git简介.md",
+      "sha256": "3135666250eec372c68aaff897f84170d9f76d1dcab1726d60eb2f56e5f6048b",
+      "bytes": 352
+    },
+    {
+      "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
+      "sha256": "01c0facbbb1dc04ff94822837baceec7788534c22b5b303aad53a8cc4d7132f0",
+      "bytes": 13851
+    },
+    {
+      "path": "wiki/2023-12-29-Git教学/0300-高级工具.md",
+      "sha256": "f9f23f5502fdf3a2606a050b9bde506f32d359d161bd7cd86cc8ac7dd59700c5",
+      "bytes": 2335
+    },
+    {
+      "path": "wiki/2023-12-29-Git教学/0400-常见问题.md",
+      "sha256": "6401a1efe72af1572f59a7338ff9f074f8c0417e05070374bb14f27d7cd31469",
+      "bytes": 477
+    },
+    {
+      "path": "wiki/2023-12-29-Git教学/index.md",
+      "sha256": "3b3e72e03ffd26648284122d277d3c995bf50ba3f5be4ed1ec475ee4cb514c0a",
+      "bytes": 115
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
+      "sha256": "8fdb5f7bc06e8f369ca6b490b1705b4a9302d9922d6e9b2a5347c8c2d580f8cb",
+      "bytes": 31319
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0200-入门操作.md",
+      "sha256": "109f26d49aa6da16af47b541deebbf05201f8a6c983d8d0ed5e97818291d54ed",
+      "bytes": 25819
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0300-工作空间与功能包.md",
+      "sha256": "e3970d5257a8c99d4e7f90c99afdee8919b5e88c9a954ead5a5153a8323cdbde",
+      "bytes": 17402
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0400-四大通信.md",
+      "sha256": "4bbaf0227e8547fccd07e6dbf5b5c0c6c37313e7977ee18f5fd9d62846640a92",
+      "bytes": 92966
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0500-ROS2其他通信机制.md",
+      "sha256": "d02aae7a83b575f4c143f77a81839bf4ac176fa3405555cda32aa894e7dae3c6",
+      "bytes": 39107
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0600-Launch.md",
+      "sha256": "b4460e276aedaf6544f2a01d1b33921d78abb586a307906d2d5d8107d1a0cb3c",
+      "bytes": 27326
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
+      "sha256": "0f8bde3107bea378e26eed01f186a86a9e1c39ef45c197e82c7c61d26dc97312",
+      "bytes": 10409
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0800-坐标变换TF.md",
+      "sha256": "9d0a2483fbb4263317215749a0c6bca7cae0fa242977946da91feea3e2be675b",
+      "bytes": 45486
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/0900-可视化平台RVIZ2与URDF建模语言.md",
+      "sha256": "b7221984c9092604829dbbf96623712e5e4847626ec1044e256d9e2299566b77",
+      "bytes": 92584
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1000-Stage_Ros2仿真平台.md",
+      "sha256": "e60ba96db2dd713ccab5c7aef556bf84129c1127b63ccdc05a14bee9a218f241",
+      "bytes": 24853
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0100-GazeboClassic.md",
+      "sha256": "3da1a3a58a62f085114f48df26c1a601ad21e26ef4690b1f2d9386ebd48a96ab",
+      "bytes": 69952
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0200-IgnitionGazebo.md",
+      "sha256": "e87fd66c55a20f069542cae031a353c89e5a0cf4b329177fbc808a6fd66f65fc",
+      "bytes": 73702
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0300-GazeboSim.md",
+      "sha256": "719274c300643fcb9e8f7339dd850dce6f4c142717ea5aa7090df2604395cd49",
+      "bytes": 83448
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0400-Igngz2gzsim.md",
+      "sha256": "f9574eb1dcb74664fde35361a7e6445fe5486174a01473c292d9cf76689f46ac",
+      "bytes": 13770
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-Gezebo仿真平台.md",
+      "sha256": "9c74dc8be0285e136a36349354b4101f7bb07b852b7e194662d7c7f397d79fee",
+      "bytes": 4671
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0100-Humble版本.md",
+      "sha256": "12b44c7b782d34961a5471f51a078c73bd3cdb721f0c7f94e3370874d79c6add",
+      "bytes": 122817
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0200-Jazzy版本.md",
+      "sha256": "ed9f76fd7b7c89474d53c9c5c3fd0684799cfcf79c8274a27c10f4e31c3d34ad",
+      "bytes": 124510
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0300-Humble2Jazzy.md",
+      "sha256": "7d9e1e0506476d9a7232f8c63553dac9932a2e79b4b7b0e3de2361740814f2d3",
+      "bytes": 3810
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-机器人导航Navigation2(仿真篇).md",
+      "sha256": "c777a1feaa4d00f3693403068f472cba9ffc65cba22873db335cb4adeb35a919",
+      "bytes": 159
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-0100-Boost.Aiso.md",
+      "sha256": "f40714ed1581d27da142596e5400a7c94c47dd5209045ba128d33a3736b66927",
+      "bytes": 175
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-0200-ros2_serial_driver.md",
+      "sha256": "e2e99ddfd821e229e77159aaacde8c53487b8c125b8a9bbc93be8b6879a8a026",
+      "bytes": 19671
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-串口通信.md",
+      "sha256": "b9eaa9c34587d38a6c584b7b763840f6ae748331b8161ea808b2af3bb9a14000",
+      "bytes": 4576
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-0100-socketcan.md",
+      "sha256": "b8a256c7bda45b2c67b9db8fd695d9d0c6f23db67836f5124a0f2c7c768eccfb",
+      "bytes": 71
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-0200-ros2_socketcan.md",
+      "sha256": "c87fa4ae361d7a7d79e6770de5fc26957871951a7269507317f92cf1b89bc780",
+      "bytes": 76
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-CAN通信.md",
+      "sha256": "8bf85693d86b7b1e9daefbfae37b645fc8715d4d39790b1e3b523dca8e886e83",
+      "bytes": 6192
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0300-0100-Boost.Aiso.md",
+      "sha256": "6f6ba1358fb4a74cefb516b54798bac8d7cdbebce8b625f4cdc4d8c4bd13991f",
+      "bytes": 166
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0300-TCP通信.md",
+      "sha256": "7b29626de7a57de6d2bcddc16ce5ecbc0c7d036dfde6deaa6bcbee3eb0f0d700",
+      "bytes": 5131
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0400-0100-Boost.Aiso.md",
+      "sha256": "7a182e2c8f972bcfe620d0604b96182d531516953881d76267d5edf68677e23d",
+      "bytes": 166
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0400-UDP通信.md",
+      "sha256": "ace2ea654bede20338f1fcb48a56c6db8515c4e457626daced0c80b21af23db3",
+      "bytes": 5318
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-Linux硬件通信.md",
+      "sha256": "630ae2625e63877af631607c4a74f1f30a5bc98b60bc796455a431fbe6e5a883",
+      "bytes": 1592
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0100-机器人组成.md",
+      "sha256": "155ba45274e782573d81cde34d4aee62977770aeae90e49ebda8857b62401b74",
+      "bytes": 2025
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-0100-远程开发SSH.md",
+      "sha256": "6ea7aca5005368bc14ab8f804186485dc99f59c0107e2d4c705c8e568ef888a6",
+      "bytes": 172
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-0200-远程访问桌面.md",
+      "sha256": "434159f2f72bceaf0c184dec5f4d829165f67589b6b9f0cbc4f4622ca0ae1369",
+      "bytes": 169
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-工控机之远程开发环境.md",
+      "sha256": "af716c79c1cf81091a20405cbdf33240762b6fe9a02befeb37b8f21a62835611",
+      "bytes": 2513
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0300-工控机之外接USB设备.md",
+      "sha256": "6e2d286261421b22ce96adde08b967896c324f5fd2d8d181b2cb4694cd40343b",
+      "bytes": 184
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0400-分布式搭建.md",
+      "sha256": "978d217b9606cb0b0aed4967a84ec2105a942b684cd2d38560167f3779ca5422",
+      "bytes": 182
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0500-优化日志.md",
+      "sha256": "730535906716e27f59d1a06693f49a133d0e478d1951903d7c278c9c770fa103",
+      "bytes": 1608
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0100-里程计Odom.md",
+      "sha256": "c6397efa7149c256edbf02a138562cb52eaca58236f7d28934676694ae7de071",
+      "bytes": 19641
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0200-惯性计IMU.md",
+      "sha256": "f193bb42146ef0e5b596b8a036ef1e32a5835ed81591b4353bea7d07687a465e",
+      "bytes": 16865
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0300-激光雷达LiDAR.md",
+      "sha256": "213575974e76ea1696758810380c244e44680ea45e0a10230b231c8cd10657b3",
+      "bytes": 79
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0400-相机Camera.md",
+      "sha256": "97b43e0f11e9ab519be88695b8e886959bd7142fca5c613323688daead01f093",
+      "bytes": 74
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0500-全球定位GNSS.md",
+      "sha256": "dbb8415a1f3fa0fab9fe7c84d1427e1fcc9e73192c2c69753ec60b50fcf53dda",
+      "bytes": 78
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
+      "sha256": "d779e765b1aecd2d528ab29181805ac977642415b1d0808aeff2ba8a94a1dd95",
+      "bytes": 71
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0700-键盘控制节点.md",
+      "sha256": "6104842d33405f0aaa4d489221616e7de0601e7c9b93462169ba2ceb8d7d82c1",
+      "bytes": 12634
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-硬件平台.md",
+      "sha256": "a05ddc4f7fdfc255fe6668a3b4b7918cc3c41c882436d9bd089cb64aa3a442aa",
+      "bytes": 1551
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0700-坐标系与话题关系.md",
+      "sha256": "23416a5e58e9a5e59a9ab901d86f4a032fce8ab506efb13f4309e2a818efdd11",
+      "bytes": 1186
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-0100-轮式里程计标定.md",
+      "sha256": "bbea0c7f2026983df939c53b96d36c24118b87f544c74d6528e122ee2f83912e",
+      "bytes": 6298
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-0200-轮式里程计与IMU融合.md",
+      "sha256": "c72cb849c8800ce248a31eb019881ca1b88ca5e4d8ebc4b306f231cf16fcdb25",
+      "bytes": 26554
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-轮式里程计标定与融合.md",
+      "sha256": "c738b9ee9b6e0d5f359690a0f4a4c6cae910b3013b8e2746e60610257537d849",
+      "bytes": 1992
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0200-激光雷达工具.md",
+      "sha256": "15bb9211ea72e76a1044f0fa366f299a99a5618c3f1e475987d5686299f4f958",
+      "bytes": 80
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0300-相机使用进阶.md",
+      "sha256": "8724f4fca1d900563a915226125df64c02e108369d64b51651117ba2a7f0a0f7",
+      "bytes": 80
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-硬件平台进阶.md",
+      "sha256": "5101d43fc5d683fdda2815b87beabc237bff12ea868c224f41ba47c0354f1143",
+      "bytes": 80
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-机器人硬件.md",
+      "sha256": "3c970522aa378ea5be7a49e92026bb8d72e6f9bb484317a5f0983daf398bd394",
+      "bytes": 1014
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1500-ROS2_Control.md",
+      "sha256": "da3cf1b3049168ea09bf34d0075240190b9245175c4a9513f5c67ce86408ff98",
+      "bytes": 48722
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1600-Moveit2工业机器人机械臂.md",
+      "sha256": "cd9d7b6f613dfa11729aa126c245a59d6986e7804ba50b4f30751a26560a260f",
+      "bytes": 26317
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1700-机器人导航Navigation2(实体篇).md",
+      "sha256": "afaf151204ac7a26907b5e8cc52f698a06288ca50fe3eb762c8114b0efa97c0b",
+      "bytes": 24588
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1800-MicroROS.md",
+      "sha256": "5768264347c57d6930512472b5821d96b180695aac4624d9133518cb12ee3f54",
+      "bytes": 290
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/1900-Webots仿真平台.md",
+      "sha256": "60a27e7c96411d899c2cd4326149e7c7174841e1a8f048a5005224f204fe7178",
+      "bytes": 1669
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/2000-OpenCV.md",
+      "sha256": "513719ab0ff37c8c6d08a40f6a814f1ad11791fff58c53f881834ea4d4ef2fba",
+      "bytes": 3126
+    },
+    {
+      "path": "wiki/2023-12-30-ros2-tutorial/index.md",
+      "sha256": "88b4078d90c54d20c70f5b37cc251c8d9a78ac068347c5bdb5b8e029222ddd72",
+      "bytes": 451
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0100-简介.md",
+      "sha256": "d6b781ce01344ae8e4c83181348134d4920ee612783e951ef0a0d1ac7438a88d",
+      "bytes": 245
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0200-官方教程.md",
+      "sha256": "9ef3ad3c00465215f214b5f69ea00cd1a745471dcb9b8321991363064fc4797a",
+      "bytes": 163
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0300-Linux配置MDK6环境教程.md",
+      "sha256": "366853765b10a9f741b8950a04c0d36b1262e321487251ee852a97aba3a867d1",
+      "bytes": 7096
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0400-Windows配置MDK6环境教程.md",
+      "sha256": "68148acfe854d5c301264838a94190350865a92eaff62734b18ff8fdff06fc3d",
+      "bytes": 5013
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0500-进阶使用教程(全平台通用).md",
+      "sha256": "f2f56552ea28a54451e5a44551919ffe1d80a1d83a31bf626eceef8ae7fbe671",
+      "bytes": 10721
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0600-常见问题.md",
+      "sha256": "34f7610ae88639f5b2f3dd991e0c5a4de7556a240df2c2e2034f04b784c7053d",
+      "bytes": 2959
+    },
+    {
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/index.md",
+      "sha256": "ff530d7f6122e3ea57acace81d9521576cb7f6038769132bc2b38720b53c2171",
+      "bytes": 375
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0100-发行版推荐.md",
+      "sha256": "ca51154d135885a2af337940dcbb545fe05722b5675f19dbc53258707b84a611",
+      "bytes": 443
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0200-Linux装机教程.md",
+      "sha256": "8a0180b7e93abdd98eaf6390ee62686951cdbe5ec7e2d19155f4a1f509b32aad",
+      "bytes": 46097
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0300-安装必备配置.md",
+      "sha256": "463ddddf19c4749b96cbf8372bdd9e69a04eb7bd36a9b5239c3fb01241147b5c",
+      "bytes": 35504
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0400-命令教程(长期积累).md",
+      "sha256": "acec0ec2667894bd1d88088c976b6764eb470acecc76a4941b0e80aed636c244",
+      "bytes": 640
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0500-各种环境配置.md",
+      "sha256": "30ffb44400a96abe10826f3557b4f0b2142495f53348ace37fd9dfe32fb03083",
+      "bytes": 165
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0600-其他可选配置.md",
+      "sha256": "bdbe1b3d39ab6d4654759895ba53af18bb669034209b79dbb9995aa95c136c5a",
+      "bytes": 26723
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0700-QEMU-KVM虚拟机.md",
+      "sha256": "14ded0f17f915f276423e3dd1be28f2c4ff50cdf9dc2874b9bd4e11276d12263",
+      "bytes": 7353
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0800-拓展功能.md",
+      "sha256": "db6e2e9ada5c96748786351df721a854ecbcd860a5910aaf2793afdaa5f54e08",
+      "bytes": 1742
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/0900-其他操作.md",
+      "sha256": "9251dd86c76285152d6e726a5161fd1aa6bb5bd243b465d18e15fce7b4396f91",
+      "bytes": 27261
+    },
+    {
+      "path": "wiki/2024-03-30-Linux教程/index.md",
+      "sha256": "6b02b5fd8630316c4252dadff268a2fce7ab6ec498f91ff9f6570643ea83b94b",
+      "bytes": 120
+    },
+    {
+      "path": "wiki/2024-07-13-ROS1机器人操作系统教程/0100-ROS介绍.md",
+      "sha256": "92e7d766d8f7d40395ca2de469174d889d30a7f4af6f3e4ca12c5db7ca6289b1",
+      "bytes": 4333
+    },
+    {
+      "path": "wiki/2024-07-13-ROS1机器人操作系统教程/index.md",
+      "sha256": "771b0595960e1d16cc1d1f9bee53bc4549a26eefa9d7dbc7a34b9c89ae95cb5a",
+      "bytes": 194
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0100-简介.md",
+      "sha256": "f0117db43f9c176b20d2fb7d748bb142ad0c14dccd0309963636b8a1d23e1493",
+      "bytes": 4877
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0200-安装Docker.md",
+      "sha256": "427fe09e60e689d4059b06d28a617804335857b8b62e4a5ddc3582e6af5a996f",
+      "bytes": 5268
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0300-Docker直通.md",
+      "sha256": "b12f07a4f16f568ea9c3346c307de8c0c4bfe7b7da31c72fc5f07e8431bb7df7",
+      "bytes": 5702
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0400-DockerHub换源.md",
+      "sha256": "6eef7b6c5ca6bb59a8da4447b6cd30a98dd9fca1fdfad3e94bd2262c76bc29a6",
+      "bytes": 325
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0500-docker容器里的程序的图形界面弹不出来.md",
+      "sha256": "2240be01e5ff8670d50f84fbb50f101baf7996e3814ec76d46ee0e88ecd0e608",
+      "bytes": 1027
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0600-Docker命令学习.md",
+      "sha256": "57ca16c425dcaedcdc4a7a7b4a105a2f4ea5db5f6019545bbc35e10a9fd4e913",
+      "bytes": 7567
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0700-各种Docker容器部署.md",
+      "sha256": "fc776450116aa2b4fd5f39f912c7f6860c7fce83808ef24d18c9dd5fcb298e56",
+      "bytes": 4805
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0800-手动创建Docker镜像.md",
+      "sha256": "19d8ba55c2719ed580fa2cfb74d31f9a56dc23bc5e925649ec334cf088e039e3",
+      "bytes": 7636
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/0900-VScode远程开发.md",
+      "sha256": "0192a63aa2bd86f420c48066d879ee4f132317c825760de858cb96ff3fae298a",
+      "bytes": 805
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/1000-0100-快速打开终端.md",
+      "sha256": "2dba90becfc2640fd218ab6db08aa2f4c89396ae55bfc069ef3323fecfb7ce74",
+      "bytes": 832
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/1000-Docker使用优化.md",
+      "sha256": "70058a4131034026c786d79c1157ef73c63cb3e4a818e5bd8426497e3094837b",
+      "bytes": 112
+    },
+    {
+      "path": "wiki/2024-10-03-Docker教程/index.md",
+      "sha256": "b1b66982626a8e01a3df4b9e119ec5c810988385e3b30c885d3a3d67e698e2b1",
+      "bytes": 74
+    },
+    {
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",
+      "sha256": "7f8869ab6f2501b495239c907e868f5bc5e22a4271b1eea0a7b2e34610e9e898",
+      "bytes": 75
+    },
+    {
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0200-部署方案.md",
+      "sha256": "b8b027224a36e0e6112014442d2cad9fe39eb320ca84a30738d8a85d3eced452",
+      "bytes": 9616
+    },
+    {
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/index.md",
+      "sha256": "9fb07975e5decc58982a6436f3dc561f9ccee15ef768734432282bf1015cf818",
+      "bytes": 924
+    },
+    {
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0100-简介.md",
+      "sha256": "294d6889f4da568cfd652f580b28f15a7b294c8f6c71a2e0bcbab9ddbeee222c",
+      "bytes": 566
+    },
+    {
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0200-Linux.md",
+      "sha256": "d715fc82cfa1332f765332de748041a56edf64696b627d6f7a8a6a701bac0e0d",
+      "bytes": 32665
+    },
+    {
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0300-Windows.md",
+      "sha256": "ee6d1ec752157076216f6181081380a9fa0343a6655d2c5b07ed9c88ffde7e8d",
+      "bytes": 223
+    },
+    {
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/index.md",
+      "sha256": "339e9d81034fb26da270f60fc43a5755244aeec664d506895ba141ca2de9b8c4",
+      "bytes": 878
+    },
+    {
+      "path": "wiki/2025-12-25-MarkDown教程/0100-简介.md",
+      "sha256": "f6d3e180b950fdc7bd17bfac29fa3caea25f834f4f2389e5d90db7e0099b3b0b",
+      "bytes": 68
+    },
+    {
+      "path": "wiki/2025-12-25-MarkDown教程/0200-环境搭建.md",
+      "sha256": "54070870d52c557426a4fa52f5e840ca41516ddc8d6053fac82c683d5b9c6f5d",
+      "bytes": 920
+    },
+    {
+      "path": "wiki/2025-12-25-MarkDown教程/0300-教学.md",
+      "sha256": "bd257c39964552d53fbc3bacc58c29ed8675d81c56b34b6b9d824c736d4ff28a",
+      "bytes": 217
+    },
+    {
+      "path": "wiki/2025-12-25-MarkDown教程/index.md",
+      "sha256": "df786d23bd619f59b5e4c0985376b23fd5776d0dd33b8a0f2cd208470f2737e2",
+      "bytes": 76
+    },
+    {
+      "path": "wiki/2026-01-07-ESP32教程/0100-简介.md",
+      "sha256": "d05c66f83903205444a9b1746af46fe4171821ef2f69aec1abfcb37eb0926d5b",
+      "bytes": 68
+    },
+    {
+      "path": "wiki/2026-01-07-ESP32教程/0200-ESP32环境搭建.md",
+      "sha256": "bdad351b5e1da466d2faee4377dc38f1e749b243e6cdf2fe9e877cf4304c9c3b",
+      "bytes": 9481
+    },
+    {
+      "path": "wiki/2026-01-07-ESP32教程/0300-参考视频.md",
+      "sha256": "2dc0f1d7e6e5e27d208d1087940b305c1565332e87774bd236770b05aecf9796",
+      "bytes": 119
+    },
+    {
+      "path": "wiki/2026-01-07-ESP32教程/0400-教程.md",
+      "sha256": "5dc3bda91dc77394d8bf60318407d046891a894c09f86f2711fe0f081873803e",
+      "bytes": 37104
+    },
+    {
+      "path": "wiki/2026-01-07-ESP32教程/index.md",
+      "sha256": "09df4bc17fa98bc549b9f9d0ad047a9a62b689041f9b378ab455500340d00d0c",
+      "bytes": 73
+    },
+    {
+      "path": "wiki/2026-02-16-Flutter教程/0100-简介.md",
+      "sha256": "bd9c9c4e961db07770107bc708a0582a25c9b6f0a60a1efd0231a58e9c0faec4",
+      "bytes": 3277
+    },
+    {
+      "path": "wiki/2026-02-16-Flutter教程/0200-参考资料.md",
+      "sha256": "f301ae9de3c84dac17810339ed7856778c3c91c63c41e22f1cf6b0795ece86b1",
+      "bytes": 199
+    },
+    {
+      "path": "wiki/2026-02-16-Flutter教程/0300-环境配置.md",
+      "sha256": "affb10037cd4f78f7cded08e96010d88bfa66b549da9dbb5e2968b02faddfaec",
+      "bytes": 1144
+    },
+    {
+      "path": "wiki/2026-02-16-Flutter教程/0400-Dart语言教程.md",
+      "sha256": "497fec918fe378cc42579187f95a46df06e793430d82e670a151c587847e3446",
+      "bytes": 13514
+    },
+    {
+      "path": "wiki/2026-02-16-Flutter教程/index.md",
+      "sha256": "c66119f2fc941ffd830a3c1828ae190743af796c0f701bc5cecd9f97d375f0c0",
+      "bytes": 75
+    },
+    {
+      "path": "wiki/2026-04-13-OpenCV教程/0100-初识OpenCV.md",
+      "sha256": "628826e6106d72cbb6252f77f2ad1cea00ff552d70238801e3ee1391c0e39556",
+      "bytes": 3483
+    },
+    {
+      "path": "wiki/2026-04-13-OpenCV教程/0200-数据载入、显示与保存.md",
+      "sha256": "c2be9ec495a82b4d910936462c3db3561887e0c65922fe77885ba793330c763b",
+      "bytes": 73922
+    },
+    {
+      "path": "wiki/2026-04-13-OpenCV教程/0300-图像基本操作.md",
+      "sha256": "0b345eaaaa47c5b32f9cf11613057897ead7e5c73f24b6236b4a84d4c6a8fdc6",
+      "bytes": 20737
+    },
+    {
+      "path": "wiki/2026-04-13-OpenCV教程/index.md",
+      "sha256": "02f3cb102f2130a9c2447c98bf3cc2b5536a46b15ca006011ddeb7a44657d5fb",
+      "bytes": 74
+    },
+    {
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0100-简介.md",
+      "sha256": "6d38212001559626c3d5ebf5a35c0b2e5921ab7b0d0d238dde1d809d63d54769",
+      "bytes": 480
+    },
+    {
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0200-参考视频.md",
+      "sha256": "cbe0d3f2b2dc149e27fd876e07537f6b1c9d27995b0bfd93375e4f63dcb5192f",
+      "bytes": 134
+    },
+    {
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
+      "sha256": "2de0bfc3f5e5ac9e5450b3d12ff522b4f7f895d801d4f0b5cf778c81266fd432",
+      "bytes": 12526
+    },
+    {
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
+      "sha256": "aa5170e253cbc23a29a7a7ecc2e5ee9dc0eddf036ba9df2c2d07bdda67e77c04",
+      "bytes": 180
+    }
+  ]
+}

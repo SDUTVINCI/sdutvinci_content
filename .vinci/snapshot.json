@@ -1,0 +1,2611 @@
+{
+  "formatVersion": 1,
+  "layoutVersion": 1,
+  "serializerVersion": 1,
+  "generatedAt": "2026-07-27T12:14:25.000Z",
+  "files": [
+    {
+      "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
+      "revisionId": "ced89987-82d4-5e2d-acd1-644f711b82e6",
+      "revisionNumber": 1,
+      "collection": "news",
+      "relativePath": "2024-07-06-接受赛委会采访.md",
+      "path": "news/2024-07-06-接受赛委会采访.md",
+      "sha256": "4f34f2466207780f2cdc6de9e2ebb95d06cca067042387c7d7b166944b2a9223",
+      "bytes": 505
+    },
+    {
+      "articleId": "9f2453d1-0f00-5454-a0fc-d5b5b1c2d654",
+      "revisionId": "f6982bd5-d3f6-5c41-a8c2-60a74c78f565",
+      "revisionNumber": 1,
+      "collection": "news",
+      "relativePath": "2026-07-16-robocon-volleyball-national-first-prize.md",
+      "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
+      "sha256": "e5f23cf8c8e067fb8fd84d6c690ebefdb2cdbb557e99cd49077e722c47db94fc",
+      "bytes": 3942
+    },
+    {
+      "articleId": "b79b6594-4b41-5453-9c16-6d3b77b3e195",
+      "revisionId": "ac8986ee-5536-59db-a269-a19c72d78528",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/0100-编译环境准备.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0100-编译环境准备.md",
+      "sha256": "556c5caabc7231dcb17e2315c9039961851f22b09b8924955faca1fac2130701",
+      "bytes": 6395
+    },
+    {
+      "articleId": "e9fcee8e-1988-57f4-b2cb-0c7e44c62bdf",
+      "revisionId": "ef448b2f-0514-5942-be33-1aeeae41bd3e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/0200-个性化配置.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0200-个性化配置.md",
+      "sha256": "f1fee1f561e7051edb9fa03b49ba1d4827e6f4c21d4508f9eeb978d34d014210",
+      "bytes": 1711
+    },
+    {
+      "articleId": "17376a6a-da1e-5c96-8458-d1e8be269980",
+      "revisionId": "8d4f4a6f-a094-5f84-8658-5b1ab3e731ad",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/0300-插件开发.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0300-插件开发.md",
+      "sha256": "dcb4d04a0d9f1ba2cb7edda98e43a869243cf387855166352bc08ff67f732086",
+      "bytes": 3529
+    },
+    {
+      "articleId": "97aadb81-4cc8-5b0b-b91d-4817387c283a",
+      "revisionId": "c5e91925-a343-515f-b59b-115fb5f4e4b8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/0400-补充工具.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0400-补充工具.md",
+      "sha256": "5d6e73e08ffb973abc38332580aebe14e3ebcac867f89bd20d66ac65b0c65651",
+      "bytes": 233
+    },
+    {
+      "articleId": "dd393ef5-7738-5e2c-b0dd-3160c9ccc9b7",
+      "revisionId": "26b56adf-df30-5a19-a46c-e7a5cb4e96f2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/0500-其他参考资料添加USB和硬盘格式还有网卡教程：.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/0500-其他参考资料添加USB和硬盘格式还有网卡教程：.md",
+      "sha256": "fbb52da525e3700ac46c372e832b1688348cd77d2d6e2288fb93099ef0ce04f4",
+      "bytes": 165
+    },
+    {
+      "articleId": "e0ecc610-40f9-5979-8898-6b5346398eac",
+      "revisionId": "49379574-a1ad-53ce-a785-89ac384db9ea",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2021-09-16-OpenWrt编译教学/index.md",
+      "path": "wiki/2021-09-16-OpenWrt编译教学/index.md",
+      "sha256": "07151b48bc19bea780acb9869a37fc09a6a9f6dea05a3a6ce15e029aaa5de97a",
+      "bytes": 81
+    },
+    {
+      "articleId": "30d3999c-36ac-504e-96c5-6461b21604ef",
+      "revisionId": "a5b14031-8c2d-5002-9579-6797e1b80a10",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养计划.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养计划.md",
+      "sha256": "efc452e39b0e3290ccc4e89fc31f66084b2beed2aa298f7d39c330a37424bd43",
+      "bytes": 795
+    },
+    {
+      "articleId": "820f13b3-2224-5bbf-addf-45430603f134",
+      "revisionId": "1af859f6-f3a7-53de-bb51-b7a7f1adf5af",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/index.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/index.md",
+      "sha256": "48fffe9b78c0c06dfcc6050097b8c8422aac231368e8da21e7719d64f6cd2654",
+      "bytes": 795
+    },
+    {
+      "articleId": "d9ef7ec2-e090-5ce7-8d13-88782d596fbe",
+      "revisionId": "43f93377-854e-521a-acad-f6e8f3776abe",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
+      "sha256": "edd7ce3593f7ea9e9ecfefc68f87f2731c46eaa2a679e05deb31494dfd3c3f00",
+      "bytes": 11829
+    },
+    {
+      "articleId": "6c82e4f5-83cd-5389-82f4-f52b2300802e",
+      "revisionId": "fa9a60a7-d10f-52db-b04c-cf294e441b04",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0200-C++基础初识.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0200-C++基础初识.md",
+      "sha256": "5bbb3c11186dddb7695ef9b3a64b5f1e406af0d0ab1988dc54024c43560de026",
+      "bytes": 12063
+    },
+    {
+      "articleId": "1b35141d-6683-5472-b462-693f02a36cc3",
+      "revisionId": "3c5f408e-436f-5594-8f04-163796c93cf0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
+      "sha256": "545e5a8a71c07ae3eb3dfe7fb3a2671e45c5965a6cf2ff168fcb7d5949611e48",
+      "bytes": 19244
+    },
+    {
+      "articleId": "974e5789-20eb-5b1d-9791-9270a78dabe8",
+      "revisionId": "45b7dfb1-e25b-5683-97fb-3f52af47b808",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0400-输入输出.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0400-输入输出.md",
+      "sha256": "e5b4b46d0fc80361bc4ea8ba14f6e54998d643a3a327953fedaa24f6046c8916",
+      "bytes": 3968
+    },
+    {
+      "articleId": "68cdd9c1-e66b-59d0-90fa-749a2cc497ea",
+      "revisionId": "fdd9c78d-6544-5d1f-a0fc-05cf92110fe3",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0500-运算符.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0500-运算符.md",
+      "sha256": "e989f51626121f08e329949e375e12f1d5ecfb0bc97b9f5b24d392c39d97e1b8",
+      "bytes": 7595
+    },
+    {
+      "articleId": "0fd9d2d4-b98d-5b80-8a69-0dd5d9e41dea",
+      "revisionId": "4b104625-5e5b-588c-b9b4-a1c145dc48f1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0600-程序流程结构.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0600-程序流程结构.md",
+      "sha256": "043c953283edbd4aa559e624d94501e721028d7a1b9f3c962acd7af9ac9640dc",
+      "bytes": 14098
+    },
+    {
+      "articleId": "c27b821f-06c0-5a9b-ac20-305a0ad5f3b7",
+      "revisionId": "4885603f-7b2a-534b-beac-616cdc795981",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0700-数组.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0700-数组.md",
+      "sha256": "cf651f2ca5af1c64a1e3d48f53f98f977c46f978b7d72350cdb7e4bd3d0b6a3e",
+      "bytes": 8619
+    },
+    {
+      "articleId": "628ed36c-a523-5c52-a6aa-e9639593df8e",
+      "revisionId": "7b57c5da-c352-506c-a225-02a1871abbcf",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0800-函数与头文件.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0800-函数与头文件.md",
+      "sha256": "7886b6d997d4f4d84e32a66e2c8e7ab06ace324e647b4fd6be5781ef8f949c03",
+      "bytes": 27100
+    },
+    {
+      "articleId": "0a7f19a4-b995-5d17-bcdf-27a6c8cc54ab",
+      "revisionId": "15058061-9be9-54c4-8f1f-bf5a9816c732",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0900-指针.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0900-指针.md",
+      "sha256": "2222d13604bf743d0fd0f9dfa7fc987055727cf971a15b07052416f7b7aeb7d4",
+      "bytes": 6447
+    },
+    {
+      "articleId": "1ab42134-2ecc-55e7-83ef-d66620be941e",
+      "revisionId": "0ac4ab5b-98a1-59c9-911a-108fef597894",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1000-结构体与共用体.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1000-结构体与共用体.md",
+      "sha256": "264959ae680fe31149e7754e6b95bc63bbe672b34caf1cdc2c3f9cb165c5a163",
+      "bytes": 14976
+    },
+    {
+      "articleId": "8111dc18-d6df-5f5c-93cc-58a0cc1f7083",
+      "revisionId": "ce779245-f358-5ea4-9646-01c633cca009",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1100-内存分区与生命周期.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1100-内存分区与生命周期.md",
+      "sha256": "fb5d7695e133f95a5afa4a8e6876246d836e507d8ee0098e8b28ffa170e17cdc",
+      "bytes": 8510
+    },
+    {
+      "articleId": "7a5ebe57-c4a3-5ab9-9e0e-7bcf20bf9748",
+      "revisionId": "b3d450d8-cb6f-5607-84d9-cd296dd0defd",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1200-引用.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1200-引用.md",
+      "sha256": "e3663726f38898ff84e1ac97bd1342770e66ebefc47baf41741e41cc645d92ad",
+      "bytes": 4899
+    },
+    {
+      "articleId": "9f870e5a-6ad9-5c63-a147-5104d32f7686",
+      "revisionId": "177986b9-5674-5ae7-931c-f2572aa51528",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1300-函数提高与命名空间.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1300-函数提高与命名空间.md",
+      "sha256": "1944e0ebd98f42c1ef3a1640bc5d7d89f68d7b9718d85e0eb76f41d4aedc5a64",
+      "bytes": 6737
+    },
+    {
+      "articleId": "25f83876-766a-58ac-a006-6d865f048a24",
+      "revisionId": "9b8f9593-3642-592b-9d89-856795115e46",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0100-封装.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0100-封装.md",
+      "sha256": "ab6c88380a43df128185be855a63548717d5cf98a664267c38b40f8cbc5138c5",
+      "bytes": 5422
+    },
+    {
+      "articleId": "7b4e97e5-f6ec-5c5b-9206-fa7f6228bccb",
+      "revisionId": "00f0a627-3fe9-53c8-a178-7be5f380796b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0200-对象初始化和清理.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0200-对象初始化和清理.md",
+      "sha256": "14117aff0ba84259f1496a237ecf8497889c778bc22844fa1c501624163f98cd",
+      "bytes": 13371
+    },
+    {
+      "articleId": "47424ba7-e426-541f-9618-1166ce0f501d",
+      "revisionId": "5baef1fd-9646-578a-b1c8-e31b8a7d3110",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0300-对象模型与this指针.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0300-对象模型与this指针.md",
+      "sha256": "20eb2f9082c9cec847a266f01e7abce437fb87737a7366828c616c5e5a12b2bf",
+      "bytes": 4758
+    },
+    {
+      "articleId": "7be1ede2-b488-5b6e-af7d-85c0c7ce987c",
+      "revisionId": "a6eac550-7207-52e3-91a1-0ffabccae00d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0400-友元与运算符重载.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0400-友元与运算符重载.md",
+      "sha256": "143d783d306720b962be4249754f2fbb26376281d61701751e5e9a70ceda3a52",
+      "bytes": 10855
+    },
+    {
+      "articleId": "4c97713a-f585-52bf-acc7-f1c448f1794c",
+      "revisionId": "e8c241ea-6259-5968-8452-8d3c44853751",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0500-继承.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0500-继承.md",
+      "sha256": "4b24ed7bfcaa53665a2990dd0fd47e6db792eafc0788481123ed428ab6ea9d3e",
+      "bytes": 13887
+    },
+    {
+      "articleId": "9d33b30b-08a8-5876-ae02-9962d1a5a158",
+      "revisionId": "5fa83cde-2972-5ecc-82fa-7016a7d63d60",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-0600-多态.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-0600-多态.md",
+      "sha256": "ae7128bc7cad742f14e91abf74afe10626b60d4c2474a7a3eb9b33bd8ea99866",
+      "bytes": 13028
+    },
+    {
+      "articleId": "98519ce0-c69a-5856-9ae4-209b90d096d1",
+      "revisionId": "0e397e62-0b60-545e-8466-6f3018226f8b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1400-类和对象.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1400-类和对象.md",
+      "sha256": "d6c45e49f394a0c9626e11a112aa7132cf8fa8b94f813e674b9ebeb6d844213f",
+      "bytes": 260
+    },
+    {
+      "articleId": "ea583730-8e90-5f43-97f1-10b9c30485f6",
+      "revisionId": "69ecf0ad-2cca-54b8-a33d-a5fbb49fef8b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1500-文件操作.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1500-文件操作.md",
+      "sha256": "66169c7da69c6499a32379cdb5f2daee1bc80ca09c4637c692485c66290a34a2",
+      "bytes": 5679
+    },
+    {
+      "articleId": "10600123-ce60-566e-94f0-fa9dff8f89ac",
+      "revisionId": "fceed1bd-ba42-5184-9f7a-3413f67be5b8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1600-异常处理与错误码.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1600-异常处理与错误码.md",
+      "sha256": "3eaf69438be5dab4dac123bbefe911b1854c31591c0d6fe958aa25a205b2944c",
+      "bytes": 20502
+    },
+    {
+      "articleId": "c40dfc84-2c5e-54da-9e43-15466a8ee780",
+      "revisionId": "e513a0e4-fe95-594d-a21b-47465b02f8ad",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1700-模板.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1700-模板.md",
+      "sha256": "448f13a388b8f3ca8f4edcfd6f9816f0fd5fa3c8fd5a9a84ce7f01cb5e2d1797",
+      "bytes": 26604
+    },
+    {
+      "articleId": "b6b9b429-3991-5d19-bcce-a6e9714ebc3b",
+      "revisionId": "e576b14c-7b1a-59de-bf6a-988827b27ca8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0100-STL初识.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0100-STL初识.md",
+      "sha256": "58617aed4703a286f83137e47fa89291c33f240491df0a5f3c1d7be7e2707c64",
+      "bytes": 7715
+    },
+    {
+      "articleId": "a924f1de-38f7-5076-a999-a28f754f2ac9",
+      "revisionId": "6f939357-405a-5d39-a3b9-3d2b291f18d1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0200-std-array.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0200-std-array.md",
+      "sha256": "b73c28c28e0bd36261dc954f079d956325283dbec4e63edf0ad9e0cb7f5f8627",
+      "bytes": 8186
+    },
+    {
+      "articleId": "b8a35247-a266-5d1a-9bd0-67c77f33b662",
+      "revisionId": "2c0260b9-e0f7-51e5-8da1-ca06261cedea",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0300-string容器.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0300-string容器.md",
+      "sha256": "36d7bbcf95eea67b3da6323b7e7ded112b6068782be1d463ca234c75bbc65584",
+      "bytes": 10419
+    },
+    {
+      "articleId": "752a207d-b236-5b06-844a-d0e8d7b91ca2",
+      "revisionId": "23f54b71-47e8-50d2-8a90-5ecaa607269d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0400-vector与deque容器.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0400-vector与deque容器.md",
+      "sha256": "da2e09191cdecc644ca760636f7dd15c6e3934c948de81e36aa7d3c8a7b0056b",
+      "bytes": 22096
+    },
+    {
+      "articleId": "afcdee52-e633-5f47-bd14-94a361ccb262",
+      "revisionId": "2f0a2518-734d-53f5-b964-b7d4c74abab2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0500-stack-queue-list容器.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0500-stack-queue-list容器.md",
+      "sha256": "8adf8289e6cbd2485c3aaf9015c6251d276d68c49211b9e3d190b673a570c9d6",
+      "bytes": 16651
+    },
+    {
+      "articleId": "a89d7067-5b94-53cf-9fe4-9c45a9696ad9",
+      "revisionId": "a16a3f5b-1eb7-5561-9d1c-8262c1247d29",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0600-set-map容器.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0600-set-map容器.md",
+      "sha256": "b46bdf61fffc0e7fd7c7e3071baa0539a3d3dbaff78d51f8cc4f553b45d2de03",
+      "bytes": 19534
+    },
+    {
+      "articleId": "f742c12e-9a9e-572b-9d12-e984bb143a82",
+      "revisionId": "4aee34ed-d0df-53ed-aa52-c6411156f196",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0700-函数对象与谓词.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0700-函数对象与谓词.md",
+      "sha256": "affd0a6b9fc6057ef43504038074bfdcbb34848781fdec167743296502d61b56",
+      "bytes": 7602
+    },
+    {
+      "articleId": "a7b8c846-17fc-561f-9e5d-907d2d2462ae",
+      "revisionId": "68a0b7ca-8c19-50e7-a914-50a16a619c54",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-0800-常用算法.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-0800-常用算法.md",
+      "sha256": "e4ec5e705414c2921e0f4f6aa51d33021bc8d0a5047e1b56fced41a353747dc3",
+      "bytes": 28928
+    },
+    {
+      "articleId": "8a799769-1884-57b9-8ad8-1bfaa941aa9f",
+      "revisionId": "1b80d007-cc93-5375-b4ba-caacb415d6fe",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1800-STL提高编程.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1800-STL提高编程.md",
+      "sha256": "f6bfe7b8fa1d56c2fb5fb09a9b209a378cb601e6881df20465f36c6c1d39c7c4",
+      "bytes": 879
+    },
+    {
+      "articleId": "ad859441-24d2-5e66-9359-d4cf33eaa3d5",
+      "revisionId": "40fb416c-f6df-52a1-89e4-7e3de232b219",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/1900-C++类型转换.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/1900-C++类型转换.md",
+      "sha256": "48fbb46d716466a665832bc9f28de7cf0f4438b73172691a773550f07b9bd1d5",
+      "bytes": 8735
+    },
+    {
+      "articleId": "59b9b4fd-67de-583a-abe8-f42e44350f6d",
+      "revisionId": "ffe1c4e5-5a98-5b05-9ee4-ec6c7118059e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0100-auto.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0100-auto.md",
+      "sha256": "fb89285c1bbb318285091e27f0ddb409adef29786aa1625a81006f88f4f48b35",
+      "bytes": 9770
+    },
+    {
+      "articleId": "41b5286f-d236-512e-b468-33f5bd3aaee1",
+      "revisionId": "a24e187c-0b56-5e2c-90c8-a1e30b4aa463",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0200-nullptr.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0200-nullptr.md",
+      "sha256": "225bfa74db49a00fde457729c93c884f69d27db59136b4a708d6c2a776f7dc5b",
+      "bytes": 7771
+    },
+    {
+      "articleId": "fc2ca1e3-53f0-5a10-8936-573ec8bda527",
+      "revisionId": "08b008fb-bf9f-5d9a-8972-e6a280f0e176",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0300-using.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0300-using.md",
+      "sha256": "c7685aeb1ad8fb066ec66083a13e25a9538fd6fdc78697d8f81888f3f8a6834c",
+      "bytes": 8233
+    },
+    {
+      "articleId": "577a8386-9b39-567b-aee7-1137563c4131",
+      "revisionId": "bdbcc91a-1ac8-5075-94e1-b337c8de6736",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0400-enum-class.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0400-enum-class.md",
+      "sha256": "2a1c359762d868d5a210d1d25ee5902d48f3ddf545880f0f61a85da0ba7b5f41",
+      "bytes": 7859
+    },
+    {
+      "articleId": "6fc6d39b-bd15-523a-b50c-a9bf54eadcfa",
+      "revisionId": "b2e81469-462d-5d3f-bafc-693c41325810",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0500-范围for循环.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0500-范围for循环.md",
+      "sha256": "03a74a553cd568e449564687a9aa0e3023a4cc4d70774a093dac98b2a55b7e59",
+      "bytes": 8605
+    },
+    {
+      "articleId": "39308aed-c061-587d-8a39-28eb86e126c8",
+      "revisionId": "3e216701-94bb-5e67-bc83-10fe70d35a93",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0600-结构化绑定.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0600-结构化绑定.md",
+      "sha256": "d4bc3266c16587e00458613c0bf3c5aaca97df4726790289ce4a124953c5ea3e",
+      "bytes": 8184
+    },
+    {
+      "articleId": "11990f77-743a-5b3d-bbfc-39b5ff357c11",
+      "revisionId": "f88233b3-a9f4-536d-a70f-31989199bfdb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0700-constexpr.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0700-constexpr.md",
+      "sha256": "65408465971c02c2c7ef1b9b7c59c1b84874e9e7a9993e42b61c7dc0429532de",
+      "bytes": 9853
+    },
+    {
+      "articleId": "1811effd-36ce-51f1-8977-22ce4cb5d798",
+      "revisionId": "2fde9d9a-9e86-5d2b-bb24-09203c732067",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0800-RAII.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0800-RAII.md",
+      "sha256": "3fabac79dc0b614e44a88e74ea8b3144e5bdb9956655c5a413326bb60d77b994",
+      "bytes": 9328
+    },
+    {
+      "articleId": "984abb55-9efa-5a0b-871b-261fa67be406",
+      "revisionId": "4c51a20e-f6d8-5a09-b0b1-b2cd81e7266e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-0900-智能指针.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-0900-智能指针.md",
+      "sha256": "1f3d849b6e38c2611716fc6bbedb59f56a16cce97245e694ee5156c82d265654",
+      "bytes": 11034
+    },
+    {
+      "articleId": "9f99e9d3-b483-509d-908b-267ac4d38f7a",
+      "revisionId": "d9e3f14b-fafc-5f75-baea-bf54f6b1bd5e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1000-右值引用和移动语义.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1000-右值引用和移动语义.md",
+      "sha256": "ac7c1c89db36e3f3501ba91f2bf8ab9c1d53bbdccbf258ff4d3a04f9b68f727e",
+      "bytes": 9796
+    },
+    {
+      "articleId": "6b3d3baf-6516-530b-ba3e-31f3f31db56c",
+      "revisionId": "09be6f27-ad0f-581a-9ee9-9cb7d18b5ab6",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1100-Lambda表达式.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1100-Lambda表达式.md",
+      "sha256": "7192ddc5208baa7b3d8e1e0800241ddf801165a8c1abcb457b145b926a2a1f04",
+      "bytes": 10683
+    },
+    {
+      "articleId": "15ebf10a-6177-5b34-9a8f-61b1b11b2668",
+      "revisionId": "759f02aa-222d-5850-b19b-303f80d99cb8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1200-std-function.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1200-std-function.md",
+      "sha256": "cb3290c9d4de4d2cc4092d43b7e6917b4beef95bb33250405c53a3143a04f7cd",
+      "bytes": 9185
+    },
+    {
+      "articleId": "bcabba43-dc9a-5451-be98-95d47ae79c3d",
+      "revisionId": "28a0ce61-231c-5834-9343-64636afebae9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1300-std-bind.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1300-std-bind.md",
+      "sha256": "3fdd581b13c730157d4978dc4ce7a109ccbe6c8ad036cc2b92584601e10bae5e",
+      "bytes": 8315
+    },
+    {
+      "articleId": "ebf6a6e6-8fa1-5e82-98d6-ca612743dedf",
+      "revisionId": "2a698567-56d8-566d-915c-28fd635f1748",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1400-std-optional.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1400-std-optional.md",
+      "sha256": "b5f8c7f8952d67edb7dce0a7fa0a294c9acf2d62ff232a774736ae04adbfc7dc",
+      "bytes": 9279
+    },
+    {
+      "articleId": "253e20b2-f635-5ae3-8aa1-7302f7003577",
+      "revisionId": "a1dfeea1-0ace-554e-ab3a-04d5e8c896cb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1500-std-variant.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1500-std-variant.md",
+      "sha256": "6af6e68de11788df701a332c73f93c8e2f4fa78321ab3a6a72e797aad4c4ba12",
+      "bytes": 10286
+    },
+    {
+      "articleId": "65d43592-267e-5d8c-b75d-b3b8309b769a",
+      "revisionId": "e0ee8767-25f2-598b-83bc-69dee953d325",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1600-std-span.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1600-std-span.md",
+      "sha256": "90423f5afd531e75339b7de51b894c4d3c56187551326cadc17d8f7a5d816342",
+      "bytes": 8271
+    },
+    {
+      "articleId": "7960b879-27ad-580b-b4cd-088400451a74",
+      "revisionId": "ecac5475-1678-5e4e-9022-e2e3c0936f13",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
+      "sha256": "588e9e4630dea9d16fd8412490c0dcc5aab90857211c45532b4a5c3779478cd0",
+      "bytes": 7907
+    },
+    {
+      "articleId": "cc29835e-d658-55d3-ada9-ed4e7e680fa1",
+      "revisionId": "f88a1c0f-77e4-5957-8e10-6c117900921e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1800-std-chrono.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1800-std-chrono.md",
+      "sha256": "029381bf25a053732ca1eb85a37d349c7647b8cb7ef93edd337028c8b9974dcd",
+      "bytes": 10163
+    },
+    {
+      "articleId": "26497e71-83d3-5f0d-9235-5e32470dbe71",
+      "revisionId": "aad02cce-2892-5763-9469-2a1488b7e255",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1900-0100-std-thread.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0100-std-thread.md",
+      "sha256": "2961dcba930ddaaba1ea6f7458f13639af555765a4f5cbdd145862d2408abcd6",
+      "bytes": 4426
+    },
+    {
+      "articleId": "57379738-4d0e-5ff3-a96c-153463d2a6e3",
+      "revisionId": "1d1ffbd5-1765-55c8-aa59-1112357d5ea5",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1900-0200-mutex-lock-guard.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0200-mutex-lock-guard.md",
+      "sha256": "010efe5d645cded400a50e88237a439abc57a0cdf1a5eb90a6b606c50b69f533",
+      "bytes": 3855
+    },
+    {
+      "articleId": "fdd4a9c8-b706-5dc0-81d3-83d50b58abe5",
+      "revisionId": "ccf57f1e-82c3-5850-9072-97b2158ec380",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1900-0300-std-atomic.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0300-std-atomic.md",
+      "sha256": "848eab2439ef790b3b4dae48d60c380e917b637f5adee32a6ac2be9046f9f6ac",
+      "bytes": 3349
+    },
+    {
+      "articleId": "a1ed77a6-b5a5-56a5-8b6b-e7b7bb0c9d44",
+      "revisionId": "cb2d78f0-2ce6-5a22-bb47-c90c955a3499",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1900-0400-condition-variable.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-0400-condition-variable.md",
+      "sha256": "a7b11132941b85b35e693fcba2d24035f10270c2943acbf9f3490e1c9b17516a",
+      "bytes": 4339
+    },
+    {
+      "articleId": "b588121a-5bab-5772-9f66-fd0895dfbdd0",
+      "revisionId": "2ff18975-f49e-5422-a451-97d1ee01a009",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-1900-并发编程.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-1900-并发编程.md",
+      "sha256": "b1a1df92cd29a407bca377a7475ae299111929af09b1381f2190d578db60252e",
+      "bytes": 3380
+    },
+    {
+      "articleId": "d49c8e13-6eb5-52f3-b0f5-3b1131a2d0c1",
+      "revisionId": "10b1fd1b-eb7f-55b3-980d-59ad3f5d6729",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
+      "sha256": "faf307784fdb94b99d4f7e3c2b85c6051f36ef975aac82cd1128bbdbbb3d0dff",
+      "bytes": 10815
+    },
+    {
+      "articleId": "f2961246-33e5-5a2e-9683-ce26c9d2ade0",
+      "revisionId": "01f24d8b-2df4-5de3-b389-a076f66499ac",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-2100-modules简介.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-2100-modules简介.md",
+      "sha256": "136bd167644baeb291c4778eedea633c4bc8adf9199c671081777679b27a514a",
+      "bytes": 8459
+    },
+    {
+      "articleId": "c4b69756-e9c9-5bd0-9975-42058e00a8c1",
+      "revisionId": "a68316cc-55f4-5af2-b2bb-eacbe989fb5c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2000-现代C++.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2000-现代C++.md",
+      "sha256": "d1b5b3a92e2341292310966e4a296e99bb5ad1aa519eede4c24c60ebb1033e6d",
+      "bytes": 7137
+    },
+    {
+      "articleId": "e71788de-afde-5566-9b26-a6e0f604c94a",
+      "revisionId": "888aa866-09a1-552b-999c-870a3bf0dc87",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0100-定时器与异步IO.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0100-定时器与异步IO.md",
+      "sha256": "c7d2eeb3670854668e7702dd28bc6fefe659e8b9fe4506d3515d105bb477187a",
+      "bytes": 28979
+    },
+    {
+      "articleId": "66f9ebd9-9aa2-5b6b-97b9-e521349fba89",
+      "revisionId": "84b0e9b5-5799-5d92-9320-10eb093ec6e5",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0200-Boost.Asio基础.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0200-Boost.Asio基础.md",
+      "sha256": "72eb71390b4886c35fc8bab9aaec278f588dac4308542a1573728558236b0e44",
+      "bytes": 17400
+    },
+    {
+      "articleId": "b1b09c61-a587-5708-9f52-2922fad12b6e",
+      "revisionId": "f7033340-2667-5f81-853c-ee52130009a9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0300-串口通信.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0300-串口通信.md",
+      "sha256": "90df634153524c8cab832ae82675b1f2ab3f13df72a941902f151c7256aa4a34",
+      "bytes": 22110
+    },
+    {
+      "articleId": "a5980e3f-825c-5ce8-ad1d-6bfe028bfe57",
+      "revisionId": "4f691ddd-7204-54d2-8c22-d14403a73238",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0400-TCP通信.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0400-TCP通信.md",
+      "sha256": "7d16a4685e960949ea06ca16b24840a456a58d771fdb348214ba3fe09cc2f832",
+      "bytes": 18319
+    },
+    {
+      "articleId": "5d1c2014-a637-5b3d-bace-cd3459f1ffe5",
+      "revisionId": "1b51b645-98e7-5c49-9b74-7629aa7bccb4",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0500-UDP通信.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0500-UDP通信.md",
+      "sha256": "35160d12bce8d4e5eca7c1cd2603b7ca8693a550510e47552c63d3e5353348ab",
+      "bytes": 18334
+    },
+    {
+      "articleId": "e5b2f5a1-7d58-58b6-945e-951e7bd04a0e",
+      "revisionId": "23787fe3-427a-5f0c-858b-79e5786efe64",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-0600-机器人工程写法与ROS2集成.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0600-机器人工程写法与ROS2集成.md",
+      "sha256": "f5679aef9870754423c759d5f1942652ec313091e704ecb5bbc0df4b358c9f61",
+      "bytes": 17478
+    },
+    {
+      "articleId": "263a3d44-998e-578f-b906-c3887638bb82",
+      "revisionId": "262d491f-1eab-5ba0-8491-a621c5c0b842",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0100-Boost.Asio异步IO库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-Boost.Asio异步IO库.md",
+      "sha256": "787d42775969adcdb499a26f3193a86462246c0a565525c93dba69a78a152643",
+      "bytes": 5569
+    },
+    {
+      "articleId": "c47f83b8-154a-59a4-a0d6-cebd5e62884e",
+      "revisionId": "8a6b8928-8c41-5ae3-9fdf-7acc4c8282cb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0200-Eigen线性代数库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0200-Eigen线性代数库.md",
+      "sha256": "aaed223ad17cf72671f36b7756376375c3fb68527db8f4c216bd9887bd86a161",
+      "bytes": 82
+    },
+    {
+      "articleId": "f4163f53-3b8b-5286-9a7c-bb67ce41c712",
+      "revisionId": "c16f7b88-dacc-5391-b3c3-1820532d24f0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0300-OpenCV计算机视觉库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0300-OpenCV计算机视觉库.md",
+      "sha256": "c5f07d380e51a25274032d6833add0a12459089c92a294736bef3b9977862b98",
+      "bytes": 86
+    },
+    {
+      "articleId": "40f9200c-8ee3-524a-8e3c-d288a312f463",
+      "revisionId": "2b8c3dd3-0ed2-5a60-b047-6f9967be36eb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0400-PCL点云库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0400-PCL点云库.md",
+      "sha256": "c8202ee73490c64dd1e9d30b29977af2c29d6729eb6f92b9a0bf417ac67cd6ee",
+      "bytes": 74
+    },
+    {
+      "articleId": "cb2647e3-d3f7-5e93-86df-a5aa04bacfab",
+      "revisionId": "b19a696f-aa33-56aa-ad8d-870d74d80471",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-0500-Sophus李群李代数库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-0500-Sophus李群李代数库.md",
+      "sha256": "dc0b60c999494150ad2697166600f457c02c357fd9eecc5e50daf2d38959e6e0",
+      "bytes": 87
+    },
+    {
+      "articleId": "b7e300ca-8d5a-5510-89be-cbe8133f6c29",
+      "revisionId": "cccd3ecd-5235-5990-991a-0c33b60c8656",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2100-常用库.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2100-常用库.md",
+      "sha256": "45a8e481914cf2f46c1b7e7d8ebd6a32415191718e1859fdcf70a2d7747a25b9",
+      "bytes": 77
+    },
+    {
+      "articleId": "4bf0900c-dbd0-56c2-b66e-a3da0e0d4597",
+      "revisionId": "4c9d8f61-ecb3-5b32-a3c5-9f241e2507b4",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
+      "sha256": "d00ddc88513530d9687bfc7cc7f0a2197464a875f64625bf8263700c307e5be4",
+      "bytes": 19500
+    },
+    {
+      "articleId": "aaa1543f-8750-5e4c-b702-4ce7aaa706a3",
+      "revisionId": "82038073-0b57-5e63-bbdd-997f04da023c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
+      "sha256": "bdc3940b4b2658e252f9d108aa45f38ca455d845f088873dd3ef168b0fb0ef38",
+      "bytes": 11633
+    },
+    {
+      "articleId": "81236dee-9688-5991-9b55-81935f6525b9",
+      "revisionId": "f937bd92-d31a-56e4-99d3-b05d91202dcb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
+      "sha256": "dc16d87c366362c87a82fdf3dbebb78b38754dffb6a24511b4cb00362203788d",
+      "bytes": 16245
+    },
+    {
+      "articleId": "39a44aa3-0333-562f-a8cc-c0f755f94148",
+      "revisionId": "3826709b-4006-5f61-a211-11038398b162",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
+      "sha256": "04a39a11864ada62db53c1bc6005c2c59e3814d56d796a240b7b3fcd0fcaa29a",
+      "bytes": 15198
+    },
+    {
+      "articleId": "e6b2276c-0678-5b55-80d0-e53a8b24b09f",
+      "revisionId": "d7b1a1a9-8a64-5011-bae2-eaa661328b4e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
+      "sha256": "d22cdcbe0b19031aae1b23586c409201b0d3f2fd9cdb7c4d22ae992a52a2d4cf",
+      "bytes": 13930
+    },
+    {
+      "articleId": "b1a33f47-0f5f-5733-bb8f-b167e5540cbf",
+      "revisionId": "886d835e-e811-5b0c-b109-52af0bd385e8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
+      "sha256": "029e48ecaa4d68c7f943d5e422f5323b849f1a431da16ee254f18b9385643972",
+      "bytes": 7503
+    },
+    {
+      "articleId": "741468cd-83bb-5196-abaa-02c76fe01af7",
+      "revisionId": "80e64515-ea7b-5f46-a32f-20d2e3895f9e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/index.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/index.md",
+      "sha256": "d2c8f8eecd78cdb50699283756357cfcfd53888bf30a3d448928c38d46c84b05",
+      "bytes": 131
+    },
+    {
+      "articleId": "3db8fffd-6b72-54ea-bcd0-b7975a56ce80",
+      "revisionId": "614640a4-3288-51ee-8c13-e37863b1f62d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-09-STM32-FreeRTOS教程/0100-前言.md",
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0100-前言.md",
+      "sha256": "bb1385e3e826babcc8ef7b1c9f419b2e455d06644af5ba9cfe3bdec185e95310",
+      "bytes": 1088
+    },
+    {
+      "articleId": "7d32dba6-4e7d-560e-ba3c-a7a3ecf72298",
+      "revisionId": "712c4450-88e1-5001-b736-5bec4c070113",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-09-STM32-FreeRTOS教程/0200-arduino库(了解即可).md",
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-arduino库(了解即可).md",
+      "sha256": "253d6eccade692af2b6d3446c989eeec7945df42e487ac48378aef622eb79b7f",
+      "bytes": 2693
+    },
+    {
+      "articleId": "2aeb0ace-8030-5678-88b8-5a4c224c602b",
+      "revisionId": "873170a6-ea73-57c7-bffd-2ef43c408936",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-09-STM32-FreeRTOS教程/0300-51单片机(了解即可).md",
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0300-51单片机(了解即可).md",
+      "sha256": "7112104a276985e0c0690657f34f22273bd3ef13192e84a50ebc41b8b385e4df",
+      "bytes": 1303
+    },
+    {
+      "articleId": "3b8c32cc-a5f2-527a-8cf5-cef76724e90c",
+      "revisionId": "c6e2eb17-904e-5ae1-a169-ea3be954b117",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
+      "sha256": "cd87972c7d2d44ec2f543254d7b7d4d1dce0c06bbd8e5f34caa6ec01966a44a6",
+      "bytes": 91512
+    },
+    {
+      "articleId": "c86ff04f-3516-5c55-9dbb-7f1990e74770",
+      "revisionId": "5e15c03e-2eed-5289-a41a-661af7bcef05",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-09-STM32-FreeRTOS教程/index.md",
+      "path": "wiki/2023-10-09-STM32-FreeRTOS教程/index.md",
+      "sha256": "dd02dc3244a6d98f635af0a8debba8f48fe3da40491a31bf68a2aaabaa0dde13",
+      "bytes": 82
+    },
+    {
+      "articleId": "65030d7a-9927-5e2e-8a25-0214ef1a3295",
+      "revisionId": "576abe9a-e4a3-57c9-8960-e170efeea00f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0100-C_C++环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0100-C_C++环境搭建.md",
+      "sha256": "9690e5d4009f2544ad068a60ffbe2bd70c5897b02d62bcb6e3439b29b5ea0df4",
+      "bytes": 202
+    },
+    {
+      "articleId": "a865ed04-cf4b-5135-94ae-5899b46d86b8",
+      "revisionId": "5d3800d3-df23-5068-a73a-e9c3a67a3ee5",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
+      "sha256": "67d075871931f6db57968c3cb6e22734622b78722d73f4a615c55a635573afcb",
+      "bytes": 8167
+    },
+    {
+      "articleId": "0b76796a-d65b-52ba-9baf-8d59b1100755",
+      "revisionId": "21cb9fb9-6bb8-5268-9263-c6a9759f4003",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0300-Linux基本配置.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0300-Linux基本配置.md",
+      "sha256": "6c177bf1e45c04d306fab5502070897b43f47db0a89ec68601724a87243f5066",
+      "bytes": 152
+    },
+    {
+      "articleId": "e9c8582e-cbb3-50e1-84c9-2f1eab46a73d",
+      "revisionId": "28b694bd-f140-5e28-bfd5-22ad97c72af0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0400-CMake工程搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0400-CMake工程搭建.md",
+      "sha256": "d23f7ea1cc4b694d7bbe42056506c26c7c865c3bafff4d97250ae350fe343864",
+      "bytes": 178
+    },
+    {
+      "articleId": "8f976ce3-ab16-592e-8911-e172c2df35a1",
+      "revisionId": "52eba863-3b30-5bc8-a138-0daf4baad1ca",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0500-OpenCV__CUDA环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0500-OpenCV__CUDA环境搭建.md",
+      "sha256": "947ec6d64657d2f2b7a52a87c5ff244fd446391b8699637ad4554c40e13e9a05",
+      "bytes": 22494
+    },
+    {
+      "articleId": "25d4f989-18b6-5eee-a6f2-a717e685de83",
+      "revisionId": "874292cf-ae75-5ac7-ab08-707c03895cc9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0600-YOLO环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0600-YOLO环境搭建.md",
+      "sha256": "be423dff8bb15050177138ece16075d7782594f6ef1563b61c7f67258968a6ae",
+      "bytes": 216
+    },
+    {
+      "articleId": "6d0dabbe-7f11-56ed-9a5a-48ae272a9eb2",
+      "revisionId": "3ce60534-fef6-5a2e-9e8e-25cfdc9f6bc1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0700-ROS环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0700-ROS环境搭建.md",
+      "sha256": "902d296de50ef3393d36316eeb24b138d2b3346088b8fb08b4f9f24e5c9a590f",
+      "bytes": 2485
+    },
+    {
+      "articleId": "fe0add30-2a73-5aec-8f0d-f454526f0574",
+      "revisionId": "657a46e2-4878-5c3e-8747-fa4c2bab9c9f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0800-QT环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0800-QT环境搭建.md",
+      "sha256": "e8b2e6c5cc24c85646d93e3ba629e60bff6d2f0fc406d436188613724b3f6d95",
+      "bytes": 3444
+    },
+    {
+      "articleId": "8f2e9845-e353-5e08-bc82-6ed9f354aa04",
+      "revisionId": "b209ab44-cc0c-5beb-9edf-f2e4b03a5ae9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/0900-Docker环境搭建.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/0900-Docker环境搭建.md",
+      "sha256": "fd24c4f027e964f575d2916ba73cdaeb8d635cde4bae07b1ab2adbb788f4b6f3",
+      "bytes": 132
+    },
+    {
+      "articleId": "dcf219ea-674a-5de4-9ef1-fef3292e949c",
+      "revisionId": "310ab58f-1937-5c4a-a3d7-fc873512fbaf",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/index.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/index.md",
+      "sha256": "6c1f3bdcdd9b30246ea70e767b386537de48209c3c5cfd46b5cd90b0145720f1",
+      "bytes": 133
+    },
+    {
+      "articleId": "6554e478-f6ac-51c6-82c6-7b89edf6a1f3",
+      "revisionId": "07cb73ad-1937-5e2d-b82b-fe04a22f5554",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/0100-Git简介.md",
+      "path": "wiki/2023-12-29-Git教学/0100-Git简介.md",
+      "sha256": "3135666250eec372c68aaff897f84170d9f76d1dcab1726d60eb2f56e5f6048b",
+      "bytes": 352
+    },
+    {
+      "articleId": "094fc63a-a198-57b8-ab46-b8d1ee45c982",
+      "revisionId": "c212afae-f5f7-501c-82a3-303d04635f8b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/0200-Git实操.md",
+      "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
+      "sha256": "01c0facbbb1dc04ff94822837baceec7788534c22b5b303aad53a8cc4d7132f0",
+      "bytes": 13851
+    },
+    {
+      "articleId": "da12911b-5792-520c-92cf-d9f812a5cabe",
+      "revisionId": "82dc58bf-f089-59a2-b26e-91b3458dd15f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/0300-高级工具.md",
+      "path": "wiki/2023-12-29-Git教学/0300-高级工具.md",
+      "sha256": "f9f23f5502fdf3a2606a050b9bde506f32d359d161bd7cd86cc8ac7dd59700c5",
+      "bytes": 2335
+    },
+    {
+      "articleId": "d8cdd79f-b768-506e-ab4d-be234700d5ba",
+      "revisionId": "e397980a-119b-51a8-ade7-0c180e68c6ea",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/0400-常见问题.md",
+      "path": "wiki/2023-12-29-Git教学/0400-常见问题.md",
+      "sha256": "6401a1efe72af1572f59a7338ff9f074f8c0417e05070374bb14f27d7cd31469",
+      "bytes": 477
+    },
+    {
+      "articleId": "36fccf7b-42be-5d14-bb6a-a049e4b88969",
+      "revisionId": "f854e113-8866-5b90-8153-571521c68676",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/index.md",
+      "path": "wiki/2023-12-29-Git教学/index.md",
+      "sha256": "3b3e72e03ffd26648284122d277d3c995bf50ba3f5be4ed1ec475ee4cb514c0a",
+      "bytes": 115
+    },
+    {
+      "articleId": "f877be3f-7e33-55e6-9751-87c817b17d99",
+      "revisionId": "0962a304-2078-5b2a-b1f2-17b2b342bb07",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
+      "sha256": "8fdb5f7bc06e8f369ca6b490b1705b4a9302d9922d6e9b2a5347c8c2d580f8cb",
+      "bytes": 31319
+    },
+    {
+      "articleId": "294ab387-72f7-5d4e-958f-e4a921124090",
+      "revisionId": "aef775a2-a8e7-5e63-9d5b-c013d34c52b1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0200-入门操作.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0200-入门操作.md",
+      "sha256": "109f26d49aa6da16af47b541deebbf05201f8a6c983d8d0ed5e97818291d54ed",
+      "bytes": 25819
+    },
+    {
+      "articleId": "fb526900-af4d-524f-b393-fd8fefde6cad",
+      "revisionId": "b073f6b8-4b69-50a4-b304-cfd248b4b4ec",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0300-工作空间与功能包.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0300-工作空间与功能包.md",
+      "sha256": "e3970d5257a8c99d4e7f90c99afdee8919b5e88c9a954ead5a5153a8323cdbde",
+      "bytes": 17402
+    },
+    {
+      "articleId": "e844667d-ab7a-5058-bcdc-da4baa73aa0d",
+      "revisionId": "4948989a-9ffd-50ab-bd70-9bba22b02af7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0400-四大通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0400-四大通信.md",
+      "sha256": "4bbaf0227e8547fccd07e6dbf5b5c0c6c37313e7977ee18f5fd9d62846640a92",
+      "bytes": 92966
+    },
+    {
+      "articleId": "1db96633-7014-566a-9626-97b047480155",
+      "revisionId": "941d2c87-0964-56ce-ae8a-ee8bbc683800",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0500-ROS2其他通信机制.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0500-ROS2其他通信机制.md",
+      "sha256": "d02aae7a83b575f4c143f77a81839bf4ac176fa3405555cda32aa894e7dae3c6",
+      "bytes": 39107
+    },
+    {
+      "articleId": "d255debf-46d9-5036-8e8f-358980c7e084",
+      "revisionId": "aac227cc-2ba6-5c0e-a8d1-c84f085e9748",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0600-Launch.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0600-Launch.md",
+      "sha256": "b4460e276aedaf6544f2a01d1b33921d78abb586a307906d2d5d8107d1a0cb3c",
+      "bytes": 27326
+    },
+    {
+      "articleId": "f491edda-1fd1-5c28-bf62-f386c9ecda43",
+      "revisionId": "36638160-623c-5b6c-992e-be0d031d9c45",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
+      "sha256": "0f8bde3107bea378e26eed01f186a86a9e1c39ef45c197e82c7c61d26dc97312",
+      "bytes": 10409
+    },
+    {
+      "articleId": "c6eaa0af-2b3d-5247-8734-91e497a87632",
+      "revisionId": "508be1ec-4e83-510a-8d68-8168323a630c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0800-坐标变换TF.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0800-坐标变换TF.md",
+      "sha256": "9d0a2483fbb4263317215749a0c6bca7cae0fa242977946da91feea3e2be675b",
+      "bytes": 45486
+    },
+    {
+      "articleId": "396c8284-89e7-56a5-85a7-27ff5a5aba6d",
+      "revisionId": "ce3fbdaa-5756-5b3d-bbba-fcd7dc2fc9b1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/0900-可视化平台RVIZ2与URDF建模语言.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/0900-可视化平台RVIZ2与URDF建模语言.md",
+      "sha256": "b7221984c9092604829dbbf96623712e5e4847626ec1044e256d9e2299566b77",
+      "bytes": 92584
+    },
+    {
+      "articleId": "8c27bb2a-cd8b-57c3-b961-14b2fac3a26f",
+      "revisionId": "c76c8211-6a14-5117-be2f-04d74e3ba532",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1000-Stage_Ros2仿真平台.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1000-Stage_Ros2仿真平台.md",
+      "sha256": "e60ba96db2dd713ccab5c7aef556bf84129c1127b63ccdc05a14bee9a218f241",
+      "bytes": 24853
+    },
+    {
+      "articleId": "182547a3-9f52-53e3-bb95-439e4e62314e",
+      "revisionId": "c475854a-4fb0-503e-9df8-52acc26d45ac",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1100-0100-GazeboClassic.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0100-GazeboClassic.md",
+      "sha256": "3da1a3a58a62f085114f48df26c1a601ad21e26ef4690b1f2d9386ebd48a96ab",
+      "bytes": 69952
+    },
+    {
+      "articleId": "48053273-7678-5c41-9791-63325adc0d1a",
+      "revisionId": "8de26cc9-c6a0-52b1-85cb-53d34b6e91f3",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1100-0200-IgnitionGazebo.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0200-IgnitionGazebo.md",
+      "sha256": "e87fd66c55a20f069542cae031a353c89e5a0cf4b329177fbc808a6fd66f65fc",
+      "bytes": 73702
+    },
+    {
+      "articleId": "6dcba45c-97a1-565a-9fbc-67f8e94bd4f6",
+      "revisionId": "de224a73-2b74-5bb4-bc49-72a0ce67323a",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1100-0300-GazeboSim.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0300-GazeboSim.md",
+      "sha256": "719274c300643fcb9e8f7339dd850dce6f4c142717ea5aa7090df2604395cd49",
+      "bytes": 83448
+    },
+    {
+      "articleId": "42a82b70-7a55-57d7-8d36-91d9fb929578",
+      "revisionId": "69fbade9-6279-5f70-8de7-5bdcb8498cab",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1100-0400-Igngz2gzsim.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-0400-Igngz2gzsim.md",
+      "sha256": "f9574eb1dcb74664fde35361a7e6445fe5486174a01473c292d9cf76689f46ac",
+      "bytes": 13770
+    },
+    {
+      "articleId": "31d41f4b-e158-5621-81aa-1022f4bc324b",
+      "revisionId": "cad05cbe-b968-5431-a505-8bf8a7957b5d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1100-Gezebo仿真平台.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1100-Gezebo仿真平台.md",
+      "sha256": "9c74dc8be0285e136a36349354b4101f7bb07b852b7e194662d7c7f397d79fee",
+      "bytes": 4671
+    },
+    {
+      "articleId": "c1b9f2bb-23d1-5e36-b000-7b3a964b9b81",
+      "revisionId": "0356681f-9621-5ebf-a868-7015ad33a46e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1200-0100-Humble版本.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0100-Humble版本.md",
+      "sha256": "12b44c7b782d34961a5471f51a078c73bd3cdb721f0c7f94e3370874d79c6add",
+      "bytes": 122817
+    },
+    {
+      "articleId": "f6e58f2a-2432-5726-9872-6b8450d5c892",
+      "revisionId": "5bfc9d69-f96f-55a5-998d-2ab718e0d4d7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1200-0200-Jazzy版本.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0200-Jazzy版本.md",
+      "sha256": "ed9f76fd7b7c89474d53c9c5c3fd0684799cfcf79c8274a27c10f4e31c3d34ad",
+      "bytes": 124510
+    },
+    {
+      "articleId": "d200feb0-86f6-5294-8975-155849f55fe7",
+      "revisionId": "103bec86-ed04-55fb-84df-216c7ec95287",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1200-0300-Humble2Jazzy.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-0300-Humble2Jazzy.md",
+      "sha256": "7d9e1e0506476d9a7232f8c63553dac9932a2e79b4b7b0e3de2361740814f2d3",
+      "bytes": 3810
+    },
+    {
+      "articleId": "a3d222e3-4415-534e-b7e9-6e151b40ad53",
+      "revisionId": "2683d5af-505c-5fbe-abb7-167d6dab7e66",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1200-机器人导航Navigation2(仿真篇).md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1200-机器人导航Navigation2(仿真篇).md",
+      "sha256": "c777a1feaa4d00f3693403068f472cba9ffc65cba22873db335cb4adeb35a919",
+      "bytes": 159
+    },
+    {
+      "articleId": "39ced271-a9e9-5121-8c34-0f7b231e3a0b",
+      "revisionId": "eed1819c-297c-5d84-b0f5-bbe2c189ce4f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0100-0100-Boost.Aiso.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-0100-Boost.Aiso.md",
+      "sha256": "f40714ed1581d27da142596e5400a7c94c47dd5209045ba128d33a3736b66927",
+      "bytes": 175
+    },
+    {
+      "articleId": "6d3969db-b77e-52ad-aacd-f367e7ed1df1",
+      "revisionId": "e59c4dea-c305-5340-ad6c-1cc1537cf61e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0100-0200-ros2_serial_driver.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-0200-ros2_serial_driver.md",
+      "sha256": "e2e99ddfd821e229e77159aaacde8c53487b8c125b8a9bbc93be8b6879a8a026",
+      "bytes": 19671
+    },
+    {
+      "articleId": "a4a1f2ab-136b-54f1-adac-dff764e8c2e9",
+      "revisionId": "88057cc8-d68f-58ee-bb38-7427dd21a58b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0100-串口通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-串口通信.md",
+      "sha256": "b9eaa9c34587d38a6c584b7b763840f6ae748331b8161ea808b2af3bb9a14000",
+      "bytes": 4576
+    },
+    {
+      "articleId": "276b7bfa-d870-5e3e-8cad-b2e9aa881a77",
+      "revisionId": "a2b7cc20-664f-5328-b1bd-dffedc2923b9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0200-0100-socketcan.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-0100-socketcan.md",
+      "sha256": "b8a256c7bda45b2c67b9db8fd695d9d0c6f23db67836f5124a0f2c7c768eccfb",
+      "bytes": 71
+    },
+    {
+      "articleId": "27d74a12-fd9e-5e5b-9085-f43e9a638857",
+      "revisionId": "c70784b2-bec4-5392-bcb9-e6597418d00e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0200-0200-ros2_socketcan.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-0200-ros2_socketcan.md",
+      "sha256": "c87fa4ae361d7a7d79e6770de5fc26957871951a7269507317f92cf1b89bc780",
+      "bytes": 76
+    },
+    {
+      "articleId": "10623c0d-620a-5222-a162-06135123c548",
+      "revisionId": "06527a0c-2e9f-5dd7-99fd-bba1b71d5d8a",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0200-CAN通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0200-CAN通信.md",
+      "sha256": "8bf85693d86b7b1e9daefbfae37b645fc8715d4d39790b1e3b523dca8e886e83",
+      "bytes": 6192
+    },
+    {
+      "articleId": "60b6bdf3-fb4d-5992-a1d6-e487eefb90dd",
+      "revisionId": "959dfc40-70a6-5e73-82ba-ae3aee9706c5",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0300-0100-Boost.Aiso.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0300-0100-Boost.Aiso.md",
+      "sha256": "6f6ba1358fb4a74cefb516b54798bac8d7cdbebce8b625f4cdc4d8c4bd13991f",
+      "bytes": 166
+    },
+    {
+      "articleId": "0d02f2be-8f98-5b4e-9fd1-cf7a15710e7f",
+      "revisionId": "1cf70ef1-28b5-5976-9d11-ca5ad94d3c0d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0300-TCP通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0300-TCP通信.md",
+      "sha256": "7b29626de7a57de6d2bcddc16ce5ecbc0c7d036dfde6deaa6bcbee3eb0f0d700",
+      "bytes": 5131
+    },
+    {
+      "articleId": "393c8c79-1434-5835-b614-432441083f98",
+      "revisionId": "60758fe1-9756-51d1-8d09-fb1f79c2ff12",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0400-0100-Boost.Aiso.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0400-0100-Boost.Aiso.md",
+      "sha256": "7a182e2c8f972bcfe620d0604b96182d531516953881d76267d5edf68677e23d",
+      "bytes": 166
+    },
+    {
+      "articleId": "e1dbd198-cde3-5bff-a784-02f83c1fe5d7",
+      "revisionId": "567c8400-0d44-5fce-a5c6-d367660e336f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-0400-UDP通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-0400-UDP通信.md",
+      "sha256": "ace2ea654bede20338f1fcb48a56c6db8515c4e457626daced0c80b21af23db3",
+      "bytes": 5318
+    },
+    {
+      "articleId": "c8aa7676-67b4-533a-b23d-16f1beccdcd8",
+      "revisionId": "920c0da0-663d-5a47-aea0-6354204f0ede",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1300-Linux硬件通信.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1300-Linux硬件通信.md",
+      "sha256": "630ae2625e63877af631607c4a74f1f30a5bc98b60bc796455a431fbe6e5a883",
+      "bytes": 1592
+    },
+    {
+      "articleId": "008c7330-a216-55ac-abf6-ea903006e0af",
+      "revisionId": "4d95840a-30e0-52f8-8e6a-13ab50105ef1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0100-机器人组成.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0100-机器人组成.md",
+      "sha256": "155ba45274e782573d81cde34d4aee62977770aeae90e49ebda8857b62401b74",
+      "bytes": 2025
+    },
+    {
+      "articleId": "bc7cc4f2-629f-5e28-a1a2-fb0ed1baa809",
+      "revisionId": "21281fe1-d095-543f-a17e-0aaf1f41cfd0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0200-0100-远程开发SSH.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-0100-远程开发SSH.md",
+      "sha256": "6ea7aca5005368bc14ab8f804186485dc99f59c0107e2d4c705c8e568ef888a6",
+      "bytes": 172
+    },
+    {
+      "articleId": "c76fad05-107e-537c-b12e-a150b6ccd615",
+      "revisionId": "49d977f3-207d-58c1-8781-8588d928befa",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0200-0200-远程访问桌面.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-0200-远程访问桌面.md",
+      "sha256": "434159f2f72bceaf0c184dec5f4d829165f67589b6b9f0cbc4f4622ca0ae1369",
+      "bytes": 169
+    },
+    {
+      "articleId": "8c1abcff-6fd7-5e04-9cee-1f1b3d6aa8e7",
+      "revisionId": "476091db-f698-53d6-a8ca-c50deedc5f7d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0200-工控机之远程开发环境.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0200-工控机之远程开发环境.md",
+      "sha256": "af716c79c1cf81091a20405cbdf33240762b6fe9a02befeb37b8f21a62835611",
+      "bytes": 2513
+    },
+    {
+      "articleId": "6fcc1267-f734-5179-b637-28ebb55f9c82",
+      "revisionId": "af026c32-0ba7-5c43-8afd-38901699f744",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0300-工控机之外接USB设备.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0300-工控机之外接USB设备.md",
+      "sha256": "6e2d286261421b22ce96adde08b967896c324f5fd2d8d181b2cb4694cd40343b",
+      "bytes": 184
+    },
+    {
+      "articleId": "c65fb51e-c16f-5bb4-95bc-41c398e83ebc",
+      "revisionId": "22d7d8c1-ddfe-565f-b716-0db6627a054d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0400-分布式搭建.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0400-分布式搭建.md",
+      "sha256": "978d217b9606cb0b0aed4967a84ec2105a942b684cd2d38560167f3779ca5422",
+      "bytes": 182
+    },
+    {
+      "articleId": "cd3dda14-cff8-59a1-8bd9-98a68d53e141",
+      "revisionId": "6d0af382-223b-5ca2-ae99-beba1e0af7d5",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0500-优化日志.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0500-优化日志.md",
+      "sha256": "730535906716e27f59d1a06693f49a133d0e478d1951903d7c278c9c770fa103",
+      "bytes": 1608
+    },
+    {
+      "articleId": "05de7e9e-dd0d-5ad6-bea9-0d817fc86d22",
+      "revisionId": "14df3b1d-1e33-5088-92e5-c7a7d3802a5d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0100-里程计Odom.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0100-里程计Odom.md",
+      "sha256": "c6397efa7149c256edbf02a138562cb52eaca58236f7d28934676694ae7de071",
+      "bytes": 19641
+    },
+    {
+      "articleId": "69e46a8c-81c9-5da2-89d6-efdb2ba06613",
+      "revisionId": "c43d738f-ffb6-523d-a15c-7db88717eb85",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0200-惯性计IMU.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0200-惯性计IMU.md",
+      "sha256": "f193bb42146ef0e5b596b8a036ef1e32a5835ed81591b4353bea7d07687a465e",
+      "bytes": 16865
+    },
+    {
+      "articleId": "a2bef786-59c4-5151-b06b-f4536af9bedb",
+      "revisionId": "ebb57496-4123-516f-b096-d13dc3ab3f25",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0300-激光雷达LiDAR.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0300-激光雷达LiDAR.md",
+      "sha256": "213575974e76ea1696758810380c244e44680ea45e0a10230b231c8cd10657b3",
+      "bytes": 79
+    },
+    {
+      "articleId": "59d8dea0-bca7-5f8b-b287-5d59a88eefba",
+      "revisionId": "ebe8cca9-c9f6-5634-abe0-aed11031a8f7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0400-相机Camera.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0400-相机Camera.md",
+      "sha256": "97b43e0f11e9ab519be88695b8e886959bd7142fca5c613323688daead01f093",
+      "bytes": 74
+    },
+    {
+      "articleId": "25736d1c-9a7a-50d0-acd4-1d88761d56dd",
+      "revisionId": "f8f11c5e-8d8b-56c9-9b35-5bbc31cf5c72",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0500-全球定位GNSS.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0500-全球定位GNSS.md",
+      "sha256": "dbb8415a1f3fa0fab9fe7c84d1427e1fcc9e73192c2c69753ec60b50fcf53dda",
+      "bytes": 78
+    },
+    {
+      "articleId": "131a282c-9cc7-5d58-8bc9-1368f576287d",
+      "revisionId": "3d1f1239-5bbf-5e3f-9277-2e3a34a55d8c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
+      "sha256": "d779e765b1aecd2d528ab29181805ac977642415b1d0808aeff2ba8a94a1dd95",
+      "bytes": 71
+    },
+    {
+      "articleId": "2b49b010-77a5-5b94-a1e0-8b990660a779",
+      "revisionId": "0ef4f80c-bfde-5ecc-acf0-62c650a58653",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0700-键盘控制节点.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0700-键盘控制节点.md",
+      "sha256": "6104842d33405f0aaa4d489221616e7de0601e7c9b93462169ba2ceb8d7d82c1",
+      "bytes": 12634
+    },
+    {
+      "articleId": "d0f970c4-2ef1-5c8d-b997-cd35f4a57f1e",
+      "revisionId": "4eb22fdd-b63f-5c1c-a24e-5d6381b663c1",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0600-硬件平台.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-硬件平台.md",
+      "sha256": "a05ddc4f7fdfc255fe6668a3b4b7918cc3c41c882436d9bd089cb64aa3a442aa",
+      "bytes": 1551
+    },
+    {
+      "articleId": "e2eeeb3f-4a15-5a4d-a937-b273bf808457",
+      "revisionId": "50b4a792-b836-5df2-9e03-8abc643620f7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0700-坐标系与话题关系.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0700-坐标系与话题关系.md",
+      "sha256": "23416a5e58e9a5e59a9ab901d86f4a032fce8ab506efb13f4309e2a818efdd11",
+      "bytes": 1186
+    },
+    {
+      "articleId": "efc0a4da-1073-5077-a9b0-80905136cd34",
+      "revisionId": "a0d400ec-c168-57d5-8d0d-c6df9dbfb74b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-0100-0100-轮式里程计标定.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-0100-轮式里程计标定.md",
+      "sha256": "bbea0c7f2026983df939c53b96d36c24118b87f544c74d6528e122ee2f83912e",
+      "bytes": 6298
+    },
+    {
+      "articleId": "e8d59837-ea43-5ec7-a3e6-049fd7faf2ed",
+      "revisionId": "9cd33089-798e-5bd6-9c08-b0dd6ead1d11",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-0100-0200-轮式里程计与IMU融合.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-0200-轮式里程计与IMU融合.md",
+      "sha256": "c72cb849c8800ce248a31eb019881ca1b88ca5e4d8ebc4b306f231cf16fcdb25",
+      "bytes": 26554
+    },
+    {
+      "articleId": "00a6fea6-0363-5340-9ee5-4a419e28a8dd",
+      "revisionId": "7623af25-881e-5d42-a8b9-8ec1adb5867d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-0100-轮式里程计标定与融合.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0100-轮式里程计标定与融合.md",
+      "sha256": "c738b9ee9b6e0d5f359690a0f4a4c6cae910b3013b8e2746e60610257537d849",
+      "bytes": 1992
+    },
+    {
+      "articleId": "19afa6a9-6e74-55d9-9a88-7f750d9a1631",
+      "revisionId": "6ffcf7c5-5bb5-5e32-883b-f75121b8f3e2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-0200-激光雷达工具.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0200-激光雷达工具.md",
+      "sha256": "15bb9211ea72e76a1044f0fa366f299a99a5618c3f1e475987d5686299f4f958",
+      "bytes": 80
+    },
+    {
+      "articleId": "144ef660-807c-52b7-986e-59e907fe8a13",
+      "revisionId": "a308d713-96e1-53c1-bab1-f9917842f552",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-0300-相机使用进阶.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-0300-相机使用进阶.md",
+      "sha256": "8724f4fca1d900563a915226125df64c02e108369d64b51651117ba2a7f0a0f7",
+      "bytes": 80
+    },
+    {
+      "articleId": "1182a568-50dd-5619-a367-a2bdebc38ec6",
+      "revisionId": "43cf6b16-1f7d-5511-b2ef-24ef6ea317fd",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-0800-硬件平台进阶.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-0800-硬件平台进阶.md",
+      "sha256": "5101d43fc5d683fdda2815b87beabc237bff12ea868c224f41ba47c0354f1143",
+      "bytes": 80
+    },
+    {
+      "articleId": "eccd0629-866b-5d63-a454-225cc923fc43",
+      "revisionId": "2bea296f-c1b4-571c-bca1-03cb6fc334d9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1400-机器人硬件.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1400-机器人硬件.md",
+      "sha256": "3c970522aa378ea5be7a49e92026bb8d72e6f9bb484317a5f0983daf398bd394",
+      "bytes": 1014
+    },
+    {
+      "articleId": "bc1a21be-103d-5fb2-a56a-161d62b28521",
+      "revisionId": "03c8cd7d-7aca-59d3-b0ed-3c73d45529ec",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1500-ROS2_Control.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1500-ROS2_Control.md",
+      "sha256": "da3cf1b3049168ea09bf34d0075240190b9245175c4a9513f5c67ce86408ff98",
+      "bytes": 48722
+    },
+    {
+      "articleId": "9178e9ff-7a78-5cd1-99cc-2b2b30ee79bb",
+      "revisionId": "40b57069-8373-5099-a794-dd27913b29c4",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1600-Moveit2工业机器人机械臂.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1600-Moveit2工业机器人机械臂.md",
+      "sha256": "cd9d7b6f613dfa11729aa126c245a59d6986e7804ba50b4f30751a26560a260f",
+      "bytes": 26317
+    },
+    {
+      "articleId": "bb0f1859-1226-5525-9f60-7a5f0a835490",
+      "revisionId": "f37ab9fa-19a9-5a67-9326-57ec3d5239bc",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1700-机器人导航Navigation2(实体篇).md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1700-机器人导航Navigation2(实体篇).md",
+      "sha256": "afaf151204ac7a26907b5e8cc52f698a06288ca50fe3eb762c8114b0efa97c0b",
+      "bytes": 24588
+    },
+    {
+      "articleId": "f4af4d80-4a7a-5975-82a9-bdec0668bd1e",
+      "revisionId": "0dbca0fc-185d-53af-8042-6a990baa194c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1800-MicroROS.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1800-MicroROS.md",
+      "sha256": "5768264347c57d6930512472b5821d96b180695aac4624d9133518cb12ee3f54",
+      "bytes": 290
+    },
+    {
+      "articleId": "c2424be7-8457-5c92-a658-156985a90ccd",
+      "revisionId": "e0964e72-e393-5d9c-8874-decd339b7e09",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/1900-Webots仿真平台.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/1900-Webots仿真平台.md",
+      "sha256": "60a27e7c96411d899c2cd4326149e7c7174841e1a8f048a5005224f204fe7178",
+      "bytes": 1669
+    },
+    {
+      "articleId": "eab229cc-b49e-5b26-8adc-4e525e6e16dc",
+      "revisionId": "69f6b8b9-fdb0-5e49-8792-871938882afe",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/2000-OpenCV.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/2000-OpenCV.md",
+      "sha256": "513719ab0ff37c8c6d08a40f6a814f1ad11791fff58c53f881834ea4d4ef2fba",
+      "bytes": 3126
+    },
+    {
+      "articleId": "8664dd45-fa65-53d0-936e-cb3b418744c7",
+      "revisionId": "68d86efd-b850-5eaa-bba6-e21a4b017d9d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-30-ros2-tutorial/index.md",
+      "path": "wiki/2023-12-30-ros2-tutorial/index.md",
+      "sha256": "88b4078d90c54d20c70f5b37cc251c8d9a78ac068347c5bdb5b8e029222ddd72",
+      "bytes": 451
+    },
+    {
+      "articleId": "56804c10-d771-57de-983b-4c40543abe1d",
+      "revisionId": "9b4edb61-3a58-5d54-bb04-4483c6e3671f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0100-简介.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0100-简介.md",
+      "sha256": "d6b781ce01344ae8e4c83181348134d4920ee612783e951ef0a0d1ac7438a88d",
+      "bytes": 245
+    },
+    {
+      "articleId": "fb85d6f2-73ff-5655-a7c5-717aa3d04d26",
+      "revisionId": "38b19039-d7a8-5c04-b31d-c81f57510411",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0200-官方教程.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0200-官方教程.md",
+      "sha256": "9ef3ad3c00465215f214b5f69ea00cd1a745471dcb9b8321991363064fc4797a",
+      "bytes": 163
+    },
+    {
+      "articleId": "975086d9-e149-5a23-9487-47d62fdeda86",
+      "revisionId": "1f035fa0-fb4f-57ba-b69c-00c831dc1ad4",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0300-Linux配置MDK6环境教程.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0300-Linux配置MDK6环境教程.md",
+      "sha256": "366853765b10a9f741b8950a04c0d36b1262e321487251ee852a97aba3a867d1",
+      "bytes": 7096
+    },
+    {
+      "articleId": "270b7ef7-353a-5468-8359-bde1836439ff",
+      "revisionId": "a575f316-7980-57d3-93d8-3e84e0b5d6e2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0400-Windows配置MDK6环境教程.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0400-Windows配置MDK6环境教程.md",
+      "sha256": "68148acfe854d5c301264838a94190350865a92eaff62734b18ff8fdff06fc3d",
+      "bytes": 5013
+    },
+    {
+      "articleId": "f148e0f2-ca89-5120-9014-dc53b6030232",
+      "revisionId": "e1051c9f-941b-5d56-9cea-6817a7865bf7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0500-进阶使用教程(全平台通用).md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0500-进阶使用教程(全平台通用).md",
+      "sha256": "f2f56552ea28a54451e5a44551919ffe1d80a1d83a31bf626eceef8ae7fbe671",
+      "bytes": 10721
+    },
+    {
+      "articleId": "a0e90ecb-afb9-5974-a894-af8094d731a0",
+      "revisionId": "36f45c12-e3e5-57b0-aa3c-5665773d1679",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/0600-常见问题.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0600-常见问题.md",
+      "sha256": "34f7610ae88639f5b2f3dd991e0c5a4de7556a240df2c2e2034f04b784c7053d",
+      "bytes": 2959
+    },
+    {
+      "articleId": "1e776a85-4ec6-5462-a287-e16f707d2717",
+      "revisionId": "912fa194-aed5-5562-b28f-3424e8f8522d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-01-21-Arm-Keil-MDK6教程/index.md",
+      "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/index.md",
+      "sha256": "ff530d7f6122e3ea57acace81d9521576cb7f6038769132bc2b38720b53c2171",
+      "bytes": 375
+    },
+    {
+      "articleId": "3b85f5eb-9d49-5448-bd7e-edc3cfc06871",
+      "revisionId": "6c724020-855d-5e15-9b4e-e754ac371b8c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0100-发行版推荐.md",
+      "path": "wiki/2024-03-30-Linux教程/0100-发行版推荐.md",
+      "sha256": "ca51154d135885a2af337940dcbb545fe05722b5675f19dbc53258707b84a611",
+      "bytes": 443
+    },
+    {
+      "articleId": "5dc2f39b-721f-58fd-ba2c-fefa94c39007",
+      "revisionId": "69d1158e-9a71-5402-8915-0910d822ee93",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0200-Linux装机教程.md",
+      "path": "wiki/2024-03-30-Linux教程/0200-Linux装机教程.md",
+      "sha256": "8a0180b7e93abdd98eaf6390ee62686951cdbe5ec7e2d19155f4a1f509b32aad",
+      "bytes": 46097
+    },
+    {
+      "articleId": "5984369c-9c7f-5ce3-a142-ad1c70c45bec",
+      "revisionId": "d83c7a34-6db7-5d89-b540-0ee2d7b38644",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0300-安装必备配置.md",
+      "path": "wiki/2024-03-30-Linux教程/0300-安装必备配置.md",
+      "sha256": "463ddddf19c4749b96cbf8372bdd9e69a04eb7bd36a9b5239c3fb01241147b5c",
+      "bytes": 35504
+    },
+    {
+      "articleId": "41f470e6-fa79-55ed-9133-23a54b50b858",
+      "revisionId": "f741a3c6-44d9-5942-9b24-2689c485ea52",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0400-命令教程(长期积累).md",
+      "path": "wiki/2024-03-30-Linux教程/0400-命令教程(长期积累).md",
+      "sha256": "acec0ec2667894bd1d88088c976b6764eb470acecc76a4941b0e80aed636c244",
+      "bytes": 640
+    },
+    {
+      "articleId": "3aa6a7c8-3d68-52f6-bb60-5607c43b2e3b",
+      "revisionId": "d28d65c0-0c34-5f50-a8d0-d07b6b33adbb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0500-各种环境配置.md",
+      "path": "wiki/2024-03-30-Linux教程/0500-各种环境配置.md",
+      "sha256": "30ffb44400a96abe10826f3557b4f0b2142495f53348ace37fd9dfe32fb03083",
+      "bytes": 165
+    },
+    {
+      "articleId": "4ed3b8d8-d58f-58d7-9912-61da678abb98",
+      "revisionId": "ecc4efd0-6444-5154-be98-283df94ec03e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0600-其他可选配置.md",
+      "path": "wiki/2024-03-30-Linux教程/0600-其他可选配置.md",
+      "sha256": "bdbe1b3d39ab6d4654759895ba53af18bb669034209b79dbb9995aa95c136c5a",
+      "bytes": 26723
+    },
+    {
+      "articleId": "de38ca60-99a5-5cd7-9d8b-3d4b4472d323",
+      "revisionId": "ef268d47-9b4d-5bf6-87f2-8ff7c627a5ac",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0700-QEMU-KVM虚拟机.md",
+      "path": "wiki/2024-03-30-Linux教程/0700-QEMU-KVM虚拟机.md",
+      "sha256": "14ded0f17f915f276423e3dd1be28f2c4ff50cdf9dc2874b9bd4e11276d12263",
+      "bytes": 7353
+    },
+    {
+      "articleId": "732eeb4a-a7fd-51c7-9467-981b6d423045",
+      "revisionId": "6a75bbaa-9825-535b-8463-cb5280331c0d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0800-拓展功能.md",
+      "path": "wiki/2024-03-30-Linux教程/0800-拓展功能.md",
+      "sha256": "db6e2e9ada5c96748786351df721a854ecbcd860a5910aaf2793afdaa5f54e08",
+      "bytes": 1742
+    },
+    {
+      "articleId": "25597a8c-43e4-57f7-b54c-7eeab0b13a38",
+      "revisionId": "7b985bf7-d4f1-5aaa-bb8b-4aaa2eb89e9c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/0900-其他操作.md",
+      "path": "wiki/2024-03-30-Linux教程/0900-其他操作.md",
+      "sha256": "9251dd86c76285152d6e726a5161fd1aa6bb5bd243b465d18e15fce7b4396f91",
+      "bytes": 27261
+    },
+    {
+      "articleId": "999dd671-c92e-5161-8d5c-59005b31fd03",
+      "revisionId": "0df47d08-7705-5eb9-a0fb-4d9daaba5ebf",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-03-30-Linux教程/index.md",
+      "path": "wiki/2024-03-30-Linux教程/index.md",
+      "sha256": "6b02b5fd8630316c4252dadff268a2fce7ab6ec498f91ff9f6570643ea83b94b",
+      "bytes": 120
+    },
+    {
+      "articleId": "270044c5-bc4f-55ce-ba4f-499c51178ad7",
+      "revisionId": "36ce8527-5926-5513-b4c2-c0056d21a25f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-07-13-ROS1机器人操作系统教程/0100-ROS介绍.md",
+      "path": "wiki/2024-07-13-ROS1机器人操作系统教程/0100-ROS介绍.md",
+      "sha256": "92e7d766d8f7d40395ca2de469174d889d30a7f4af6f3e4ca12c5db7ca6289b1",
+      "bytes": 4333
+    },
+    {
+      "articleId": "984fc4eb-82ef-5ff0-a600-1659157b6af7",
+      "revisionId": "b78c6960-3a36-52e7-a660-d63cfc987121",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-07-13-ROS1机器人操作系统教程/index.md",
+      "path": "wiki/2024-07-13-ROS1机器人操作系统教程/index.md",
+      "sha256": "771b0595960e1d16cc1d1f9bee53bc4549a26eefa9d7dbc7a34b9c89ae95cb5a",
+      "bytes": 194
+    },
+    {
+      "articleId": "ccd3eaa4-c213-55ad-a53f-10e22fe809c3",
+      "revisionId": "aed50610-6877-5a7c-9942-bdc45bb8c81f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0100-简介.md",
+      "path": "wiki/2024-10-03-Docker教程/0100-简介.md",
+      "sha256": "f0117db43f9c176b20d2fb7d748bb142ad0c14dccd0309963636b8a1d23e1493",
+      "bytes": 4877
+    },
+    {
+      "articleId": "c10df388-ae9d-55e7-b210-f5680581821b",
+      "revisionId": "41c7a331-6c13-5ce8-b783-fb496fc190ad",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0200-安装Docker.md",
+      "path": "wiki/2024-10-03-Docker教程/0200-安装Docker.md",
+      "sha256": "427fe09e60e689d4059b06d28a617804335857b8b62e4a5ddc3582e6af5a996f",
+      "bytes": 5268
+    },
+    {
+      "articleId": "4f2b053b-a7e8-5a6a-b6cb-20298d96b45a",
+      "revisionId": "00920bed-084d-55f3-b7f3-2166808c0a5d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0300-Docker直通.md",
+      "path": "wiki/2024-10-03-Docker教程/0300-Docker直通.md",
+      "sha256": "b12f07a4f16f568ea9c3346c307de8c0c4bfe7b7da31c72fc5f07e8431bb7df7",
+      "bytes": 5702
+    },
+    {
+      "articleId": "eed2f8d0-ce9e-591f-b58b-e29bff04d041",
+      "revisionId": "d696a98b-1292-545a-aca9-b066a5d1b212",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0400-DockerHub换源.md",
+      "path": "wiki/2024-10-03-Docker教程/0400-DockerHub换源.md",
+      "sha256": "6eef7b6c5ca6bb59a8da4447b6cd30a98dd9fca1fdfad3e94bd2262c76bc29a6",
+      "bytes": 325
+    },
+    {
+      "articleId": "6605e10a-d824-52a2-be6a-a848864e992b",
+      "revisionId": "491efba3-0592-578b-8d67-cc77a03dfe72",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0500-docker容器里的程序的图形界面弹不出来.md",
+      "path": "wiki/2024-10-03-Docker教程/0500-docker容器里的程序的图形界面弹不出来.md",
+      "sha256": "2240be01e5ff8670d50f84fbb50f101baf7996e3814ec76d46ee0e88ecd0e608",
+      "bytes": 1027
+    },
+    {
+      "articleId": "dbf32c73-f58c-5982-b48d-6113912e1a42",
+      "revisionId": "d834a74d-035d-51b7-8f75-86f2d2f8c90d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0600-Docker命令学习.md",
+      "path": "wiki/2024-10-03-Docker教程/0600-Docker命令学习.md",
+      "sha256": "57ca16c425dcaedcdc4a7a7b4a105a2f4ea5db5f6019545bbc35e10a9fd4e913",
+      "bytes": 7567
+    },
+    {
+      "articleId": "1c561683-48d5-59c0-943b-91ff7e618b58",
+      "revisionId": "1d0c0bd6-61a0-5878-9cbc-d38a532aca66",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0700-各种Docker容器部署.md",
+      "path": "wiki/2024-10-03-Docker教程/0700-各种Docker容器部署.md",
+      "sha256": "fc776450116aa2b4fd5f39f912c7f6860c7fce83808ef24d18c9dd5fcb298e56",
+      "bytes": 4805
+    },
+    {
+      "articleId": "8b5f3aed-3bf2-5d43-91d3-b0b1a46ee231",
+      "revisionId": "06a50f93-67a8-5c83-9331-6c719088af7b",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0800-手动创建Docker镜像.md",
+      "path": "wiki/2024-10-03-Docker教程/0800-手动创建Docker镜像.md",
+      "sha256": "19d8ba55c2719ed580fa2cfb74d31f9a56dc23bc5e925649ec334cf088e039e3",
+      "bytes": 7636
+    },
+    {
+      "articleId": "433b8088-08dd-57d6-9490-71caf2077c1f",
+      "revisionId": "13d85dd8-241f-5f13-a6c3-181a025ce8f0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/0900-VScode远程开发.md",
+      "path": "wiki/2024-10-03-Docker教程/0900-VScode远程开发.md",
+      "sha256": "0192a63aa2bd86f420c48066d879ee4f132317c825760de858cb96ff3fae298a",
+      "bytes": 805
+    },
+    {
+      "articleId": "4fdcc39a-3bb8-5029-9dc7-48e213b6c439",
+      "revisionId": "3f750fa1-2af5-539e-a866-584b52482052",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/1000-0100-快速打开终端.md",
+      "path": "wiki/2024-10-03-Docker教程/1000-0100-快速打开终端.md",
+      "sha256": "2dba90becfc2640fd218ab6db08aa2f4c89396ae55bfc069ef3323fecfb7ce74",
+      "bytes": 832
+    },
+    {
+      "articleId": "4796d086-a72f-5373-bdb3-dc66fecf7b01",
+      "revisionId": "dc1cb494-74bd-5bcd-b587-2ea78f9305a0",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/1000-Docker使用优化.md",
+      "path": "wiki/2024-10-03-Docker教程/1000-Docker使用优化.md",
+      "sha256": "70058a4131034026c786d79c1157ef73c63cb3e4a818e5bd8426497e3094837b",
+      "bytes": 112
+    },
+    {
+      "articleId": "2bf4ba2b-3981-54cc-883b-e09f59e36aeb",
+      "revisionId": "485ab331-c7ac-5fe7-8842-46ef90a30f39",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2024-10-03-Docker教程/index.md",
+      "path": "wiki/2024-10-03-Docker教程/index.md",
+      "sha256": "b1b66982626a8e01a3df4b9e119ec5c810988385e3b30c885d3a3d67e698e2b1",
+      "bytes": 74
+    },
+    {
+      "articleId": "1363cf95-3081-5a7f-b82d-f892138070be",
+      "revisionId": "8fd31c44-1772-5e28-9be7-5ffd062d46e9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-01-Nuxt.js网站框架/0100-简介.md",
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",
+      "sha256": "7f8869ab6f2501b495239c907e868f5bc5e22a4271b1eea0a7b2e34610e9e898",
+      "bytes": 75
+    },
+    {
+      "articleId": "e6fe2846-585d-51dd-b70d-e1520db6192a",
+      "revisionId": "b4efbc21-5307-5400-bde9-94230bf3b918",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-01-Nuxt.js网站框架/0200-部署方案.md",
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0200-部署方案.md",
+      "sha256": "b8b027224a36e0e6112014442d2cad9fe39eb320ca84a30738d8a85d3eced452",
+      "bytes": 9616
+    },
+    {
+      "articleId": "07ecf8c0-bbf2-5cdb-8549-4fa7cafe2b33",
+      "revisionId": "7df9517a-f3b7-5ee6-87b4-0760d7453bb8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-01-Nuxt.js网站框架/index.md",
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/index.md",
+      "sha256": "9fb07975e5decc58982a6436f3dc561f9ccee15ef768734432282bf1015cf818",
+      "bytes": 924
+    },
+    {
+      "articleId": "d793da75-18a6-53e9-8376-397d6b31271b",
+      "revisionId": "28249b8e-916c-53c5-bd2b-492a58f2e480",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-18-Linux-STM32-CMake-VScode环境搭建/0100-简介.md",
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0100-简介.md",
+      "sha256": "294d6889f4da568cfd652f580b28f15a7b294c8f6c71a2e0bcbab9ddbeee222c",
+      "bytes": 566
+    },
+    {
+      "articleId": "94f351e4-ee9d-5e3f-a82c-0883b10ac776",
+      "revisionId": "e6f810ca-3c6f-5923-90c5-6a4dbf5be194",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-18-Linux-STM32-CMake-VScode环境搭建/0200-Linux.md",
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0200-Linux.md",
+      "sha256": "d715fc82cfa1332f765332de748041a56edf64696b627d6f7a8a6a701bac0e0d",
+      "bytes": 32665
+    },
+    {
+      "articleId": "f7963c37-caeb-51c6-a8fc-26ec88a30935",
+      "revisionId": "919cf892-2966-5a4c-bcf1-101ae0e83995",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-18-Linux-STM32-CMake-VScode环境搭建/0300-Windows.md",
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0300-Windows.md",
+      "sha256": "ee6d1ec752157076216f6181081380a9fa0343a6655d2c5b07ed9c88ffde7e8d",
+      "bytes": 223
+    },
+    {
+      "articleId": "0d890576-2762-5969-a202-b47b01a73cc6",
+      "revisionId": "971f105b-79c2-5151-bad0-b6f00f4c08e9",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-18-Linux-STM32-CMake-VScode环境搭建/index.md",
+      "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/index.md",
+      "sha256": "339e9d81034fb26da270f60fc43a5755244aeec664d506895ba141ca2de9b8c4",
+      "bytes": 878
+    },
+    {
+      "articleId": "83a1c5f0-e831-521d-95a4-24081017c36d",
+      "revisionId": "edea0db1-1853-5d94-8d04-4fd76f756430",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-12-25-MarkDown教程/0100-简介.md",
+      "path": "wiki/2025-12-25-MarkDown教程/0100-简介.md",
+      "sha256": "f6d3e180b950fdc7bd17bfac29fa3caea25f834f4f2389e5d90db7e0099b3b0b",
+      "bytes": 68
+    },
+    {
+      "articleId": "d362e85c-c21c-5cfd-9488-9bc2aa426dc3",
+      "revisionId": "ba52f514-3972-520c-ab30-d7fc507965ac",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-12-25-MarkDown教程/0200-环境搭建.md",
+      "path": "wiki/2025-12-25-MarkDown教程/0200-环境搭建.md",
+      "sha256": "54070870d52c557426a4fa52f5e840ca41516ddc8d6053fac82c683d5b9c6f5d",
+      "bytes": 920
+    },
+    {
+      "articleId": "14958299-731b-5001-b907-0361dadba2e5",
+      "revisionId": "3f0aea79-3e79-5d0a-925e-ac45ee507b98",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-12-25-MarkDown教程/0300-教学.md",
+      "path": "wiki/2025-12-25-MarkDown教程/0300-教学.md",
+      "sha256": "bd257c39964552d53fbc3bacc58c29ed8675d81c56b34b6b9d824c736d4ff28a",
+      "bytes": 217
+    },
+    {
+      "articleId": "1443f91e-2e9c-5b40-879d-5978108b2ed1",
+      "revisionId": "00cfd540-e5fb-5ba7-b1d0-bf049f4b5bce",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-12-25-MarkDown教程/index.md",
+      "path": "wiki/2025-12-25-MarkDown教程/index.md",
+      "sha256": "df786d23bd619f59b5e4c0985376b23fd5776d0dd33b8a0f2cd208470f2737e2",
+      "bytes": 76
+    },
+    {
+      "articleId": "52f211e2-01e6-55d3-83cf-473eaf4f5178",
+      "revisionId": "f8d36040-3751-5dc9-918a-10065b3ddf81",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-01-07-ESP32教程/0100-简介.md",
+      "path": "wiki/2026-01-07-ESP32教程/0100-简介.md",
+      "sha256": "d05c66f83903205444a9b1746af46fe4171821ef2f69aec1abfcb37eb0926d5b",
+      "bytes": 68
+    },
+    {
+      "articleId": "3b9306e9-8aaa-5746-8fec-2174b14f9dff",
+      "revisionId": "7780cfb6-43ec-5f37-96cf-14a952335926",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-01-07-ESP32教程/0200-ESP32环境搭建.md",
+      "path": "wiki/2026-01-07-ESP32教程/0200-ESP32环境搭建.md",
+      "sha256": "bdad351b5e1da466d2faee4377dc38f1e749b243e6cdf2fe9e877cf4304c9c3b",
+      "bytes": 9481
+    },
+    {
+      "articleId": "75e76527-1478-59cc-b222-a58f384846f6",
+      "revisionId": "dc3b8807-69ef-5a28-9979-4a6426d63e9c",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-01-07-ESP32教程/0300-参考视频.md",
+      "path": "wiki/2026-01-07-ESP32教程/0300-参考视频.md",
+      "sha256": "2dc0f1d7e6e5e27d208d1087940b305c1565332e87774bd236770b05aecf9796",
+      "bytes": 119
+    },
+    {
+      "articleId": "6928c9bc-ea30-5423-a37a-b68663d50bf1",
+      "revisionId": "ef1a0067-1565-5f95-94dc-3f0484e3cbb6",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-01-07-ESP32教程/0400-教程.md",
+      "path": "wiki/2026-01-07-ESP32教程/0400-教程.md",
+      "sha256": "5dc3bda91dc77394d8bf60318407d046891a894c09f86f2711fe0f081873803e",
+      "bytes": 37104
+    },
+    {
+      "articleId": "897d1c1e-4727-5dae-b4df-30a71f44fb68",
+      "revisionId": "c02d4fc0-2381-56ba-8dfc-7aac158074ae",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-01-07-ESP32教程/index.md",
+      "path": "wiki/2026-01-07-ESP32教程/index.md",
+      "sha256": "09df4bc17fa98bc549b9f9d0ad047a9a62b689041f9b378ab455500340d00d0c",
+      "bytes": 73
+    },
+    {
+      "articleId": "cc48eabd-e7ce-5b8a-9116-5a353c4eaf2f",
+      "revisionId": "1fc395d7-1282-5b52-9209-a49eb8499bec",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-02-16-Flutter教程/0100-简介.md",
+      "path": "wiki/2026-02-16-Flutter教程/0100-简介.md",
+      "sha256": "bd9c9c4e961db07770107bc708a0582a25c9b6f0a60a1efd0231a58e9c0faec4",
+      "bytes": 3277
+    },
+    {
+      "articleId": "743a5ef9-197a-540b-87f1-03d1ef3b5c4b",
+      "revisionId": "e95abe4a-23b3-511a-9f33-a977a7f33a5e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-02-16-Flutter教程/0200-参考资料.md",
+      "path": "wiki/2026-02-16-Flutter教程/0200-参考资料.md",
+      "sha256": "f301ae9de3c84dac17810339ed7856778c3c91c63c41e22f1cf6b0795ece86b1",
+      "bytes": 199
+    },
+    {
+      "articleId": "ed04a697-4383-56fd-aff4-968d8cb2c693",
+      "revisionId": "4db577b7-6202-565e-863f-c6727bc8716f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-02-16-Flutter教程/0300-环境配置.md",
+      "path": "wiki/2026-02-16-Flutter教程/0300-环境配置.md",
+      "sha256": "affb10037cd4f78f7cded08e96010d88bfa66b549da9dbb5e2968b02faddfaec",
+      "bytes": 1144
+    },
+    {
+      "articleId": "05290fdd-60d7-5792-b040-6835379c45e9",
+      "revisionId": "fd953ca1-76de-5c32-be82-1a2814574011",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-02-16-Flutter教程/0400-Dart语言教程.md",
+      "path": "wiki/2026-02-16-Flutter教程/0400-Dart语言教程.md",
+      "sha256": "497fec918fe378cc42579187f95a46df06e793430d82e670a151c587847e3446",
+      "bytes": 13514
+    },
+    {
+      "articleId": "92a33230-2da2-51d1-96d8-350069f04e97",
+      "revisionId": "c0548262-22cc-51af-bee2-e7d046f9e5b8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-02-16-Flutter教程/index.md",
+      "path": "wiki/2026-02-16-Flutter教程/index.md",
+      "sha256": "c66119f2fc941ffd830a3c1828ae190743af796c0f701bc5cecd9f97d375f0c0",
+      "bytes": 75
+    },
+    {
+      "articleId": "a8a67e93-f1bf-5305-bee1-cee848c43c1f",
+      "revisionId": "8425d55d-5ed8-57c5-9e89-1ffe0f34d8cb",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-13-OpenCV教程/0100-初识OpenCV.md",
+      "path": "wiki/2026-04-13-OpenCV教程/0100-初识OpenCV.md",
+      "sha256": "628826e6106d72cbb6252f77f2ad1cea00ff552d70238801e3ee1391c0e39556",
+      "bytes": 3483
+    },
+    {
+      "articleId": "e27e7d58-19b0-5361-9eb5-36eeef0a6102",
+      "revisionId": "70e71682-4b0f-505a-827c-58a1cc98d427",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-13-OpenCV教程/0200-数据载入、显示与保存.md",
+      "path": "wiki/2026-04-13-OpenCV教程/0200-数据载入、显示与保存.md",
+      "sha256": "c2be9ec495a82b4d910936462c3db3561887e0c65922fe77885ba793330c763b",
+      "bytes": 73922
+    },
+    {
+      "articleId": "38cd5b03-b9d3-5c26-8af5-556d3a332c8b",
+      "revisionId": "235bdcba-9f1d-52ba-9b26-48398534e6b8",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-13-OpenCV教程/0300-图像基本操作.md",
+      "path": "wiki/2026-04-13-OpenCV教程/0300-图像基本操作.md",
+      "sha256": "0b345eaaaa47c5b32f9cf11613057897ead7e5c73f24b6236b4a84d4c6a8fdc6",
+      "bytes": 20737
+    },
+    {
+      "articleId": "eb9aabad-fb1a-5a35-9d23-28c0062caeda",
+      "revisionId": "bdd2b17b-aa5c-5830-842b-c8bc5d4e8212",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-13-OpenCV教程/index.md",
+      "path": "wiki/2026-04-13-OpenCV教程/index.md",
+      "sha256": "02f3cb102f2130a9c2447c98bf3cc2b5536a46b15ca006011ddeb7a44657d5fb",
+      "bytes": 74
+    },
+    {
+      "articleId": "8a8da6c6-9593-5d6e-8a15-4d07ad22398e",
+      "revisionId": "0eedc893-b45c-5b46-86f2-07b09a47f11d",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0100-简介.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0100-简介.md",
+      "sha256": "6d38212001559626c3d5ebf5a35c0b2e5921ab7b0d0d238dde1d809d63d54769",
+      "bytes": 480
+    },
+    {
+      "articleId": "6eaf62bd-48ae-53f7-8118-839f7211ce7c",
+      "revisionId": "d86eb82f-0db6-586f-9a9b-fa0b4c45f19e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0200-参考视频.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0200-参考视频.md",
+      "sha256": "cbe0d3f2b2dc149e27fd876e07537f6b1c9d27995b0bfd93375e4f63dcb5192f",
+      "bytes": 134
+    },
+    {
+      "articleId": "93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af",
+      "revisionId": "9b524ff4-77cb-51f4-a2db-079339125892",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
+      "sha256": "2de0bfc3f5e5ac9e5450b3d12ff522b4f7f895d801d4f0b5cf778c81266fd432",
+      "bytes": 12526
+    },
+    {
+      "articleId": "0981e483-d90d-5137-9df4-cc6e2230f55a",
+      "revisionId": "37e8ca3d-6334-5404-9d96-07eb5d677f9f",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
+      "sha256": "aa5170e253cbc23a29a7a7ecc2e5ee9dc0eddf036ba9df2c2d07bdda67e77c04",
+      "bytes": 180
+    }
+  ],
+  "members": [
+    {
+      "memberId": "33839198-a65b-5c3e-a61e-c1cde2519f28",
+      "memberKey": "wangxiao",
+      "revisionId": "edc5d359-1f56-5e85-b13c-1e56bc08bb8f",
+      "revisionNumber": 1,
+      "sourcePath": "2018/王虓.md",
+      "path": "members/2018/王虓.md",
+      "sha256": "e0c8ec484d7d174c002f15dd740af278d6034803afc9b2664febb50e505b0124",
+      "bytes": 457
+    },
+    {
+      "memberId": "ff8e99e7-e1fc-5617-a0e3-1ab5dea084cd",
+      "memberKey": "wangziming",
+      "revisionId": "3a52e672-4b30-5a1d-8bb2-1d6961ed5937",
+      "revisionNumber": 1,
+      "sourcePath": "2022/王子铭.md",
+      "path": "members/2022/王子铭.md",
+      "sha256": "33fcf9f7ce05b0c05fc08d39dfb73ccc137540e51fb0f5b25449c7802f3e8393",
+      "bytes": 611
+    },
+    {
+      "memberId": "bf8eec27-dee3-5aad-a2d4-c2e77a512215",
+      "memberKey": "zouchangdi",
+      "revisionId": "6a64a33c-626b-51f8-a31c-3d6160776d18",
+      "revisionNumber": 1,
+      "sourcePath": "2022/邹昌迪.md",
+      "path": "members/2022/邹昌迪.md",
+      "sha256": "aaa1720cebf004304377c46847eab787181ae76953b7b815977007d885a6df5f",
+      "bytes": 448
+    },
+    {
+      "memberId": "9eed8540-1e73-5555-a649-0cb938550440",
+      "memberKey": "caoqishuo",
+      "revisionId": "1effe15d-55c4-5d93-acd2-16dfd0862199",
+      "revisionNumber": 1,
+      "sourcePath": "2023/曹启硕.md",
+      "path": "members/2023/曹启硕.md",
+      "sha256": "c71f48aba7e618fc78dc21e39aa72a4f8dd1ee0e8e556dca1260f652e4376eef",
+      "bytes": 207
+    },
+    {
+      "memberId": "7fcc181c-c379-52bb-b6aa-9b0db7f62e3f",
+      "memberKey": "likun",
+      "revisionId": "d049ce79-c5a6-55de-90f8-6fa3f2ba1ba3",
+      "revisionNumber": 1,
+      "sourcePath": "2023/李坤.md",
+      "path": "members/2023/李坤.md",
+      "sha256": "53a462477fc446f562e487da1fde88c71a713f419c222f7e751b8f7b48fb966b",
+      "bytes": 256
+    },
+    {
+      "memberId": "dbe65496-d19f-5c4e-ba46-a5b6e9842c73",
+      "memberKey": "yangzhiwei",
+      "revisionId": "cf213088-0bbf-5b05-a1f5-46ccdc5947ff",
+      "revisionNumber": 1,
+      "sourcePath": "2023/杨智伟.md",
+      "path": "members/2023/杨智伟.md",
+      "sha256": "29678b9024d4517e7be539ba5bf88099dfbe17a9b9eec40988b136e6000dca6a",
+      "bytes": 259
+    },
+    {
+      "memberId": "79994a30-e6df-5939-9cd1-149bc1a18b14",
+      "memberKey": "muhuacang",
+      "revisionId": "25df90dd-4646-571e-9a47-8b2eaed0f7b3",
+      "revisionNumber": 1,
+      "sourcePath": "2023/穆化仓.md",
+      "path": "members/2023/穆化仓.md",
+      "sha256": "f4401b8b15479cde2a6e6d80a9eb0c2f57f2627268513bb6c22874d88adbde89",
+      "bytes": 249
+    },
+    {
+      "memberId": "a2dd6a83-943d-5b4a-8272-70ecea09e188",
+      "memberKey": "dongjiahui",
+      "revisionId": "43c8fb2b-5691-5c51-abad-4ab91747f9d7",
+      "revisionNumber": 1,
+      "sourcePath": "2023/董佳辉.md",
+      "path": "members/2023/董佳辉.md",
+      "sha256": "f8b12f562a58ddd8084edd0a98a55aaec69c234acb36d3e8f83ad59772be4b87",
+      "bytes": 4717
+    },
+    {
+      "memberId": "3a6e0d38-a853-5ba1-8e59-7df3fc97bf8b",
+      "memberKey": "chenhourui",
+      "revisionId": "4161fe07-e99e-5955-a0bc-d3f6292d9996",
+      "revisionNumber": 1,
+      "sourcePath": "2023/陈厚瑞.md",
+      "path": "members/2023/陈厚瑞.md",
+      "sha256": "9f78cb9c6fe8a087a4e4810b48719b941dee9519a1fd90e66dd773a26104bc89",
+      "bytes": 301
+    },
+    {
+      "memberId": "525ec180-70aa-5a28-9d01-623b9b155910",
+      "memberKey": "shangfanxing",
+      "revisionId": "f902f7e5-5bd5-53fa-ab8f-1217506fb2a6",
+      "revisionNumber": 1,
+      "sourcePath": "2024/尚凡兴.md",
+      "path": "members/2024/尚凡兴.md",
+      "sha256": "2f5ff47e490da1fa126ff9a333153272de0b9e097b1e27d1ecdbb1170b96ca40",
+      "bytes": 283
+    },
+    {
+      "memberId": "95a34044-ae95-5005-9114-261b1344308d",
+      "memberKey": "linzhaojun",
+      "revisionId": "43a5da93-d06d-5aef-b6cc-89d9a8ce2573",
+      "revisionNumber": 1,
+      "sourcePath": "2024/林沼君.md",
+      "path": "members/2024/林沼君.md",
+      "sha256": "2f5184342c797a79649e4da1163103894247988022c480b2f3eace7eef64730f",
+      "bytes": 247
+    },
+    {
+      "memberId": "6fca3c34-515f-5f73-bd3c-c59f46e66de3",
+      "memberKey": "sulihao",
+      "revisionId": "7132c36e-9819-5fb5-8c1c-8269e8a39adf",
+      "revisionNumber": 1,
+      "sourcePath": "2024/苏利昊.md",
+      "path": "members/2024/苏利昊.md",
+      "sha256": "3c07e1bf011837c2aa150b77c82144ad11720239ef2382a533414a6b206d0f74",
+      "bytes": 302
+    },
+    {
+      "memberId": "00f29605-d4c4-5f3d-a30d-0a7bd2e30cb6",
+      "memberKey": "fengpingchuan",
+      "revisionId": "88d32ee4-8375-5204-a133-9a3667eaaf55",
+      "revisionNumber": 1,
+      "sourcePath": "2025/冯平川.md",
+      "path": "members/2025/冯平川.md",
+      "sha256": "3d8a6fa27a2dbc49659943c4b44bc6fc229e4b44a1adf67f9afc21ab8f0cda71",
+      "bytes": 236
+    },
+    {
+      "memberId": "15daf78d-f99d-5155-b70a-2d423427e1d4",
+      "memberKey": "liuyehan",
+      "revisionId": "0377864b-7737-5969-9ebf-3dff184b12b0",
+      "revisionNumber": 1,
+      "sourcePath": "2025/刘业晗.md",
+      "path": "members/2025/刘业晗.md",
+      "sha256": "a102d6e1a2e4e6d836a51745df90509eb7c7ee2b2cd456375f1b4744aa8afe8d",
+      "bytes": 248
+    },
+    {
+      "memberId": "0e2be6b7-bf17-5718-9e6b-1975000fbd0c",
+      "memberKey": "luxiangdong",
+      "revisionId": "5848bf4b-9cdd-52f3-85fe-eef4c70413c0",
+      "revisionNumber": 1,
+      "sourcePath": "2025/卢湘东.md",
+      "path": "members/2025/卢湘东.md",
+      "sha256": "0eb074307dac9fd6e12f0d1e1980c3b1ab4d541122263010cbe4418884911850",
+      "bytes": 330
+    },
+    {
+      "memberId": "df42bc5a-63bd-55ec-b85e-0532887caf53",
+      "memberKey": "shangzhichen",
+      "revisionId": "7e888deb-2655-5b8d-8309-c1c81f2f5a33",
+      "revisionNumber": 1,
+      "sourcePath": "2025/商芷晨.md",
+      "path": "members/2025/商芷晨.md",
+      "sha256": "61216bc77d87c0ad648a6785cc21a5a1982530d1daf2843aa24d54bbf8e97bd9",
+      "bytes": 204
+    },
+    {
+      "memberId": "7f6c5fca-2bdf-5caa-a764-946262903c58",
+      "memberKey": "sunyacheng",
+      "revisionId": "30aa5402-a15c-504f-8b72-f25c1248719c",
+      "revisionNumber": 1,
+      "sourcePath": "2025/孙亚诚.md",
+      "path": "members/2025/孙亚诚.md",
+      "sha256": "bcc972a8186d8529e94a57cd53a33535ac57eda7838644c5be51d8c30470e7fb",
+      "bytes": 250
+    },
+    {
+      "memberId": "817aa328-77e1-5b5a-a991-98a13921378e",
+      "memberKey": "sunkaichen",
+      "revisionId": "4ce6b76b-32ec-5693-8281-243cc887c159",
+      "revisionNumber": 1,
+      "sourcePath": "2025/孙凯臣.md",
+      "path": "members/2025/孙凯臣.md",
+      "sha256": "b8135e1c7c2578101d2ba551d526c5377c26822647216489cf7c3dc022887054",
+      "bytes": 202
+    },
+    {
+      "memberId": "6f803cd0-1a61-5409-b736-9fba17954b7f",
+      "memberKey": "cuigongyan",
+      "revisionId": "e39c6a7b-a744-5e28-b060-2c08f65a67cd",
+      "revisionNumber": 1,
+      "sourcePath": "2025/崔功岩.md",
+      "path": "members/2025/崔功岩.md",
+      "sha256": "bdb0e75611e59ecf7dc26ebba79353d3247262c962a35eb2597927e922c48a82",
+      "bytes": 272
+    },
+    {
+      "memberId": "6cc46cde-e4c0-501e-b24b-e235f70debf0",
+      "memberKey": "cuiqiwen",
+      "revisionId": "5f1eeefa-0b1f-507e-b525-4dbbdfaabf14",
+      "revisionNumber": 1,
+      "sourcePath": "2025/崔启文.md",
+      "path": "members/2025/崔启文.md",
+      "sha256": "3a410d0c1d59ba8defbbf137e0712dfe9781269b5858eb882d6ac018ac1a89cc",
+      "bytes": 228
+    },
+    {
+      "memberId": "047a82db-b176-5153-875f-63e073f9a9fc",
+      "memberKey": "zhanglimin",
+      "revisionId": "ca95d40f-7a99-50ec-85de-f5e5a6b12d43",
+      "revisionNumber": 1,
+      "sourcePath": "2025/张丽敏.md",
+      "path": "members/2025/张丽敏.md",
+      "sha256": "6764074593d9e9182bffbfbe8baf4d2a99e65ceb94f8b1bad339dc844d46e499",
+      "bytes": 277
+    },
+    {
+      "memberId": "d3d06005-54eb-54cf-a1de-14a66b58e5d4",
+      "memberKey": "zhangaiyu",
+      "revisionId": "c8281ef7-b2da-5e93-8eb0-48ffd9d0c8d0",
+      "revisionNumber": 1,
+      "sourcePath": "2025/张爱煜.md",
+      "path": "members/2025/张爱煜.md",
+      "sha256": "7aef0669a495941cad5167d0dc8e26242aca22feda8b3eca876c33562263bd76",
+      "bytes": 258
+    },
+    {
+      "memberId": "5e07fafc-478b-5f11-93bf-b52ac35d933d",
+      "memberKey": "zhangyihao",
+      "revisionId": "eff1c987-0a09-5709-aad3-6f1db1529087",
+      "revisionNumber": 1,
+      "sourcePath": "2025/张益豪.md",
+      "path": "members/2025/张益豪.md",
+      "sha256": "8ad311e522b793e57ba569cf7198ca5425bff069727dd9795c1b1f55ee6c6907",
+      "bytes": 243
+    },
+    {
+      "memberId": "7d7d6167-8c85-57a2-85cb-b787780bff46",
+      "memberKey": "zhangchangfei",
+      "revisionId": "5b5330eb-37e1-51c4-bb42-6afe51c1dc4d",
+      "revisionNumber": 1,
+      "sourcePath": "2025/张长飞.md",
+      "path": "members/2025/张长飞.md",
+      "sha256": "14f7b687301acead0e4d6fe3443149417d263b42423f47e677b30f13f537d735",
+      "bytes": 271
+    },
+    {
+      "memberId": "79826d68-2f73-5ce5-9930-93a10fabcd78",
+      "memberKey": "fangzihao",
+      "revisionId": "d3fd72d0-d53a-5769-a258-cc9594225aa4",
+      "revisionNumber": 1,
+      "sourcePath": "2025/房梓豪.md",
+      "path": "members/2025/房梓豪.md",
+      "sha256": "f49e72514f75e9219db5a2600a14bac82a6225bd84ad83d5fd497054aacdc41c",
+      "bytes": 351
+    },
+    {
+      "memberId": "21d1a347-c411-5b15-aa27-d4db1152c92f",
+      "memberKey": "wangyanhua",
+      "revisionId": "11823b29-22ea-5f82-bf44-e0a04e00f9c3",
+      "revisionNumber": 1,
+      "sourcePath": "2025/王燕华.md",
+      "path": "members/2025/王燕华.md",
+      "sha256": "74ee7caf01ba0147e1d3f825767460b772224b88dc0995bd122f336dc4a170d2",
+      "bytes": 247
+    },
+    {
+      "memberId": "bcc59b9a-17c1-59d0-96d0-4e43978e73e1",
+      "memberKey": "xuejinge",
+      "revisionId": "7f73909a-50c1-54a6-a1d7-030860c9f971",
+      "revisionNumber": 1,
+      "sourcePath": "2025/薛金鸽.md",
+      "path": "members/2025/薛金鸽.md",
+      "sha256": "afe6a22a68477744f1a4794f906096ffd3d6746aaf17906b80a17ecdb0465954",
+      "bytes": 271
+    },
+    {
+      "memberId": "6704b15c-93e5-5356-ab5a-cc32d196a3a4",
+      "memberKey": "hanwenkai",
+      "revisionId": "6150142c-6632-5051-93cd-d8410a409986",
+      "revisionNumber": 1,
+      "sourcePath": "2025/韩文凯.md",
+      "path": "members/2025/韩文凯.md",
+      "sha256": "662cb864d5dee010ead197a4ab0749dfc1c689e10612a9370965a8b5377e5a94",
+      "bytes": 301
+    },
+    {
+      "memberId": "6bf1a0ab-f28e-5040-8c29-cdf93f056953",
+      "memberKey": "luofuhan",
+      "revisionId": "813c6db7-dae9-59ca-ac5a-e696cee46990",
+      "revisionNumber": 1,
+      "sourcePath": "2026/骆富涵.md",
+      "path": "members/2026/骆富涵.md",
+      "sha256": "74881e9a1ca2007f8c0ec8c52f53d0fb60bd772d4a84afbecee4f8941b777774",
+      "bytes": 244
+    },
+    {
+      "memberId": "059d2dca-467c-5264-88c8-ff3c1c8e1184",
+      "memberKey": "gongjinliang",
+      "revisionId": "66481342-06df-508a-8037-3fae2e40134b",
+      "revisionNumber": 1,
+      "sourcePath": "teacher/宫金良.md",
+      "path": "members/teacher/宫金良.md",
+      "sha256": "8fad2395b10ac926b77246714dd9f4993d46205f61046c120701c76989e939e9",
+      "bytes": 881
+    },
+    {
+      "memberId": "c73b003d-5feb-5983-9fd6-46eaa2d14ac2",
+      "memberKey": "gongli",
+      "revisionId": "9c62d0c8-6e0c-5739-ad3b-f7e339944560",
+      "revisionNumber": 1,
+      "sourcePath": "teacher/巩丽.md",
+      "path": "members/teacher/巩丽.md",
+      "sha256": "a3caa3ae92d917a37a7559d721fc67e0f3af019810713b921334634d7b3fd4d9",
+      "bytes": 428
+    },
+    {
+      "memberId": "9cd581b2-7d3c-5f86-b2fb-0c4a0da385dc",
+      "memberKey": "zhangyanfei",
+      "revisionId": "f01b7dba-a84c-5608-ad47-f4d947b2e914",
+      "revisionNumber": 1,
+      "sourcePath": "teacher/张彦斐.md",
+      "path": "members/teacher/张彦斐.md",
+      "sha256": "35a32431f123f7c15cbf4a5d71e6e3566f8545622810fa033cd6ed8700a0245b",
+      "bytes": 758
+    }
+  ],
+  "tombstones": []
+}
