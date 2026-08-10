@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-10T16:05:56.737Z",
+  "generatedAt": "2026-08-10T16:17:24.080Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "f8d519b51f9f0f43f497ec6ce5b43dbdcf528e239ba32f19301b8839153f5ae3"
+    "sha256": "48989adfdadb77e3d14e9cdb1a8dd82f25a1891327eb156112dd9b9ba12b7ae6"
   },
   "files": [
     {
@@ -45,8 +45,8 @@
     },
     {
       "path": "members/2022/常传勇.md",
-      "sha256": "5ebd02554a16bc0458381d20d2ac79f49167f4aa462295a2bf4f654c2299648b",
-      "bytes": 298
+      "sha256": "f437d64e21ae053dcf15862dab9bf368964491b45474b88962dad2d8971c15b1",
+      "bytes": 316
     },
     {
       "path": "members/2022/王子铭.md",
