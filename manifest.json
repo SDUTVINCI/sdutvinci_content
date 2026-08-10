@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-10T16:03:48.183Z",
+  "generatedAt": "2026-08-10T16:05:19.691Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "62bd9a66d99e841b79f944bd3575fa50083cc79bea38b51a63a07c5a0601a3ea"
+    "sha256": "8274f6c1f5a80a8d852c49f35aa670243dd40f8a8f4757ba522a269bf25520ef"
   },
   "files": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "path": "members/2023/李坤.md",
-      "sha256": "ad5eb574097f3e1dd56b1484ce84f55bb662aca968a419e9c002efa92bbde064",
+      "sha256": "ef89607a0af437faafc42bb35e4c8fb73e24c030b448832c773ac37cae9f404b",
       "bytes": 308
     },
     {
