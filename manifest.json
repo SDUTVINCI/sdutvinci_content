@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-10T15:22:37.887Z",
+  "generatedAt": "2026-08-10T16:03:48.183Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "467370d375bb4f9d867190ae58f2fd56ff3f74a1baaab66c1a80e759d7815e94"
+    "sha256": "62bd9a66d99e841b79f944bd3575fa50083cc79bea38b51a63a07c5a0601a3ea"
   },
   "files": [
     {
@@ -150,7 +150,7 @@
     },
     {
       "path": "members/2026/骆富涵.md",
-      "sha256": "f979fad8bd508b8f307ac2c5595708534e02aec5de33c241d33e4bed2d9dcf47",
+      "sha256": "445cff170168961d4e7bdf37e29c50592aa797aab98665ce7e79a290e7085c67",
       "bytes": 296
     },
     {
