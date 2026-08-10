@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-07-27T12:14:25.000Z",
+  "generatedAt": "2026-08-10T15:19:15.861Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "909dfcb8e9d3055d250d60330f03f714078955c73b9c57c87f9f02d464b3c636"
+    "sha256": "21a14bb8e60d3445182be71f11442a6bc7212c5216f7518474fb656d348c2ed2"
   },
   "files": [
     {
@@ -25,8 +25,8 @@
     },
     {
       "path": "members/2023/曹启硕.md",
-      "sha256": "c71f48aba7e618fc78dc21e39aa72a4f8dd1ee0e8e556dca1260f652e4376eef",
-      "bytes": 207
+      "sha256": "228389b7f41df9d3ee1d0c932bd9a73ca56ff776972ada4e8d9aae5323f4efa6",
+      "bytes": 259
     },
     {
       "path": "members/2023/李坤.md",
@@ -50,8 +50,8 @@
     },
     {
       "path": "members/2023/陈厚瑞.md",
-      "sha256": "9f78cb9c6fe8a087a4e4810b48719b941dee9519a1fd90e66dd773a26104bc89",
-      "bytes": 301
+      "sha256": "686e6796d0d3721e02ef36e181191258ec05162a0aabe4d9a73c4220478dd97b",
+      "bytes": 353
     },
     {
       "path": "members/2024/尚凡兴.md",
@@ -100,13 +100,13 @@
     },
     {
       "path": "members/2025/崔功岩.md",
-      "sha256": "bdb0e75611e59ecf7dc26ebba79353d3247262c962a35eb2597927e922c48a82",
-      "bytes": 272
+      "sha256": "585f764fe8443bf9237475aa67ab5f3f39c910a36e9f1f89d77281b7277d5cdf",
+      "bytes": 324
     },
     {
       "path": "members/2025/崔启文.md",
-      "sha256": "3a410d0c1d59ba8defbbf137e0712dfe9781269b5858eb882d6ac018ac1a89cc",
-      "bytes": 228
+      "sha256": "5dc82cc9c1645bf9f938d320821dcab52ed2fa6d5e00aa7bc43d1bd57d116068",
+      "bytes": 280
     },
     {
       "path": "members/2025/张丽敏.md",
