@@ -2,26 +2,26 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-10T15:19:15.861Z",
+  "generatedAt": "2026-08-10T15:21:06.591Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "21a14bb8e60d3445182be71f11442a6bc7212c5216f7518474fb656d348c2ed2"
+    "sha256": "db50d6b09085f394bfb249f4cd92cae2ecef02d4cd48395850eedb2387016184"
   },
   "files": [
     {
       "path": "members/2018/王虓.md",
-      "sha256": "e0c8ec484d7d174c002f15dd740af278d6034803afc9b2664febb50e505b0124",
-      "bytes": 457
+      "sha256": "e645687bb8e9f5f9bdfdadf33b5a0d5bb447d9f7855a7b09bbd662414abe16aa",
+      "bytes": 509
     },
     {
       "path": "members/2022/王子铭.md",
-      "sha256": "33fcf9f7ce05b0c05fc08d39dfb73ccc137540e51fb0f5b25449c7802f3e8393",
-      "bytes": 611
+      "sha256": "ef23a64afcd19e840466672c31e908e48ffda18ab05dbd27a4d2d55ba4e36868",
+      "bytes": 663
     },
     {
       "path": "members/2022/邹昌迪.md",
-      "sha256": "aaa1720cebf004304377c46847eab787181ae76953b7b815977007d885a6df5f",
-      "bytes": 448
+      "sha256": "2bed4530b6ca3cc3f0986c1b8d1f77a0cd57fa7e8bb575aeaccb3d5ab28a2b27",
+      "bytes": 500
     },
     {
       "path": "members/2023/曹启硕.md",
@@ -30,23 +30,23 @@
     },
     {
       "path": "members/2023/李坤.md",
-      "sha256": "53a462477fc446f562e487da1fde88c71a713f419c222f7e751b8f7b48fb966b",
-      "bytes": 256
+      "sha256": "ad5eb574097f3e1dd56b1484ce84f55bb662aca968a419e9c002efa92bbde064",
+      "bytes": 308
     },
     {
       "path": "members/2023/杨智伟.md",
-      "sha256": "29678b9024d4517e7be539ba5bf88099dfbe17a9b9eec40988b136e6000dca6a",
-      "bytes": 259
+      "sha256": "94617b15e31c3ea999175b88425da9f69595be3eea6cee7e9be04fe94c2d9550",
+      "bytes": 311
     },
     {
       "path": "members/2023/穆化仓.md",
-      "sha256": "f4401b8b15479cde2a6e6d80a9eb0c2f57f2627268513bb6c22874d88adbde89",
-      "bytes": 249
+      "sha256": "4911d4977d737569f0b9dfbb18f64b4d8b8cbb5b1d9bd7a46ba85310716d4dd5",
+      "bytes": 301
     },
     {
       "path": "members/2023/董佳辉.md",
-      "sha256": "f8b12f562a58ddd8084edd0a98a55aaec69c234acb36d3e8f83ad59772be4b87",
-      "bytes": 4717
+      "sha256": "bbf70d77ee142dffc0f0d873a661a225d4818b7cbe3e87c900483cc237723fb8",
+      "bytes": 4769
     },
     {
       "path": "members/2023/陈厚瑞.md",
@@ -55,48 +55,48 @@
     },
     {
       "path": "members/2024/尚凡兴.md",
-      "sha256": "2f5ff47e490da1fa126ff9a333153272de0b9e097b1e27d1ecdbb1170b96ca40",
-      "bytes": 283
+      "sha256": "7feab8808c2b8f161f98685dac955a62dd447573524d49c5a7181e9a925c26d7",
+      "bytes": 335
     },
     {
       "path": "members/2024/林沼君.md",
-      "sha256": "2f5184342c797a79649e4da1163103894247988022c480b2f3eace7eef64730f",
-      "bytes": 247
+      "sha256": "fe8d55588cad3b8644c3110dc5a48ea7a65321e0365fb3650f2b7923e76c0b3e",
+      "bytes": 299
     },
     {
       "path": "members/2024/苏利昊.md",
-      "sha256": "3c07e1bf011837c2aa150b77c82144ad11720239ef2382a533414a6b206d0f74",
-      "bytes": 302
+      "sha256": "59bab6d5ccf3924b78b5f2579b32645b4d78cbb02735ef44e28d51ccbc15d2b6",
+      "bytes": 354
     },
     {
       "path": "members/2025/冯平川.md",
-      "sha256": "3d8a6fa27a2dbc49659943c4b44bc6fc229e4b44a1adf67f9afc21ab8f0cda71",
-      "bytes": 236
+      "sha256": "6eaf1f64ec7d3918f46c971060ee8ca76c131fa7f0bd56cb0d31c6f7b5b1b876",
+      "bytes": 288
     },
     {
       "path": "members/2025/刘业晗.md",
-      "sha256": "a102d6e1a2e4e6d836a51745df90509eb7c7ee2b2cd456375f1b4744aa8afe8d",
-      "bytes": 248
+      "sha256": "7478ad582dbc068fa68843c6a3df5c37d4c4d8f4f9bc60211caf97ba6e971529",
+      "bytes": 300
     },
     {
       "path": "members/2025/卢湘东.md",
-      "sha256": "0eb074307dac9fd6e12f0d1e1980c3b1ab4d541122263010cbe4418884911850",
-      "bytes": 330
+      "sha256": "5afb0f8ea71b57891509762f1fd4eb2de5cea9bc080c9a9558f165e4783358cf",
+      "bytes": 382
     },
     {
       "path": "members/2025/商芷晨.md",
-      "sha256": "61216bc77d87c0ad648a6785cc21a5a1982530d1daf2843aa24d54bbf8e97bd9",
-      "bytes": 204
+      "sha256": "d3208057cca8c11a1eb9ccec842c1a5820abe367fe85669f02c121695b34d838",
+      "bytes": 256
     },
     {
       "path": "members/2025/孙亚诚.md",
-      "sha256": "bcc972a8186d8529e94a57cd53a33535ac57eda7838644c5be51d8c30470e7fb",
-      "bytes": 250
+      "sha256": "6aa8535b59f7b8fcff7aa7bff18259f912ca6c8405bffa8970632f51372e74e7",
+      "bytes": 302
     },
     {
       "path": "members/2025/孙凯臣.md",
-      "sha256": "b8135e1c7c2578101d2ba551d526c5377c26822647216489cf7c3dc022887054",
-      "bytes": 202
+      "sha256": "43d7558143e8ee46cacf2a39a71359a3ab7542565d3d2b1ac530f80d899424b2",
+      "bytes": 254
     },
     {
       "path": "members/2025/崔功岩.md",
@@ -110,63 +110,63 @@
     },
     {
       "path": "members/2025/张丽敏.md",
-      "sha256": "6764074593d9e9182bffbfbe8baf4d2a99e65ceb94f8b1bad339dc844d46e499",
-      "bytes": 277
+      "sha256": "b7aef353229dc294cefa32c742f9ee155e8c3b2b122ab6fdd7f8a43285e15265",
+      "bytes": 329
     },
     {
       "path": "members/2025/张爱煜.md",
-      "sha256": "7aef0669a495941cad5167d0dc8e26242aca22feda8b3eca876c33562263bd76",
-      "bytes": 258
+      "sha256": "b719415720ee98159d473c7f9bd7e20184e29fafb6fb3b34c0088fb87037aa62",
+      "bytes": 310
     },
     {
       "path": "members/2025/张益豪.md",
-      "sha256": "8ad311e522b793e57ba569cf7198ca5425bff069727dd9795c1b1f55ee6c6907",
-      "bytes": 243
+      "sha256": "07bddd0349e44dc5a7261650ea81cf66a08f88e10e29b077bf63787508059678",
+      "bytes": 295
     },
     {
       "path": "members/2025/张长飞.md",
-      "sha256": "14f7b687301acead0e4d6fe3443149417d263b42423f47e677b30f13f537d735",
-      "bytes": 271
+      "sha256": "0a16fd58b02a7659f892f9f3630ef58a56be35517aa398e5c1c6d8c8f646f57d",
+      "bytes": 323
     },
     {
       "path": "members/2025/房梓豪.md",
-      "sha256": "f49e72514f75e9219db5a2600a14bac82a6225bd84ad83d5fd497054aacdc41c",
-      "bytes": 351
+      "sha256": "80c4383be2cdc5d857a9d4c0549399a02fa4a20e75537105fa1f7df6198ad47d",
+      "bytes": 403
     },
     {
       "path": "members/2025/王燕华.md",
-      "sha256": "74ee7caf01ba0147e1d3f825767460b772224b88dc0995bd122f336dc4a170d2",
-      "bytes": 247
+      "sha256": "aa6c547060525c092b75367f21a375feae024c230f2eb392695f9563b0be3322",
+      "bytes": 299
     },
     {
       "path": "members/2025/薛金鸽.md",
-      "sha256": "afe6a22a68477744f1a4794f906096ffd3d6746aaf17906b80a17ecdb0465954",
-      "bytes": 271
+      "sha256": "745d378b94f0b72b5f68d767c3d00da3077fcfa83773c349628b0e41f4bf2b4b",
+      "bytes": 323
     },
     {
       "path": "members/2025/韩文凯.md",
-      "sha256": "662cb864d5dee010ead197a4ab0749dfc1c689e10612a9370965a8b5377e5a94",
-      "bytes": 301
+      "sha256": "295f90e1efafae554e91fdd18d474485fbee904255996ca6f0366cc84f513b08",
+      "bytes": 353
     },
     {
       "path": "members/2026/骆富涵.md",
-      "sha256": "74881e9a1ca2007f8c0ec8c52f53d0fb60bd772d4a84afbecee4f8941b777774",
-      "bytes": 244
+      "sha256": "f979fad8bd508b8f307ac2c5595708534e02aec5de33c241d33e4bed2d9dcf47",
+      "bytes": 296
     },
     {
       "path": "members/teacher/宫金良.md",
-      "sha256": "8fad2395b10ac926b77246714dd9f4993d46205f61046c120701c76989e939e9",
-      "bytes": 881
+      "sha256": "1571c8311ba86bc92c0890a4f3fe4299f6ecad96d65bc2b265383c03b61594ec",
+      "bytes": 933
     },
     {
       "path": "members/teacher/巩丽.md",
-      "sha256": "a3caa3ae92d917a37a7559d721fc67e0f3af019810713b921334634d7b3fd4d9",
-      "bytes": 428
+      "sha256": "496fd2ba5baa7d0161b318320650180373f97e80a6cc483a1c4552a911f85ec4",
+      "bytes": 480
     },
     {
       "path": "members/teacher/张彦斐.md",
-      "sha256": "35a32431f123f7c15cbf4a5d71e6e3566f8545622810fa033cd6ed8700a0245b",
-      "bytes": 758
+      "sha256": "cb61e67f68373754f0ad6d0ea0ce931d9ea90dc4c29d490cc9ba075f9e4c4e37",
+      "bytes": 810
     },
     {
       "path": "news/2024-07-06-接受赛委会采访.md",
