@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-10T15:21:06.591Z",
+  "generatedAt": "2026-08-10T15:22:37.887Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -16,13 +16,13 @@
     },
     {
       "articleId": "9f2453d1-0f00-5454-a0fc-d5b5b1c2d654",
-      "revisionId": "f6982bd5-d3f6-5c41-a8c2-60a74c78f565",
-      "revisionNumber": 1,
+      "revisionId": "6fb2ec88-fee5-4654-96c0-a158f29d940a",
+      "revisionNumber": 2,
       "collection": "news",
       "relativePath": "2026-07-16-robocon-volleyball-national-first-prize.md",
       "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
-      "sha256": "e5f23cf8c8e067fb8fd84d6c690ebefdb2cdbb557e99cd49077e722c47db94fc",
-      "bytes": 3942
+      "sha256": "eb13de6b2c48c85467c4ca366c4a24300eb6cdf7f21fbe86f00db85ee5d04dfa",
+      "bytes": 4462
     },
     {
       "articleId": "b79b6594-4b41-5453-9c16-6d3b77b3e195",
@@ -2266,13 +2266,13 @@
     },
     {
       "articleId": "93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af",
-      "revisionId": "9b524ff4-77cb-51f4-a2db-079339125892",
-      "revisionNumber": 1,
+      "revisionId": "13e9ba69-e250-49dc-8b1e-a07bb9bd8bae",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
-      "sha256": "2de0bfc3f5e5ac9e5450b3d12ff522b4f7f895d801d4f0b5cf778c81266fd432",
-      "bytes": 12526
+      "sha256": "6e8af4087cfd9cfb89c8810460e575cb500cbb5f2dfd9dd46e312dabc651b5d5",
+      "bytes": 12556
     },
     {
       "articleId": "0981e483-d90d-5137-9df4-cc6e2230f55a",

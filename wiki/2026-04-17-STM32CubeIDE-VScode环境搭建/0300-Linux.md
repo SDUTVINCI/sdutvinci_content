@@ -336,7 +336,7 @@ ST-Link就不用配置了，直接开始debug就完事了。
 
 无需任何配置
 
-![alt text](/images/2026-04-17-STM32CubeIDE-VScode%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1776435639185.png)
+![alt text](https://cdn.sdutvincirobot.top/images/2026-04-17-STM32CubeIDE-VScode%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/1776435639185.png)
 
 ###### JLink
 
