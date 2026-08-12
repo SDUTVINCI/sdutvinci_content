@@ -1,6 +1,9 @@
 ---
 vinciId: 182547a3-9f52-53e3-bb95-439e4e62314e
 title: Gezebo Classic
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### Gazebo([Gazebo Classic](https://classic.gazebosim.org/))

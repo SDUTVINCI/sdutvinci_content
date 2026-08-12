@@ -1,6 +1,9 @@
 ---
 vinciId: 15ebf10a-6177-5b34-9a8f-61b1b11b2668
 title: std::function
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

@@ -10,6 +10,9 @@ docTitle: STM32CubeIDE VScode环境搭建
 isWikiDoc: true
 isWikiIndex: false
 wikiDepth: 1
+authors:
+- dongjiahui
+publishedAt: '2026-04-17T00:00:00.000Z'
 ---
 
 ### 环境介绍

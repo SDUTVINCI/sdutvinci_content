@@ -1,6 +1,9 @@
 ---
 vinciId: eab229cc-b49e-5b26-8adc-4e525e6e16dc
 title: OpenCV
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### OpenCV

@@ -1,6 +1,9 @@
 ---
 vinciId: 396c8284-89e7-56a5-85a7-27ff5a5aba6d
 title: 可视化平台RVIZ2与URDF建模语言
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### 可视化简介

@@ -1,6 +1,9 @@
 ---
 vinciId: 31d41f4b-e158-5621-81aa-1022f4bc324b
 title: Gezebo仿真平台
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### 简述

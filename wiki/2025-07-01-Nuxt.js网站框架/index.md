@@ -2,12 +2,14 @@
 vinciId: 07ecf8c0-bbf2-5cdb-8549-4fa7cafe2b33
 title: Nuxt.js网站框架
 description: ·3131
-authors: []
-contributors:
-  - dongjiahui
-publishedAt: 2026-07-25T13:41:59.060Z
 updatedAt: 2026-07-25T13:41:59.060Z
+authors:
+- dongjiahui
+contributors:
+- dongjiahui
+publishedAt: '2025-07-01T00:00:00.000Z'
 ---
+
 ![1.00](https://cdn.sdutvincirobot.top/images/2026/07/3885b9f7-2482-4eaf-a1b7-9b6b4862165b/83501b37-0889-4b61-98cc-d8113b030ded.webp)
 
 131312

@@ -1,6 +1,9 @@
 ---
 vinciId: a865ed04-cf4b-5135-94ae-5899b46d86b8
 title: ARM Keil MDK(ARM单片机环境搭建)
+authors:
+- dongjiahui
+publishedAt: '2023-12-10T00:00:00.000Z'
 ---
 
 ### 介绍以及环境推荐

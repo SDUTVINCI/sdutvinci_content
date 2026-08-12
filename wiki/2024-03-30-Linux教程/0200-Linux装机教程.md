@@ -1,6 +1,9 @@
 ---
 vinciId: 5dc2f39b-721f-58fd-ba2c-fefa94c39007
 title: Linux装机教程
+authors:
+- dongjiahui
+publishedAt: '2024-03-30T00:00:00.000Z'
 ---
 
 ### 实体机（双系统，最推荐）

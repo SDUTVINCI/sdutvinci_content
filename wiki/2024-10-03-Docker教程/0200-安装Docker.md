@@ -1,6 +1,9 @@
 ---
 vinciId: c10df388-ae9d-55e7-b210-f5680581821b
 title: 安装Docker
+authors:
+- dongjiahui
+publishedAt: '2024-10-03T00:00:00.000Z'
 ---
 
 ### Linux安装Docker Engine(推荐)

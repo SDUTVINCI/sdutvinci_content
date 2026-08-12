@@ -1,6 +1,9 @@
 ---
 vinciId: 7d32dba6-4e7d-560e-ba3c-a7a3ecf72298
 title: arduino库(了解即可)
+authors:
+- dongjiahui
+publishedAt: '2023-10-09T00:00:00.000Z'
 ---
 
 ### arduino库（Qualcomm Arduino、esp32）

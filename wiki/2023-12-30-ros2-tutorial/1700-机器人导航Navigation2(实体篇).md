@@ -1,6 +1,9 @@
 ---
 vinciId: bb0f1859-1226-5525-9f60-7a5f0a835490
 title: 机器人导航Navigation2(实体篇)
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### 准备工作

@@ -1,6 +1,9 @@
 ---
 vinciId: d49c8e13-6eb5-52f3-b0f5-3b1131a2d0c1
 title: std::filesystem
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

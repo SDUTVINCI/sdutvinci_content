@@ -1,6 +1,9 @@
 ---
 vinciId: 752a207d-b236-5b06-844a-d0e8d7b91ca2
 title: vector与deque容器
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ### vector容器

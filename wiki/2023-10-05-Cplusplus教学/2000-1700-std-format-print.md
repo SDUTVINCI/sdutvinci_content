@@ -1,6 +1,9 @@
 ---
 vinciId: 7960b879-27ad-580b-b4cd-088400451a74
 title: std::format / std::print
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

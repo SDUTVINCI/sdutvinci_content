@@ -1,6 +1,9 @@
 ---
 vinciId: cc29835e-d658-55d3-ada9-ed4e7e680fa1
 title: std::chrono
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

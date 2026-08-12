@@ -1,6 +1,9 @@
 ---
 vinciId: 577a8386-9b39-567b-aee7-1137563c4131
 title: enum class
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

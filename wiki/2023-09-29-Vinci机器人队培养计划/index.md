@@ -1,6 +1,9 @@
 ---
 vinciId: 820f13b3-2224-5bbf-addf-45430603f134
 title: Vinci机器人队培养计划
+authors:
+- dongjiahui
+publishedAt: '2023-09-29T00:00:00.000Z'
 ---
 
 本教程主要是机器人工程师成长计划，一些学习机器人相关知识的路线。

@@ -1,6 +1,9 @@
 ---
 vinciId: 1c561683-48d5-59c0-943b-91ff7e618b58
 title: 各种Docker容器部署
+authors:
+- dongjiahui
+publishedAt: '2024-10-03T00:00:00.000Z'
 ---
 
 ### 部署容器步骤

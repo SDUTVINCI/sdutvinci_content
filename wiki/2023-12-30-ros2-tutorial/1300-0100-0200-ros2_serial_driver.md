@@ -1,8 +1,10 @@
 ---
 vinciId: 6d3969db-b77e-52ad-aacd-f367e7ed1df1
 title: ROS2 Serial Driver库
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
-
 
 ### ROS1串口库1.1
 这是ROS1的库，但是也可以从第三方源码编译这个库，用于ROS2.

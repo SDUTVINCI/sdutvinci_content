@@ -1,6 +1,9 @@
 ---
 vinciId: 94f351e4-ee9d-5e3f-a82c-0883b10ac776
 title: Linux
+authors:
+- dongjiahui
+publishedAt: '2025-07-18T00:00:00.000Z'
 ---
 
 ### 环境介绍

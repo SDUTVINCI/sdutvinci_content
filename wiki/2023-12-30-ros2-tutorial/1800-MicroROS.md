@@ -1,6 +1,9 @@
 ---
 vinciId: f4af4d80-4a7a-5975-82a9-bdec0668bd1e
 title: MicroROS
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 https://micro.ros.org/

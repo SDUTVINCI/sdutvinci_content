@@ -1,6 +1,9 @@
 ---
 vinciId: ebf6a6e6-8fa1-5e82-98d6-ca612743dedf
 title: std::optional
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

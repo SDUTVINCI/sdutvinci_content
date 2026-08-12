@@ -1,6 +1,9 @@
 ---
 vinciId: 270b7ef7-353a-5468-8359-bde1836439ff
 title: Windows配置MDK6环境教程
+authors:
+- dongjiahui
+publishedAt: '2024-01-21T00:00:00.000Z'
 ---
 
 ### 需要准备的软件

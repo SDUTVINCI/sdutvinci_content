@@ -1,6 +1,9 @@
 ---
 vinciId: de38ca60-99a5-5cd7-9d8b-3d4b4472d323
 title: QEMU-KVM虚拟机
+authors:
+- dongjiahui
+publishedAt: '2024-03-30T00:00:00.000Z'
 ---
 
 QEMU-KVM是一个高性能的虚拟机,以下是以安装RockyLinux9为例.

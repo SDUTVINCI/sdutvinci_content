@@ -1,6 +1,9 @@
 ---
 vinciId: dbf32c73-f58c-5982-b48d-6113912e1a42
 title: Docker命令学习
+authors:
+- dongjiahui
+publishedAt: '2024-10-03T00:00:00.000Z'
 ---
 
 ### 参考文档

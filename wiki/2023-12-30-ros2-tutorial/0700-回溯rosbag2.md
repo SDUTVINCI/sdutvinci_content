@@ -1,6 +1,9 @@
 ---
 vinciId: f491edda-1fd1-5c28-bf62-f386c9ecda43
 title: 回溯rosbag2
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### 概述

@@ -1,6 +1,9 @@
 ---
 vinciId: d200feb0-86f6-5294-8975-155849f55fe7
 title: Humble与Jazzy导航的差异
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ## 参考的官方 Jazzy 示例

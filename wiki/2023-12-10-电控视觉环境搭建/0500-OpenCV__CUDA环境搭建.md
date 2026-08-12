@@ -1,6 +1,9 @@
 ---
 vinciId: 8f976ce3-ab16-592e-8911-e172c2df35a1
 title: OpenCV_CUDA环境搭建
+authors:
+- dongjiahui
+publishedAt: '2023-12-10T00:00:00.000Z'
 ---
 
 ### Linux

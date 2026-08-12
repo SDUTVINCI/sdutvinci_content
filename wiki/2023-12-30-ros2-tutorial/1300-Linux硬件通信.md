@@ -1,6 +1,9 @@
 ---
 vinciId: c8aa7676-67b4-533a-b23d-16f1beccdcd8
 title: Linux硬件通信
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ## Linux 机器人通信基础教程介绍

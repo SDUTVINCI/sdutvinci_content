@@ -1,6 +1,9 @@
 ---
 vinciId: 8b5f3aed-3bf2-5d43-91d3-b0b1a46ee231
 title: 手动创建Docker镜像
+authors:
+- dongjiahui
+publishedAt: '2024-10-03T00:00:00.000Z'
 ---
 
 **（嫌麻烦的话，直接去看各种docker容器部署的章节）（有别人给你创建好的，就别自己折腾啦）**

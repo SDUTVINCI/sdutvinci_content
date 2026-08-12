@@ -1,6 +1,9 @@
 ---
 vinciId: b1a33f47-0f5f-5733-bb8f-b167e5540cbf
 title: CMake工程模板
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 本章用一个 Linux-only 的 CMake 工程模板来讲解 C++ 项目如何组织、构建、安装和引入第三方库。

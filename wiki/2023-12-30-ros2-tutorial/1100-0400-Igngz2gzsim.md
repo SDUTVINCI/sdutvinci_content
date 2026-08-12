@@ -1,6 +1,9 @@
 ---
 vinciId: 42a82b70-7a55-57d7-8d36-91d9fb929578
 title: 将Ign Gazebo迁移至Gz Sim
+authors:
+- dongjiahui
+publishedAt: '2023-12-30T00:00:00.000Z'
 ---
 
 ### 将Ign Gazebo迁移至Gz Sim

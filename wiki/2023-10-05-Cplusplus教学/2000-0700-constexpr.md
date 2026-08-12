@@ -1,6 +1,9 @@
 ---
 vinciId: 11990f77-743a-5b3d-bbfc-39b5ff357c11
 title: constexpr
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 ## 本节解决什么问题

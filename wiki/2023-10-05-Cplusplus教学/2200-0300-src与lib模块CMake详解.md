@@ -1,6 +1,9 @@
 ---
 vinciId: 81236dee-9688-5991-9b55-81935f6525b9
 title: src与lib模块CMake详解
+authors:
+- dongjiahui
+publishedAt: '2023-10-05T00:00:00.000Z'
 ---
 
 本节讲三个层次：
