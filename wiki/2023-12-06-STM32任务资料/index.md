@@ -63,7 +63,7 @@ GPIO输出
 
 循迹模块型号:红外寻迹\-循迹\-避障传感器模块\(https://detail\.tmall\.com/item\.htm?abbucket=12\&id=16489814035\&ns=1\&spm=a21n57\.1\.0\.0\.130f523c2ROyKn\)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/001-5aa0310dc700.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/001-5aa0310dc700.webp)
 
 ## 重点考察:
 
@@ -85,7 +85,7 @@ GPIO输出、GPIO输入
 
 循迹模块型号:红外寻迹\-循迹\-避障传感器模块
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/001-5aa0310dc700.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/001-5aa0310dc700.webp)
 
 ## 重点考察:
 
@@ -107,7 +107,7 @@ GPIO输出、外部中断\(中断式\)
 
 蓝牙模块型号:HC\-05蓝牙模块\(https://blog\.csdn\.net/qq\_51967985/article/details/125863389?spm=1001\.2014\.3001\.5506\)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
 
 ## 重点考察:
 
@@ -131,7 +131,7 @@ GPIO输出、串口\(阻塞式\)
 
 蓝牙模块型号:HC\-05蓝牙模块\(https://blog\.csdn\.net/qq\_51967985/article/details/125863389?spm=1001\.2014\.3001\.5506\)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
 
 ## 重点考察:
 
@@ -197,7 +197,7 @@ GPIO输出、定时器中断\(中断式\)
 
 蓝牙模块型号:HC\-05蓝牙模块\(https://blog\.csdn\.net/qq\_51967985/article/details/125863389?spm=1001\.2014\.3001\.5506\)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/002-ca5bde4c1fc0.webp)
 
 ## 重点考察:
 
@@ -221,7 +221,7 @@ GPIO输出、定时器中断\(中断式\)
 
 超声波测距型号:HC\-SR04（**老版** 定时器输入捕获版）
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/003-ce8d56eae4c1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/003-ce8d56eae4c1.webp)
 
 ## 重点考察:
 
@@ -249,17 +249,17 @@ GPIO输出、定时器输入捕获
 
 电机型号:大疆M3508电机\(搭配C620电调\)或者大疆M2006电机\(搭配C610电调\)或者大疆GM6020电机
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/004-5bc458036316.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/004-5bc458036316.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
 
 ##
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
 
 ## 重点考察:
 
@@ -283,17 +283,17 @@ CAN通信发送
 
 电机型号:大疆M3508电机\(搭配C620电调\)或者大疆M2006电机\(搭配C610电调\)或者大疆GM6020电机
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/004-5bc458036316.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/004-5bc458036316.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
 
 ##
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
 
 ## 重点考察:
 
@@ -317,17 +317,17 @@ CAN通信发送、CAN通信接收中断、库的调用
 
 电机型号:大疆M3508电机\(搭配C620电调\)或者大疆M2006电机\(搭配C610电调\)或者大疆GM6020电机
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/004-5bc458036316.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/004-5bc458036316.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/005-fb91948dab2f.webp)
 
 ##
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/006-d40c1569fbd2.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/007-f2d3b24a9a2c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/008-5702b816e51f.webp)
 
 ## 重点考察:
 
@@ -419,7 +419,7 @@ APP推荐 : 蓝牙调试器\(https://www\.jianshu\.com/p/1a8262492619\)
 
 串口、串口数据协议包
 
-![1721125211456\.jpg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/06/009-1cca7d96e28c.webp)
+![1721125211456\.jpg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/06/009-1cca7d96e28c.webp)
 
 图中为蓝牙调试器APP的数据包说明。
 

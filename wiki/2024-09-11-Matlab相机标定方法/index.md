@@ -28,7 +28,7 @@ updatedAt: '2024-09-11T12:16:22.000Z'
 
 ## 相机标定板原图
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/a2296761a8698207.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/a2296761a8698207.webp)
 
 该相机标定板为方格板，图像来源于OpenCV官网，标定板格式为7x10。
 
@@ -99,7 +99,7 @@ int main()
 
 ### 注意事项
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/002-7a1204e71fe1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/002-7a1204e71fe1.webp)
 
 具体拍摄图像基本如上图所示，要做到对相机标定板多角度拍摄，但也要注意一些问题：
 
@@ -117,35 +117,35 @@ int main()
 
 4. 打开MATLAB，打开加载时间一般比较长，命令行中输入`stereoCameraCalibrator` 回车：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/003-a2b16dc265b5.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/003-a2b16dc265b5.webp)
 
 5. 点击 Add Images，导入拍照图片。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/004-70b8a2fe2ed2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/004-70b8a2fe2ed2.webp)
 
 6. 修改棋盘格大小为25mm（你的标定板一个格子大小是多少，就写多少）
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/005-b3c877777377.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/005-b3c877777377.webp)
 
 7. 对于标准相机，菜单栏的option里选择三阶径向畸变和斜切
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/006-3c188a485ec5.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/006-3c188a485ec5.webp)
 
 8. 点击Calibratior，开始标定
 
 - 这个时候，MATLAB会将所有图片进行标定，加载完成后，先看一遍所有图片的标定情况，如果有角点标注不全的情况就右击鼠标，remove删除该图片。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/007-55972e0a64c8.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/007-55972e0a64c8.webp)
 
 9. 拖拉红线，删除误差大的图像对，使投影误差小于0\.1最好。然后导出标定参数。
 
 - 如果误差小于0\.1\~0\.15的图像数量在总体图像中占比较小，请重新拍摄图像，重新进行标注（该组图像拍摄的较差，标定完后数据不会准确）
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/008-4222de98a426.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/008-4222de98a426.webp)
 
 10. 把相机参数导出来，点击 Export Camera Parameters。点击确定，就可以看到matlab工作区出现了相机参数。点开这个参数，就可以得到相机的各个参数：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/009-20db72c14270.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/009-20db72c14270.webp)
 
 到这里标定的工作就完成了，接下来咱们分析上述数据。
 
@@ -157,7 +157,7 @@ int main()
 
 看到该表，我们来说明一下使用MATLAB进行相机标定的到的这些数据各部分分别代表什么含义：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/010-83de4d8d16d2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/010-83de4d8d16d2.webp)
 
 1. ImageSize：图像大小
 
@@ -205,7 +205,7 @@ int main()
 
 （1）相机矩阵：包括焦距（fx，fy），光学中心（Cx，Cy），完全取决于相机本身，是相机的固有属性，只需要计算一次，可用矩阵表示如下：\[fx, 0, Cx; 0, fy, Cy; 0,0,1\];
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/f1a05f2f93bd05ee.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/f1a05f2f93bd05ee.webp)
 
 *s* 是图像的 skew 参数，用于表示水平和垂直方向的像素缩放比例差异。通常情况下，*s* 很小，接近于 0，s所在位置即K矩阵左下角，也就是左下角不一定是1
 
@@ -229,7 +229,7 @@ int main()
 
 **拍照同上。区别在这里**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/012-097c2922f974.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/012-097c2922f974.webp)
 
 - camera model 选择 fisheye, estimate alignment 选择勾，因为官网解释说
 
@@ -238,7 +238,7 @@ Estimate the axes alignment, specified as the comma\-separated pair consisting o
 
 - 计算结果cameraParams中查看Intrinsics
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/013-1467b1297443.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/013-1467b1297443.webp)
 
 Mapping Coefficients: 映射系数, $[ a 0 ，a 2， a 3， a 4 ] ，a1=1$
 Image Size: 图像大小
@@ -269,17 +269,17 @@ $
 
 ## 双目相机
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/fb7e188ece046321.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/fb7e188ece046321.webp)
 
 该样式本实验室有一个类似产品，可以用于学习双目视觉，但不建议使用到具体工程，精度和使用效果极差。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/f43a3a56a3f7e520.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/f43a3a56a3f7e520.webp)
 
 
 
 ## 相机标定板原图
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/a2296761a8698207.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/a2296761a8698207.webp)
 
 该相机标定板为方格板，图像来源于OpenCV官网，标定板格式为7x10。
 
@@ -297,7 +297,7 @@ $
 
 **【注意】**相对来说双目相机在拍摄图像的时候图像（如下图），因此不建议直接使用PC设备的相机进行拍摄，后期还需要再将左右图像分开，建议直接使用脚本进行拍摄。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/016-b93fb9657638.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/016-b93fb9657638.webp)
 
 **【脚本】**
 
@@ -459,11 +459,11 @@ int main(int argc, const char** argv)            //程序主函数
 
 **左镜头**拍摄到的图：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/017-cb4a93eaf118.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/017-cb4a93eaf118.webp)
 
 **右镜头**拍摄到的图：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/018-64e0132eebb6.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/018-64e0132eebb6.webp)
 
 两个镜头拍摄到的图在近距离有明显的位置差异。
 
@@ -481,41 +481,41 @@ int main(int argc, const char** argv)            //程序主函数
 
 1. 打开MATLAB，在命令行输入**stereoCameraCalibrator**，出现如下界面：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/019-31959a444487.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/019-31959a444487.webp)
 
 2. 然后将上面的“**Skew**”、“**Tangential Distortion**”以及“**2 Coefficients**”等选项选上，将“3 Coefficients”选项去掉，如下：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/020-7b51d3e18826.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/020-7b51d3e18826.webp)
 
 3. 然后点击 **Add images（添加图像）**，出现如下界面：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/021-afa14b8f8d97.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/021-afa14b8f8d97.webp)
 
 4. **Camera 1 **代表左摄像头，**Camera 2** 代表右摄像头，分别选择存放着左右图像的文件夹，需要特别注意的是棋盘格的边长应该根据打印的实际大小填写** \(例如20mm\)**，单位可以选择
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/022-dc7e0e355b0b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/022-dc7e0e355b0b.webp)
 
 5. 点击Calibrate按钮，开始标定：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/023-50874a4959b7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/023-50874a4959b7.webp)
 
 6. 校准
 
 - 从下图可以看到，**平均的标定误差**以及 **标定过程中误差较大**的的图像对。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/024-0376edb8b74c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/024-0376edb8b74c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/025-de9a7a42a8ca.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/025-de9a7a42a8ca.webp)
 
 7. 点击选择不想接受的误差直方图，可以直接在左边的图像对中找到对应的图像，右键选择“**Remove and Recalibrate**”：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/026-ed6018a6d8d6.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/026-ed6018a6d8d6.webp)
 
 可以重复上述步骤，直到认为误差满足标定需求为止。
 
 8. 点击Export camera parameters, 并点击“OK”。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/027-a67b596ec868.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/027-a67b596ec868.webp)
 
 
 
@@ -523,7 +523,7 @@ int main(int argc, const char** argv)            //程序主函数
 
 - 标定结束后，会得到如下标定参数：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/028-2a33d2fded5d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/028-2a33d2fded5d.webp)
 
 CameraParameters1与CameraParameters2为左右摄像头的内部参数，RotationOfCamera2与TranslationOfCamera2为两个摄像头的旋转、平移参数。
 
@@ -535,17 +535,17 @@ CameraParameters1与CameraParameters2为左右摄像头的内部参数，Rotatio
 
 双击框框这里：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/029-e5ce1f0ea45a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/029-e5ce1f0ea45a.webp)
 
 CameraParameters1与CameraParameters2中包含如下文件：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/030-094c598d067c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/030-094c598d067c.webp)
 
 IntrinsicMatrix存放的是摄像头的内参，只与摄像机的内部结构有关，老版本MATLAB需要先**转置**再使用。
 
 例如：左相机的参数，**点击CameraParameters1**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/031-5bccffe4c5ff.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/031-5bccffe4c5ff.webp)
 
 **IntrinsicMatrix **存放的是摄像头的内参
 
@@ -553,13 +553,13 @@ IntrinsicMatrix存放的是摄像头的内参，只与摄像机的内部结构�
 
 先看一下 **IntrinsicMatrix** 参数，双击一下 **IntrinsicMatrix **
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/032-5a5121f0d892.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/032-5a5121f0d892.webp)
 
 这个和OpenCV中是**转置的**关系，注意不要搞错。
 
 对应 ：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/033-7eb34e3bee75.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/033-7eb34e3bee75.webp)
 
 ---
 
@@ -577,7 +577,7 @@ IntrinsicMatrix存放的是摄像头的内参，只与摄像机的内部结构�
 
 例如， 左相机为例：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/09/11/034-bd08bbe354ff.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/09/11/034-bd08bbe354ff.webp)
 
 **RadialDistortion ：**0\.016004928431323 , 0\.041062484186359  对应 **K1，K2  ； K3默认为0**
 

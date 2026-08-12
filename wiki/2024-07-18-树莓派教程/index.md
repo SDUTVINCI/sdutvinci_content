@@ -23,11 +23,11 @@ updatedAt: '2025-05-03T13:47:35.000Z'
 
 [https://mirrors.bfsu.edu.cn/ubuntu-cdimage/ubuntu/releases/24.04.1/release/]()
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/001-11cf133ad68e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/001-11cf133ad68e.webp)
 
 树莓派最建议的发行版还是Ubuntu\-Server,没有图形界面，所以占资源贼小，非常适合树莓派这种小内存设备。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/002-ee7c8a157072.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/002-ee7c8a157072.webp)
 
 如上图，开机只占300MB内存。
 
@@ -43,11 +43,11 @@ updatedAt: '2025-05-03T13:47:35.000Z'
 
 ## 树莓派常用接口
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/003-90b9128cebbc.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/003-90b9128cebbc.webp)
 
 ## 树莓派引脚图\(3B\)
 
-![1280X1280\.PNG](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/004-f14c279056cb.webp)
+![1280X1280\.PNG](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/004-f14c279056cb.webp)
 
 【注意】
 树莓派包含两个串口（树莓派3及以前版本）
@@ -60,7 +60,7 @@ updatedAt: '2025-05-03T13:47:35.000Z'
 
 ## 树莓派设备连接
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/005-3d78cb6ded1d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/005-3d78cb6ded1d.webp)
 
 树莓派一般自带网卡，可连接有线宽带或连接无线局域网
 
@@ -76,15 +76,15 @@ updatedAt: '2025-05-03T13:47:35.000Z'
 
 如果无图形界面，而且想连wifi,需要把TF卡插到电脑上访问system\-boot
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/006-576be2358fbf.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/006-576be2358fbf.webp)
 
 找到network\-config
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/007-f3c671c58ca1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/007-f3c671c58ca1.webp)
 
 将wifi名和密码填上即可，拔出TF卡，然后往树莓派上插，重启树莓派就可以发现树莓派连上啦。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/008-7959888c31dd.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/008-7959888c31dd.webp)
 
 
 
@@ -96,9 +96,9 @@ updatedAt: '2025-05-03T13:47:35.000Z'
 
 可以直接通过该软件进行配置。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/009-f6c8e266dd1a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/009-f6c8e266dd1a.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/010-1d933f45759f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/010-1d933f45759f.webp)
 
 ### 配置VNC
 
@@ -130,7 +130,7 @@ ls -la /dev/
 
 如果树莓派再此之前并没有做任何的串口配置，默认红色框内的串口`ttyAMA0`，这是给蓝牙模块使用的。我们还要启用串口`ttyS0`。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/011-e820967a02e6.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/011-e820967a02e6.webp)
 
 - 下面打开串口`/dev/ttyS0`，在命令框输入：
 
@@ -140,19 +140,19 @@ sudo raspi-confi
 
 - 然后选择 `Interfacing Options`，回车
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/012-74a1f9bd7921.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/012-74a1f9bd7921.webp)
 
 - 选择`Serial` ，然后回车
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/013-be5506af90e0.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/013-be5506af90e0.webp)
 
 - 选择 `Yes`
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/014-0367be6c0f1b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/014-0367be6c0f1b.webp)
 
 - 选择 `Yes`
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/015-085637b426ec.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/015-085637b426ec.webp)
 
 - 然后退出即可，此时提示树莓派需要`重启`。
 
@@ -164,7 +164,7 @@ ls -la /dev/
 
 此时我们能看到，除了之前的 `ttyAMA0`以外，`ttyS0`也显示在设备当中，说明前面的配置没问题。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/016-d78450efe840.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/016-d78450efe840.webp)
 
 ### 修改映射关系
 
@@ -182,7 +182,7 @@ dtoverlay=pi3-miniuart-bt
 
 - `重启`树莓派，然后重新在输入`ls -la /dev/`，查看两者是否对调成功。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/017-d972563c92f5.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/017-d972563c92f5.webp)
 
 ### 关闭Console
 
@@ -247,7 +247,7 @@ True
 
 - 打开PC串口调试助手\-\-\-\-\-\-\-\-\-\-\-\-\-这里是使用usb\-ttl利用PC串口助手进行的测试
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/018-0bb6a0caca31.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/018-0bb6a0caca31.webp)
 
 ```Python
 >>> ser.write(b'Raspberry pi')
@@ -282,7 +282,7 @@ except KeyboardInterrupt:
 
 ```
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/019-9e8c3bdd1dd0.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/019-9e8c3bdd1dd0.webp)
 
 
 
@@ -301,7 +301,7 @@ gpio -v
 
 查看 `wiringPi` 是否安装成功：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/020-4b06d1cbecc9.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/020-4b06d1cbecc9.webp)
 
 ### C代码
 
@@ -366,7 +366,7 @@ int main()                 // 主函数
 
 下面是 PC 端串口调试助手显示：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/18/021-94fe24d839d1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/021-94fe24d839d1.webp)
 
 
 

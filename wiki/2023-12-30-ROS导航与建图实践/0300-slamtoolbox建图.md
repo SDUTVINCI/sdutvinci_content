@@ -24,6 +24,6 @@ SLAM是Simultaneous localization and mapping缩写，意为“同步定位与建
 
 这里主要介绍slamtoolbox的参数含义
 
-![slamtoolbox所有launch文件\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/30/001-b77b007146d1.webp)
+![slamtoolbox所有launch文件\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/001-b77b007146d1.webp)
 
 如图所示，slamtoolbox的官方launch文件共有五个，我们主要应用的是localization\_launch\.py和online\_async\_launch\.py,一个负责定位，一个是同步建图,最后我们可以自己写最适合项目的launch文件,包含行为树和状态机等。

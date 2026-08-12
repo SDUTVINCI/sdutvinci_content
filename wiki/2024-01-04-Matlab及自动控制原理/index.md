@@ -27,7 +27,7 @@ sudo mkdir -p /mnt/iso
 sudo mount -o loop ./filename.iso /mnt/iso
 ```
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/001-b1b26bda0cfd.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/001-b1b26bda0cfd.webp)
 
 3. 卸载挂载点
 
@@ -50,11 +50,11 @@ cd /mnt/iso
 sudo ./install
 ```
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/002-9a2b87914298.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/002-9a2b87914298.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/003-bdaf763b8a99.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/003-bdaf763b8a99.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/004-1cc0656e565e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/004-1cc0656e565e.webp)
 
 
 
@@ -106,8 +106,8 @@ sudo ./install
 
 [https://petercorke.com/toolboxes/robotics-toolbox/]()
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/005-578b45f19e04.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/005-578b45f19e04.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/01/04/006-0549474f7e05.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/01/04/006-0549474f7e05.webp)
 
 如图，就是安装成功。

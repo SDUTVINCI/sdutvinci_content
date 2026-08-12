@@ -16,11 +16,11 @@ updatedAt: '2024-07-28T08:07:26.000Z'
 
 
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/fb7e188ece046321.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/fb7e188ece046321.webp)
 
 该样式实验室有一个类似产品，可以用于学习双目视觉，但不建议使用到具体工程，精度和使用效果极差。\-\-\-\-\-\-\-双目BGR相机
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/f43a3a56a3f7e520.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/f43a3a56a3f7e520.webp)
 
 
 
@@ -30,7 +30,7 @@ updatedAt: '2024-07-28T08:07:26.000Z'
 
 ### **理想模型**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/003-06dd0b150be1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/003-06dd0b150be1.webp)
 
 由公式我们得知，除了相机参数外，在图像上我们需要获取的为参数 d ，也就是**视差。**
 
@@ -40,7 +40,7 @@ updatedAt: '2024-07-28T08:07:26.000Z'
 
 视差是同一个空间点在两个相机成像中对应的x坐标的差值，它可以通过编码成灰度图来反映出距离的远近，离镜头越近的灰度越亮。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/004-ff006b2ca749.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/004-ff006b2ca749.webp)
 
 ---
 
@@ -52,7 +52,7 @@ updatedAt: '2024-07-28T08:07:26.000Z'
 
 ### **现实模型**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/005-b11082f91d2c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/005-b11082f91d2c.webp)
 
 并且，对于双目相机的每个镜头拍摄出来的BGR图像也都存在一定的畸变，因此在进行距离解算之前，要完成图像**去畸变**和**立体矫正**等操作，下面分别讲一下。
 
@@ -136,7 +136,7 @@ int main() {
 
 **双目立体视觉在进行距离计算的时候，要在左右相机的图像中精确的匹配到同一像素点，从而计算出视差，再根据视差与距离的关系估计像素点的距离**。然而上述的过程是在双目理想状态下建立的，即双目的成像平面处于同一平面，大多数情况下仅仅依靠双目位置的摆放很难达到这个目的，所以就不得不先对双目相机的图像进行立体校正。**立体校正是把双目相机获取的没有共面平行的两幅图像校正为共面平行\(做到焦距相同、光轴平行\)**，即将双目相机的成像平面校准到同一平面。已校正的双目系统和未校正的双目系统如下图所示。立体校正之后，由于双目图像成像处于同一平面，立体匹配搜索算法由二维变为一维，这降低了搜索复杂度并提高了立体匹配的搜索效率。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/006-4fb641a63481.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/006-4fb641a63481.webp)
 
 
 
@@ -144,7 +144,7 @@ int main() {
 
 **【极线矫正】**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/007-88aaffcc04b7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/007-88aaffcc04b7.webp)
 
 ```C++
 void stereoRectify(
@@ -236,9 +236,9 @@ SGBM 算法是一种半全局立体匹配算法，其匹配流程为：首先为
 
 OpenCV可以用于双目立体匹配的类有如下几种：**StereoBM、StereoSGBM、cv::StereoVar、cv::StereoBinaryBM、cv::StereoBinarySGBM**（后两种位于opencv\_contrb模块），值得注意的是，在OpenCV3以后，用于双目立体匹配的这些类就都变成了抽象类，含有大量的纯虚函数，无法直接创建类的实例化对象，**只能依靠智能指针去创建类对象**。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/008-ed8e6f428770.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/008-ed8e6f428770.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/009-542f121c7b5e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/009-542f121c7b5e.webp)
 
 **`compute()`**** 方法来计算特定立体图像对的视差。**
 
@@ -825,4 +825,4 @@ int main()
 
 ## 效果
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/010-b6538b359e76.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/010-b6538b359e76.webp)

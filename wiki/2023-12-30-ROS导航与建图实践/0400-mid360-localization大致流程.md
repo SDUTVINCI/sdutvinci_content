@@ -208,7 +208,7 @@ roslaunch fast_lio mapping_mid360.launch
 
 查看建图信息：
 
-![2025\-01\-19 11\-19\-23 的屏幕截图\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/30/001-0c4ae8192f18.webp)
+![2025\-01\-19 11\-19\-23 的屏幕截图\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/001-0c4ae8192f18.webp)
 
 建图完毕后pcd文件会自动保存至fast\-lio下的PCD文件夹
 
@@ -224,7 +224,7 @@ sudo apt install pcl-tools
 pcl_viewr ./scans.pcd
 ```
 
-![2025\-01\-19 11\-47\-55 的屏幕截图\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/30/002-93f277471540.webp)
+![2025\-01\-19 11\-47\-55 的屏幕截图\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/002-93f277471540.webp)
 
 如果想要更改保存的pcd文件路径和名称，可以修改建图的源代码，在laserMpping\.cpp中修改相应路径即可
 
@@ -274,7 +274,7 @@ map odom body tf\(map\-\>odom\) scan
 
 ## 运行launch文件得到定位结果
 
-[定位\.mp4](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/30/%E5%AE%9A%E4%BD%8D.mp4)
+[定位\.mp4](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/%E5%AE%9A%E4%BD%8D.mp4)
 
 # 导航
 
@@ -294,7 +294,7 @@ roslaunch sentry_nav sentry_move_base.launch
 
 这是rviz2\(
 
-![Screenshot\_20250421\_212345\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/12/30/003-4ba5a72e4f80.webp)
+![Screenshot\_20250421\_212345\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/003-4ba5a72e4f80.webp)
 
 
 

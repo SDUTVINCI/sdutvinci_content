@@ -26,11 +26,11 @@ ByteTrack 算法是目前主流的解决MOT任务的算法之一，它的核心�
 
 2. 在一定帧数范围内保留低置信度框数据，在后续帧的数据中可能低置信度数据可能会重新被确认，不会像其他算法一样直接删除。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/001-cdab55174164.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/001-cdab55174164.webp)
 
 
 
-![271478769\-93bb4ee2\-77a0\-4e4e\-8eb6\-eb8f527f0527\.gif](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/002-a6b4a417d285.webp)
+![271478769\-93bb4ee2\-77a0\-4e4e\-8eb6\-eb8f527f0527\.gif](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/002-a6b4a417d285.webp)
 
 `放大后可看到每个人的id`
 
@@ -46,11 +46,11 @@ ByteTrack 可以有效解决一些目标间发生遮挡带来的问题，且能�
 
 2. 当目标遮挡逐渐重现时，跟踪目标与高置信度检测目标匹配。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/003-032728fbec0a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/003-032728fbec0a.webp)
 
 
 
-![MOT17\-01\-SDP\.gif](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/004-6b7a613fa5da.webp)
+![MOT17\-01\-SDP\.gif](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/004-6b7a613fa5da.webp)
 
 
 
@@ -72,7 +72,7 @@ Yolov8本身自带有多目标跟踪的实现，有两种算法选择：`ByteTra
 
 
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/005-afc451bc3844.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/005-afc451bc3844.webp)
 
 如果只是想测试一下ByteTrack 算法的效果，看到这里就可以了，可以直接配置好Yolov8环境，在工程目录下直接测试即可，教程见链接：
 

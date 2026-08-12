@@ -29,7 +29,7 @@ updatedAt: '2026-08-02T01:10:25.000Z'
 
 机电创新学会\(Electromechanical Innovation Society , EMIS\)成立于2016年\(但实际底蕴始于2004年\)，在山东理工大学校团委以及指导老师宫金良老师的指导下，机电创新学会从社团新秀到优秀社团再到明星社团再到全国3D十佳社团历经了短短四年的发展时间。经过20年的沉淀，社团有了比较丰富的技术积累和人脉积累，也形成了比较完善的组织管理模式。
 
-![IMG\_20220902\_115016\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/001-548776d4c1b1.webp)
+![IMG\_20220902\_115016\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/001-548776d4c1b1.webp)
 
 
 
@@ -43,43 +43,43 @@ updatedAt: '2026-08-02T01:10:25.000Z'
 
 Vinci\(芬奇\)机器人队成立于2014年，由机制系张彦斐老师指导创立，现由机电创新学会负责运营，以智能机器人创新实践基地为大本营，办公地点为大红炉106与大红炉310东。下设有机械组、电控组\(包含控制组、电路组、视觉算法组\)、运营组三个部门。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/002-05869b5be8fc.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/002-05869b5be8fc.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/003-a26950ce1913.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/003-a26950ce1913.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/004-f73a281ffaa3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/004-f73a281ffaa3.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/005-08e458bf2839.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/005-08e458bf2839.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/006-d6d8373d031b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/006-d6d8373d031b.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/007-d77fdfe48774.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/007-d77fdfe48774.webp)
 
 
 
 # 二 、全国大学生机器人大赛Robocon
 
-![IMG\_20250714\_171113\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/008-a1456fc52bee.webp)
+![IMG\_20250714\_171113\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/008-a1456fc52bee.webp)
 
-![IMG\_20250618\_175943\_edit\_677811723581746\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/009-c5f506f81085.webp)
+![IMG\_20250618\_175943\_edit\_677811723581746\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/009-c5f506f81085.webp)
 
 
 
-![Luban\_17219051242588eb4f50e\-7c51\-4417\-be93\-82e96d4329a8\.jpg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/010-9aa4cf222d08.webp)
+![Luban\_17219051242588eb4f50e\-7c51\-4417\-be93\-82e96d4329a8\.jpg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/010-9aa4cf222d08.webp)
 
-![mmexportd6786c2b2154ee38a552b64a68880aa7\_1752381115033\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/011-3affb75e59ce.webp)
+![mmexportd6786c2b2154ee38a552b64a68880aa7\_1752381115033\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/011-3affb75e59ce.webp)
 
-![Luban\_17536927215130888875d\-a1d6\-434b\-8cdd\-eec46d3b1229\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/012-7aca66ea6c88.webp)
+![Luban\_17536927215130888875d\-a1d6\-434b\-8cdd\-eec46d3b1229\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/012-7aca66ea6c88.webp)
 
-![Luban\_17536927215301344ab0e\-54e8\-4433\-924e\-c8b02aae8e6b\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/013-a9973a5ef1ae.webp)
+![Luban\_17536927215301344ab0e\-54e8\-4433\-924e\-c8b02aae8e6b\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/013-a9973a5ef1ae.webp)
 
-![mmexport309e7ca44ca53c5ea7b81a9a2116e637\_1752254810958\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/014-d2dc99229eb6.webp)
+![mmexport309e7ca44ca53c5ea7b81a9a2116e637\_1752254810958\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/014-d2dc99229eb6.webp)
 
-![mmexport36cbf72f703c0641d650e3df02802f12\_1752130224511\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/015-fd41acfd1cea.webp)
+![mmexport36cbf72f703c0641d650e3df02802f12\_1752130224511\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/015-fd41acfd1cea.webp)
 
-![mmexport5e411e0c68c1bfdc0a2264537573cff7\_1752074453593\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/016-72d9cb82cfb2.webp)
+![mmexport5e411e0c68c1bfdc0a2264537573cff7\_1752074453593\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/016-72d9cb82cfb2.webp)
 
-![Luban\_1753692722199c57a0564\-559b\-4e7a\-b44c\-5426987f54c8\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/017-ea14b44013eb.webp)
+![Luban\_1753692722199c57a0564\-559b\-4e7a\-b44c\-5426987f54c8\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/017-ea14b44013eb.webp)
 
 
 
@@ -95,11 +95,11 @@ Vinci\(芬奇\)机器人队成立于2014年，由机制系张彦斐老师指导�
 
 ## 机械组
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/018-0e8c587232c3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/018-0e8c587232c3.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/019-1a888629f555.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/019-1a888629f555.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/020-15c4363d9c04.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/020-15c4363d9c04.webp)
 
 
 
@@ -107,7 +107,7 @@ Vinci\(芬奇\)机器人队成立于2014年，由机制系张彦斐老师指导�
 
 ### 整体介绍
 
-![QQ\_1722439032071\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/021-52fea7ae3776.webp)
+![QQ\_1722439032071\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/021-52fea7ae3776.webp)
 
 
 
@@ -119,43 +119,43 @@ Vinci\(芬奇\)机器人队成立于2014年，由机制系张彦斐老师指导�
 
 职责一：单片机软件开发
 
-![QQ\_1722438830056\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/022-124245c506b5.webp)
+![QQ\_1722438830056\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/022-124245c506b5.webp)
 
-![QQ\_1722438859186\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/023-c609a4c0f8b3.webp)
+![QQ\_1722438859186\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/023-c609a4c0f8b3.webp)
 
-![QQ\_1722438899773\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/024-1c7075c8a687.webp)
+![QQ\_1722438899773\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/024-1c7075c8a687.webp)
 
-![QQ\_1722438930960\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/025-9ac5e57ffdce.webp)
+![QQ\_1722438930960\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/025-9ac5e57ffdce.webp)
 
-![QQ\_1722438944981\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/026-5eea085ab918.webp)
+![QQ\_1722438944981\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/026-5eea085ab918.webp)
 
 职责二：PCB画板
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/027-1621e0984c21.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/027-1621e0984c21.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/028-3d66c590b89b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/028-3d66c590b89b.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/029-f4af4145b51f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/029-f4af4145b51f.webp)
 
 
 
 ### 软件算法组（简称算法组，原视觉算法组）
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/030-3e04c6d208c2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/030-3e04c6d208c2.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/031-1aa84738eafb.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/031-1aa84738eafb.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/032-c2fddd8e9d83.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/032-c2fddd8e9d83.webp)
 
-![QQ\_1722438899773\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/024-1c7075c8a687.webp)
+![QQ\_1722438899773\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/024-1c7075c8a687.webp)
 
 ## 运营组
 
-![\{4798CD0E\-B5E5\-4179\-9834\-4271B60D168D\}\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/033-246bdaf8f749.webp)
+![\{4798CD0E\-B5E5\-4179\-9834\-4271B60D168D\}\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/033-246bdaf8f749.webp)
 
-![\{27EDF161\-3FA2\-44ae\-A94B\-2BD9E158937A\}\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/034-2daa38986fb4.webp)
+![\{27EDF161\-3FA2\-44ae\-A94B\-2BD9E158937A\}\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/034-2daa38986fb4.webp)
 
-![\{87415EEC\-076C\-4487\-A617\-FF54DD6ADE43\}\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/035-b9fd19ad2a25.webp)
+![\{87415EEC\-076C\-4487\-A617\-FF54DD6ADE43\}\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/035-b9fd19ad2a25.webp)
 
 
 
@@ -163,7 +163,7 @@ Vinci\(芬奇\)机器人队成立于2014年，由机制系张彦斐老师指导�
 
 # 四、加入我们
 
-![f954363b\-445c\-43e1\-90a4\-e525a2232192\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/09/29/036-4809806e7b3e.webp)
+![f954363b\-445c\-43e1\-90a4\-e525a2232192\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/09/29/036-4809806e7b3e.webp)
 
 ## 网站教程入口
 

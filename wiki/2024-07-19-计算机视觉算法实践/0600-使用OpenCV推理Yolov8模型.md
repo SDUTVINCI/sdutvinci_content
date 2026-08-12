@@ -23,7 +23,7 @@ updatedAt: '2024-08-17T04:09:34.000Z'
 
 仅以yolov8为例，事实上官方给予了我们在C\+\+环境下使用opencv对yolov8模型推理的源码，就在工程源码当中：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/001-171e972148ea.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/001-171e972148ea.webp)
 
 ONNXRuntime也是一种常见的支持cpu或者gpu加速通用模型推理框架，是由微软开发的，可以对模型进行优化加快推理速度，\.onnx格式是通用模型格式，值得注意的是该框架目前还并不支持RAM架构的处理器，支持x64架构等，因此还没办法将该架构应用于工控机。
 
@@ -54,7 +54,7 @@ print('model.export success')
 
 运行此脚本，假如我有`boxs_bsaket.pt`，可得：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/002-96e5100fed33.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/002-96e5100fed33.webp)
 
 
 
@@ -72,27 +72,27 @@ print('model.export success')
 
 【**main\.cpp**】
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/003-4ab356aa0cf1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/003-4ab356aa0cf1.webp)
 
 
 
 **【Inference\.h**】
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/004-40a2d283b344.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/004-40a2d283b344.webp)
 
 
 
 【**Inference\.cpp**】
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/005-b7c8549d0b76.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/005-b7c8549d0b76.webp)
 
 ## 测试
 
 我使用官方模型和图片进行测试，运行程序获得：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/006-6bbb7358795a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/006-6bbb7358795a.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/007-79bc4bebca12.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/007-79bc4bebca12.webp)
 
 
 
@@ -138,7 +138,7 @@ OpenCV\_CUDA部署教程:[电控组环境搭建大全](/wiki/2023-12-10-dian-kon
 
 如果你想使用OpenCV进行Yolov8模型的gpu推理，将不再能使用第二部分中【方法二】的方式导出模型，你只能Git yolov8的源码到工程中使用【方法一】，并且你需要更改Yolov8的源码，具体更改位置如下：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/008-c81746eb77e1.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/008-c81746eb77e1.webp)
 
 
 

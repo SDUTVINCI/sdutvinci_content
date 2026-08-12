@@ -56,35 +56,35 @@ updatedAt: '2026-05-16T02:48:46.000Z'
 
 首先，先把C/C\+\+插件退回到1\.8\.4版本（因为最新版有可能无法正常生成launch\.json）
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/001-57d4f970da21.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/001-57d4f970da21.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/002-be980feea526.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/002-be980feea526.webp)
 
 这个Program是我们要调试的可执行文件的绝对路径。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/003-cdce4fd84092.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/003-cdce4fd84092.webp)
 
 这个prelaunchtask是我们执行前要做的任务
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/004-b577c6ac4fb7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/004-b577c6ac4fb7.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/005-c380228a6a2e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/005-c380228a6a2e.webp)
 
 注释掉prelaunchtask，然后随便设置一个断点，按F5进行调试
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/006-4726327d7592.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/006-4726327d7592.webp)
 
 发现正常命中了断点。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/007-0a8926e3101c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/007-0a8926e3101c.webp)
 
 然后下面可以正常进行debug的监视和程序的正常调试。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/008-9adda544f602.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/008-9adda544f602.webp)
 
 配置task\.json文件
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/009-40774556a5af.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/009-40774556a5af.webp)
 
 label是接口，标签的意思。然后给label命名，最后在dependsOn里写入这两个label。
 
@@ -127,7 +127,7 @@ label是接口，标签的意思。然后给label命名，最后在dependsOn里�
 
 ```
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/010-deaf7e0d43f3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/010-deaf7e0d43f3.webp)
 
 launch文件中把prelaunchtask修改为task\.json里的build。
 
@@ -174,7 +174,7 @@ launch文件中把prelaunchtask修改为task\.json里的build。
 
 为了能够输出cmake和make的log，我们进阶，先将cmake的log输出一下。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2023/11/23/011-79afecc922bf.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/11/23/011-79afecc922bf.webp)
 
 ```JSON
 {

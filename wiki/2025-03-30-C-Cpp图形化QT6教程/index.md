@@ -85,39 +85,39 @@ int qt6_test(int argc,char **argv)
 
 ### GUI程序结构与运行机制
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/001-5e2458832719.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/001-5e2458832719.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/002-1ccbbed106f8.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/002-1ccbbed106f8.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/003-5b08a5491894.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/003-5b08a5491894.webp)
 
 我们使用的是CMake,所以这里可以不用看。
 
 CMake也是同样的配置，只不过写的不一样罢了。下面是CMake同样的配置：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/004-e559ade41413.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/004-e559ade41413.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/005-1ed5564f8c0a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/005-1ed5564f8c0a.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/006-7b984d1dd3f3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/006-7b984d1dd3f3.webp)
 
 下面是qt designer的界面介绍：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/007-349da1c61801.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/007-349da1c61801.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/008-d935435f6a0a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/008-d935435f6a0a.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/009-ff5bd784da44.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/009-ff5bd784da44.webp)
 
 
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/010-4de144cbbed5.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/010-4de144cbbed5.webp)
 
 要用信号槽，必须加上Q\_OBJECT，那我们现在就加上就行，万一以后要用呢。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/011-0e5206998f5f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/011-0e5206998f5f.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/012-2627b9daaf5c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/012-2627b9daaf5c.webp)
 
 上面的看不懂没关系，以后就懂了。
 
@@ -125,51 +125,51 @@ CMake也是同样的配置，只不过写的不一样罢了。下面是CMake同�
 
 下面只有这俩属性，最上面的是基类。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/013-076825aed8c8.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/013-076825aed8c8.webp)
 
 然后想改窗口的标题，可以搜索属性windowsTitle
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/014-ae30e8b9cae2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/014-ae30e8b9cae2.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/015-6bc2bb97abcf.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/015-6bc2bb97abcf.webp)
 
 也可以用代码给窗口命名：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/016-e745120cb6f3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/016-e745120cb6f3.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/017-10fca07b823e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/017-10fca07b823e.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/018-190ef4fabdf7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/018-190ef4fabdf7.webp)
 
 也可以拖拽窗口来改变窗口大小。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/019-6a79929a1ad3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/019-6a79929a1ad3.webp)
 
 给按钮改个名字叫close
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/020-25441e4b4ca3.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/020-25441e4b4ca3.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/021-c41e570b9549.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/021-c41e570b9549.webp)
 
 可以改个名
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/022-03f5fdc508ff.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/022-03f5fdc508ff.webp)
 
 如图设置是，当按钮被点击，那么我的widget就关闭。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/023-e58991a2ab14.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/023-e58991a2ab14.webp)
 
 可以查看下setupUi这个函数，里面能看到很多在qt designer上的设置。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/024-b6b71df21f4a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/024-b6b71df21f4a.webp)
 
 这个界面的内存管理是当根被摧毁，叶子也会跟着摧毁。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/025-958b7adae0cb.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/025-958b7adae0cb.webp)
 
 这个就是显示刚才设置那个按钮的代码。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/026-bda3dd4b5dac.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/026-bda3dd4b5dac.webp)
 
 ```c++
 #include "QT6TEST/inc/qt6_test.hpp"
@@ -200,29 +200,29 @@ int qt6_test(int argc,char **argv)
 
 ### 可视化UI设计原理
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/027-fb3706768209.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/027-fb3706768209.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/028-ff075d91f724.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/028-ff075d91f724.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/029-dba15a3a48db.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/029-dba15a3a48db.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/030-2258ea2b2227.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/030-2258ea2b2227.webp)
 
 如果想要窗口有自动排版功能，窗口变大也会自动排版，那么我们常用的就是右上角那俩，spacers是占位符。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/031-4e2c48485420.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/031-4e2c48485420.webp)
 
 横竖按钮的布局就是靠图中的这个。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/032-a49f4060fc8e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/032-a49f4060fc8e.webp)
 
 connect本身就没有限制，可以不同类型或者相同类型的东西互相连接。
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/033-b9dae70a9e94.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/033-b9dae70a9e94.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/034-150b73e4417c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/034-150b73e4417c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/035-093ec588302e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/035-093ec588302e.webp)
 
 在cmake要打开这三个东西。
 
@@ -230,4 +230,4 @@ connect本身就没有限制，可以不同类型或者相同类型的东西互�
 
 ### 代码实现
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2025/03/30/036-2c894381e970.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/036-2c894381e970.webp)

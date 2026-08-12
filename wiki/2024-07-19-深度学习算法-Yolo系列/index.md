@@ -77,7 +77,7 @@ YOLO的核心思想是将整个图像划分为SxS的网格，每个网格负责�
 
         - 登录pytorch官网`https://pytorch.org/get-started/locally/`，按照如图选择，并复制下面的pip终端指令到你的pycharm终端中；
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/001-cd35e028b8ee.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/001-cd35e028b8ee.webp)
 
         - 如果已经安装了错误版本的 PyTorch，也可以通过以下命令卸载安装：
 
@@ -162,19 +162,19 @@ yolo这个深度学习算法v1\-v4版本都是由作者开发维护的，从v5�
 
 - **Github\_ultralytics工程**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/002-0ac78839cbcd.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/002-0ac78839cbcd.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/003-8f3b868b1c5e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/003-8f3b868b1c5e.webp)
 
 - **ultralytics**/**ultralytics/cfg**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/004-a4fecb1af48c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/004-a4fecb1af48c.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/005-14e0a6f76950.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/005-14e0a6f76950.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/006-77c49aa44786.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/006-77c49aa44786.webp)
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/007-53e10284cfbb.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/007-53e10284cfbb.webp)
 
     ⭐**yolov8\.yaml文件，用于目标检测的模型配置文件：**
 
@@ -190,7 +190,7 @@ yolo这个深度学习算法v1\-v4版本都是由作者开发维护的，从v5�
 
 
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/008-bcc56d355896.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/008-bcc56d355896.webp)
 
     ⭐**default\.yaml文件，终端指令参数默认值文件：**
 
@@ -232,11 +232,11 @@ yolo这个深度学习算法v1\-v4版本都是由作者开发维护的，从v5�
 
 ### **数据集格式**
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/009-03f60003b6d6.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/009-03f60003b6d6.webp)
 
-![Image\_1734194717193\.jpg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/010-ba4f46a66276.webp)
+![Image\_1734194717193\.jpg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/010-ba4f46a66276.webp)
 
-![a937e4efafe497620ee4274a67e6e4ad\.jpeg](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/011-9510ce1ad6a7.webp)
+![a937e4efafe497620ee4274a67e6e4ad\.jpeg](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/011-9510ce1ad6a7.webp)
 
 如图为我们常见的两种Yolo的数据集格式，我们一般习惯于使用格式一；
 
@@ -246,7 +246,7 @@ yolo这个深度学习算法v1\-v4版本都是由作者开发维护的，从v5�
 
 **data\.yaml：**按照yolo规定的格式要求书写了该数据集的相关信息；
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/012-d384b49eed5a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/012-d384b49eed5a.webp)
 
 **labels/：valid/：test/** 文件中存放的图片量约等于 **7：2：1**
 
@@ -321,7 +321,7 @@ if __name__ == '__main__':
 
 2. 选择Yolo格式，选择你存放图片的文件夹（一般为images/文件夹），设置好你保存标签的文件夹（一般为labels/文件夹），开始标注：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/013-80ed4eef398d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/013-80ed4eef398d.webp)
 
     - 这里给大家一个数据集标注规范，是针对ROBOCON2023的：
 
@@ -349,15 +349,15 @@ if __name__ == '__main__':
 
 `voc_yolo.py`：*将voc格式的\.xml数据集转换陈yolo格式的\.txt数据集，防止在使用lebelimg时忘记更改格式为yolo格式*
 
-[test01\.py](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/test01.py)
+[test01\.py](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/test01.py)
 
-[test02\.py](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/test02.py)
+[test02\.py](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/test02.py)
 
-[test03\.py](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/test03.py)
+[test03\.py](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/test03.py)
 
-[test04\.py](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/test04.py)
+[test04\.py](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/test04.py)
 
-[voc\_yolo\.py](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/voc_yolo.py)
+[voc\_yolo\.py](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/voc_yolo.py)
 
 
 
@@ -375,7 +375,7 @@ if __name__ == '__main__':
 
     对于Yolov8来说，这几种模型的配置文件都被集成在一个yolov8\.yaml的文件中，文件位置在ultralytics/ultralytics/cfg/v8/目录下：
 
-![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/007-53e10284cfbb.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/007-53e10284cfbb.webp)
 
     - 如果你要训练一个n模型，则需要将s、m、l、x所在行注释掉；
 
@@ -387,7 +387,7 @@ if __name__ == '__main__':
 
 > 1. 经过上述两步，我们将获得这样的一个数据集datasets文件夹，我们将这个文件夹放到你配置好Yolov8环境的python工程中
 >
-> ![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/009-03f60003b6d6.webp)
+> ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/009-03f60003b6d6.webp)
 >
 >
 
@@ -409,13 +409,13 @@ if __name__ == '__main__':
 >     yolo detect train data=".\datasets\data.yaml" model=".\datasets\yolov8.yaml" epochs=100 imgsz=640
 >     ```
 >
-> ![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/014-6ec0785eac80.webp)
+> ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/014-6ec0785eac80.webp)
 >
 >
 
 > 3. 在 YOLOv8 的训练过程中，训练结果会存储在 `runs/detect/train` 目录下，其中包含多个文件和子文件夹。这些文件记录了训练的过程和结果，便于后续的评估和分析。
 >
-> ![image\.png](http://10.0.0.4:5244/COS/tungwebsite/assets/images/wiki/2024/07/19/015-8ac486243232.webp)
+> ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/015-8ac486243232.webp)
 >
 >     其中weights文件夹中有一个**best\.pt**和一个**last\.pt**，分别代表训练过程中**最好的一轮权重**和**最后一轮的权重**（也就是模型文件），我们用best\.pt来进行目标检测。
 >
