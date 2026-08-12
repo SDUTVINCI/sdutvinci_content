@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-12T02:59:10.142Z",
+  "generatedAt": "2026-08-12T03:05:07.365Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "ca0ff8b7411ca5687a6ecb90699845da8ecbf163b6923546d4ae49808197edc2"
+    "sha256": "db4911bd3df7213e97ca68e58d72317dbf57795960b6b8428aa7f90579466c97"
   },
   "files": [
     {
@@ -790,8 +790,8 @@
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
-      "sha256": "cafb0678f5912c3661c45a95ec3343a9306de0d10c7f70915db3ec440b359eef",
-      "bytes": 32996
+      "sha256": "3769aed25c4d5d00844c7f15bbbb7e40dcdd6a7548f1588c9a4ed287bfdc36ad",
+      "bytes": 33070
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0200-入门操作.md",

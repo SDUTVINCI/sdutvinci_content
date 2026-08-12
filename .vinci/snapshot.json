@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-12T02:59:10.142Z",
+  "generatedAt": "2026-08-12T03:05:07.365Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -1086,13 +1086,13 @@
     },
     {
       "articleId": "f877be3f-7e33-55e6-9751-87c817b17d99",
-      "revisionId": "91c064bf-7e71-478a-967c-dc53f927b6e9",
-      "revisionNumber": 2,
+      "revisionId": "b174ce5d-171a-420f-847d-38c81e7e39e1",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
       "path": "wiki/2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
-      "sha256": "cafb0678f5912c3661c45a95ec3343a9306de0d10c7f70915db3ec440b359eef",
-      "bytes": 32996
+      "sha256": "3769aed25c4d5d00844c7f15bbbb7e40dcdd6a7548f1588c9a4ed287bfdc36ad",
+      "bytes": 33070
     },
     {
       "articleId": "294ab387-72f7-5d4e-958f-e4a921124090",
