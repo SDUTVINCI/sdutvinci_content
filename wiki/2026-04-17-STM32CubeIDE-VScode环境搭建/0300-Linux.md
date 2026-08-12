@@ -1,6 +1,11 @@
 ---
 vinciId: 93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af
 title: Linux
+description: 环境介绍
+authors:
+  - dongjiahui
+publishedAt: 2026-04-17T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.247Z
 chapterDepth: 0
 chapterOrder: "0300"
 date: 2026-04-17

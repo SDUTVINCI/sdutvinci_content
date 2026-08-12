@@ -1,6 +1,11 @@
 ---
 vinciId: 6dcba45c-97a1-565a-9fbc-67f8e94bd4f6
 title: Gz Sim（Gazebo Harmonic）
+description: Gz Sim（Gazebo Harmonic 及之后的版本（ROS2 Jazzy及之后的版本））
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.253Z
 ---
 
 ### Gz Sim（Gazebo Harmonic 及之后的版本（ROS2 Jazzy及之后的版本））

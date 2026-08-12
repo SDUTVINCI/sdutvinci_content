@@ -1,6 +1,11 @@
 ---
 vinciId: a8a67e93-f1bf-5305-bee1-cee848c43c1f
 title: 初识OpenCV
+description: 简介
+authors:
+  - dongjiahui
+publishedAt: 2026-04-13T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.223Z
 ---
 
 ### 简介

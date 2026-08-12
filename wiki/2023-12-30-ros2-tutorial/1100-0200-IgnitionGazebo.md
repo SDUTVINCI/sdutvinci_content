@@ -1,8 +1,12 @@
 ---
 vinciId: 48053273-7678-5c41-9791-63325adc0d1a
 title: Ignition Gazebo（Gazebo Fortress）
+description: Ignition Gazebo（Gazebo Fortress，基于ROS2 Humble）
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.274Z
 ---
-
 
 ### Ignition Gazebo（Gazebo Fortress，基于ROS2 Humble）
 
