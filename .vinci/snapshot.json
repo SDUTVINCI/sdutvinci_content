@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-12T14:11:16.170Z",
+  "generatedAt": "2026-08-12T15:33:48.753Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3615,6 +3615,98 @@
       "path": "members/teacher/张彦斐.md",
       "sha256": "cb61e67f68373754f0ad6d0ea0ce931d9ea90dc4c29d490cc9ba075f9e4c4e37",
       "bytes": 810
+    }
+  ],
+  "creditIdentities": [
+    {
+      "creditKey": "caohaozheng",
+      "displayName": "曹浩正",
+      "memberId": null
+    },
+    {
+      "creditKey": "cuitonghui",
+      "displayName": "崔桐汇",
+      "memberId": null
+    },
+    {
+      "creditKey": "cuizongchuang",
+      "displayName": "崔宗闯",
+      "memberId": null
+    },
+    {
+      "creditKey": "jingjiale",
+      "displayName": "荆家乐",
+      "memberId": null
+    },
+    {
+      "creditKey": "liao",
+      "displayName": "李澳",
+      "memberId": null
+    },
+    {
+      "creditKey": "liuhaolin",
+      "displayName": "刘浩林",
+      "memberId": null
+    },
+    {
+      "creditKey": "liujiaqi",
+      "displayName": "刘家祺",
+      "memberId": null
+    },
+    {
+      "creditKey": "liumingyang",
+      "displayName": "刘铭洋",
+      "memberId": null
+    },
+    {
+      "creditKey": "maojingqiu",
+      "displayName": "毛婧秋",
+      "memberId": null
+    },
+    {
+      "creditKey": "qijunlong",
+      "displayName": "祁俊龙",
+      "memberId": null
+    },
+    {
+      "creditKey": "sunjianghui",
+      "displayName": "孙江辉",
+      "memberId": null
+    },
+    {
+      "creditKey": "wangjing",
+      "displayName": "王静",
+      "memberId": null
+    },
+    {
+      "creditKey": "wangkailu",
+      "displayName": "王凯璐",
+      "memberId": null
+    },
+    {
+      "creditKey": "wangxiaohan",
+      "displayName": "王小涵",
+      "memberId": null
+    },
+    {
+      "creditKey": "yanghaoran",
+      "displayName": "杨浩冉",
+      "memberId": null
+    },
+    {
+      "creditKey": "yaoshangnan",
+      "displayName": "姚尚男",
+      "memberId": null
+    },
+    {
+      "creditKey": "zhaoyouqi",
+      "displayName": "赵宥淇",
+      "memberId": null
+    },
+    {
+      "creditKey": "zhouxiaolong",
+      "displayName": "周晓龙",
+      "memberId": null
     }
   ],
   "tombstones": []

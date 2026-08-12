@@ -7,6 +7,7 @@ PostgreSQL content authority.
 - Do not merge proposal branches into `main` as a publishing mechanism.
 - Local changes belong on `proposal/*` branches and are not live content.
 - GitHub or export failures never roll back an already published database revision.
-- `.vinci/snapshot.json` and `manifest.json` describe exported revisions and hashes.
+- `.vinci/snapshot.json` and `manifest.json` describe exported revisions,
+  article-credit display identities, and hashes.
 
 The website does not read this repository at runtime.
