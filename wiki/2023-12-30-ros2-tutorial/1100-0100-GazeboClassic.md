@@ -1,6 +1,13 @@
 ---
 vinciId: 182547a3-9f52-53e3-bb95-439e4e62314e
 title: Gezebo Classic
+description: |-
+  Gazebo(Gazebo Classic)
+  这个是老版Gazebo，仅在ROS1和ROS2 Humble上可用。（但是ROS2并不推荐使用老版Gazebo，更加建议使用新版Gazebo）
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.375Z
 ---
 
 ### Gazebo([Gazebo Classic](https://classic.gazebosim.org/))

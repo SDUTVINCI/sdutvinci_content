@@ -1,6 +1,14 @@
 ---
 vinciId: 5dc2f39b-721f-58fd-ba2c-fefa94c39007
 title: Linux装机教程
+description: |-
+  实体机（双系统，最推荐）
+  环境准备
+  至少留出160GB的硬盘空间（可以和Windows是同一块硬盘，也可以是单独的一块硬盘）
+authors:
+  - dongjiahui
+publishedAt: 2024-03-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.044Z
 ---
 
 ### 实体机（双系统，最推荐）

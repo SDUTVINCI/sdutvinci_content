@@ -1,6 +1,13 @@
 ---
 vinciId: c10df388-ae9d-55e7-b210-f5680581821b
 title: 安装Docker
+description: |-
+  Linux安装Docker Engine(推荐)
+  Linux只需要安装Docker Engine就可以，不要安装docker desktop，那玩意是专门给Mac和Windows用的。
+authors:
+  - dongjiahui
+publishedAt: 2024-10-03T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.721Z
 ---
 
 ### Linux安装Docker Engine(推荐)

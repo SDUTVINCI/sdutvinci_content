@@ -1,6 +1,11 @@
 ---
 vinciId: a1ed77a6-b5a5-56a5-8b6b-e7b7bb0c9d44
 title: condition_variable
+description: 本节解决什么问题
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.764Z
 ---
 
 ## 本节解决什么问题

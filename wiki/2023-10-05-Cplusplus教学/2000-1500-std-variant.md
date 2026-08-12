@@ -1,6 +1,11 @@
 ---
 vinciId: 253e20b2-f635-5ae3-8aa1-7302f7003577
 title: std::variant
+description: 本节解决什么问题
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.804Z
 ---
 
 ## 本节解决什么问题

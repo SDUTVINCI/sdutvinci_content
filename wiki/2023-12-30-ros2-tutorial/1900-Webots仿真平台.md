@@ -1,6 +1,11 @@
 ---
 vinciId: c2424be7-8457-5c92-a658-156985a90ccd
 title: Webots仿真平台
+description: 这个平台用来测运动学很舒服。
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.091Z
 ---
 
 这个平台用来测运动学很舒服。

@@ -1,6 +1,11 @@
 ---
 vinciId: cc29835e-d658-55d3-ada9-ed4e7e680fa1
 title: std::chrono
+description: 本节解决什么问题
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.779Z
 ---
 
 ## 本节解决什么问题

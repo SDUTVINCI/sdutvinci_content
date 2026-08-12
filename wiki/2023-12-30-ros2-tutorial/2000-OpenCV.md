@@ -1,6 +1,13 @@
 ---
 vinciId: eab229cc-b49e-5b26-8adc-4e525e6e16dc
 title: OpenCV
+description: |-
+  OpenCV
+  基础视觉算法-OpenCV实现
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.088Z
 ---
 
 ### OpenCV

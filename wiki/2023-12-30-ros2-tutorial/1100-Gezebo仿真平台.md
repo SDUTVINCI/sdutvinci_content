@@ -1,6 +1,13 @@
 ---
 vinciId: 31d41f4b-e158-5621-81aa-1022f4bc324b
 title: Gezebo仿真平台
+description: |-
+  简述
+  Gazebo目前主要分为两个版本，
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.389Z
 ---
 
 ### 简述

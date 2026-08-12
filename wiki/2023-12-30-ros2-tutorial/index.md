@@ -1,6 +1,17 @@
 ---
 vinciId: 8664dd45-fa65-53d0-936e-cb3b418744c7
 title: ROS2机器人操作系统教程
+description: 欢迎各位Vinci芬奇机器人队成员来进行学习ROS2。
+authors:
+  - dongjiahui
+contributors:
+  - fangzihao
+  - liuyehan
+  - sulihao
+  - cuigongyan
+  - 孙江辉
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.071Z
 ---
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/12/30/image1.webp)![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/12/30/image2.webp)

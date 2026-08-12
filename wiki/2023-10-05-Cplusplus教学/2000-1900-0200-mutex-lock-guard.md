@@ -1,6 +1,11 @@
 ---
 vinciId: 57379738-4d0e-5ff3-a96c-153463d2a6e3
 title: mutex 与 lock_guard
+description: 本节解决什么问题
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.792Z
 ---
 
 ## 本节解决什么问题

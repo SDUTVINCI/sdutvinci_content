@@ -1,6 +1,11 @@
 ---
 vinciId: 4bf0900c-dbd0-56c2-b66e-a3da0e0d4597
 title: CMakePresets与构建安装
+description: CMakePresets.json 用来保存常用的 CMake 配置。它解决的问题是：不要每次都手写一长串 cmake -S ... -B ... -G ... -D... 命令。
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.668Z
 ---
 
 `CMakePresets.json` 用来保存常用的 CMake 配置。它解决的问题是：不要每次都手写一长串 `cmake -S ... -B ... -G ... -D...` 命令。

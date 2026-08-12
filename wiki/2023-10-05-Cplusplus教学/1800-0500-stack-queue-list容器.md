@@ -1,6 +1,11 @@
 ---
 vinciId: afcdee52-e633-5f47-bd14-94a361ccb262
 title: stack / queue / list 容器
+description: stack容器
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.893Z
 ---
 
 ### stack容器

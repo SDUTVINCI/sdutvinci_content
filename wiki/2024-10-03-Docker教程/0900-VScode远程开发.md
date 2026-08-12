@@ -1,6 +1,11 @@
 ---
 vinciId: 433b8088-08dd-57d6-9490-71caf2077c1f
 title: VScode远程开发
+description: 插件1：微软Docker工具
+authors:
+  - dongjiahui
+publishedAt: 2024-10-03T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.682Z
 ---
 
 1.  插件1：微软Docker工具

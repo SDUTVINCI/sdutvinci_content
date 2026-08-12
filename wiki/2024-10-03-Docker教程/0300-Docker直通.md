@@ -1,6 +1,11 @@
 ---
 vinciId: 4f2b053b-a7e8-5a6a-b6cb-20298d96b45a
 title: Docker直通
+description: USB直通
+authors:
+  - dongjiahui
+publishedAt: 2024-10-03T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:55.691Z
 ---
 
 ### USB直通

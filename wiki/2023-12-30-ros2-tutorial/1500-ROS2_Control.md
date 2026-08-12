@@ -1,6 +1,11 @@
 ---
 vinciId: bc1a21be-103d-5fb2-a56a-161d62b28521
 title: ROS2_Control
+description: ROS2 Control 概述
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.113Z
 ---
 
 ### ROS2 Control 概述

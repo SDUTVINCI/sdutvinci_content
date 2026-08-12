@@ -1,6 +1,13 @@
 ---
 vinciId: 7d32dba6-4e7d-560e-ba3c-a7a3ecf72298
 title: arduino库(了解即可)
+description: |-
+  arduino库（Qualcomm Arduino、esp32）
+  Qualcomm Arduino 的语言系统在设计时参考了C、C++、Java，是一种综合性的简洁语言，语法更类似于C++，但是不支持C++的异常处理，没有STL库，你可以把它当作是精简后的C++。
+authors:
+  - dongjiahui
+publishedAt: 2023-10-09T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.626Z
 ---
 
 ### arduino库（Qualcomm Arduino、esp32）

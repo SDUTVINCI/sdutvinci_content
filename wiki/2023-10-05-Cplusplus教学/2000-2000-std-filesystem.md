@@ -1,6 +1,11 @@
 ---
 vinciId: d49c8e13-6eb5-52f3-b0f5-3b1131a2d0c1
 title: std::filesystem
+description: 本节解决什么问题
+authors:
+  - dongjiahui
+publishedAt: 2023-10-05T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.743Z
 ---
 
 ## 本节解决什么问题

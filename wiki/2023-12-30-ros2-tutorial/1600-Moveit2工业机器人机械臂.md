@@ -1,6 +1,11 @@
 ---
 vinciId: 9178e9ff-7a78-5cd1-99cc-2b2b30ee79bb
 title: Moveit2工业机器人机械臂
+description: https://moveit.ros.org/
+authors:
+  - dongjiahui
+publishedAt: 2023-12-30T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.102Z
 ---
 
 https://moveit.ros.org/

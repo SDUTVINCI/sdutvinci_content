@@ -1,6 +1,11 @@
 ---
 vinciId: 975086d9-e149-5a23-9487-47d62fdeda86
 title: Linux配置MDK6环境教程
+description: （本教程为2024年1月创建的，可能与以后的版本有些出入）
+authors:
+  - dongjiahui
+publishedAt: 2024-01-21T00:00:00.000Z
+updatedAt: 2026-08-12T11:38:56.075Z
 ---
 
 ***`（本教程为2024年1月创建的，可能与以后的版本有些出入）`***
