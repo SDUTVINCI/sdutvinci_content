@@ -5,7 +5,7 @@ description: \.学习草图绘制，零件建模:微信公众号:三维创新实
 authors:
   - sunkaichen
 contributors:
-  - 王静
+  - wangjing
   - dongjiahui
 publishedAt: 2024-07-12T00:00:00.000Z
 updatedAt: 2025-03-16T11:25:53.000Z

@@ -9,7 +9,7 @@ contributors:
   - liuyehan
   - sulihao
   - cuigongyan
-  - 孙江辉
+  - sunjianghui
 publishedAt: 2023-12-30T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:56.071Z
 ---

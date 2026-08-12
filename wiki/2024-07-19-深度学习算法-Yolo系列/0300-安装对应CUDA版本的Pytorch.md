@@ -3,9 +3,9 @@ vinciId: 0750cb27-d649-4974-955f-12bbf35709f7
 title: 如何安装对应cuda版本的Pytorch
 description: 这篇文章是如何在Windows上安装CUDA与CUDANN的后继，帮助你安装对应cuda版本的Pytorch
 authors:
-  - 崔桐汇
+  - cuitonghui
 contributors:
-  - 王小涵
+  - wangxiaohan
   - dongjiahui
 publishedAt: 2024-07-19T00:00:00.000Z
 updatedAt: 2024-12-21T05:54:36.000Z

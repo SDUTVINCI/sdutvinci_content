@@ -3,7 +3,7 @@ vinciId: 48a4b200-e5a9-4c2b-95d0-dfead8824aaf
 title: 在Ubuntu环境下通过tar包方式安装TensorRT
 description: TensorRT是NVIDIA开发的一种高性能深度学习推理库，能够优化和加速基于NVIDIA GPU的推理过程。以下是如何在Ubuntu上通过tar包方式安装TensorRT的步骤。
 authors:
-  - 崔桐汇
+  - cuitonghui
 contributors:
   - shangfanxing
   - dongjiahui

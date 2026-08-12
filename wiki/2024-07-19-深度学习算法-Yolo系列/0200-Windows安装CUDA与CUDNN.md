@@ -3,7 +3,7 @@ vinciId: 40ca4c88-efdd-415b-a910-b978ce3d6ace
 title: 如何在Windows上安装CUDA与CUDANN
 description: 前提条件
 authors:
-  - 崔桐汇
+  - cuitonghui
 contributors:
   - shangfanxing
   - dongjiahui

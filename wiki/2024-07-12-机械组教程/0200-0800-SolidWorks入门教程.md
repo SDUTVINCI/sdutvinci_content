@@ -7,7 +7,7 @@ description: |-
 authors:
   - sunkaichen
 contributors:
-  - 王静
+  - wangjing
   - dongjiahui
 publishedAt: 2024-07-12T00:00:00.000Z
 updatedAt: 2025-02-23T09:32:05.000Z

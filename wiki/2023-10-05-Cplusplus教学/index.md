@@ -8,7 +8,7 @@ contributors:
   - zhangyihao
   - cuigongyan
   - fangzihao
-  - 荆家乐
+  - jingjiale
 publishedAt: 2023-10-05T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:56.636Z
 ---

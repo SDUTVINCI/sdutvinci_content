@@ -6,9 +6,9 @@ authors:
   - shangfanxing
 contributors:
   - hanwenkai
-  - 周晓龙
-  - 孙江辉
-  - 崔桐汇
+  - zhouxiaolong
+  - sunjianghui
+  - cuitonghui
   - dongjiahui
 publishedAt: 2024-07-19T00:00:00.000Z
 updatedAt: 2024-12-21T08:29:07.000Z
