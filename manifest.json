@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-13T06:06:24.287Z",
+  "generatedAt": "2026-08-13T06:22:10.941Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "a123a5798cff884df3583d6ae659485930345f534161e36e3c02b285c14742de"
+    "sha256": "05a4d5791d0b6a0379898358415b9e908944a38a318dd13ae16c798548c1d51a"
   },
   "files": [
     {
@@ -255,13 +255,13 @@
     },
     {
       "path": "news/2024-07-06-接受赛委会采访.md",
-      "sha256": "4f34f2466207780f2cdc6de9e2ebb95d06cca067042387c7d7b166944b2a9223",
-      "bytes": 505
+      "sha256": "fd2784a00995faafb0443d3006cf39410676237e17012139674172c7cc662d89",
+      "bytes": 692
     },
     {
       "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
-      "sha256": "eb13de6b2c48c85467c4ca366c4a24300eb6cdf7f21fbe86f00db85ee5d04dfa",
-      "bytes": 4462
+      "sha256": "735c89679a309db15bb8b58f198cbb7b4af5058d02064849d8feaa239e573c41",
+      "bytes": 4862
     },
     {
       "path": "wiki/2021-09-16-OpenWrt编译教学/0100-编译环境准备.md",

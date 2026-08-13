@@ -1,6 +1,11 @@
 ---
 vinciId: 9f2453d1-0f00-5454-a0fc-d5b5b1c2d654
 title: 国赛一等奖！Vinci 机器人队在 2026 Robocon 排球赛取得新突破
+description: 年 7 月 16 日，山东理工大学 Vinci 机器人队在全国大学生机器人大赛 Robocon 排球赛中获得国赛一等奖。这是属于每一位参赛队员、指导老师与历届团队成员的共同荣誉，也为 Vinci 的 Robocon 参赛历程写下了新的高光时刻。
+authors:
+  - dongjiahui
+publishedAt: 2026-07-16T06:21:00.000Z
+updatedAt: 2026-08-13T06:22:10.935Z
 date: 2026-07-16
 author: Vinci 机器人队
 tags:
