@@ -2785,16 +2785,6 @@
       "bytes": 236
     },
     {
-      "articleId": "7478b24f-1583-4e79-a925-733b2a01f1fc",
-      "revisionId": "49789d9c-7199-42f5-ad8e-2eb3552c7c59",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2025-02-07-Vinci机器人队汇编语言教程/index.md",
-      "path": "wiki/2025-02-07-Vinci机器人队汇编语言教程/index.md",
-      "sha256": "69fbd1f32160c971603b9c039df88b4241f407c3fc34f65b4b5949d09b46051b",
-      "bytes": 863
-    },
-    {
       "articleId": "f3a1a309-0e06-42b2-b54e-038cfadcca07",
       "revisionId": "57dc67af-f868-4cf7-8c18-b47e44621695",
       "revisionNumber": 1,
@@ -3709,5 +3699,13 @@
       "memberId": null
     }
   ],
-  "tombstones": []
+  "tombstones": [
+    {
+      "articleId": "7478b24f-1583-4e79-a925-733b2a01f1fc",
+      "revisionId": "49789d9c-7199-42f5-ad8e-2eb3552c7c59",
+      "collection": "wiki",
+      "relativePath": "2025-02-07-Vinci机器人队汇编语言教程/index.md",
+      "path": "wiki/2025-02-07-Vinci机器人队汇编语言教程/index.md"
+    }
+  ]
 }

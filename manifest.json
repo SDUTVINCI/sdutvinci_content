@@ -5,7 +5,7 @@
   "generatedAt": "2026-08-12T15:33:48.753Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "fae4657906284433c785324211f9d4bd6560876b9ff802c21ccf39496f2d1a08"
+    "sha256": "cae03b5280b2e6ea77de0df91950db23e8f7008f6de049942a26a11b6f40a24d"
   },
   "files": [
     {
@@ -1637,11 +1637,6 @@
       "path": "wiki/2025-02-07-Vinci机器人队Python3教程/index.md",
       "sha256": "a8d23c5cfdaf9a2fba612b9e6afbe8e02ddc30aa1134c53a737e52860e57a7b4",
       "bytes": 236
-    },
-    {
-      "path": "wiki/2025-02-07-Vinci机器人队汇编语言教程/index.md",
-      "sha256": "69fbd1f32160c971603b9c039df88b4241f407c3fc34f65b4b5949d09b46051b",
-      "bytes": 863
     },
     {
       "path": "wiki/2025-03-30-C-Cpp图形化QT6教程/index.md",
