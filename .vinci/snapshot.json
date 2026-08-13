@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-13T06:22:10.941Z",
+  "generatedAt": "2026-08-13T06:31:48.357Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -16,12 +16,12 @@
     },
     {
       "articleId": "9f2453d1-0f00-5454-a0fc-d5b5b1c2d654",
-      "revisionId": "ec1c6abd-5e53-48b2-a694-f1b882c102fd",
-      "revisionNumber": 3,
+      "revisionId": "c998d74f-765e-4957-b321-f562051015dd",
+      "revisionNumber": 4,
       "collection": "news",
       "relativePath": "2026-07-16-robocon-volleyball-national-first-prize.md",
       "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
-      "sha256": "735c89679a309db15bb8b58f198cbb7b4af5058d02064849d8feaa239e573c41",
+      "sha256": "b4f4c78bff0b35b64981a97bda581c82345caebf2f9a3adb1722cfd410aa20b7",
       "bytes": 4862
     },
     {

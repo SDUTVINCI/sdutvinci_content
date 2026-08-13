@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-13T06:22:10.941Z",
+  "generatedAt": "2026-08-13T06:31:48.357Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "05a4d5791d0b6a0379898358415b9e908944a38a318dd13ae16c798548c1d51a"
+    "sha256": "6efa6fc72c93a91dc1c61a74d50e669bc95bf522f3181f2c785d381a7767ca85"
   },
   "files": [
     {
@@ -260,7 +260,7 @@
     },
     {
       "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
-      "sha256": "735c89679a309db15bb8b58f198cbb7b4af5058d02064849d8feaa239e573c41",
+      "sha256": "b4f4c78bff0b35b64981a97bda581c82345caebf2f9a3adb1722cfd410aa20b7",
       "bytes": 4862
     },
     {

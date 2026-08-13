@@ -5,7 +5,7 @@ description: 年 7 月 16 日，山东理工大学 Vinci 机器人队在全国�
 authors:
   - dongjiahui
 publishedAt: 2026-07-16T06:21:00.000Z
-updatedAt: 2026-08-13T06:22:10.935Z
+updatedAt: 2026-08-13T06:31:48.357Z
 date: 2026-07-16
 author: Vinci 机器人队
 tags:
