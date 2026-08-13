@@ -2805,16 +2805,6 @@
       "bytes": 8245
     },
     {
-      "articleId": "a5d77a3a-8860-48e3-a963-bca38317bde6",
-      "revisionId": "a6591a2b-83db-4138-b92c-34634853dd86",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2025-04-15-Linux软件包构建与分发/index.md",
-      "path": "wiki/2025-04-15-Linux软件包构建与分发/index.md",
-      "sha256": "671176ae3fcc5102efca5b2ff5bc9ffaa3a9849d310cefdc90d297d5b2b35ddb",
-      "bytes": 344
-    },
-    {
       "articleId": "1363cf95-3081-5a7f-b82d-f892138070be",
       "revisionId": "89348aff-9fa0-4359-a4ed-f9e19be0de89",
       "revisionNumber": 2,
@@ -3716,6 +3706,13 @@
       "collection": "wiki",
       "relativePath": "2025-02-07-Vinci机器人队汇编语言教程/index.md",
       "path": "wiki/2025-02-07-Vinci机器人队汇编语言教程/index.md"
+    },
+    {
+      "articleId": "a5d77a3a-8860-48e3-a963-bca38317bde6",
+      "revisionId": "a6591a2b-83db-4138-b92c-34634853dd86",
+      "collection": "wiki",
+      "relativePath": "2025-04-15-Linux软件包构建与分发/index.md",
+      "path": "wiki/2025-04-15-Linux软件包构建与分发/index.md"
     }
   ]
 }

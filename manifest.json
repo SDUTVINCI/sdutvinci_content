@@ -5,7 +5,7 @@
   "generatedAt": "2026-08-13T06:06:24.287Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "dd3a77633cf6ffd46a429206dea7971a9a577751295500addb289846f1f4a5ba"
+    "sha256": "a123a5798cff884df3583d6ae659485930345f534161e36e3c02b285c14742de"
   },
   "files": [
     {
@@ -1652,11 +1652,6 @@
       "path": "wiki/2025-04-05-科学机场教程/index.md",
       "sha256": "e88ac7ee09b7dabc75fdaca327eadeee96d7c5748ce93c11337dafd44a81a6ad",
       "bytes": 8245
-    },
-    {
-      "path": "wiki/2025-04-15-Linux软件包构建与分发/index.md",
-      "sha256": "671176ae3fcc5102efca5b2ff5bc9ffaa3a9849d310cefdc90d297d5b2b35ddb",
-      "bytes": 344
     },
     {
       "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",
