@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-12T15:33:48.753Z",
+  "generatedAt": "2026-08-13T06:06:24.287Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "cae03b5280b2e6ea77de0df91950db23e8f7008f6de049942a26a11b6f40a24d"
+    "sha256": "dd3a77633cf6ffd46a429206dea7971a9a577751295500addb289846f1f4a5ba"
   },
   "files": [
     {
@@ -227,6 +227,11 @@
       "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
       "sha256": "b1e650a969a6a0dfee219c6cc51939e26d4d20a433fc8574e4d1cf179fd70d37",
       "bytes": 359
+    },
+    {
+      "path": "members/applications/525616cc-31a9-4cf3-b361-499016f256c2.md",
+      "sha256": "fbaf443728677f886ad61390a95bdd60bebe5d5f32fa8c043018f7019f278ed3",
+      "bytes": 247
     },
     {
       "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
@@ -1370,13 +1375,13 @@
     },
     {
       "path": "wiki/2024-07-12-机械组教程/index.md",
-      "sha256": "0466a3ebede14625217f5710334266918673f02668ba8b46693263d3ffe3c1ce",
-      "bytes": 804
+      "sha256": "a8ef5388def7077b1d208292e91a5a6d238052294e6430c09843f2d3873f197c",
+      "bytes": 805
     },
     {
       "path": "wiki/2024-07-12-运营组教程/index.md",
-      "sha256": "20047f1ec9607d66256ba6c751c6db09b34cb167627bffc8f554841dd6661cdf",
-      "bytes": 290
+      "sha256": "f3e47763c59ae7412f501ca86a1fbe8ecb9b060fb2cffbb1e6aa599bfc420378",
+      "bytes": 292
     },
     {
       "path": "wiki/2024-07-13-ROS1机器人操作系统教程/0100-ROS介绍.md",
