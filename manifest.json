@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-13T06:31:48.357Z",
+  "generatedAt": "2026-08-14T08:57:19.647Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "6efa6fc72c93a91dc1c61a74d50e669bc95bf522f3181f2c785d381a7767ca85"
+    "sha256": "32adafa165f8edf336942477a044bc209895e3c8380d498762b4a1c84aadc497"
   },
   "files": [
     {
@@ -237,6 +237,11 @@
       "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
       "sha256": "73128edddbcf9b65e05de42a1e2c9bdb3b56b4d1c560283e475de1f06102cec6",
       "bytes": 332
+    },
+    {
+      "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
+      "sha256": "c3b73c6761d2eee48b07b99e3ac89e6c26c45fa765df71bcf8535c4bea4e4067",
+      "bytes": 209
     },
     {
       "path": "members/teacher/宫金良.md",
