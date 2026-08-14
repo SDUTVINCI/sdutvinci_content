@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-14T08:57:19.647Z",
+  "generatedAt": "2026-08-14T09:21:11.304Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3579,12 +3579,12 @@
     {
       "memberId": "fb237bb6-7e42-486c-a3e3-c7841943b5d3",
       "memberKey": "renyiqi",
-      "revisionId": "16d7d85d-ee02-4ff4-a581-9bcd15fa749d",
-      "revisionNumber": 1,
+      "revisionId": "39d5bb5f-24d7-4d8e-9bde-cd0b1f0fad65",
+      "revisionNumber": 3,
       "sourcePath": "applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
       "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
-      "sha256": "c3b73c6761d2eee48b07b99e3ac89e6c26c45fa765df71bcf8535c4bea4e4067",
-      "bytes": 209
+      "sha256": "0e2d9e0141fa5fd0d5ca3655104496a486a0dde9b443c88af4a3680291586659",
+      "bytes": 337
     },
     {
       "memberId": "059d2dca-467c-5264-88c8-ff3c1c8e1184",
