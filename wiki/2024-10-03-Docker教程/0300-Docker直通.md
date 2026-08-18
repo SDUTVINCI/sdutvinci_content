@@ -27,7 +27,7 @@ ls /dev
 --privileged
 ```
 
-直接添加一行绿色部分，然后所有设备都会被挂载到docker了。(红色部分就不用写了）
+直接添加一行绿色部分，然后所有设备都会被挂载到docker了。(红色部分就不用写了)
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2024/10/03/image6.webp)
 

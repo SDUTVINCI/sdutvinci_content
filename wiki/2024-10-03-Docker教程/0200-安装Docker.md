@@ -17,7 +17,7 @@ Linux跑docker性能损失很低，而Windows和MacOS跑docker损失相对于大
 
 https://docs.docker.com/engine/install/
 
-https://mirrors.bfsu.edu.cn/help/docker-ce/
+https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/
 
 #### Ubuntu（APT）
 以下内容根据 [官方文档](https://docs.docker.com/engine/install/ubuntu/) 修改而来。
@@ -47,7 +47,7 @@ sudo chmod a+r /etc/apt/keyrings/docker.gpg
 ```bash
 # Add the repository to Apt sources:
 echo \
-  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://mirrors.bfsu.edu.cn/docker-ce/linux/ubuntu \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://mirrors.tuna.tsinghua.edu.cn/docker-ce/linux/ubuntu \
   "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
@@ -82,7 +82,7 @@ sudo dnf remove docker \
 ```bash
 sudo dnf -y install dnf-plugins-core
 sudo dnf config-manager addrepo --from-repofile=https://download.docker.com/linux/fedora/docker-ce.repo
-sudo sed -i 's+https://download.docker.com+https://mirrors.bfsu.edu.cn/docker-ce+' /etc/yum.repos.d/docker-ce.repo
+sudo sed -i 's+https://download.docker.com+https://mirrors.tuna.tsinghua.edu.cn/docker-ce+' /etc/yum.repos.d/docker-ce.repo
 ```
 
 最后安装：

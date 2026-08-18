@@ -188,6 +188,17 @@ int main()
 }
 ```
 
+**运行结果（完整工程链接 `lib1` 和 `lib2` 后）：**
+
+```text
+[lib1] Vector v = 1 2 3
+[lib1] Norm = 3.74166
+[lib2] Matrix m =
+1 2
+3 4
+[lib2] Determinant = -2
+```
+
 然后在 `src/lib1/src/eigen3_test.cpp` 中，`lib1` 再调用 `lib2`：
 
 ```cpp

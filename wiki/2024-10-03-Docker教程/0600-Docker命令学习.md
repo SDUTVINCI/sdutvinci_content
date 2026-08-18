@@ -68,6 +68,9 @@ https://www.runoob.com/docker/docker-tutorial.html
 | -w /home/tungchiahui | 设置容器启动后的默认工作目录 | 直接进入项目路径，方便执行命令2324。 |
 | tungchiahui/ros-opencv:jazzy-411-cuda128-cudnn971-noble | 镜像名称指定镜像及标签，包含：- ROS 2 Jazzy- OpenCV 4.11- CUDA 12.8- cuDNN 9.7.1 | 提供预配置的深度学习与机器人开发环境。 |
 
+
+**我已经写好了一个非常完备的运行命令了,你直接用我的就可以.**
+
 下方这条命令一定要在普通用户下运行，不要在root用户下运行，其实加不加`sudo`加不加`sudo -E`都无所谓。
 
 用户已经被加到docker组了，不用`sudo`也行跑，其次，`sudo`运行的话，你的`$HOME`变量也不会变，更何况加上-E的话，这样你的`$HOME`更不可能变了。
@@ -97,7 +100,7 @@ sudo docker run --name=ros_opencv_cuda \
 tungchiahui/ros-opencv:humble-411-cuda128-cudnn970-jammy
 ```
 
-注意：
+**你需要自己手动修改的内容：**
 
 1.  `NVIDIA_DRIVER_CAPABILITIES=all` `--gpus all`没有英伟达显卡请注释。
 
@@ -105,13 +108,13 @@ tungchiahui/ros-opencv:humble-411-cuda128-cudnn970-jammy
 
 3.  最后一行仓库名称请你自己找对应的镜像填上。
 
-4.  ROS1在Fedora发行版下会爆内存，需要添加上下面这个参数，如果你不是Fedora和ROS1,***请不要加***。
+4.  ROS1在Fedora发行版下会爆内存，需要添加上下面这个参数，如果你不是Fedora和ROS1,**请不要加**。(现在其实也很少用ROS1了,ROS1已经逐步淘汰了)
 
 ```bash
 --ulimit nofile=1024:524288 \
 ```
 
-5.  如果想用当前用户登陆容器,可以加上下面这几条,但非常非常***不建议*****.**
+5.  如果想用当前用户登陆容器,可以加上下面这几条,但非常非常**不建议**.
 
 ```bash
 --user $(id -u):$(id -g) \

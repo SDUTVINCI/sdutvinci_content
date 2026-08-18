@@ -8,6 +8,7 @@ publishedAt: 2023-10-05T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:56.913Z
 ---
 
+
 ### vector容器
 
 #### vector基本概念
@@ -44,7 +45,10 @@ updatedAt: 2026-08-12T11:38:56.913Z
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void printVector(vector<int>& v) {
 
@@ -82,7 +86,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+```
 
 **总结：**vector的多种构造方式没有可比性，灵活使用即可
 
@@ -102,7 +113,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void printVector(vector<int>& v) {
 
@@ -145,7 +159,14 @@ int main() {
 
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+100 100 100 100 100 100 100 100 100 100
+```
 
 总结： vector赋值方式比较简单，使用operator=，或者assign都可以
 
@@ -174,7 +195,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void printVector(vector<int>& v) {
 
@@ -222,7 +246,16 @@ int main() {
 
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+v1不为空
+v1的容量 = 16
+v1的大小 = 10
+0 1 2 3 4 5 6 7 8 9 10 10 10 10 10
+0 1 2 3 4
+```
 
 总结：
 
@@ -250,6 +283,9 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
+
+using namespace std;
 
 #include <vector>
 
@@ -301,7 +337,15 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+10 20 30 40 50
+10 20 30 40
+100 10 20 30 40
+1000 1000 100 10 20 30 40
+1000 100 10 20 30 40
+```
 
 总结：
 
@@ -327,7 +371,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void test01()
 {
@@ -364,7 +411,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+v1的第一个元素为： 0
+v1的最后一个元素为： 9
+```
 
 总结：
 
@@ -385,7 +439,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void printVector(vector<int>& v) {
 
@@ -452,7 +509,21 @@ int main() {
 
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+10 9 8 7 6 5 4 3 2 1
+互换后
+10 9 8 7 6 5 4 3 2 1
+0 1 2 3 4 5 6 7 8 9
+v的容量为：131072
+v的大小为：100000
+v的容量为：131072
+v的大小为：3
+v的容量为：3
+v的大小为：3
+```
 
 总结：swap可以使两个容器互换，可以达到实用的收缩内存效果
 
@@ -471,7 +542,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <vector>
+
+using namespace std;
 
 void test01()
 {
@@ -502,7 +576,11 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会打印示例中的变量值或地址；地址值与运行环境有关，以同类对象的相对位置和指针变化为观察重点。
+**运行结果：**
+
+```text
+num:1
+```
 
 总结：如果数据量较大，可以一开始利用reserve预留空间
 
@@ -548,7 +626,10 @@ deque内部有个**中控器**，维护每段缓冲区中的内容，缓冲区�
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -586,7 +667,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+100 100 100 100 100 100 100 100 100 100
+100 100 100 100 100 100 100 100 100 100
+```
 
 **总结：**deque容器和vector容器的构造方式几乎一致，灵活使用即可
 
@@ -606,7 +694,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -649,7 +740,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+0 1 2 3 4 5 6 7 8 9
+100 100 100 100 100 100 100 100 100 100
+```
 
 总结：deque赋值操作也与vector相同，需熟练掌握
 
@@ -678,7 +776,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -726,7 +827,15 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+0 1 2 3 4 5 6 7 8 9
+d1不为空!
+d1的大小为：10
+0 1 2 3 4 5 6 7 8 9 1 1 1 1 1
+0 1 2 3 4
+```
 
 总结：
 
@@ -771,7 +880,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -859,7 +971,12 @@ int main() {
 
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+200 100 10 20
+100 10 20
+```
 
 总结：
 
@@ -885,7 +1002,10 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -931,7 +1051,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+200 100 10 20
+200 100 10 20
+front:200
+back:20
+```
 
 总结：
 
@@ -952,8 +1079,11 @@ int main() {
 **示例：**
 
 ```cpp
+#include <iostream>
 #include <deque>
 #include <algorithm>
+
+using namespace std;
 
 void printDeque(const deque<int>& d) 
 {
@@ -990,7 +1120,12 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行后会按输出语句打印对应内容，变量值可结合初始化、赋值和函数调用顺序推导。
+**运行结果：**
+
+```text
+200 100 10 20
+10 20 100 200
+```
 
 总结：sort算法非常实用，使用时包含头文件 algorithm即可
 
@@ -1011,6 +1146,10 @@ int main() {
 **示例代码：**
 
 ```cpp
+#include <iostream>
+
+using namespace std;
+
 //选手类
 class Person
 {
@@ -1118,6 +1257,14 @@ int main() {
 }
 ```
 
-**运行/观察结果：** 运行结果包含随机数或时间相关内容，每次执行可能不同，重点观察生成和处理流程。
+**运行结果（随机数会随运行环境变化，以下为一次运行示例）：**
+
+```text
+姓名： 选手A 平均分： 78
+姓名： 选手B 平均分： 72
+姓名： 选手C 平均分： 86
+姓名： 选手D 平均分： 81
+姓名： 选手E 平均分： 86
+```
 
 **总结：** 选取不同的容器操作数据，可以提升代码的效率
