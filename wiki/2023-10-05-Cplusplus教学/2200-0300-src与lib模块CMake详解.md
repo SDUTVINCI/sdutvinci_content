@@ -5,7 +5,7 @@ description: 本节讲三个层次：
 authors:
   - dongjiahui
 publishedAt: 2023-10-05T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.656Z
+updatedAt: 2026-08-18T16:48:11.614Z
 ---
 
 本节讲三个层次：
@@ -186,6 +186,17 @@ int main()
     lib1::run_eigen_vector_example();
     return 0;
 }
+```
+
+**运行结果（完整工程链接 `lib1` 和 `lib2` 后）：**
+
+```text
+[lib1] Vector v = 1 2 3
+[lib1] Norm = 3.74166
+[lib2] Matrix m =
+1 2
+3 4
+[lib2] Determinant = -2
 ```
 
 然后在 `src/lib1/src/eigen3_test.cpp` 中，`lib1` 再调用 `lib2`：

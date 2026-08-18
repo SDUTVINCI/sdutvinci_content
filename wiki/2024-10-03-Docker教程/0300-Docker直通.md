@@ -5,7 +5,7 @@ description: USB直通
 authors:
   - dongjiahui
 publishedAt: 2024-10-03T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.691Z
+updatedAt: 2026-08-18T16:48:11.518Z
 ---
 
 ### USB直通
@@ -27,7 +27,7 @@ ls /dev
 --privileged
 ```
 
-直接添加一行绿色部分，然后所有设备都会被挂载到docker了。(红色部分就不用写了）
+直接添加一行绿色部分，然后所有设备都会被挂载到docker了。(红色部分就不用写了)
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2024/10/03/image6.webp)
 
