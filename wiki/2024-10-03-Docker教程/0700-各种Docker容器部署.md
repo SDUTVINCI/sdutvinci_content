@@ -7,7 +7,7 @@ description: |-
 authors:
   - dongjiahui
 publishedAt: 2024-10-03T00:00:00.000Z
-updatedAt: 2026-08-18T16:48:11.508Z
+updatedAt: 2026-08-20T09:26:04.369Z
 ---
 
 **可以跳过此节**
@@ -65,7 +65,7 @@ https://github.com/SDUTVINCI/docker
 
 8.  (但无Livox-ROS-Driver2，自己在ws下编译吧)
 
-请电控组成员在组长的允许下，变更该docker镜像内容，dockerfile和镜像均上传到github及dockerhub上了。
+该Docker镜像由软件算法组维护。变更镜像内容前应由当前项目负责人确认，并同步更新GitHub中的Dockerfile和Docker Hub镜像版本。
 
 1.  从dockerhub上拉取镜像
 

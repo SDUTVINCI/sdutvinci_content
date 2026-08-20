@@ -7,7 +7,7 @@ description: |-
 authors:
   - dongjiahui
 publishedAt: 2023-12-30T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.375Z
+updatedAt: 2026-08-20T09:26:04.432Z
 ---
 
 ### Gazebo([Gazebo Classic](https://classic.gazebosim.org/))
@@ -1204,7 +1204,7 @@ def generate_launch_description():
 
 用六轴、九轴算法或其他算法等可以输出三轴欧拉角（Yaw,Pitch,Roll），欧拉角可以转化为四元数。
 
-IMU长啥样？直接线下找控制组要就行，他们经常会玩这个。
+如需查看或借用实体IMU，可联系嵌入式组；ROS2中的IMU消息、坐标系和融合使用由软件算法组负责。
 
 便宜的长这样（MPU6050,MPU9050等）：
 
@@ -1533,7 +1533,7 @@ ros2 topic echo /scan
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/12/30/image1680.webp)
 
 ##### 超声波Ultrasonic
-这玩意对于ROS2算法意义不是很大，控制组直接在MCU上实现即可，有需求可以学本节。 **（可以跳过本节）**
+超声波的触发、计时和底层测距通常由嵌入式组在MCU上实现；软件算法组只在任务需要时消费距离数据并参与避障或状态判断。仅学习ROS2仿真的成员可以跳过本节。
 
 在实际的机器人开发过程中，我们可能会利用超声波传感器实现实时避障的功能，毕竟超声波的价格相较于激光雷达要便宜很多（便宜的几块钱）。
 

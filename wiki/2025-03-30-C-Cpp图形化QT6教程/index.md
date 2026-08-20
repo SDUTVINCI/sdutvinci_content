@@ -5,7 +5,7 @@ description: 简介
 authors:
   - dongjiahui
 publishedAt: 2025-03-30T00:00:00.000Z
-updatedAt: 2025-03-31T10:50:16.000Z
+updatedAt: 2026-08-20T09:26:04.279Z
 ---
 
 # 简介
@@ -18,7 +18,7 @@ C\+\+的GUI设计，GUI 中文译为 **"图形用户界面"**（英文全称是 
 
 **学QT6之前需要会CMake和C/C\+\+！**
 
-[电控组培养计划](https://sdutvincirobot.feishu.cn/wiki/AT59wOz4NiJ9b9kEUyZcCY92n7f)
+[Vinci机器人队培养路线](https://sdutvincirobot.feishu.cn/wiki/AT59wOz4NiJ9b9kEUyZcCY92n7f)
 
 [Vinci机器人队C/C\+\+教程](/wiki/2023-10-05-cplusplus-jiao-xue)
 
@@ -28,7 +28,7 @@ C\+\+的GUI设计，GUI 中文译为 **"图形用户界面"**（英文全称是 
 
 # 安装
 
-[电控组环境搭建大全](/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian)
+[机器人开发环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian)
 
 到底是学QT5还是QT6呢？当然是QT6。
 
@@ -54,7 +54,7 @@ qt6是个大趋势，只是一些老公司不愿意换罢了。而且qt5和qt6�
 
 参考搭建环境中运行的历程：
 
-[电控组环境搭建大全](/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian)
+[机器人开发环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian)
 
 ```c++
 #include "QT6TEST/inc/qt6_test.hpp"

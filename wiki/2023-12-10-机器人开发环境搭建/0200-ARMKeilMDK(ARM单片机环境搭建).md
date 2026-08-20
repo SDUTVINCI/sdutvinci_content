@@ -1,13 +1,13 @@
 ---
 vinciId: a865ed04-cf4b-5135-94ae-5899b46d86b8
-title: ARM Keil MDK(ARM单片机环境搭建)
+title: ARM Keil MDK环境搭建
 description: |-
   介绍以及环境推荐
   Keil MDK是ARM公司旗下官方软件。最主流的单片机开发环境IDE，没有之一。
 authors:
   - dongjiahui
 publishedAt: 2023-12-10T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.571Z
+updatedAt: 2026-08-20T09:26:04.504Z
 ---
 
 ### 介绍以及环境推荐
@@ -188,7 +188,7 @@ https://www.bilibili.com/video/BV19V411g7gD/
 [ARM Keil MDK6使用教程](/wiki/2024-01-21-arm-keil-mdk6-jiao-cheng)
 
 ### 告别Keil MDK : VScode+CMake环境部署【非常推荐老鸟】
-**(开发起来目前感觉还是挺舒服的，日后电控组组长如果觉得好用，可以统一一下IDE)**
+**（开发体验较好，后续可由嵌入式组负责人根据项目需要统一IDE。）**
 
 主要现在有三个使用比较广的编译器.
 

@@ -7,7 +7,7 @@ description: |-
 authors:
   - dongjiahui
 publishedAt: 2023-12-30T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.088Z
+updatedAt: 2026-08-20T09:26:04.412Z
 ---
 
 ### OpenCV
@@ -27,7 +27,7 @@ https://github.com/ros-perception/vision_opencv/tree/humble
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/12/30/image1953.webp)![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/12/30/image1954.webp)
 
 #### 安装
-提前自己编译好带CUDA的OpenCV4,详见[电控组环境搭建大全](/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian)
+提前自己编译好带CUDA的OpenCV4，详见[机器人开发环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian)
 
 1.  apt安装(不建议)
 

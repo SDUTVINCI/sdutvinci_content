@@ -7,7 +7,7 @@ description: |-
 authors:
   - dongjiahui
 publishedAt: 2023-12-30T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.318Z
+updatedAt: 2026-08-20T09:26:04.426Z
 ---
 
 ### ROS1串口库1.1
@@ -111,7 +111,7 @@ sudo make install
 安装完毕后，在CMake里正常添加该包就可以。
 
 ##### 其他准备工作
-**串口调试助手安装(Linux版) (如果需要Windows版，问控制组要去)**
+**串口调试助手安装（Linux版）。Windows端工具和Linux/ROS2主机端串口问题由软件算法组维护。**
 
 ```bash
 sudo apt-get install cutecom
@@ -173,7 +173,7 @@ config是个类对象，所以要创建一下这个类对象如下：
 
 SerialPortConfig(uint32_t baud_rate, **drivers::serial_driver::FlowControl flow_control** , drivers::serial_driver::Parity parity, drivers::serial_driver::StopBits stop_bits)
 
-从这个重载函数可以看到(参数不懂的问控制组)
+从这个重载函数可以看到（以下参数属于主机端串口配置，相关问题由软件算法组维护）：
 
 第一个参数baud_rate 波特率
 

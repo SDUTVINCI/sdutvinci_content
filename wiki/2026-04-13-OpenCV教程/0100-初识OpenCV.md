@@ -5,7 +5,7 @@ description: 简介
 authors:
   - dongjiahui
 publishedAt: 2026-04-13T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.223Z
+updatedAt: 2026-08-20T09:26:04.274Z
 ---
 
 ### 简介
@@ -37,4 +37,4 @@ OpenCV 由一系列 C 语言函数和 C++ 类构成。除了支持 C/C++ 开发�
 
 ### 安装OpenCV
 
-详见<NuxtLink to="/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian/0500-opencv-cuda-huan-jing-da-jian">opencv_cuda环境搭建</NuxtLink>
+详见<NuxtLink to="/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian/0500-opencv-cuda-huan-jing-da-jian">opencv_cuda环境搭建</NuxtLink>

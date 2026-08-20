@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-20T07:10:52.684Z",
+  "generatedAt": "2026-08-20T09:26:04.629Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -86,103 +86,83 @@
     },
     {
       "articleId": "30d3999c-36ac-504e-96c5-6461b21604ef",
-      "revisionId": "6dc61e7d-e94d-4ed5-940d-51307f39cfcd",
-      "revisionNumber": 2,
+      "revisionId": "ada11382-ceb9-4389-b609-4f524658354a",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养计划.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养计划.md",
-      "sha256": "d270dd883e9c17e0b0bc5ebea55a5d410b259b2396c4e6fd3f516bd94f07918b",
-      "bytes": 1003
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养总路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0100-Vinci机器人队培养总路线.md",
+      "sha256": "7f1dbb78d2c52eca330c2f25105d9f775e13a4abe6bf87c867befa23d58d4e61",
+      "bytes": 1037
     },
     {
       "articleId": "9941cd42-2e76-452d-93f1-d6ece0d36b8c",
-      "revisionId": "ae7e2e0e-db86-443f-b91f-a463375e9171",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队入门指导.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队入门指导.md",
-      "sha256": "882f959697ad0986504c923eadbeacfc2ca4a76c265278d4145bb8260fd825da",
-      "bytes": 7618
-    },
-    {
-      "articleId": "c4f76f4f-57f8-4ee4-9ec6-bf0c3c55135b",
-      "revisionId": "96d3e4e1-24ba-4ec2-90b9-f01c99761c6c",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-0100-控制入门.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-0100-控制入门.md",
-      "sha256": "38a2c52af5919bb35f5729c39731d112ed6cb5dad2a21483edc822086ac51f22",
-      "bytes": 7267
-    },
-    {
-      "articleId": "11d2dd6a-abd2-4633-9a03-4e927e4ff82b",
-      "revisionId": "45d92629-58df-4cb1-a5a1-8f83812e8dc8",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md",
-      "sha256": "4098c1f0a526e767816065a56bbc368fe11e99fc2a3fc8a06d9b8a8bcd5682ac",
-      "bytes": 6371
-    },
-    {
-      "articleId": "e35bc3d3-5c25-41ce-b7ef-c5c16d1d6619",
-      "revisionId": "fe78ba31-fe68-427c-909e-772548aeb3d7",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组入门教程.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组入门教程.md",
-      "sha256": "44f2b8af42599256d20f462cdcd91c7122a5d52dbcb56a4f86146614e7671c53",
-      "bytes": 200
-    },
-    {
-      "articleId": "8f1b4309-000e-4563-a43f-ee780bbb27d4",
-      "revisionId": "de286104-8c33-4b15-b853-4426b8820689",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组入门.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组入门.md",
-      "sha256": "e0080470a267387aff15f4cc0ee39e8a1f61e6a5d603e86beeeed8e1b09643c5",
-      "bytes": 5447
-    },
-    {
-      "articleId": "bb251a96-425a-4666-b36d-6cc70727ffa9",
-      "revisionId": "cca10b41-e4c7-400e-b7e6-f8cdb5739a27",
+      "revisionId": "695ed0eb-3145-4a21-8024-686fd830911a",
       "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-嵌入式算法入门指导.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-嵌入式算法入门指导.md",
-      "sha256": "0bb84e883cc50f5b42ecc2156e776b10ba60fd75cf9e4a1a93be8b42da08a8d3",
-      "bytes": 14768
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队总体路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队总体路线.md",
+      "sha256": "36b5093b7f35bbb3c69865255d04b92907bc5887f9bb778904da1819d662eb18",
+      "bytes": 9017
+    },
+    {
+      "articleId": "a8dd7e3e-6de1-4931-9085-2b8eaec776df",
+      "revisionId": "d9a74576-1bfb-4434-98e0-eecd237e4ff7",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组路线.md",
+      "sha256": "bc45756b3e5237be9425dfaa0444ade896ae33fde8e44c853a8d9be14d9b00ed",
+      "bytes": 12420
+    },
+    {
+      "articleId": "74561dc6-e6d6-4668-9cd4-6f9c4b8c356b",
+      "revisionId": "6ebf46a8-9f0f-4f48-8105-b6e19abbdbf4",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组路线.md",
+      "sha256": "9a2bd38ad205f10bd70c54f186dfdc84859fc99d36fdf019792c02ff57d4078f",
+      "bytes": 9218
+    },
+    {
+      "articleId": "04e9c7cd-8a43-42d8-b520-02da75645638",
+      "revisionId": "02aa0808-0b02-4570-baeb-2acf74deee67",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-嵌入式组与软件算法组公共路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-嵌入式组与软件算法组公共路线.md",
+      "sha256": "7531ca81bf6a1f988b1ec7c86f841f3fa52c5f6df2bdf3c862c21d184b1de90a",
+      "bytes": 6796
     },
     {
       "articleId": "48191411-0316-4ece-8357-e5e886f53aff",
-      "revisionId": "214ac247-9a59-4cd6-9626-7144a9cc4abb",
-      "revisionNumber": 2,
+      "revisionId": "017a88e2-2bb5-4ef6-a4aa-324a68a32f87",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0400-机械组入门指导.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0400-机械组入门指导.md",
-      "sha256": "b7414a02d4579dc9c3213b333550cc6a3ef64ca7c0942a527557593ed44914e7",
-      "bytes": 4734
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0400-机械组路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0400-机械组路线.md",
+      "sha256": "91dc25e99a74f83a78724659501d7a6591ec00dfd072d21c6082a4a2005542cd",
+      "bytes": 4728
     },
     {
-      "articleId": "81d33b88-809b-4817-b55c-55afc2eabcbe",
-      "revisionId": "a015934b-bc45-491f-90a3-e06e11110249",
+      "articleId": "67fffe91-e5b7-4113-bef9-f7d06ff2c4d2",
+      "revisionId": "b379e977-4953-4c58-af10-925a1942f770",
       "revisionNumber": 1,
       "collection": "wiki",
-      "relativePath": "2023-09-29-Vinci机器人队培养计划/0500-运营组入门指导.md",
-      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0500-运营组入门指导.md",
-      "sha256": "21c6dd726917f3fddcbd894a082817cd96c614914ceaf505de33a01b516a00fc",
-      "bytes": 1262
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0500-运营组路线.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0500-运营组路线.md",
+      "sha256": "a82e09ecfefb5662f39161ee3cf2dbe5afb637ef70bc6f0ef15b7ac60137bccc",
+      "bytes": 859
     },
     {
       "articleId": "820f13b3-2224-5bbf-addf-45430603f134",
-      "revisionId": "49d29864-aa13-4102-b315-b88f8a248ccf",
-      "revisionNumber": 2,
+      "revisionId": "6edca8c1-ea13-4b7f-86f5-13f41c560293",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-09-29-Vinci机器人队培养计划/index.md",
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/index.md",
-      "sha256": "fc4f08fdf800c680871c473bcbb370f63b5c18d896ab6f84825b3549c6536919",
-      "bytes": 1003
+      "sha256": "8a133197d0367a2d798b73aec19d4cf6b0720d25b718cc7e9e5fee76ce2e0d8e",
+      "bytes": 1164
     },
     {
       "articleId": "d9ef7ec2-e090-5ce7-8d13-88782d596fbe",
@@ -976,13 +956,13 @@
     },
     {
       "articleId": "3db8fffd-6b72-54ea-bcd0-b7975a56ce80",
-      "revisionId": "883690a7-035e-423f-a2a4-015124873ab5",
-      "revisionNumber": 2,
+      "revisionId": "0dceedc7-e2d3-474d-a931-ad007bd6f70b",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-09-STM32-FreeRTOS教程/0100-前言.md",
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0100-前言.md",
-      "sha256": "1aa5371b696ebd2f293a1f079ce822a1814b9f821874954bae65249c928c8910",
-      "bytes": 1281
+      "sha256": "5f998699843e2193e252fd263339a0948c5a482fd32d896a7e8f3fd7467ab353",
+      "bytes": 1282
     },
     {
       "articleId": "45da6399-fe4a-47af-beb6-d3a331ff3833",
@@ -1016,13 +996,13 @@
     },
     {
       "articleId": "3b8c32cc-a5f2-527a-8cf5-cef76724e90c",
-      "revisionId": "98aa4fde-e08f-4821-acf6-019cb9c31e39",
-      "revisionNumber": 2,
+      "revisionId": "bb4d689d-9947-468f-89f1-ea237f2c5699",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
-      "sha256": "a87202e066dd97717648b73ff0ef0e9df39426a823219892b6330fa37eecbd8e",
-      "bytes": 92137
+      "sha256": "996471bf5c7d46806c1a0ada085b4904c658805136cdf65d321416c3914f3bbd",
+      "bytes": 92138
     },
     {
       "articleId": "c86ff04f-3516-5c55-9dbb-7f1990e74770",
@@ -1046,23 +1026,23 @@
     },
     {
       "articleId": "ca05fe73-6c9f-4850-bddb-b8d2997139ec",
-      "revisionId": "8384b37d-4207-4004-ac4f-ac505570d56d",
-      "revisionNumber": 1,
+      "revisionId": "d9ffa142-486f-4716-9f0e-cadba4e87f6e",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-10-09-电路教程/0200-嘉立创EDA入门.md",
       "path": "wiki/2023-10-09-电路教程/0200-嘉立创EDA入门.md",
-      "sha256": "cc2e88dd6ae023a7ac3f20d820e31bc042cdeeae8da67834f5d27964178cafaa",
-      "bytes": 16066
+      "sha256": "d37789d017c7b9466ee5ac98a593e7e2d476b8056f52047a00514afc59cb8916",
+      "bytes": 17170
     },
     {
       "articleId": "e07d1894-ffce-48f7-b9f7-ff43c0814b43",
-      "revisionId": "bd7f286a-bb5c-43b3-93ff-5bdd46f5b9c9",
-      "revisionNumber": 1,
+      "revisionId": "b395f63a-228f-444d-92cc-54810e9fc9d2",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-10-09-电路教程/0300-电路板排查问题.md",
       "path": "wiki/2023-10-09-电路教程/0300-电路板排查问题.md",
-      "sha256": "e1df4c5f71af75d4fb81956c795e945347d23e2e7ededd72b6818a45231890b0",
-      "bytes": 2034
+      "sha256": "8c1d2a3034260ed1a1ca5a470d9f7aaa9b46d1d2b8e4fffce0e65c40614b5c84",
+      "bytes": 2838
     },
     {
       "articleId": "b151288a-54d8-426e-ad1a-5cb3aa2af5c6",
@@ -1086,13 +1066,13 @@
     },
     {
       "articleId": "63f34eed-f53b-45be-b57a-e20d169f9b6f",
-      "revisionId": "b739170c-1c53-4250-8451-0bdfce0edab1",
-      "revisionNumber": 1,
+      "revisionId": "8050b1bb-70a7-4a01-9d9b-5f2fb4367d5d",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2023-12-06-STM32任务资料/0100-电控组STM32入门元件采购.md",
-      "path": "wiki/2023-12-06-STM32任务资料/0100-电控组STM32入门元件采购.md",
-      "sha256": "c4249a9ae7fcc29cc3a082f07a68c323fbd75d101c3ba425f275b1b86ee8c97e",
-      "bytes": 3749
+      "relativePath": "2023-12-06-STM32任务资料/0100-STM32入门元件采购.md",
+      "path": "wiki/2023-12-06-STM32任务资料/0100-STM32入门元件采购.md",
+      "sha256": "f27d0232ed88d403061affc89849cb151dd8876598590fb91d34628c607c1dba",
+      "bytes": 3740
     },
     {
       "articleId": "68e08c30-a608-457a-9dd1-a2bae116d7ae",
@@ -1106,103 +1086,103 @@
     },
     {
       "articleId": "65030d7a-9927-5e2e-8a25-0214ef1a3295",
-      "revisionId": "ca24b1b6-e9c6-44d6-b784-6d81cc2e84d2",
-      "revisionNumber": 2,
+      "revisionId": "90694a20-e1c6-4043-8017-0d3d7c8dc20f",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0100-C_C++环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0100-C_C++环境搭建.md",
-      "sha256": "45ae140d0325a26cfcc1b1e16823cc43aeb604efea22a89e6bfe569b92bd93bb",
-      "bytes": 388
+      "relativePath": "2023-12-10-机器人开发环境搭建/0100-C_C++环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0100-C_C++环境搭建.md",
+      "sha256": "e07d32f0fbcb989d133fe1a1bc2c6ef1c9f75d05a68cc627842928736372f758",
+      "bytes": 394
     },
     {
       "articleId": "a865ed04-cf4b-5135-94ae-5899b46d86b8",
-      "revisionId": "d3569698-fdba-4a4d-87df-413d90a0eb27",
-      "revisionNumber": 2,
+      "revisionId": "6f0da762-3f7c-4048-8795-a3e7b7601045",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
-      "sha256": "11abc43d97260c1b161906ea294d5afb362fd72419398eae6e90b0207b758d19",
-      "bytes": 8406
+      "relativePath": "2023-12-10-机器人开发环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0200-ARMKeilMDK(ARM单片机环境搭建).md",
+      "sha256": "7b9f7b9f58265fc155843672c114af9d1c410d52b0cc298c8d35a6b143c30357",
+      "bytes": 8372
     },
     {
       "articleId": "0b76796a-d65b-52ba-9baf-8d59b1100755",
-      "revisionId": "6d22c5b7-7494-42dc-9414-f653fcf1d3df",
-      "revisionNumber": 2,
+      "revisionId": "9acb58ad-af6c-4557-9a75-e0cdd0527d36",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0300-Linux基本配置.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0300-Linux基本配置.md",
-      "sha256": "76bad4e41fd4425477085c4ef0d161c361674d321afe88aec8e8c2eb847523c8",
-      "bytes": 298
+      "relativePath": "2023-12-10-机器人开发环境搭建/0300-Linux基本配置.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0300-Linux基本配置.md",
+      "sha256": "e4c7d3273b0f0ab5c144afaa07cb86fccd35de3582ba7dad9494bac742b5d193",
+      "bytes": 310
     },
     {
       "articleId": "e9c8582e-cbb3-50e1-84c9-2f1eab46a73d",
-      "revisionId": "b5df97ea-457b-4d80-96da-40d22ba07c70",
-      "revisionNumber": 2,
+      "revisionId": "db89940f-9711-40a8-9066-dc3ecf90b5b0",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0400-CMake工程搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0400-CMake工程搭建.md",
-      "sha256": "ca7e766c464686b1bdaa223f931c07cbe2def2b5bf43e5f4c4c057ad2514e6c2",
-      "bytes": 319
+      "relativePath": "2023-12-10-机器人开发环境搭建/0400-CMake工程搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0400-CMake工程搭建.md",
+      "sha256": "d75b1583450e749740f41ee3131e3af88cfc189663ecea2232061a71924e9203",
+      "bytes": 325
     },
     {
       "articleId": "8f976ce3-ab16-592e-8911-e172c2df35a1",
-      "revisionId": "7ee86eef-6860-4bb8-9312-7bedd57d32bb",
-      "revisionNumber": 2,
+      "revisionId": "646af7c3-f66a-44d2-90c5-5b35fc7404ab",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0500-OpenCV__CUDA环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0500-OpenCV__CUDA环境搭建.md",
-      "sha256": "ae5e7bf2a91e343e796504a9ae6e0c750a3ada2fba97aac8aa36192753b98d94",
+      "relativePath": "2023-12-10-机器人开发环境搭建/0500-OpenCV__CUDA环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0500-OpenCV__CUDA环境搭建.md",
+      "sha256": "71640c1c51f0cbc6f205131512062011709a943b8734003654ecfebcfeb4e2a5",
       "bytes": 22735
     },
     {
       "articleId": "25d4f989-18b6-5eee-a6f2-a717e685de83",
-      "revisionId": "2bcfa053-5ca0-4508-b314-1415bd0b6821",
-      "revisionNumber": 2,
+      "revisionId": "4a7474fa-f473-4459-b456-567e79046dc3",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0600-YOLO环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0600-YOLO环境搭建.md",
-      "sha256": "592b2ddf3fe140612bed76803642806337107328128b265c3e3514b037a0354e",
-      "bytes": 372
+      "relativePath": "2023-12-10-机器人开发环境搭建/0600-YOLO环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0600-YOLO环境搭建.md",
+      "sha256": "35de58e7927581526aa6c05007163424789814b645f59adda8d37b07ce5c3048",
+      "bytes": 378
     },
     {
       "articleId": "6d0dabbe-7f11-56ed-9a5a-48ae272a9eb2",
-      "revisionId": "5ed8bb84-6b18-49c8-8506-d06c6fe9cfb8",
-      "revisionNumber": 2,
+      "revisionId": "f6f0401d-c2e7-4b00-be75-db1551f9ee72",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0700-ROS环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0700-ROS环境搭建.md",
-      "sha256": "08672f143c9a0ce98fabe0db4bb0d6bf3bf1b8c04b72f9e138016734b8704481",
-      "bytes": 2627
+      "relativePath": "2023-12-10-机器人开发环境搭建/0700-ROS环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0700-ROS环境搭建.md",
+      "sha256": "dd6d52aff22a259b5a3b65d98688916bdb5dff59cd202f6407b46fbaf2125689",
+      "bytes": 2633
     },
     {
       "articleId": "fe0add30-2a73-5aec-8f0d-f454526f0574",
-      "revisionId": "df965106-f003-4a61-9ee1-0133717e80ad",
-      "revisionNumber": 2,
+      "revisionId": "0cbc4c82-d77b-471f-a139-4a5eed035967",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0800-QT环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0800-QT环境搭建.md",
-      "sha256": "74aefe758001d4b9799e7459d4cc4c4168056f32e7f57c660ce8a2d973331abe",
-      "bytes": 3588
+      "relativePath": "2023-12-10-机器人开发环境搭建/0800-QT环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0800-QT环境搭建.md",
+      "sha256": "2b0f32229e5867c91420f6ab2d4a40bef7b776615582f76dea19a87f2b606387",
+      "bytes": 3594
     },
     {
       "articleId": "8f2e9845-e353-5e08-bc82-6ed9f354aa04",
-      "revisionId": "55be1be8-3842-4af4-b9ab-00d2cc8641c5",
-      "revisionNumber": 2,
+      "revisionId": "d759d0ce-109d-440e-b608-c03046e6348b",
+      "revisionNumber": 3,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/0900-Docker环境搭建.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/0900-Docker环境搭建.md",
-      "sha256": "dbc34a439d8fc042bfecc626292f02de1a11e848f3dc14affe0c3e07f3e58ebc",
-      "bytes": 256
+      "relativePath": "2023-12-10-机器人开发环境搭建/0900-Docker环境搭建.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/0900-Docker环境搭建.md",
+      "sha256": "2c5136f229c588b6f723aa054a334bc1c2a2f4e7ee653ac25b88a28d8f2afae3",
+      "bytes": 262
     },
     {
-      "articleId": "dcf219ea-674a-5de4-9ef1-fef3292e949c",
-      "revisionId": "47763632-4582-46fb-a19c-0f98eef6faf6",
-      "revisionNumber": 2,
+      "articleId": "2463738d-03aa-4ed1-b062-9665a53ec96e",
+      "revisionId": "1dbcdb3e-8bff-426d-a282-e413e7c6ff65",
+      "revisionNumber": 1,
       "collection": "wiki",
-      "relativePath": "2023-12-10-电控视觉环境搭建/index.md",
-      "path": "wiki/2023-12-10-电控视觉环境搭建/index.md",
-      "sha256": "beba0a5f04cb11bc85c5c2c83e76efbca25dd575f3b447f9a5f1db835b3e2747",
-      "bytes": 392
+      "relativePath": "2023-12-10-机器人开发环境搭建/index.md",
+      "path": "wiki/2023-12-10-机器人开发环境搭建/index.md",
+      "sha256": "66225a5b82c29710050cfcfcd9b001770de46a0af26257b799ee727eeac7bc50",
+      "bytes": 657
     },
     {
       "articleId": "6554e478-f6ac-51c6-82c6-7b89edf6a1f3",
@@ -1286,13 +1266,13 @@
     },
     {
       "articleId": "3520bccf-a4d2-4c99-87be-1ee7cf46b287",
-      "revisionId": "5dff44e6-05cc-40c8-8266-eb08777c4e9f",
-      "revisionNumber": 1,
+      "revisionId": "5d4d05f8-1461-4765-91b0-23bb270003f9",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-12-30-ROS导航与建图实践/0400-mid360-localization大致流程.md",
       "path": "wiki/2023-12-30-ROS导航与建图实践/0400-mid360-localization大致流程.md",
-      "sha256": "98432ec24b8d2def6427c97b5ae96058bf602ce9b1cfd53c94e41b32e84639cf",
-      "bytes": 9460
+      "sha256": "38fa9d3ef0229becc4df5c5f4f7fb95a3b17ccc8a25edadd5e79b17863e5102c",
+      "bytes": 9697
     },
     {
       "articleId": "5c5c01de-1c7e-412b-b976-3b6caad1d7db",
@@ -1316,13 +1296,13 @@
     },
     {
       "articleId": "9be079a7-0a37-415c-ab6c-5841ddbd049b",
-      "revisionId": "fafcfeb4-43b3-419d-8aa8-e6c02b141b78",
-      "revisionNumber": 1,
+      "revisionId": "caab6a98-a21c-4aac-b130-6d64f123446c",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-12-30-ROS导航与建图实践/0700-关于实操的一些知识点.md",
       "path": "wiki/2023-12-30-ROS导航与建图实践/0700-关于实操的一些知识点.md",
-      "sha256": "a8fd5b99fee07fe8d897151f3608c25d62db32bc949d60738341b0d89904e2a3",
-      "bytes": 4013
+      "sha256": "9b4dc2bb08fbfc50539c3eddea27bb717d831b8c60d0776469ee2581e781bcf5",
+      "bytes": 3989
     },
     {
       "articleId": "ec8d7417-c768-43f9-ad7c-fabcda299aa5",
@@ -1336,13 +1316,13 @@
     },
     {
       "articleId": "f877be3f-7e33-55e6-9751-87c817b17d99",
-      "revisionId": "634eb5e1-e94f-4159-82bf-7f1187ae4016",
-      "revisionNumber": 5,
+      "revisionId": "108effd4-eb33-4bf0-ac65-de3043a60522",
+      "revisionNumber": 6,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
       "path": "wiki/2023-12-30-ros2-tutorial/0100-ROS2介绍.md",
-      "sha256": "df7461c8d96e7a794d00545bf602c4c45bdfa0244dce4226de721f5c868549c4",
-      "bytes": 33008
+      "sha256": "ff317d2b2a195774dc142586263009f113b52f6b7a78c8d940103084dc8bfd85",
+      "bytes": 33047
     },
     {
       "articleId": "294ab387-72f7-5d4e-958f-e4a921124090",
@@ -1436,13 +1416,13 @@
     },
     {
       "articleId": "182547a3-9f52-53e3-bb95-439e4e62314e",
-      "revisionId": "19e2a040-204f-4c0b-a705-7ac0991bd0e0",
-      "revisionNumber": 2,
+      "revisionId": "61e50b9a-e431-468f-8ce7-8246632b6a32",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/1100-0100-GazeboClassic.md",
       "path": "wiki/2023-12-30-ros2-tutorial/1100-0100-GazeboClassic.md",
-      "sha256": "1c165f0d6258d39ca13593c8a1bdab095606dfdf648b8f611d2e9ffed09031ce",
-      "bytes": 70233
+      "sha256": "8516f1e775f78bda61381d72310c7024c52be81a104382b2ec5478849dc06851",
+      "bytes": 70361
     },
     {
       "articleId": "48053273-7678-5c41-9791-63325adc0d1a",
@@ -1536,13 +1516,13 @@
     },
     {
       "articleId": "6d3969db-b77e-52ad-aacd-f367e7ed1df1",
-      "revisionId": "c1b50fbc-bfef-45a5-aab0-7b7c20fe7a66",
-      "revisionNumber": 2,
+      "revisionId": "faf2cc8b-b337-4639-9242-671c81a0c5c2",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/1300-0100-0200-ros2_serial_driver.md",
       "path": "wiki/2023-12-30-ros2-tutorial/1300-0100-0200-ros2_serial_driver.md",
-      "sha256": "d0b2704c30d0289b19cee18c9b6918fe08e64525fc86201d155f0bd37083f7e7",
-      "bytes": 19887
+      "sha256": "a27dfe39657d8d40a7932bef0c80bf93748475579a75fbef37f4d4532a72ad7f",
+      "bytes": 19983
     },
     {
       "articleId": "a4a1f2ab-136b-54f1-adac-dff764e8c2e9",
@@ -1776,13 +1756,13 @@
     },
     {
       "articleId": "d0f970c4-2ef1-5c8d-b997-cd35f4a57f1e",
-      "revisionId": "b3624079-47cb-4b49-a901-f6327b80b1a5",
-      "revisionNumber": 2,
+      "revisionId": "34f25b57-d06e-4cf6-ab54-97ed3bfb38e1",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/1400-0600-硬件平台.md",
       "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-硬件平台.md",
-      "sha256": "eac5efd953dfa31eec65017e2fc6f2e8682e668f5c7158ffe66ca3e6a3d03e2f",
-      "bytes": 2227
+      "sha256": "e3adea3719ec4997c66edbb54d2bfe4be0aaf523897dc04b4f0e021e0cc4bdb0",
+      "bytes": 2351
     },
     {
       "articleId": "e2eeeb3f-4a15-5a4d-a937-b273bf808457",
@@ -1916,13 +1896,13 @@
     },
     {
       "articleId": "eab229cc-b49e-5b26-8adc-4e525e6e16dc",
-      "revisionId": "5aee4019-95dc-424f-99d5-1110fbe771ad",
-      "revisionNumber": 2,
+      "revisionId": "657cc6af-d9a7-489b-98f8-071e7062dddd",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/2000-OpenCV.md",
       "path": "wiki/2023-12-30-ros2-tutorial/2000-OpenCV.md",
-      "sha256": "a110814f64127d1ab1153639b1ee4db1faf55b86649680ff4f1bbe88391625c7",
-      "bytes": 3283
+      "sha256": "133ab0d19b87caa9ec9e9dc0b53e62554e8d25559532030de135ec7a2408b196",
+      "bytes": 3284
     },
     {
       "articleId": "8664dd45-fa65-53d0-936e-cb3b418744c7",
@@ -2056,13 +2036,13 @@
     },
     {
       "articleId": "3aa6a7c8-3d68-52f6-bb60-5607c43b2e3b",
-      "revisionId": "bed30705-b9cd-4842-9d81-1e59d5127f91",
-      "revisionNumber": 2,
+      "revisionId": "cea88b60-597e-47bf-bb83-d30391daed74",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2024-03-30-Linux教程/0500-各种环境配置.md",
       "path": "wiki/2024-03-30-Linux教程/0500-各种环境配置.md",
-      "sha256": "d37803d32cdfac20b40205d9c6dccbf7cef4bcf1ecea2f7772adeaf77ff1a7ae",
-      "bytes": 304
+      "sha256": "db0ad2614207aba84d553c5de04782b43b35a6fe0ec2c6f2eaae1a1ea81ace5a",
+      "bytes": 309
     },
     {
       "articleId": "4ed3b8d8-d58f-58d7-9912-61da678abb98",
@@ -2186,13 +2166,13 @@
     },
     {
       "articleId": "7e9bb100-4eb6-4765-b18f-6adfab180946",
-      "revisionId": "b370de56-b5f5-4f67-943d-1910e183bd2f",
-      "revisionNumber": 1,
+      "revisionId": "54ae3a26-a18f-43a2-bdea-fbdef591abc2",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2024-07-12-机械组教程/0200-0600-驱动系统（动力源）.md",
       "path": "wiki/2024-07-12-机械组教程/0200-0600-驱动系统（动力源）.md",
-      "sha256": "ab93f2e3383b97f707f9213a90aa1ba773193d0805856f04e486d9a248907de1",
-      "bytes": 8271
+      "sha256": "96981b56225d7b29db558bcce805b439381231dc33a986ba9d245d409c4fab58",
+      "bytes": 8456
     },
     {
       "articleId": "8e2502e8-b25e-4a45-b4f8-70ef267ea3e6",
@@ -2256,13 +2236,13 @@
     },
     {
       "articleId": "144b834f-eae4-4149-ac4a-24c49be4bd42",
-      "revisionId": "747315b8-5199-42cd-a9ff-3516b8e7254c",
-      "revisionNumber": 2,
+      "revisionId": "27bc66b7-3081-46c8-a24f-fa4343fa8fab",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2024-07-12-机械组教程/index.md",
       "path": "wiki/2024-07-12-机械组教程/index.md",
-      "sha256": "a8ef5388def7077b1d208292e91a5a6d238052294e6430c09843f2d3873f197c",
-      "bytes": 805
+      "sha256": "1ea35f6dcbeb109c7465bc47d3b2fa531f849f2c2ce953e1b1a5e3fe086f26bd",
+      "bytes": 792
     },
     {
       "articleId": "5b9aea20-68a8-43b0-9505-ce59c9e2635e",
@@ -2296,13 +2276,13 @@
     },
     {
       "articleId": "fcea015f-b688-43d3-89e3-48f0c686a245",
-      "revisionId": "74ac96c2-a1b8-4bd7-a2ae-cff896b343b0",
-      "revisionNumber": 1,
+      "revisionId": "8a5d8bf3-2522-4e66-acab-01491589b87b",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2024-07-18-上位机串口通信-Boost库/0100-Boost介绍与基础实现.md",
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0100-Boost介绍与基础实现.md",
-      "sha256": "04523404a55a2d8327e3aaf4bd4a2afbde48d59d734b5b13e5459690f5dad8e6",
-      "bytes": 12026
+      "sha256": "29105297c548af8ebc663604af70bd1062483a257f0cc0c4e629ff126d986593",
+      "bytes": 12145
     },
     {
       "articleId": "2317ca59-e5a2-4d93-8867-5eb5d0433cb3",
@@ -2426,13 +2406,13 @@
     },
     {
       "articleId": "7ef152c6-7ba2-44b1-900d-f90a5f28b0e6",
-      "revisionId": "ddafba2a-6cfa-4611-a404-5bf9ca7f511c",
-      "revisionNumber": 2,
+      "revisionId": "a3e96f3c-99da-4c27-addc-12e95a2fe35c",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2024-07-19-深度学习算法-Yolo系列/index.md",
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/index.md",
-      "sha256": "c98439a28a1cea8aa58bf8117131b9ed54fa125afabff10e0c96232ef1ca353d",
-      "bytes": 23869
+      "sha256": "1f65be9d371dc7091ae3f8db45b70e323ba44213f48309f28d90623fb11ffc53",
+      "bytes": 23871
     },
     {
       "articleId": "2f05548f-c75e-4946-83a8-0fd685ae58cc",
@@ -2476,13 +2456,13 @@
     },
     {
       "articleId": "dc5551e0-8232-480e-9691-7c7f921cb69d",
-      "revisionId": "1a3cd925-53b9-40c8-81ac-0f4fb577aaa0",
-      "revisionNumber": 1,
+      "revisionId": "4aee370f-f79e-4c49-b643-fa8b348901fa",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2024-07-19-计算机视觉算法实践/0400-目标位置锁定.md",
       "path": "wiki/2024-07-19-计算机视觉算法实践/0400-目标位置锁定.md",
-      "sha256": "b542baa9432c2619dc0e8c4dbadafdf3365fa060b7ef65fadced01814fe985e6",
-      "bytes": 6823
+      "sha256": "ee42c0445baf95dc2641a9738d843493c650213b8be7915ff6ae1f296f3dda65",
+      "bytes": 7075
     },
     {
       "articleId": "c5b72be6-ef2a-4777-8669-bf65d62758cc",
@@ -2496,13 +2476,13 @@
     },
     {
       "articleId": "5da2b819-46e0-4250-a46d-352394225394",
-      "revisionId": "326cd17c-ba31-42ff-99c2-e17b1a6b632d",
-      "revisionNumber": 2,
+      "revisionId": "1b096529-a34c-4788-829f-5da500ca3d4c",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2024-07-19-计算机视觉算法实践/0600-使用OpenCV推理Yolov8模型.md",
       "path": "wiki/2024-07-19-计算机视觉算法实践/0600-使用OpenCV推理Yolov8模型.md",
-      "sha256": "567eadad2b9c97f284c38def2f3e192179a5fc007c95ae26b19c8b70334caeab",
-      "bytes": 5927
+      "sha256": "cb9d7067603cfa744905dbe93ed86c55d16bf3a4747451dd9b93e45a36968620",
+      "bytes": 5959
     },
     {
       "articleId": "1b88ebfb-3f3a-493c-ba36-6c48ea961300",
@@ -2596,13 +2576,13 @@
     },
     {
       "articleId": "1c561683-48d5-59c0-943b-91ff7e618b58",
-      "revisionId": "7785e9c0-8a00-4212-bb8a-82a33280567d",
-      "revisionNumber": 3,
+      "revisionId": "8e5e0a8e-007c-4a55-b78c-86a0b0c660b8",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2024-10-03-Docker教程/0700-各种Docker容器部署.md",
       "path": "wiki/2024-10-03-Docker教程/0700-各种Docker容器部署.md",
-      "sha256": "890da707b886cea4815b452d8da7fd134cde2738f80cc54c6c89145a0eebff7a",
-      "bytes": 5319
+      "sha256": "b39b5674094095174b068e3cd424b88b2817f906bbb4579fcee792ea4eeb9f16",
+      "bytes": 5353
     },
     {
       "articleId": "8b5f3aed-3bf2-5d43-91d3-b0b1a46ee231",
@@ -2666,53 +2646,53 @@
     },
     {
       "articleId": "0f87433f-e82f-400d-b2a1-3e15f0a97dc1",
-      "revisionId": "6f8a24c1-13c7-459a-a05b-77bf5c67db10",
-      "revisionNumber": 1,
+      "revisionId": "2088a635-fc49-47fb-b228-3c510369a44b",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2025-02-07-C-Cpp考核资料/0100-0200-Vinci战队C-C++提前批考核题目.md",
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0200-Vinci战队C-C++提前批考核题目.md",
-      "sha256": "6a516b77edb18858c8a4b3b22980e3bb42c50279fcbe01d83f9d220b2720750a",
-      "bytes": 2733
+      "sha256": "ccdc874d1fa3d78573313a4533795ed24bd55ff7508dde0227110e7f26d8ddac",
+      "bytes": 2789
     },
     {
       "articleId": "52752f54-0ea5-475a-9a73-5f704d2aacc1",
-      "revisionId": "3380f6ce-71cc-45ba-b5d9-9693d8eca7ad",
-      "revisionNumber": 1,
+      "revisionId": "ae9ebbe3-2496-4dc2-9c77-cfb31ed4083d",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0300-电控组C-C++一卷考核题.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0300-电控组C-C++一卷考核题.md",
-      "sha256": "061556b5f7137bd142dfa1b84506ce4ef3b7f2b8e7c1e33d75d26d44c96539d2",
-      "bytes": 8414
+      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0300-C-C++公共基础一卷考核题.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0300-C-C++公共基础一卷考核题.md",
+      "sha256": "775c53ea6352d9f6e354918159724b51f19d583db55b3ded3aeb236a03cf97e1",
+      "bytes": 8415
     },
     {
       "articleId": "cffad851-a750-4256-80fd-0a5cb9f3f30c",
-      "revisionId": "d640af47-15de-4567-933c-f5bf22cf0f3e",
-      "revisionNumber": 1,
+      "revisionId": "aac495d5-8da3-4a5b-854a-ce18ffcd8c01",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0400-电控组C-C++二卷考核题.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0400-电控组C-C++二卷考核题.md",
-      "sha256": "20dd302350f03ae997a276c32827c63599e2d9c8a7f18c4f6d18a9644186c7a3",
-      "bytes": 9001
+      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0400-C-C++公共基础二卷考核题.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0400-C-C++公共基础二卷考核题.md",
+      "sha256": "026981394935ba1069848f13a40853b626cfd443085ac863be2a4ceb59212c26",
+      "bytes": 9002
     },
     {
       "articleId": "7d4eb6d8-a089-4a64-810b-ddd46b297dfb",
-      "revisionId": "38a2b21b-01aa-49fe-97f1-22f49057a016",
-      "revisionNumber": 1,
+      "revisionId": "8b1f32e3-faf8-4658-9fb1-df250e409f77",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0500-电控组C-C++最终考核题.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0500-电控组C-C++最终考核题.md",
-      "sha256": "ceff2bb0d94e2b9b3ea98d3bb426850b18a7026dfd9ee6609d564f7e9f8fdf52",
-      "bytes": 9951
+      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0500-嵌入式组C-C++工程基础综合考核题.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0500-嵌入式组C-C++工程基础综合考核题.md",
+      "sha256": "6c647e0d2efd6e9f5c5ed32522cf93fce52130e77ca8dece9d5af6d3ff6dcba4",
+      "bytes": 9966
     },
     {
       "articleId": "baa8c5cc-201d-48df-bec0-fba8e413a139",
-      "revisionId": "00103d07-f0fc-4b5d-a8aa-d5dc031aa936",
-      "revisionNumber": 1,
+      "revisionId": "00f99fe7-1d45-4b89-9c8b-d42e7c6a14e3",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0100-电控组C-C++练习题.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-电控组C-C++练习题.md",
-      "sha256": "8590489cb71c7df2d19055d065ba2a3c591800578e3b763fedb38ee85b265a84",
-      "bytes": 16650
+      "relativePath": "2025-02-07-C-Cpp考核资料/0100-C-C++公共基础练习题.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-C-C++公共基础练习题.md",
+      "sha256": "58fc025929b3562443868cabeae5e99569a1e500248340ee0601c6f8d1e2344d",
+      "bytes": 16653
     },
     {
       "articleId": "4a920866-3a7a-40c5-8b6b-630100b9a84e",
@@ -2726,63 +2706,63 @@
     },
     {
       "articleId": "0b8e1c82-8b6a-4bad-be24-d6de70f7327e",
-      "revisionId": "df02468e-b8bb-4cb4-ad7d-363c9c4cf200",
-      "revisionNumber": 1,
+      "revisionId": "9e96a25f-dc10-4c93-b9ce-d4011b7838e2",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2025-02-07-C-Cpp考核资料/0200-0200-Vinci战队C-C++提前批考核题答案.md",
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0200-Vinci战队C-C++提前批考核题答案.md",
-      "sha256": "de92f14098031094a3da11188a99ed2433e857b4dcd71c0a0adbacaed862d6d7",
-      "bytes": 3499
+      "sha256": "f2c9bbe4c8b668f8b093757e3f3389c40bfeeca54721a203e3db7e8788a97fba",
+      "bytes": 3535
     },
     {
       "articleId": "f59d44f4-3d36-465c-85a1-383650f19f7c",
-      "revisionId": "de14c061-d28c-4647-ae6a-09e39ecd065b",
-      "revisionNumber": 1,
+      "revisionId": "b4766409-6ffb-4dbd-a849-4123f24b63c4",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0300-电控组C-C++一卷答案.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0300-电控组C-C++一卷答案.md",
-      "sha256": "300cf83d3ba7f520f13f71f1c366c4507ec555954d8e3a226241b80f504ee99e",
-      "bytes": 10883
+      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0300-C-C++公共基础一卷答案.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0300-C-C++公共基础一卷答案.md",
+      "sha256": "adf8d5da1715160ccbad2068212ab0129baaab227ef1166637166407e8f32998",
+      "bytes": 10884
     },
     {
       "articleId": "332a4031-4bf0-4af0-9511-80d987284033",
-      "revisionId": "ff33be06-dd7e-4733-b022-7c0beae5ad97",
-      "revisionNumber": 1,
+      "revisionId": "bf5a91e6-f6a2-4873-822d-7ac03397ab91",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0400-电控组C-C++二卷答案.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0400-电控组C-C++二卷答案.md",
-      "sha256": "26cdb80d347ada7078913e8af185698541f72118ac0d88856b883ea71d30ec2e",
-      "bytes": 13351
+      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0400-C-C++公共基础二卷答案.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0400-C-C++公共基础二卷答案.md",
+      "sha256": "f8229396ae032ef7261ac8587ce7bad77a2f3112777f3b1f459c6a8ab79bcf48",
+      "bytes": 13352
     },
     {
       "articleId": "71a6c750-d0bb-4946-8175-7f917204518e",
-      "revisionId": "455c4db3-47cc-4c1e-89d0-85b93283a94d",
-      "revisionNumber": 1,
+      "revisionId": "e6753110-b6d9-48fa-b1f5-c3af560da043",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0500-电控组C-C++最终考核题答案.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-电控组C-C++最终考核题答案.md",
-      "sha256": "cae3dd5f727cb8ba4a147d5308bfce2ec4e02afee39c924ae6458e9f0569394d",
-      "bytes": 19155
+      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
+      "sha256": "0f918229f8c64bc0e0ce2d6ccc1de7e6f9b1132ec3c494b99d5ba36e2b3c7854",
+      "bytes": 19170
     },
     {
       "articleId": "e3ce3e4e-9906-44bb-a9b8-f728dc376d0a",
-      "revisionId": "3ce428e1-8b02-41c4-81d3-9f40f30cda20",
-      "revisionNumber": 1,
+      "revisionId": "725cc1cd-4096-437d-932b-ecb10200f7c3",
+      "revisionNumber": 2,
       "collection": "wiki",
-      "relativePath": "2025-02-07-C-Cpp考核资料/0200-电控组C-C++练习题及答案.md",
-      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-电控组C-C++练习题及答案.md",
-      "sha256": "320e43673021dc451d940fe8254eb0386143fc393b097bc28ddd01884a868acf",
-      "bytes": 44615
+      "relativePath": "2025-02-07-C-Cpp考核资料/0200-C-C++公共基础练习题及答案.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-C-C++公共基础练习题及答案.md",
+      "sha256": "e3dcdf1f3afae27015f16672a197f784a9faa4bf2b87b1b42198a4bd0d556129",
+      "bytes": 44618
     },
     {
       "articleId": "ae372e4b-3461-49d0-af21-21e105857cc7",
-      "revisionId": "f03589ac-4386-4370-a219-7df6f0b8cb63",
-      "revisionNumber": 1,
+      "revisionId": "6d0b3076-1741-4087-b6fd-9de5bf782c76",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2025-02-07-C-Cpp考核资料/index.md",
       "path": "wiki/2025-02-07-C-Cpp考核资料/index.md",
-      "sha256": "4db85097ecd76ae73ec626df9417136d79743c2e0c510cc44be224669257f9cd",
-      "bytes": 223
+      "sha256": "b2755aab6d515083a3ccd2a4dd9ea650d84ad1c7194d50a92953d7d97c354a6e",
+      "bytes": 1133
     },
     {
       "articleId": "229e11f4-ced1-4513-8bd8-8d57cb67f6b3",
@@ -2796,13 +2776,13 @@
     },
     {
       "articleId": "f3a1a309-0e06-42b2-b54e-038cfadcca07",
-      "revisionId": "57dc67af-f868-4cf7-8c18-b47e44621695",
-      "revisionNumber": 1,
+      "revisionId": "1b13f0de-34ef-4024-8b18-0e7dddacd6fd",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2025-03-30-C-Cpp图形化QT6教程/index.md",
       "path": "wiki/2025-03-30-C-Cpp图形化QT6教程/index.md",
-      "sha256": "a0b384b11ca467a8420ec8bd729c1f46f5a287cc46d37ceda9168b615c6c0334",
-      "bytes": 7714
+      "sha256": "eb48da8273c2579c89473fb52f5c03e7a093bc5476e52dbfd7fb61b4c122570f",
+      "bytes": 7720
     },
     {
       "articleId": "e00a8b45-a5f5-48c4-b990-bf42b03cdc2f",
@@ -3066,13 +3046,13 @@
     },
     {
       "articleId": "a8a67e93-f1bf-5305-bee1-cee848c43c1f",
-      "revisionId": "f3a2bfdd-7980-4749-a997-92fff95e1c8b",
-      "revisionNumber": 2,
+      "revisionId": "289bacb1-5068-4df3-8076-db4836865b4f",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2026-04-13-OpenCV教程/0100-初识OpenCV.md",
       "path": "wiki/2026-04-13-OpenCV教程/0100-初识OpenCV.md",
-      "sha256": "3ed676b0efef2e705f98ed0bac5467af3f11612e1c22207dea54679f6e64efdb",
-      "bytes": 3601
+      "sha256": "e64971fac4883106a6b76331d39bb4cad86e2b7d1ebae879969ed553e1bb5aec",
+      "bytes": 3600
     },
     {
       "articleId": "e27e7d58-19b0-5361-9eb5-36eeef0a6102",
@@ -3741,6 +3721,13 @@
   ],
   "tombstones": [
     {
+      "articleId": "11d2dd6a-abd2-4633-9a03-4e927e4ff82b",
+      "revisionId": "45d92629-58df-4cb1-a5a1-8f83812e8dc8",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md"
+    },
+    {
       "articleId": "7478b24f-1583-4e79-a925-733b2a01f1fc",
       "revisionId": "49789d9c-7199-42f5-ad8e-2eb3552c7c59",
       "collection": "wiki",
@@ -3748,11 +3735,53 @@
       "path": "wiki/2025-02-07-Vinci机器人队汇编语言教程/index.md"
     },
     {
+      "articleId": "81d33b88-809b-4817-b55c-55afc2eabcbe",
+      "revisionId": "a015934b-bc45-491f-90a3-e06e11110249",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0500-运营组入门指导.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0500-运营组入门指导.md"
+    },
+    {
+      "articleId": "8f1b4309-000e-4563-a43f-ee780bbb27d4",
+      "revisionId": "de286104-8c33-4b15-b853-4426b8820689",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组入门.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组入门.md"
+    },
+    {
       "articleId": "a5d77a3a-8860-48e3-a963-bca38317bde6",
       "revisionId": "a6591a2b-83db-4138-b92c-34634853dd86",
       "collection": "wiki",
       "relativePath": "2025-04-15-Linux软件包构建与分发/index.md",
       "path": "wiki/2025-04-15-Linux软件包构建与分发/index.md"
+    },
+    {
+      "articleId": "bb251a96-425a-4666-b36d-6cc70727ffa9",
+      "revisionId": "cca10b41-e4c7-400e-b7e6-f8cdb5739a27",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-嵌入式算法入门指导.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-嵌入式算法入门指导.md"
+    },
+    {
+      "articleId": "c4f76f4f-57f8-4ee4-9ec6-bf0c3c55135b",
+      "revisionId": "96d3e4e1-24ba-4ec2-90b9-f01c99761c6c",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-0100-控制入门.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-0100-控制入门.md"
+    },
+    {
+      "articleId": "dcf219ea-674a-5de4-9ef1-fef3292e949c",
+      "revisionId": "47763632-4582-46fb-a19c-0f98eef6faf6",
+      "collection": "wiki",
+      "relativePath": "2023-12-10-电控视觉环境搭建/index.md",
+      "path": "wiki/2023-12-10-电控视觉环境搭建/index.md"
+    },
+    {
+      "articleId": "e35bc3d3-5c25-41ce-b7ef-c5c16d1d6619",
+      "revisionId": "fe78ba31-fe68-427c-909e-772548aeb3d7",
+      "collection": "wiki",
+      "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组入门教程.md",
+      "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组入门教程.md"
     }
   ]
 }
