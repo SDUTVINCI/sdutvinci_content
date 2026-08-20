@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-18T16:48:11.952Z",
+  "generatedAt": "2026-08-20T07:10:52.684Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "cc2a2aacac4f3f8fe7d719a860174a507579cd9c348f893a0f5ad78aef5d10cc"
+    "sha256": "7f2d4173f84b9ee69dd360de1477141e256fc10ab4449fb425a80075cf6994a3"
   },
   "files": [
     {
@@ -1674,9 +1674,14 @@
       "bytes": 9763
     },
     {
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0300-如何修改网站Wiki.md",
+      "sha256": "0fb75d5b53ff69b378002e47d1f0bdeb8970bcbb42f55fd2ce91c84da3d54a84",
+      "bytes": 13355
+    },
+    {
       "path": "wiki/2025-07-01-Nuxt.js网站框架/index.md",
-      "sha256": "26044ba5ab8737bab4bb89fa6221515a94f1e8c05fe351d708214741b3098883",
-      "bytes": 937
+      "sha256": "1244aa23ad49685cc19036dfc19e4db0e1f053b5cbfe32763114d094ce0f2094",
+      "bytes": 228
     },
     {
       "path": "wiki/2025-07-18-Linux-STM32-CMake-VScode环境搭建/0100-简介.md",

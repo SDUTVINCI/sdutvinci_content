@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-18T16:48:11.952Z",
+  "generatedAt": "2026-08-20T07:10:52.684Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2835,14 +2835,24 @@
       "bytes": 9763
     },
     {
+      "articleId": "62cf2297-f162-429d-8043-22f33da1d9ba",
+      "revisionId": "a42d97c5-f6a7-4c0b-8ab9-fc376de953df",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-07-01-Nuxt.js网站框架/0300-如何修改网站Wiki.md",
+      "path": "wiki/2025-07-01-Nuxt.js网站框架/0300-如何修改网站Wiki.md",
+      "sha256": "0fb75d5b53ff69b378002e47d1f0bdeb8970bcbb42f55fd2ce91c84da3d54a84",
+      "bytes": 13355
+    },
+    {
       "articleId": "07ecf8c0-bbf2-5cdb-8549-4fa7cafe2b33",
-      "revisionId": "bae4e791-8dee-41cb-af9a-ad235da5fae7",
-      "revisionNumber": 2,
+      "revisionId": "7e891b93-ba47-4207-87da-72ea48532997",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2025-07-01-Nuxt.js网站框架/index.md",
       "path": "wiki/2025-07-01-Nuxt.js网站框架/index.md",
-      "sha256": "26044ba5ab8737bab4bb89fa6221515a94f1e8c05fe351d708214741b3098883",
-      "bytes": 937
+      "sha256": "1244aa23ad49685cc19036dfc19e4db0e1f053b5cbfe32763114d094ce0f2094",
+      "bytes": 228
     },
     {
       "articleId": "d793da75-18a6-53e9-8376-397d6b31271b",
