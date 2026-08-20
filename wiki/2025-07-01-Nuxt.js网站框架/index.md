@@ -1,6 +1,8 @@
 ---
 vinciId: 07ecf8c0-bbf2-5cdb-8549-4fa7cafe2b33
 title: Nuxt.js网站框架
+tags:
+  - 通用资料
 description: ·3131
 authors:
   - dongjiahui

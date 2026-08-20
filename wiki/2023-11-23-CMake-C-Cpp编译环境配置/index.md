@@ -1,6 +1,9 @@
 ---
 vinciId: 2ef96f33-b6d7-4fd7-83ed-e8a134e3d210
 title: CMake C/C++编译环境配置
+tags:
+  - 嵌入式组
+  - 软件算法组
 description: 参考资料
 authors:
   - dongjiahui

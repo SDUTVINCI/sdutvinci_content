@@ -1,6 +1,8 @@
 ---
 vinciId: 1b88ebfb-3f3a-493c-ba36-6c48ea961300
 title: 计算机视觉算法实践
+tags:
+  - 软件算法组
 description: 围绕测距、标定、目标跟踪、数据关联和模型推理整理的计算机视觉实践专题。
 authors:
   - dongjiahui

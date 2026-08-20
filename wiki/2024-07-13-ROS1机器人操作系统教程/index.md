@@ -1,6 +1,8 @@
 ---
 vinciId: 984fc4eb-82ef-5ff0-a600-1659157b6af7
 title: ROS1机器人操作系统教程
+tags:
+  - 软件算法组
 description: 如果你想看ROS2教程，请看ROS2机器人操作系统教程
 authors:
   - dongjiahui

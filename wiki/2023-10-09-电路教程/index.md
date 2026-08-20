@@ -1,6 +1,8 @@
 ---
 vinciId: b151288a-54d8-426e-ad1a-5cb3aa2af5c6
 title: 电路资料
+tags:
+  - 嵌入式组
 description: \.防反接：
 authors:
   - sulihao

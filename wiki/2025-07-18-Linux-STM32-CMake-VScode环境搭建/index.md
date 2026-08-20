@@ -1,6 +1,8 @@
 ---
 vinciId: 0d890576-2762-5969-a202-b47b01a73cc6
 title: Linux-STM32-CMake-VScode环境搭建
+tags:
+  - 嵌入式组
 description: |-
   本教程已经过时，请看下方的新教程<br>
   本教程已经过时，请看下方的新教程<br>

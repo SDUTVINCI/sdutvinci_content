@@ -1,6 +1,8 @@
 ---
 vinciId: 28098b78-f3a9-45f5-833e-43b59ab79198
 title: ROS2+安卓应用开发
+tags:
+  - 软件算法组
 description: 开坑，慢填
 authors:
   - liuyehan

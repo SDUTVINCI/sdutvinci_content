@@ -1,6 +1,8 @@
 ---
 vinciId: 7ef152c6-7ba2-44b1-900d-f90a5f28b0e6
 title: 深度学习算法-Yolo系列
+tags:
+  - 软件算法组
 description: 该系列总体基调在于如何实现，因此数学公式能减少就尽量少的出现 \(包括引用的文章\)
 authors:
   - shangfanxing

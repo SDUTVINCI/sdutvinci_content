@@ -1,6 +1,8 @@
 ---
 vinciId: e00a8b45-a5f5-48c4-b990-bf42b03cdc2f
 title: 科学机场教程
+tags:
+  - 通用资料
 description: 说明
 authors:
   - dongjiahui

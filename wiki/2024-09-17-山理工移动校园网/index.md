@@ -1,6 +1,8 @@
 ---
 vinciId: c17512c2-c0d8-49f6-9be4-1651d0871cdb
 title: 干倒山理工移动校园网
+tags:
+  - 通用资料
 description: 待肝
 authors:
   - dongjiahui

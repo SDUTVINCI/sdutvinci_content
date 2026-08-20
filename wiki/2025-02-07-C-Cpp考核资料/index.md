@@ -1,6 +1,9 @@
 ---
 vinciId: ae372e4b-3461-49d0-af21-21e105857cc7
 title: C/C++考核资料
+tags:
+  - 嵌入式组
+  - 软件算法组
 description: Vinci机器人队公共C/C++基础及嵌入式组、软件算法组专项考核入口。
 authors:
   - dongjiahui

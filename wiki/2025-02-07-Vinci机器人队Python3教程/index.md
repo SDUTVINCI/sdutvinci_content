@@ -1,6 +1,8 @@
 ---
 vinciId: 229e11f4-ced1-4513-8bd8-8d57cb67f6b3
 title: Vinci机器人队Python3教程
+tags:
+  - 软件算法组
 description: ""
 authors:
   - dongjiahui

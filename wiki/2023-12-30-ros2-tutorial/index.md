@@ -1,6 +1,8 @@
 ---
 vinciId: 8664dd45-fa65-53d0-936e-cb3b418744c7
 title: ROS2机器人操作系统教程
+tags:
+  - 软件算法组
 description: 欢迎各位Vinci芬奇机器人队成员来进行学习ROS2。
 authors:
   - dongjiahui

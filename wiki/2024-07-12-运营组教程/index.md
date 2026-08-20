@@ -1,6 +1,8 @@
 ---
 vinciId: 5b9aea20-68a8-43b0-9505-ce59c9e2635e
 title: 运营组教学
+tags:
+  - 运营组
 description: ""
 authors:
   - linzhaojun

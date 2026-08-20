@@ -1,6 +1,8 @@
 ---
 vinciId: fecb78a4-1ef8-43d9-905d-b8b140ab504c
 title: Clion 开发 STM32
+tags:
+  - 嵌入式组
 description: 【【干货】CLion开发STM32轻松搞定！】
 authors:
   - fangzihao

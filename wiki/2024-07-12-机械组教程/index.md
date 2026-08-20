@@ -1,6 +1,8 @@
 ---
 vinciId: 144b834f-eae4-4149-ac4a-24c49be4bd42
 title: 机械组教学
+tags:
+  - 机械组
 description: 机械组的具体软件、结构、加工和实验室实践资料。学习路线请先阅读机器人队培养计划中的“机械组入门指导”。
 authors:
   - dongjiahui

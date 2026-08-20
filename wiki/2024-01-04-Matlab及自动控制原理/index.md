@@ -1,6 +1,9 @@
 ---
 vinciId: 2c3c1f05-7fb6-4028-b523-7f90872bb4da
 title: Matlab及自动控制原理
+tags:
+  - 嵌入式组
+  - 软件算法组
 description: 安装Matlab
 authors:
   - dongjiahui

@@ -1,6 +1,8 @@
 ---
 vinciId: e0ecc610-40f9-5979-8898-6b5346398eac
 title: OpenWrt编译教学
+tags:
+  - 软件算法组
 description: ""
 authors:
   - dongjiahui

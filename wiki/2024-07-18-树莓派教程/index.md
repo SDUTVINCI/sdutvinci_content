@@ -1,6 +1,8 @@
 ---
 vinciId: 4983d7f3-42b7-4f17-89eb-518f742016a3
 title: 树莓派教程
+tags:
+  - 软件算法组
 description: 一、烧录树莓派官方系统到sd卡
 authors:
   - shangfanxing

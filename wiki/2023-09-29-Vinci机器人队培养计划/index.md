@@ -1,6 +1,11 @@
 ---
 vinciId: 820f13b3-2224-5bbf-addf-45430603f134
 title: Vinci机器人队培养路线
+tags:
+  - 机械组
+  - 嵌入式组
+  - 软件算法组
+  - 运营组
 description: Vinci机器人队各组学习路线与培养方向总览。
 authors:
   - dongjiahui

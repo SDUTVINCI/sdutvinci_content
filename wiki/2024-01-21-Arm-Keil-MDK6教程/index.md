@@ -1,6 +1,8 @@
 ---
 vinciId: 1e776a85-4ec6-5462-a287-e16f707d2717
 title: Arm-Keil-MDK6教程
+tags:
+  - 嵌入式组
 description: 截止2024年1月21日，MDK6已经完善到完全可以当主力IDE的状态，各项功能都比较完备。
 authors:
   - dongjiahui

@@ -1,6 +1,8 @@
 ---
 vinciId: ec8d7417-c768-43f9-ad7c-fabcda299aa5
 title: ROS导航与建图实践
+tags:
+  - 软件算法组
 description: ROS导航、建图、定位、传感器部署和算法环境的实践资料。ROS与ROS2基础知识继续使用网站现有教程。
 authors:
   - dongjiahui

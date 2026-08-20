@@ -1,6 +1,8 @@
 ---
 vinciId: 68e08c30-a608-457a-9dd1-a2bae116d7ae
 title: STM32任务目录
+tags:
+  - 嵌入式组
 description: 注意事项
 authors:
   - dongjiahui

@@ -1,6 +1,8 @@
 ---
 vinciId: f3a1a309-0e06-42b2-b54e-038cfadcca07
 title: C/C++图形化之QT6教程
+tags:
+  - 软件算法组
 description: 简介
 authors:
   - dongjiahui

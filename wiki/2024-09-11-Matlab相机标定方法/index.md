@@ -1,6 +1,8 @@
 ---
 vinciId: 92e63770-022b-485c-878e-299f6a0a87c2
 title: Matlab相机标定方法
+tags:
+  - 软件算法组
 description: 单目相机标定
 authors:
   - shangfanxing
