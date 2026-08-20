@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-20T10:21:45.841Z",
+  "generatedAt": "2026-08-20T13:01:38.828Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2506,13 +2506,13 @@
     },
     {
       "articleId": "c17512c2-c0d8-49f6-9be4-1651d0871cdb",
-      "revisionId": "a3e9b79b-514f-4971-953c-672ad829c9d6",
-      "revisionNumber": 1,
+      "revisionId": "40e0613e-02ff-4175-8925-3bd353707049",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2024-09-17-山理工移动校园网/index.md",
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
-      "sha256": "9377c845f715c0bb7a05d7b618d000bc550b973b9f7732be2c655356691804ea",
-      "bytes": 246
+      "sha256": "8c92f39c97fa9826dc17168fc778eb860689a6e8ff88b39ab74bcf4f7f5c4a0f",
+      "bytes": 690
     },
     {
       "articleId": "ccd3eaa4-c213-55ad-a53f-10e22fe809c3",

@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-20T10:21:45.841Z",
+  "generatedAt": "2026-08-20T13:01:38.828Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "8dd03c8fb7d3502fb5aa1f28cda5e17de5185858c8684fcf2edb19abf6883dfd"
+    "sha256": "b49fd39c5f4ec4fdbb5571f9592cf5a142ca433348c2bf77a8052a81ad13ff79"
   },
   "files": [
     {
@@ -1510,8 +1510,8 @@
     },
     {
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
-      "sha256": "9377c845f715c0bb7a05d7b618d000bc550b973b9f7732be2c655356691804ea",
-      "bytes": 246
+      "sha256": "8c92f39c97fa9826dc17168fc778eb860689a6e8ff88b39ab74bcf4f7f5c4a0f",
+      "bytes": 690
     },
     {
       "path": "wiki/2024-10-03-Docker教程/0100-简介.md",
