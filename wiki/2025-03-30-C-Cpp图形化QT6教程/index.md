@@ -5,10 +5,10 @@ description: 简介
 authors:
   - dongjiahui
 publishedAt: 2025-03-30T00:00:00.000Z
-updatedAt: 2026-08-20T09:26:04.279Z
+updatedAt: 2026-08-20T09:47:47.693Z
 ---
 
-# 简介
+## 简介
 
 C\+\+的GUI设计，GUI 中文译为 **"图形用户界面"**（英文全称是 *Graphical User Interface*），读作GUI或者guyi\.
 
@@ -26,7 +26,7 @@ C\+\+的GUI设计，GUI 中文译为 **"图形用户界面"**（英文全称是 
 
 
 
-# 安装
+## 安装
 
 [机器人开发环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian)
 
@@ -36,7 +36,7 @@ qt6是个大趋势，只是一些老公司不愿意换罢了。而且qt5和qt6�
 
 
 
-# 资料参考
+## 资料参考
 
 更细致的版本（但使用了qmake，无所谓，反正代码都一样）
 
@@ -48,9 +48,9 @@ qt6是个大趋势，只是一些老公司不愿意换罢了。而且qt5和qt6�
 
 
 
-# 教程
+## 教程
 
-## HelloWorld
+### HelloWorld
 
 参考搭建环境中运行的历程：
 
@@ -83,9 +83,9 @@ int qt6_test(int argc,char **argv)
 
 
 
-## GUI基础设计
+### GUI基础设计
 
-### GUI程序结构与运行机制
+#### GUI程序结构与运行机制
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/001-5e2458832719.webp)
 
@@ -200,7 +200,7 @@ int qt6_test(int argc,char **argv)
 
 
 
-### 可视化UI设计原理
+#### 可视化UI设计原理
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/027-fb3706768209.webp)
 
@@ -230,6 +230,6 @@ connect本身就没有限制，可以不同类型或者相同类型的东西互�
 
 
 
-### 代码实现
+#### 代码实现
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/03/30/036-2c894381e970.webp)

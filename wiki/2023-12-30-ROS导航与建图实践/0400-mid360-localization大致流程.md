@@ -7,12 +7,12 @@ authors:
 contributors:
   - dongjiahui
 publishedAt: 2023-12-30T00:00:00.000Z
-updatedAt: 2026-08-20T09:26:04.428Z
+updatedAt: 2026-08-20T09:47:47.868Z
 ---
 
 实验室终于搞到一块mid360，怀着激动和忐忑的心情，让我们一起学习怎么使用吧！
 
-# Ciallo～\(∠・ω\< \)⌒☆
+## Ciallo～\(∠・ω\< \)⌒☆
 
 注：文章写于本人刚刚完成mid360的定位和导航的实机实现，若有缺漏或错误的理解请联系我修改，我本人也会在进一步的使用中完善此文章。
 
@@ -22,15 +22,15 @@ updatedAt: 2026-08-20T09:26:04.428Z
 
 搭建平台：jetson agx xavier ubuntu20\.04 noetic/Legion Y9000p ubuntu20\.04 noetic
 
-# 简介
+## 简介
 
 Livox Mid\-360是一款性价比高、安全可靠的激光雷达传感器，适用于无人驾驶、机器人、智慧城市等领域。它支持建图、定位、识别、避障等功能。该激光雷达具有360°宽广的探测视场角，能够探测距离仅为0\.1米的物体\[1\]。Livox Mid\-360采用先进的光学机械系统，实现更远的量程、更高的点云密度和覆盖率，精确捕捉视场中的每个细节，适应性更强。用户可以通过Livox Viewer 2软件实时获取三维点云图像，也可以基于Livox SDK进行开发，轻松获取3D点云数据，以满足个性化的应用需求。Livox Mid\-360的最大探测距离可达100米。
 
-# 驱动安装
+## 驱动安装
 
 一代驱动较为老旧，很多算法的包都开始使用二代，目前，二代驱动应该是会向使用一代的包兼容，所以这里统一用2代驱动
 
-## mid360\-SDK2
+### mid360\-SDK2
 
 [https://github.com/Livox-SDK/Livox-SDK2]()
 
@@ -43,7 +43,7 @@ make -jx
 sudo make install
 ```
 
-## livox\-ros\-driver2
+### livox\-ros\-driver2
 
 [https://github.com/Livox-SDK/livox_ros_driver2]()
 
@@ -100,11 +100,11 @@ cd ws/src/livox_ros_driver2
 }
 ```
 
-## 效果测试
+### 效果测试
 
 我这里是rviz远程查看信息，如果你是直接在从机查看数据，直接运行launch文件就好
 
-### 从机：
+#### 从机：
 
 注释rviz\_MID360\.launch下的rviz相关node和param
 
@@ -126,7 +126,7 @@ roslaunch livox_ros_driver2 rviz_MID360.launch
 或roslaunch livox_ros_driver2 msg_MID360.launch
 ```
 
-### 主机：
+#### 主机：
 
 新建rviz\.launch
 
@@ -141,11 +141,11 @@ roslaunch livox_ros_driver2 rviz.launch
 
 
 
-# 获取三维建图
+## 获取三维建图
 
 要想由点云信息建立三维点云图就必须依赖建图算法，目前有的建图算法有fast\-lio fast\-lio2，point\-lio，lio\-sam，cartographer等，这里首先选择比较古老且安装较为轻松地fast\-lio，（point\-lio里程计更为好用，fast\-lio点云更密集，两者差不多，在下面的包里都有，会一个就能会另一个）
 
-## 安装fast\-liolocalization
+### 安装fast\-liolocalization
 
 如果你要想单独安装fast\-lio或者其他建图包可以去找它的github然后git下来catkin\_make
 
@@ -186,7 +186,7 @@ cmake报错的话要去cmakelists中指定python地址
 
 open3d安装缓慢导致失败可以去换国内源
 
-## 编译
+### 编译
 
 注意编译顺序为livox\_ros\_driver2\-\>fast\_lio/point\_lio\-\>其他
 
@@ -194,7 +194,7 @@ open3d安装缓慢导致失败可以去换国内源
 
 100%
 
-## 开始建图
+### 开始建图
 
 上面提到的参数确定为0，不然订阅不到点云信息
 
@@ -234,7 +234,7 @@ pcl_viewr ./scans.pcd
 
 可以在fast\_lio文件夹下的config文件夹内更改mid360\.yaml选择是否保存pcd文件来只使用里程计而不保存pcd建图信息。
 
-# 三维转二维
+## 三维转二维
 
 因为我们比赛主要用的是二维的定位和导航，所以我们将三维图压至二维图后，再应用相关算法进行导航，在此，有两种方式：
 
@@ -252,9 +252,9 @@ roslaunch pcd2pgm run.launch
 
 用rviz查看建图信息并用mapserver保存地图
 
-# 定位
+## 定位
 
-## 统计定位需要的所有信息：
+### 统计定位需要的所有信息：
 
 1、建图得到的pcd文件
 
@@ -274,13 +274,13 @@ map odom body tf\(map\-\>odom\) scan
 
 只要打通这些数据间的联系，就能运行move\_base
 
-## 按照实际情况修改定位launch文件sentry\_localize\.launch
+### 按照实际情况修改定位launch文件sentry\_localize\.launch
 
-## 运行launch文件得到定位结果
+### 运行launch文件得到定位结果
 
 [定位\.mp4](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2023/12/30/%E5%AE%9A%E4%BD%8D.mp4)
 
-# 导航
+## 导航
 
 这里用的dwa局部规划器，如果能找到更好用的规划器就最好了
 
@@ -310,7 +310,7 @@ rostopic ehco /cmd_vel
 
 
 
-# 总结
+## 总结
 
 mid360是集成了imu的三维激光雷达，对我们研究自动驾驶有重要意义。学习全流程需要有较好的ros基础，并不断巩固和学习。
 

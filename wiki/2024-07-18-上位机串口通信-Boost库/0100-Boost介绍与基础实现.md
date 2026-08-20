@@ -7,26 +7,26 @@ authors:
 contributors:
   - dongjiahui
 publishedAt: 2024-07-18T00:00:00.000Z
-updatedAt: 2026-08-20T09:26:04.377Z
+updatedAt: 2026-08-20T09:47:47.820Z
 ---
 
-# boost异步串口通信（C\+\+）
+## boost异步串口通信（C\+\+）
 
 ---
 
 
 
-## 首先：
+### 首先：
 
 对于C\+\+上下位机的串口通信可以使用Qt，Qt在5\.1版本之后引入了一个串口通信类QSerialPort使用前只需加入QT \+= serialport。QSerialPort可以很方便的通过信号槽实现串口同步及异步通信，类似地，如果不在Qt库的环境下，可以使用“准”C\+\+标准库boost。
 
 
 
-## boost库介绍
+### boost库介绍
 
 boost 库是一个优秀的，可移植的，开源的 C\+\+ 库，它是由 C\+\+ 标准委员会发起的，在 C\+\+ 社区中影响甚大，是一个不折不扣的准标准库，它的功能十分强大，弥补了 C\+\+ 很多功能函数处理上的不足。
 
-### 特点
+#### 特点
 
 **可移植性**：Windows，Linux，Unix 等
 
@@ -40,11 +40,11 @@ boost 库是一个优秀的，可移植的，开源的 C\+\+ 库，它是由 C\+
 
 
 
-### 用途
+#### 用途
 
 **广泛应用于****网络编程、编程接口，**拥有字符串和文本处理库，容器库，迭代器库，算法库，函数对象和高阶编程库，泛型编程，模板元编程，预处理元编程，并发编程，数字和数学，排错和测试，数据结构，图像处理，输入输出，内存管理，跨语言混合编程，解析，编程接口等
 
-### 安装
+#### 安装
 
 windows：
 
@@ -60,7 +60,7 @@ ROS2 Serial Driver的优点：
 
 **易学性：**由于Serial\_Driver1\.2封装的更加简洁，所以更好学一点，也可以尝试使用Serial\_Driver1\.2库。详见[ROS2机器人操作系统教程](/wiki/2023-12-30-ros2-tutorial)的串口章节。
 
-## boost::asio::serial\_port
+### boost::asio::serial\_port
 
 boost的asio提供了boost::asio::serial\_port类————此类专门进行串口通信
 
@@ -70,7 +70,7 @@ boost的asio提供了boost::asio::serial\_port类————此类专门进行�
 
 
 
-## 示例源码
+### 示例源码
 
 CMakeLists\.txt（如需要可用）
 
@@ -242,7 +242,7 @@ bool init\(string port\_name, uint16\_t baud\_rate\);
 
 
 
-## 使用方法
+### 使用方法
 
 ```C++
 bool init(string port_name, uint16_t baud_rate); //初始化函数
@@ -273,9 +273,9 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 
 
-## 测试
+### 测试
 
-### 5\.1 测试工具
+#### 5\.1 测试工具
 
 关于串口的测试就稍微有点麻烦，因为一般的机器现在很少有串口了，为了测试：
 
@@ -315,7 +315,7 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 [https://www.vofa.plus/docs/learning/start/quick_start]()
 
-### **5\.2创建虚拟端口**
+#### **5\.2创建虚拟端口**
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/006-480679c3f742.webp)
 
@@ -337,9 +337,9 @@ COM1\-\>COM2
 
 COM2\-\>COM1
 
-### 5\.3测试代码
+#### 5\.3测试代码
 
-#### **写出测试**
+##### **写出测试**
 
 ```C++
 #include"serialport.h"
@@ -383,7 +383,7 @@ int main()
 
 运行程序，串口调试工具自动接收到数据（这里我设置的是16进制所以是41，可以调成文本模式，收到的就是A）
 
-#### **读取测试**
+##### **读取测试**
 
 ```C++
 #include"serialport.h"

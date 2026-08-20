@@ -5,10 +5,10 @@ description: 说明
 authors:
   - dongjiahui
 publishedAt: 2025-04-05T00:00:00.000Z
-updatedAt: 2025-11-17T03:30:04.000Z
+updatedAt: 2026-08-20T09:47:47.683Z
 ---
 
-# 说明
+## 说明
 
 **仅供学习使用，请勿用于非法用途。**
 
@@ -25,13 +25,13 @@ updatedAt: 2025-11-17T03:30:04.000Z
 3\. 本文提供的配置方法仅供学习、测试和自我运维使用，禁止将本教程用于非法用途。
 
 
-# 教程
+## 教程
 
-## 带GUI
+### 带GUI
 
-### Clash Verge Rev
+#### Clash Verge Rev
 
-#### 下载与安装
+##### 下载与安装
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/001-49e97bd6114b.webp)
 
@@ -51,7 +51,7 @@ sudo apt install ./clash包名.deb
 sudo dnf install ./clash包名.rpm
 ```
 
-#### 添加订阅
+##### 添加订阅
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/004-3810fc43c9d5.webp)
 
@@ -67,19 +67,19 @@ sudo dnf install ./clash包名.rpm
 
 
 
-#### 开启
+##### 开启
 
 红色的地方必开，蓝色的部分根据需求开
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/006-5b5ed886cffd.webp)
 
-#### 管理节点
+##### 管理节点
 
 下面界面可以切换节点\(这里的节点指自有服务器的端点\)以及右上角可以切换代理\(这里的代理指多协议网络管理，内网访问，运维工具\)模式
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/007-96fb8e3d0800.webp)
 
-#### 测试
+##### 测试
 
 点击下方网站看是否可以进入
 
@@ -91,17 +91,17 @@ sudo dnf install ./clash包名.rpm
 
 
 
-## 无GUI
+### 无GUI
 
-### Shell Crash
+#### Shell Crash
 
-#### 环境介绍
+##### 环境介绍
 
 树莓派5 \+ Ubuntu Server 24\.04 LTS无图形界面版。
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/009-ca9b52390d7d.webp)
 
-#### 安装shell crash
+##### 安装shell crash
 
 [https://github.com/juewuy/ShellCrash]()
 
@@ -127,7 +127,7 @@ export url='https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master' && wget -q 
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/014-58a3c22093ec.webp)
 
-#### 添加订阅
+##### 添加订阅
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/015-cf0145b97b39.webp)
 
@@ -171,7 +171,7 @@ crash
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/025-adc02d7e8e95.webp)
 
-#### 设置开机自启
+##### 设置开机自启
 
 一般默认开机自启，如果没有开机自启的话，可以看下面。
 
@@ -179,7 +179,7 @@ crash
 
 先输入4内核启动设置，再输入1开启shellcrash开机启动（由于我已经开机自启了，所以我这里的1成了禁止开机自启）
 
-#### 管理节点
+##### 管理节点
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/027-58f70609083f.webp)
 
@@ -199,7 +199,7 @@ crash
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/029-222aa0d58fa7.webp)
 
-#### 测试
+##### 测试
 
 首先先获取shellcrash监听的端口\(没测试\):
 
@@ -233,7 +233,7 @@ curl -x socks5h://127.0.0.1:7890 https://www.google.com.hk
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/033-b4e321515f37.webp)
 
-#### 常见问题
+##### 常见问题
 
 1. 订阅配置文件格式错误
 

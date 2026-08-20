@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-20T09:26:04.629Z",
+  "generatedAt": "2026-08-20T09:47:47.952Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "c02a6defeb9be3f105ebc8c1f946eb10c720de50df2cc25b2ab0c539f3d27bd6"
+    "sha256": "16f3eea3ed1e75312313e7431f9ddfb7ad29b0d803f4da51f668f1e8f1903316"
   },
   "files": [
     {
@@ -305,28 +305,28 @@
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队总体路线.md",
-      "sha256": "36b5093b7f35bbb3c69865255d04b92907bc5887f9bb778904da1819d662eb18",
-      "bytes": 9017
+      "sha256": "08e16d7565e89fa861ca67589b21ba596ec55dd4bbeb82fe943b0832b9c82076",
+      "bytes": 9031
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组路线.md",
-      "sha256": "bc45756b3e5237be9425dfaa0444ade896ae33fde8e44c853a8d9be14d9b00ed",
-      "bytes": 12420
+      "sha256": "7dc98c77884d85a2c53ed751c3e2172d1dd6201b156594cea5bc838c5661add7",
+      "bytes": 12449
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组路线.md",
-      "sha256": "9a2bd38ad205f10bd70c54f186dfdc84859fc99d36fdf019792c02ff57d4078f",
-      "bytes": 9218
+      "sha256": "6f9dfafc69883a560188948990f54c0b79a861091271841f6d8b06021bc893f2",
+      "bytes": 9233
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-嵌入式组与软件算法组公共路线.md",
-      "sha256": "7531ca81bf6a1f988b1ec7c86f841f3fa52c5f6df2bdf3c862c21d184b1de90a",
-      "bytes": 6796
+      "sha256": "d9c7af807521667f708d5372343c92a9ca8c78ca0280819ff121461e8877314e",
+      "bytes": 6809
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0400-机械组路线.md",
-      "sha256": "91dc25e99a74f83a78724659501d7a6591ec00dfd072d21c6082a4a2005542cd",
-      "bytes": 4728
+      "sha256": "9e4121c6cc60bd010b4c912bdda68cde32b3cd321cba3d6dda5069efa891a454",
+      "bytes": 4770
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0500-运营组路线.md",
@@ -740,8 +740,8 @@
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-0100-Arduino常用库函数和速学参考.md",
-      "sha256": "32cd0a74ebc550502e03f5edf732676e8ba18780408e26edd5a9de721b6a0fdd",
-      "bytes": 15065
+      "sha256": "0d81657a120fffd7384e5bcd692fe61ac488c5a14c8c23cfa59048dc6b691331",
+      "bytes": 15089
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-arduino库(了解即可).md",
@@ -765,18 +765,18 @@
     },
     {
       "path": "wiki/2023-10-09-电路教程/0100-硬件基础.md",
-      "sha256": "0fec77c4dbc13e8455577e62db97970f4fd0351872bba693aeee8e1e017297d9",
-      "bytes": 3653
+      "sha256": "9bd055ae9d254fafa5820a6295d7f1d81514826b853df83051173afa1961a5d7",
+      "bytes": 3665
     },
     {
       "path": "wiki/2023-10-09-电路教程/0200-嘉立创EDA入门.md",
-      "sha256": "d37789d017c7b9466ee5ac98a593e7e2d476b8056f52047a00514afc59cb8916",
-      "bytes": 17170
+      "sha256": "643b8e172172043688c74f894e7061e15999880456766fd1adc14f636195c749",
+      "bytes": 17214
     },
     {
       "path": "wiki/2023-10-09-电路教程/0300-电路板排查问题.md",
-      "sha256": "8c1d2a3034260ed1a1ca5a470d9f7aaa9b46d1d2b8e4fffce0e65c40614b5c84",
-      "bytes": 2838
+      "sha256": "2ee4659b657ae6ec6643d46226d1a82b39110b3c8e2d3a8efa0de6f6bfe349d7",
+      "bytes": 2850
     },
     {
       "path": "wiki/2023-10-09-电路教程/index.md",
@@ -785,18 +785,18 @@
     },
     {
       "path": "wiki/2023-11-23-CMake-C-Cpp编译环境配置/index.md",
-      "sha256": "351dc71e3c965b5432c332a3ae988fb3814d2e4aacaaba01d0215e884690b026",
-      "bytes": 13626
+      "sha256": "4a8aee81adb30c570e8a07bf3723f558c77807f97e416467c105ff6336d3cd9b",
+      "bytes": 13639
     },
     {
       "path": "wiki/2023-12-06-STM32任务资料/0100-STM32入门元件采购.md",
-      "sha256": "f27d0232ed88d403061affc89849cb151dd8876598590fb91d34628c607c1dba",
-      "bytes": 3740
+      "sha256": "036f5448dd8467e55c34a4d09f56c8ea2b425a833c5b8c818e708aed603e6494",
+      "bytes": 3749
     },
     {
       "path": "wiki/2023-12-06-STM32任务资料/index.md",
-      "sha256": "b16425b5fa1f9c4baca7f2b43505949f7d1ae2f27885e3cb90716d5c4ebaaad7",
-      "bytes": 15866
+      "sha256": "d04330608b93f8a07c4615f4a9efb0851343ca2638e4bbac7cd6c0c0d2c5fc95",
+      "bytes": 15998
     },
     {
       "path": "wiki/2023-12-10-机器人开发环境搭建/0100-C_C++环境搭建.md",
@@ -890,23 +890,23 @@
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0400-mid360-localization大致流程.md",
-      "sha256": "38fa9d3ef0229becc4df5c5f4f7fb95a3b17ccc8a25edadd5e79b17863e5102c",
-      "bytes": 9697
+      "sha256": "7c023fd3a30c1f8a8547f71eb2d5e47e2ac25462a57d5369d55447fbd98f862a",
+      "bytes": 9716
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0500-ros2-mid360里程计部署.md",
-      "sha256": "08fa8ffa478df2d40370fc65bf57b650963163d2958c8aeb0b1a5fee291f3069",
-      "bytes": 1611
+      "sha256": "fbfb3598237ce5fdae83f1e724ebd4317b410b9cd2589b2b0432df90268739d1",
+      "bytes": 1614
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0600-ROS2和Pytorch环境搭建.md",
-      "sha256": "abffb878a175be49f9540eaa62c26e796eda5d02cb82d6719bd8bedbbe564896",
-      "bytes": 1617
+      "sha256": "7332a5268ca8a5ef0fb09033c812440749e569df1e5164c22e1dda3691ddaff3",
+      "bytes": 1624
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0700-关于实操的一些知识点.md",
-      "sha256": "9b4dc2bb08fbfc50539c3eddea27bb717d831b8c60d0776469ee2581e781bcf5",
-      "bytes": 3989
+      "sha256": "3d3698239ab0db8285d719f21191352bffa40bf2bb1d6836e650633b8f9689f9",
+      "bytes": 3991
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/index.md",
@@ -1215,8 +1215,8 @@
     },
     {
       "path": "wiki/2024-01-04-Matlab及自动控制原理/index.md",
-      "sha256": "a3a670a667745e1ab8412e918bfb3350bbfac8ab9690f077d92acc4b983ca15a",
-      "bytes": 1856
+      "sha256": "e2b835f70360575ab8d96b60048da588585c7290ebb987641450622fcab847db",
+      "bytes": 1873
     },
     {
       "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0100-简介.md",
@@ -1325,28 +1325,28 @@
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0400-3D打印.md",
-      "sha256": "db5c12a6b35a405c5b903dccf1df00188e5fab74e69bc86f9807e53bd59b0bed",
-      "bytes": 7642
+      "sha256": "4c3a01642e70341737ed45b8354638298fadded6fb93884df85aa582e74b051d",
+      "bytes": 7650
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0500-3D打印机常见故障解除.md",
-      "sha256": "65712cd41a0768f87479e7f74de49b4eaabcff538bb1046dcdfd3e0dedb0d45b",
-      "bytes": 260
+      "sha256": "f2059ad1413237d3967384215eb143134971a5f52be0e7176d3a0f4b3d13315f",
+      "bytes": 261
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0600-0100-电机分类.md",
-      "sha256": "cb8bc74d30f4d1a8256f8a0758b2e40612c86304923eb6500becb7caba3a006e",
-      "bytes": 958
+      "sha256": "1c1d6fbea37ab67f8a6e4711b5e4042152491639f1f28e4cd2810509cd86e0b5",
+      "bytes": 959
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0600-驱动系统（动力源）.md",
-      "sha256": "96981b56225d7b29db558bcce805b439381231dc33a986ba9d245d409c4fab58",
-      "bytes": 8456
+      "sha256": "0ffac778bb775cf3257a47eb332771a09f27bbe067d6b1cdb63eb9ee4e51b399",
+      "bytes": 8464
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0700-传动.md",
-      "sha256": "3ca8e9ab9cff8bae760b39429760e4e1dc1de8792e1b5122503447d415532151",
-      "bytes": 7459
+      "sha256": "f16aa88a5af94bdf3284a875fe26ca40e84183fb9640b76bc265c535b9f15fa3",
+      "bytes": 7475
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0800-SolidWorks入门教程.md",
@@ -1395,8 +1395,8 @@
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0100-Boost介绍与基础实现.md",
-      "sha256": "29105297c548af8ebc663604af70bd1062483a257f0cc0c4e629ff126d986593",
-      "bytes": 12145
+      "sha256": "509e91a87dcc5620c919a9e72a16d917fdd3f054d1b3fa3ad54dbb868fb0f320",
+      "bytes": 12160
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0200-上下位机串口通信协议.md",
@@ -1430,8 +1430,8 @@
     },
     {
       "path": "wiki/2024-07-18-树莓派教程/index.md",
-      "sha256": "16dcc44c768ac51a70588e8a1d2dd2088e26da8be3d7cb9983138a03c29d463d",
-      "bytes": 18388
+      "sha256": "821a315bf36d7d36fec73582a328ed87ce616c4ea7a84c4076bbccc992e5b60e",
+      "bytes": 18414
     },
     {
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/0100-卷积神经网络.md",
@@ -1460,8 +1460,8 @@
     },
     {
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/index.md",
-      "sha256": "1f65be9d371dc7091ae3f8db45b70e323ba44213f48309f28d90623fb11ffc53",
-      "bytes": 23871
+      "sha256": "07eabb3c750bf0afef8b9ad68a7171bda83907cae367bfd4f9104bd248fcec8a",
+      "bytes": 23896
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0100-BM-SGBM双目相机测距.md",
@@ -1490,8 +1490,8 @@
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0500-相机标定与PNP算法.md",
-      "sha256": "1c5acc7034e2e75f1b0e252dadf0ecf8d2b05ef517fb3dcf66eb89289e764f01",
-      "bytes": 37121
+      "sha256": "8d642d1f50e9da3aad1771da2ca0c4bcc1cacdbf8e3a81adaa3add272387b300",
+      "bytes": 37147
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0600-使用OpenCV推理Yolov8模型.md",
@@ -1505,8 +1505,8 @@
     },
     {
       "path": "wiki/2024-09-11-Matlab相机标定方法/index.md",
-      "sha256": "f6ed2895da9eea12e7555316416be2fb2e3ef31846eb0f04018efe1baaadd86b",
-      "bytes": 20068
+      "sha256": "c4ab9505e1090e2f01033b49059f4c7d2c13f81d5e7690b632f8e09a3917da19",
+      "bytes": 20092
     },
     {
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
@@ -1575,33 +1575,33 @@
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0100-26届嵌入式组提前批C-C++考核题.md",
-      "sha256": "f6109ed7c10d8f64ea696262a08f25cccc088e170a04f76e689aaaa3b861783b",
-      "bytes": 8266
+      "sha256": "80eb900c1c5a92f99f4324ba983e9f0b24497402de80ff84c4bfea59599e958c",
+      "bytes": 8289
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0200-Vinci战队C-C++提前批考核题目.md",
-      "sha256": "ccdc874d1fa3d78573313a4533795ed24bd55ff7508dde0227110e7f26d8ddac",
-      "bytes": 2789
+      "sha256": "19449504da3db9691c853d51097ac1bea3ed1bf61132762f66e6420ad2fe3002",
+      "bytes": 2805
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0300-C-C++公共基础一卷考核题.md",
-      "sha256": "775c53ea6352d9f6e354918159724b51f19d583db55b3ded3aeb236a03cf97e1",
-      "bytes": 8415
+      "sha256": "867ce1e789c4c95230de95be4718b34e49f6c6dd08a8bf2b71219e111524da8a",
+      "bytes": 8434
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0400-C-C++公共基础二卷考核题.md",
-      "sha256": "026981394935ba1069848f13a40853b626cfd443085ac863be2a4ceb59212c26",
-      "bytes": 9002
+      "sha256": "5fc6e6dce9dcbbeff0309914f4ccdd0b13e1f2d11860a897edff5efc6192cb1f",
+      "bytes": 9021
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0500-嵌入式组C-C++工程基础综合考核题.md",
-      "sha256": "6c647e0d2efd6e9f5c5ed32522cf93fce52130e77ca8dece9d5af6d3ff6dcba4",
-      "bytes": 9966
+      "sha256": "d2d1211b1305ed502aa1dc6f843efa36db45eb0fd9cc83845c10e9fea873d521",
+      "bytes": 9985
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-C-C++公共基础练习题.md",
-      "sha256": "58fc025929b3562443868cabeae5e99569a1e500248340ee0601c6f8d1e2344d",
-      "bytes": 16653
+      "sha256": "72047ed2eae092024a802072cf579a09cea9c2d51baa57c61a2927c97da7b171",
+      "bytes": 16685
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0100-26届嵌入式组提前批C-C++参考答案.md",
@@ -1610,33 +1610,33 @@
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0200-Vinci战队C-C++提前批考核题答案.md",
-      "sha256": "f2c9bbe4c8b668f8b093757e3f3389c40bfeeca54721a203e3db7e8788a97fba",
-      "bytes": 3535
+      "sha256": "eac9a24c4d26680931bf66d791ecc938f5fdc216c0865a460cc4347cb2f3ab14",
+      "bytes": 3551
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0300-C-C++公共基础一卷答案.md",
-      "sha256": "adf8d5da1715160ccbad2068212ab0129baaab227ef1166637166407e8f32998",
-      "bytes": 10884
+      "sha256": "74a51c93b1e31f19e1577502b79175bd96b02d3cae72414c86f28101878ce80c",
+      "bytes": 10903
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0400-C-C++公共基础二卷答案.md",
-      "sha256": "f8229396ae032ef7261ac8587ce7bad77a2f3112777f3b1f459c6a8ab79bcf48",
-      "bytes": 13352
+      "sha256": "657e63dca4e42229334c43b42a93b005c868fabee21853e1afa942461c96691f",
+      "bytes": 13371
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
-      "sha256": "0f918229f8c64bc0e0ce2d6ccc1de7e6f9b1132ec3c494b99d5ba36e2b3c7854",
-      "bytes": 19170
+      "sha256": "fe1b8cb930aefa41a495aece9cd609b312cc85cbb4ed517e434f8827640d3e19",
+      "bytes": 19188
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-C-C++公共基础练习题及答案.md",
-      "sha256": "e3dcdf1f3afae27015f16672a197f784a9faa4bf2b87b1b42198a4bd0d556129",
-      "bytes": 44618
+      "sha256": "0f1bda0dd3664a98210dd3c28d2002cf1e806b51901b7d49484db972e4447aea",
+      "bytes": 44655
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/index.md",
-      "sha256": "b2755aab6d515083a3ccd2a4dd9ea650d84ad1c7194d50a92953d7d97c354a6e",
-      "bytes": 1133
+      "sha256": "097210e28217fe481a86aba52168de0c5c24df6501f721d722f3a3d6c52c2331",
+      "bytes": 1136
     },
     {
       "path": "wiki/2025-02-07-Vinci机器人队Python3教程/index.md",
@@ -1645,13 +1645,13 @@
     },
     {
       "path": "wiki/2025-03-30-C-Cpp图形化QT6教程/index.md",
-      "sha256": "eb48da8273c2579c89473fb52f5c03e7a093bc5476e52dbfd7fb61b4c122570f",
-      "bytes": 7720
+      "sha256": "14cfb1929593c597ef3cf17f2f2b05980e8e522b6b882eff8f56fe3ec3320387",
+      "bytes": 7729
     },
     {
       "path": "wiki/2025-04-05-科学机场教程/index.md",
-      "sha256": "e88ac7ee09b7dabc75fdaca327eadeee96d7c5748ce93c11337dafd44a81a6ad",
-      "bytes": 8245
+      "sha256": "0349abf3352489e7e94ddcd3b42cd7eed201f2eacd990e140d788c5278ad2232",
+      "bytes": 8263
     },
     {
       "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",
@@ -1705,13 +1705,13 @@
     },
     {
       "path": "wiki/2025-12-25-MarkDown教程/0100-简介.md",
-      "sha256": "2c2eec4ead4c6e024a515945a0c972df97dd3fa43e2b5fb193d308697d801904",
-      "bytes": 5680
+      "sha256": "82fa106dd1d5e638b4fbe36fccd3906df197cdee38398494c60c1411311a7ea5",
+      "bytes": 5686
     },
     {
       "path": "wiki/2025-12-25-MarkDown教程/0200-环境搭建.md",
-      "sha256": "057c061fec3b09190f376a7ee241e6f4f5655bbf1de856446d070d4343076736",
-      "bytes": 4420
+      "sha256": "f6e08a009edf6f4ddb7b59f24bfe3cbe544fc725f64899f9087a88422ac76eed",
+      "bytes": 4425
     },
     {
       "path": "wiki/2025-12-25-MarkDown教程/0300-教学.md",
