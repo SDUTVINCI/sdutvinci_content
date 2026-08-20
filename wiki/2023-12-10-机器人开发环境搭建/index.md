@@ -1,5 +1,4 @@
 ---
-vinciId: dcf219ea-674a-5de4-9ef1-fef3292e949c
 title: 机器人开发环境搭建
 description: 嵌入式组与软件算法组常用开发环境的分类入口。
 authors:
