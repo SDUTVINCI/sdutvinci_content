@@ -1,6 +1,6 @@
 ---
 vinciId: e9c8582e-cbb3-50e1-84c9-2f1eab46a73d
-title: CMake工程搭建
+title: CMake开发环境搭建
 description: CMake C/C++编译环境配置
 authors:
   - dongjiahui

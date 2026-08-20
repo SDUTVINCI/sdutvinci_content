@@ -1,6 +1,6 @@
 ---
 vinciId: 8f976ce3-ab16-592e-8911-e172c2df35a1
-title: OpenCV_CUDA环境搭建
+title: OpenCV CUDA环境搭建
 description: |-
   Linux
   更推荐在Linux上部署，一些深度学习的东西，在Linux上的运行速度要明显远远高于Windows。

@@ -128,7 +128,7 @@ OpenCV不默认支持GPU运行，也就说，如果你是在官网使用releases
 
 显卡驱动、CUDA、cuDNN部署教程:[Linux教程](/wiki/2024-03-30-linux-jiao-cheng)
 
-OpenCV\_CUDA部署教程:[电控组环境搭建大全](/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian)
+OpenCV\_CUDA部署教程：[OpenCV CUDA环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian/0500-opencv-cuda-huan-jing-da-jian)
 
 
 

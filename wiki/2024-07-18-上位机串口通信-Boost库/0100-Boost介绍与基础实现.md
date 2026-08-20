@@ -281,7 +281,7 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 **步骤一：**
 
-1. **硬件直接测试**：可以找控制组借一个或买一个usb转ttl的接口，usb插在电脑设备上，另一端用排线插到单片机或者树莓派上进行测试。创造一个真实串口
+1. **硬件直接测试**：可以向嵌入式组借用或自行购买USB转TTL模块。USB端连接电脑，另一端通过排线连接单片机或树莓派，用于创建真实串口测试环境。Linux、Boost.Asio和上位机串口程序由软件算法组负责，模块电平、接线和MCU UART由嵌入式组负责。
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/002-504e778dd999.webp)
 

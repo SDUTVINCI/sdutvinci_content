@@ -1,6 +1,6 @@
 ---
 vinciId: 0b76796a-d65b-52ba-9baf-8d59b1100755
-title: Linux基本配置
+title: Linux开发环境基本配置
 description: Vinci机器人队Linux入门教程
 authors:
   - dongjiahui

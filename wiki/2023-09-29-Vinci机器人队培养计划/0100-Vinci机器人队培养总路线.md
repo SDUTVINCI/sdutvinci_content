@@ -1,14 +1,14 @@
 ---
 vinciId: 30d3999c-36ac-504e-96c5-6461b21604ef
-title: Vinci机器人队培养计划
-description: 本教程主要是机器人工程师成长计划，一些学习机器人相关知识的路线。
+title: Vinci机器人队培养总路线
+description: Vinci机器人队各组学习路线的总入口。
 authors:
   - dongjiahui
 publishedAt: 2023-09-29T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:55.356Z
 ---
 
-本教程主要是机器人工程师成长计划，一些学习机器人相关知识的路线。
+本页面是Vinci机器人队培养路线的总入口。培养路线只说明职责、学习阶段与达标要求；具体技术内容请进入同级的独立教程学习。
 
 > 📄 本文档由 <img src="https://www.feishu.cn/favicon.ico" style="height:1em;vertical-align:middle;display:inline;"> <b>飞书</b> 提供支持，已发布于 <img src="https://www.feishu.cn/favicon.ico" style="height:1em;vertical-align:middle;display:inline;"> <b>飞书文档</b>：[点击查看](https://sdutvincirobot.feishu.cn/wiki/AT59wOz4NiJ9b9kEUyZcCY92n7f)
 

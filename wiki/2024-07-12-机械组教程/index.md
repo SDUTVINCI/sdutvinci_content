@@ -11,7 +11,7 @@ updatedAt: 2026-08-13T06:06:14.765Z
 
 ## 目录
 
-* [机械组入门指导](/wiki/2023-09-29-vinci-ji-qi-ren-dui-pei-yang-ji-hua/0400-ji-xie-zu-ru-men-zhi-dao)
+* [机械组路线](/wiki/2023-09-29-vinci-ji-qi-ren-dui-pei-yang-ji-hua/0400-ji-xie-zu-lu-xian)
 
 * [SolidWorks安装教程](/wiki/2024-07-12-ji-xie-zu-jiao-cheng/0100-solidworks-an-zhuang-jiao-cheng)
 

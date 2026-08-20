@@ -143,7 +143,7 @@ YOLO的核心思想是将整个图像划分为SxS的网格，每个网格负责�
 
 ## 工控机上的其他配置
 
-- 自行编译GPU版本的OpenCV，具体安装教程请参考[电控组环境搭建大全](/wiki/2023-12-10-dian-kong-shi-jue-huan-jing-da-jian#K2c6dldGuoZLzLxIKUYcIK5en3f)
+- 自行编译GPU版本的OpenCV，具体安装教程请参考[OpenCV CUDA环境搭建](/wiki/2023-12-10-ji-qi-ren-kai-fa-huan-jing-da-jian/0500-opencv-cuda-huan-jing-da-jian)
 
 > 如果是jetson系列则不需要安装TensorRT，切勿手贱重复安装
 >
