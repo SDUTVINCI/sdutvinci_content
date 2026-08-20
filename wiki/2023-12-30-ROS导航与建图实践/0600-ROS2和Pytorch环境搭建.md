@@ -16,11 +16,11 @@ cuda版本:12\.6
 
 orin上有已经搭建好的环境，可以试着在自己电脑上再配置
 
-# 一、前置需求
+## 一、前置需求
 
 安装有anaconda/miniconda roshumble cuda12\.6 cudnn
 
-# 二、环境搭建
+## 二、环境搭建
 
 使用python版本为3\.12,最高支持yolov11,后续再更新可以修改此文档
 
@@ -35,7 +35,7 @@ pip3 install torch torchvision torchaudio --index-url https://mirrors.nju.edu.cn
 pip install catkin_pkg empy lark setuptools
 ```
 
-# 三、测试
+## 三、测试
 
 ```Bash
 conda activate ros2_env
@@ -47,15 +47,15 @@ print(torch.cuda.is_available())
 
 以上操作不报错并且cuda可用就算环境配置成功
 
-# 四、训练和预测
+## 四、训练和预测
 
 可以利用pytorch进行以下算法的实验
 
-## 1、回归
+### 1、回归
 
-## 2、分类
+### 2、分类
 
-## 3、聚类
+### 3、聚类
 
 可以顺便配置yolo的环境
 

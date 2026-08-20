@@ -14,7 +14,7 @@ publishedAt: 2023-11-23T00:00:00.000Z
 updatedAt: 2026-05-16T02:48:46.000Z
 ---
 
-# 参考资料
+## 参考资料
 
 [https://gitee.com/unlimited13/cpp/blob/master/cmake/cmake.md]()
 
@@ -24,15 +24,15 @@ updatedAt: 2026-05-16T02:48:46.000Z
 
 [https://xbing.notion.site/VSCode-CMake-C-C-Linux-c330a94669a84c2480a59ba708fd4ece]()
 
-# **Vinci机器人队\_CMake工程标准:**
+## **Vinci机器人队\_CMake工程标准:**
 
-## 标准式
+### 标准式
 
-### 仓库链接
+#### 仓库链接
 
 [https://github.com/tungchiahui/Cmake_Template]()
 
-### 详解CMake命令
+#### 详解CMake命令
 
 \(肝不动了，看github里边的readme和注释吧\)
 
@@ -40,9 +40,9 @@ updatedAt: 2026-05-16T02:48:46.000Z
 
 
 
-## 工作空间式
+### 工作空间式
 
-### 仓库链接
+#### 仓库链接
 
 \(没必要自己搞，因为ROS2有非常成熟的工作空间模板，可以参考colcon，使用colcon当做工程模板\)
 
@@ -54,7 +54,7 @@ updatedAt: 2026-05-16T02:48:46.000Z
 
 
 
-### **配置json文件并调试项目（没完全敲完，不要看）**
+#### **配置json文件并调试项目（没完全敲完，不要看）**
 
 首先，先把C/C\+\+插件退回到1\.8\.4版本（因为最新版有可能无法正常生成launch\.json）
 
@@ -228,9 +228,9 @@ launch文件中把prelaunchtask修改为task\.json里的build。
 
 
 
-# 常用库的配置
+## 常用库的配置
 
-## Eigen3矩阵库
+### Eigen3矩阵库
 
 ```CMake
 # 引用第三方库(例如引用Eigen3矩阵库)
@@ -246,7 +246,7 @@ target_link_libraries(${PREFIX}_src_lib PUBLIC eigen3_lib)
 message(STATUS "Eigen3 include dirs: ${EIGEN3_INCLUDE_DIRS}")
 ```
 
-## OpenCV4
+### OpenCV4
 
 ```cmake
 # 引用第三方库(例如引用OpenCV4库)
@@ -269,7 +269,7 @@ message(STATUS "> libraries: ${OpenCV_LIBS}")
 
 
 
-## QT5\(未测试\)
+### QT5\(未测试\)
 
 ```cmake
 # 引用 Qt5 库（假设需要 Core、Gui、Widgets 模块）
@@ -325,7 +325,7 @@ set(CMAKE_AUTORCC ON)
 
 
 
-## QT6
+### QT6
 
 ```bash
 # 引用 Qt6 库（假设需要 Core、Gui、Widgets 模块）

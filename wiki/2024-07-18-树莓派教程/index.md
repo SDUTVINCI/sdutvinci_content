@@ -11,7 +11,7 @@ publishedAt: 2024-07-18T00:00:00.000Z
 updatedAt: 2025-05-03T13:47:35.000Z
 ---
 
-# 一、烧录树莓派官方系统到sd卡
+## 一、烧录树莓派官方系统到sd卡
 
 （准备好：树莓派、sd卡、读卡器）\-\-\-\-\-\-\-本队目前有树莓派4b一枚
 
@@ -37,17 +37,17 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 
 
-# 二、树莓派换源
+## 二、树莓派换源
 
 [https://blog.csdn.net/KnightJoker0/article/details/130530041]()
 
-# **三、树莓派串口通信**
+## **三、树莓派串口通信**
 
-## 树莓派常用接口
+### 树莓派常用接口
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/003-90b9128cebbc.webp)
 
-## 树莓派引脚图\(3B\)
+### 树莓派引脚图\(3B\)
 
 ![1280X1280\.PNG](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/004-f14c279056cb.webp)
 
@@ -60,7 +60,7 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 
 
-## 树莓派设备连接
+### 树莓派设备连接
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/005-3d78cb6ded1d.webp)
 
@@ -72,9 +72,9 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 
 
-## 树莓派配置基础环境
+### 树莓派配置基础环境
 
-### 更换wifi连接
+#### 更换wifi连接
 
 如果无图形界面，而且想连wifi,需要把TF卡插到电脑上访问system\-boot
 
@@ -92,7 +92,7 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 
 
-### 配置SSH
+#### 配置SSH
 
 树莓派烧录软件现已支持选择是否开启ssh的选项。
 
@@ -102,7 +102,7 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/010-1d933f45759f.webp)
 
-### 配置VNC
+#### 配置VNC
 
 
 
@@ -116,11 +116,11 @@ updatedAt: 2025-05-03T13:47:35.000Z
 
 
 
-## 串口通信环境配置（设备第一次使用需设置）
+### 串口通信环境配置（设备第一次使用需设置）
 
 如果设备之前使用过串口通信，这部分直接略过，直接看第5部分
 
-### **开启ttyS0设备**
+#### **开启ttyS0设备**
 
 【**注意】不要再普通用户组上进行操作，一定要在root用户组上配置，否则将会出错。**
 
@@ -168,7 +168,7 @@ ls -la /dev/
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/016-d78450efe840.webp)
 
-### 修改映射关系
+#### 修改映射关系
 
 - 终端输入
 
@@ -186,7 +186,7 @@ dtoverlay=pi3-miniuart-bt
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/017-d972563c92f5.webp)
 
-### 关闭Console
+#### 关闭Console
 
 在终端中输入：
 
@@ -195,7 +195,7 @@ sudo systemctl stop serial-getty@ttyS0.service
 sudo systemctl disable serial-getty@ttyS0.service
 ```
 
-### 配置串口参数：配置`cmdline.txt`
+#### 配置串口参数：配置`cmdline.txt`
 
 终端输入：
 
@@ -215,11 +215,11 @@ console=tty1 root=PARTUUID=ea7d04d6-02 rootfstype=ext4 elevator=deadline fsck.re
 
 
 
-## 串口通信测试（Python 基于Serial库）
+### 串口通信测试（Python 基于Serial库）
 
 
 
-### 环境配置
+#### 环境配置
 
 
 
@@ -260,7 +260,7 @@ True
 
 
 
-### python代码
+#### python代码
 
 python脚本代码，实现串口的发送和接收：
 
@@ -288,9 +288,9 @@ except KeyboardInterrupt:
 
 
 
-## 串口通信测试（C 基于wiringPi库）
+### 串口通信测试（C 基于wiringPi库）
 
-### 配置环境
+#### 配置环境
 
 ```Bash
 #更新软件包列表
@@ -305,7 +305,7 @@ gpio -v
 
 ![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/020-4b06d1cbecc9.webp)
 
-### C代码
+#### C代码
 
 创建C文件写一个串口实现例程：
 
@@ -372,7 +372,7 @@ int main()                 // 主函数
 
 
 
-## 串口通信库学习及使用（C\+\+）
+### 串口通信库学习及使用（C\+\+）
 
 【注意】上述串口通信的Python、C的实现是基于`pySerial库`、`wiringPi库`完成的。
 
@@ -386,9 +386,9 @@ int main()                 // 主函数
 
 
 
-### 基于WiringPi库的串口通信
+#### 基于WiringPi库的串口通信
 
-#### WiringPi库串口通信常用函数
+##### WiringPi库串口通信常用函数
 
 - 这是树莓派WiringPi库官方文档⬇
 
@@ -407,7 +407,7 @@ int main()                 // 主函数
 |\*size\_t write \(int fd,const void \* buf,size\_t count\)|fd：文件描述符；buf：需要发送的数据缓存数组；count:发送buf中的前count个字节数据；返回：实际写入的字符数，错误返回\-1|这个是Linux下的标准IO库函数，需要包含头文件`#include <unistd.h>`；当要发送到的数据量过大时，wiringPi建议使用这个函数。|
 |\*size\_t read\(int fd,void \* buf ,size\_t count\);|fd：文件描述符；buf：接受的数据缓存的数组；count:接收的字节数\.；返回：实际读取的字符数，失败时返回\-1|这个是Linux下的标准IO库函数，需要包含头文件`#include <unistd.h>`；当要接收的数据量过大时，wiringPi建议使用这个函数。|
 
-#### WiringPi库串口通信实现
+##### WiringPi库串口通信实现
 
 1. **案例1：**
 
@@ -528,7 +528,7 @@ int main()
 
 - `readThread` 线程调用 `read_thread()` 函数，不断检查串口是否有数据可读，如果有则读取数据并输出到控制台。
 
-### Boost\.Asio库的串口通信
+#### Boost\.Asio库的串口通信
 
 Boost库是一个C\+\+的网络通信库，其中Asio部分是该库用于串口通信的一小部分，同时Boost库也是C\+\+的标准库，因此，使用该库完成的代码实现可以迁移到任何平台直接使用，本人使用该库初步封装了一个异步串口通信实现，并封装了一部分基于串口通信的功能：
 

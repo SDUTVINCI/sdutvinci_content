@@ -11,11 +11,11 @@ publishedAt: 2024-01-04T00:00:00.000Z
 updatedAt: 2025-10-21T08:52:31.000Z
 ---
 
-# 安装Matlab
+## 安装Matlab
 
-## 注意事项
+### 注意事项
 
-### 挂载iso的命令：
+#### 挂载iso的命令：
 
 1. 创建挂载点
 
@@ -43,7 +43,7 @@ sudo umount /mnt/iso
 sudo rmdir /mnt/iso
 ```
 
-### 建议用root方式安装：
+#### 建议用root方式安装：
 
 这样才能安装在`/usr/local/MATLAB/R2024a`
 
@@ -60,47 +60,47 @@ sudo ./install
 
 
 
-# Matlab基础命令
+## Matlab基础命令
 
 
 
 
 
-# 自动控制原理
+## 自动控制原理
 
-## 经典控制理论
+### 经典控制理论
 
-### PID算法
-
-
-
-
-
-## 现代控制理论
-
-### 卡尔曼滤波算法\(最优滤波算法\)
-
-
-
-### LQR\(线性二次型最优控制算法\)
+#### PID算法
 
 
 
 
 
-# Simulink
+### 现代控制理论
 
-### Simulink基础使用
-
-### Simulink系统控制模型
-
-#### 自动控制原理
-
-#### Simulink建立系统控制模型
+#### 卡尔曼滤波算法\(最优滤波算法\)
 
 
 
-# Robotics System Toolbox
+#### LQR\(线性二次型最优控制算法\)
+
+
+
+
+
+## Simulink
+
+#### Simulink基础使用
+
+#### Simulink系统控制模型
+
+##### 自动控制原理
+
+##### Simulink建立系统控制模型
+
+
+
+## Robotics System Toolbox
 
 官网：
 
