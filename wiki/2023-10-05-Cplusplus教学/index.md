@@ -10,7 +10,10 @@ contributors:
   - fangzihao
   - jingjiale
 publishedAt: 2023-10-05T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.636Z
+updatedAt: 2026-08-20T15:07:00.205Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 > 📚 学习必须与实干相结合。—— 泰戈尔

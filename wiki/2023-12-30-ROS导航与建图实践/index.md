@@ -5,7 +5,9 @@ description: ROS导航、建图、定位、传感器部署和算法环境的实�
 authors:
   - dongjiahui
 publishedAt: 2023-12-30T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.428Z
+updatedAt: 2026-08-20T15:07:00.161Z
+tags:
+  - 软件算法组
 ---
 
 ROS导航、建图、定位、传感器部署和算法环境的实践资料。ROS与ROS2基础知识继续使用网站现有教程。

@@ -8,7 +8,9 @@ contributors:
   - zhangyihao
   - dongjiahui
 publishedAt: 2023-10-09T00:00:00.000Z
-updatedAt: 2025-02-27T11:01:05.000Z
+updatedAt: 2026-08-20T15:07:00.198Z
+tags:
+  - 嵌入式组
 ---
 
 ## 1\.防反接：

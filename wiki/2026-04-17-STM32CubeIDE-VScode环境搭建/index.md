@@ -7,7 +7,9 @@ authors:
 contributors:
   - fangzihao
 publishedAt: 2026-04-17T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.349Z
+updatedAt: 2026-08-20T15:06:59.953Z
+tags:
+  - 嵌入式组
 ---
 
 ***`（本教程为2026年4月创建的，可能与以后的版本有些出入）`***

@@ -8,7 +8,9 @@ contributors:
   - fangzihao
   - dongjiahui
 publishedAt: 2024-07-18T00:00:00.000Z
-updatedAt: 2026-08-20T09:47:47.797Z
+updatedAt: 2026-08-20T15:07:00.063Z
+tags:
+  - 软件算法组
 ---
 
 ## 一、烧录树莓派官方系统到sd卡

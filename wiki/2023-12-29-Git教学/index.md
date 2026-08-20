@@ -10,7 +10,10 @@ contributors:
   - cuitonghui
   - yaoshangnan
 publishedAt: 2023-12-29T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.507Z
+updatedAt: 2026-08-20T15:07:00.160Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 本教程主要是Git的安装及使用。

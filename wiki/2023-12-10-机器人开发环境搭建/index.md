@@ -12,7 +12,10 @@ contributors:
   - hanwenkai
   - liuyehan
 publishedAt: 2023-12-10T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.521Z
+updatedAt: 2026-08-20T15:07:00.190Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 本教程集合与Vinci机器人队培养路线同级，按用途分为：

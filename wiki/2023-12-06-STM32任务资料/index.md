@@ -12,7 +12,9 @@ contributors:
   - zhaoyouqi
   - maojingqiu
 publishedAt: 2023-12-06T00:00:00.000Z
-updatedAt: 2026-08-20T09:47:47.879Z
+updatedAt: 2026-08-20T15:07:00.166Z
+tags:
+  - 嵌入式组
 ---
 
 ## 注意事项

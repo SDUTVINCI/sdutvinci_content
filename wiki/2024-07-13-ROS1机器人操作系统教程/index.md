@@ -10,7 +10,9 @@ contributors:
   - cuizongchuang
   - liuhaolin
 publishedAt: 2024-07-13T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.884Z
+updatedAt: 2026-08-20T15:07:00.098Z
+tags:
+  - 软件算法组
 ---
 
 如果你想看ROS2教程，请看[ROS2机器人操作系统教程](/wiki/2023-12-30-ros2-tutorial)

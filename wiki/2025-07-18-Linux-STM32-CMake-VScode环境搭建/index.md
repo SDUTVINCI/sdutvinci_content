@@ -11,7 +11,9 @@ contributors:
   - luofuhan
   - fangzihao
 publishedAt: 2025-07-18T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.262Z
+updatedAt: 2026-08-20T15:06:59.970Z
+tags:
+  - 嵌入式组
 ---
 
 **`本教程已经过时，请看下方的新教程`**<br>

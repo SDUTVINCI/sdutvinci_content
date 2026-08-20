@@ -7,7 +7,9 @@ authors:
 contributors:
   - fangzihao
 publishedAt: 2024-01-21T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.037Z
+updatedAt: 2026-08-20T15:07:00.147Z
+tags:
+  - 嵌入式组
 ---
 
 **`截止2024年1月21日，MDK6已经完善到完全可以当主力IDE的状态，各项功能都比较完备。`**

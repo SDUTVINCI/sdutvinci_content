@@ -7,7 +7,9 @@ authors:
 contributors:
   - dongjiahui
 publishedAt: 2025-12-09T00:00:00.000Z
-updatedAt: 2025-12-09T05:27:16.000Z
+updatedAt: 2026-08-20T15:06:59.948Z
+tags:
+  - 嵌入式组
 ---
 
 【【干货】CLion开发STM32轻松搞定！】

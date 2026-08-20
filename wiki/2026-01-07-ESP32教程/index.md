@@ -5,5 +5,7 @@ description: ""
 authors:
   - dongjiahui
 publishedAt: 2026-01-07T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.436Z
+updatedAt: 2026-08-20T15:06:59.952Z
+tags:
+  - 嵌入式组
 ---

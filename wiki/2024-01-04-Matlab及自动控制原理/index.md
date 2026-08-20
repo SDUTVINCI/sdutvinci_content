@@ -8,7 +8,10 @@ contributors:
   - zhangchangfei
   - shangfanxing
 publishedAt: 2024-01-04T00:00:00.000Z
-updatedAt: 2026-08-20T09:47:47.840Z
+updatedAt: 2026-08-20T15:07:00.119Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 ## 安装Matlab

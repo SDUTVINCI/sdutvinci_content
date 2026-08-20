@@ -7,7 +7,10 @@ authors:
 contributors:
   - luxiangdong
 publishedAt: 2025-02-07T00:00:00.000Z
-updatedAt: 2026-08-20T09:47:47.699Z
+updatedAt: 2026-08-20T15:07:00.023Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 ## 公共基础

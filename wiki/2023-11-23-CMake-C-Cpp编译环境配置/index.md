@@ -11,7 +11,10 @@ contributors:
   - cuigongyan
   - cuitonghui
 publishedAt: 2023-11-23T00:00:00.000Z
-updatedAt: 2026-08-20T09:47:47.899Z
+updatedAt: 2026-08-20T15:07:00.188Z
+tags:
+  - 嵌入式组
+  - 软件算法组
 ---
 
 ## 参考资料

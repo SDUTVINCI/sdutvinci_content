@@ -14,5 +14,7 @@ contributors:
   - yaoshangnan
   - wangkailu
 publishedAt: 2023-10-09T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.606Z
+updatedAt: 2026-08-20T15:07:00.194Z
+tags:
+  - 嵌入式组
 ---
