@@ -3163,16 +3163,6 @@
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "sha256": "7dcdece51eb94c89036786de023b1a2ba2825489701aaf4552ba9a7c11fdccc7",
       "bytes": 420
-    },
-    {
-      "articleId": "36a6a851-e06b-4347-9347-3c68f7044ee9",
-      "revisionId": "4a7bd0b3-75c6-44e7-bc9d-d863f5305545",
-      "revisionNumber": 1,
-      "collection": "wiki",
-      "relativePath": "aaa-3b55a438.md",
-      "path": "wiki/aaa-3b55a438.md",
-      "sha256": "60d10d38d494882c3e12657e7f61e85f3a059b88870f74a86b6b69ae09b82669",
-      "bytes": 184
     }
   ],
   "members": [
@@ -3776,6 +3766,13 @@
       "collection": "wiki",
       "relativePath": "2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md",
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-0200-电路入门.md"
+    },
+    {
+      "articleId": "36a6a851-e06b-4347-9347-3c68f7044ee9",
+      "revisionId": "4a7bd0b3-75c6-44e7-bc9d-d863f5305545",
+      "collection": "wiki",
+      "relativePath": "aaa-3b55a438.md",
+      "path": "wiki/aaa-3b55a438.md"
     },
     {
       "articleId": "7478b24f-1583-4e79-a925-733b2a01f1fc",

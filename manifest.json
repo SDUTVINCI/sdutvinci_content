@@ -5,7 +5,7 @@
   "generatedAt": "2026-08-20T15:46:50.695Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "cd936256bc4a9164a5e4f36b35e78c333b4fedc3aa959158fc19ecbcd2d5df9f"
+    "sha256": "d8ea36cc89d51f0f26edb0197790ee6750fb09da846e019c5d83adb35797ed80"
   },
   "files": [
     {
@@ -1837,11 +1837,6 @@
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "sha256": "7dcdece51eb94c89036786de023b1a2ba2825489701aaf4552ba9a7c11fdccc7",
       "bytes": 420
-    },
-    {
-      "path": "wiki/aaa-3b55a438.md",
-      "sha256": "60d10d38d494882c3e12657e7f61e85f3a059b88870f74a86b6b69ae09b82669",
-      "bytes": 184
     }
   ]
 }
