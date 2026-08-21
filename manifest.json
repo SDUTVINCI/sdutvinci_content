@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-20T15:46:50.695Z",
+  "generatedAt": "2026-08-21T03:09:52.794Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "d8ea36cc89d51f0f26edb0197790ee6750fb09da846e019c5d83adb35797ed80"
+    "sha256": "3a4a317b6f6be3ed943aefd4839cc57612eb9624341841bfc05ce0b5b1982464"
   },
   "files": [
     {
@@ -1837,6 +1837,11 @@
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "sha256": "7dcdece51eb94c89036786de023b1a2ba2825489701aaf4552ba9a7c11fdccc7",
       "bytes": 420
+    },
+    {
+      "path": "wiki/2026-08-21-AAA/index.md",
+      "sha256": "3d210dea0720f1a414b95ec4af6c8a2ca492f60cb5c92692fa2475f60130e180",
+      "bytes": 202
     }
   ]
 }
