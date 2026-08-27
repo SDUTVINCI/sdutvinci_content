@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-21T03:09:52.794Z",
+  "generatedAt": "2026-08-27T21:04:38.015Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2276,13 +2276,13 @@
     },
     {
       "articleId": "67a40bf2-80b3-4521-a1e0-f197825ef2b7",
-      "revisionId": "c1f5c2c5-4d1c-4bf8-a379-f24262c41cb2",
-      "revisionNumber": 1,
+      "revisionId": "72809d2a-149a-4e66-bfcd-db545db280d3",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2024-07-12-运营组教程/0400-实验室规章制度.md",
       "path": "wiki/2024-07-12-运营组教程/0400-实验室规章制度.md",
-      "sha256": "f31dbcdcd70f2efed58a701cc499d4db6db7ad3fdd9ea91d6d4eb2bdd164a3c3",
-      "bytes": 1837
+      "sha256": "556ea90d65f5f843028d6573bda05d7f5ae9f0de816438456a1713d5f293b16b",
+      "bytes": 3075
     },
     {
       "articleId": "5b9aea20-68a8-43b0-9505-ce59c9e2635e",

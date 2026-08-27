@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-21T03:09:52.794Z",
+  "generatedAt": "2026-08-27T21:04:38.015Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "1e3bcafafd7006465f56e5c87d929c456bfae7930c055b914af7a5fa72e4fcda"
+    "sha256": "1ba2a0b96c56934103af7cd5486c82bc55fddb44cbfedf059bcbc5793e1473fc"
   },
   "files": [
     {
@@ -1395,8 +1395,8 @@
     },
     {
       "path": "wiki/2024-07-12-运营组教程/0400-实验室规章制度.md",
-      "sha256": "f31dbcdcd70f2efed58a701cc499d4db6db7ad3fdd9ea91d6d4eb2bdd164a3c3",
-      "bytes": 1837
+      "sha256": "556ea90d65f5f843028d6573bda05d7f5ae9f0de816438456a1713d5f293b16b",
+      "bytes": 3075
     },
     {
       "path": "wiki/2024-07-12-运营组教程/index.md",
