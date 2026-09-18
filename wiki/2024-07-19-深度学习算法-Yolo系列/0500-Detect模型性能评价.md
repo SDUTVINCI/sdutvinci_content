@@ -34,7 +34,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## Confusion Matrix \&\& Confusion Matrix Normalized
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/001-df97961d3d8c.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/001-df97961d3d8c.webp)
 
 1. **原始混淆矩阵**
 
@@ -48,7 +48,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
     ---
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/002-6f15468b5f95.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/002-6f15468b5f95.webp)
 
 2. **归一化混淆矩阵**
 
@@ -60,7 +60,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## F1\-Confindence Curve（F1分数）
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/003-2ceb75b73f81.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/003-2ceb75b73f81.webp)
 
 1. **F1分数**
 
@@ -86,7 +86,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## Precision\-Confidence Curve
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/004-9ed376765ca7.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/004-9ed376765ca7.webp)
 
 1. **精确率曲线**
 
@@ -102,7 +102,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## Recall\-Confidence Curve
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/005-f51df9172597.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/005-f51df9172597.webp)
 
 1. **召回率曲线**
 
@@ -128,7 +128,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## Precision\-Recall Curve
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/006-f586e9c2b34a.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/006-f586e9c2b34a.webp)
 
 1. **精确度\-召回率曲线**
 
@@ -138,7 +138,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## result\.csv
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/007-9e5a8e70a93d.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/007-9e5a8e70a93d.webp)
 
 记录了每个训练 epoch 的详细信息，包括每轮训练的指标和结果：
 
@@ -176,7 +176,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## result\.png
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/008-89210fda5819.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/008-89210fda5819.webp)
 
 - 该图像表示随训练轮数epochs的增加，模型的各评价指标的变化。
 
@@ -208,7 +208,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## train\_batchX\.jpg
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/009-742e6e207586.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/009-742e6e207586.webp)
 
 这些图像文件，显示了在训练过程中对某些批次（batch）的图像进行检测后的结果，通常用于展示训练中预测的效果。
 
@@ -216,9 +216,9 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## val\_batchX\_labels\.jpg \&\& val\_batchX\_pred\.jpg
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/010-15a1d62cbb61.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/010-15a1d62cbb61.webp)
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/011-f5bd396fe084.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/011-f5bd396fe084.webp)
 
 验证集真实标注的图像标签和模型训练时验证阶段预测标签对比，以观察模型在验证集上的表现。
 
@@ -230,7 +230,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## label\.png
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/012-ceacfee4ca73.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/012-ceacfee4ca73.webp)
 
 1. **第一张图：**
 
@@ -268,7 +268,7 @@ updatedAt: 2024-12-19T15:42:50.000Z
 
 ## labels\_correlogram\.jpg
 
-![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/19/013-d4017e02b108.webp)
+![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/19/013-d4017e02b108.webp)
 
 - **主对角线上的柱状图**：展示每个变量的分布。
 
