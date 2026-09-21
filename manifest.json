@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-08-27T21:11:39.194Z",
+  "generatedAt": "2026-09-21T16:53:04.486Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "255e56faec31fcd0c5dbafae3764e77c8813d123eda24b2d0bf75a28ae13e5cb"
+    "sha256": "0895f85050cd3ae63901832d85ac8eceedc01e1a99d503d0c83c147d5fcd5798"
   },
   "files": [
     {
@@ -224,14 +224,24 @@
       "bytes": 290
     },
     {
+      "path": "members/applications/0cec40d6-d17f-4c26-874b-54dbf709084b.md",
+      "sha256": "1fc1f588b914ee1994fd636591935fa5ecfd4a96e0a758ea250aa5feed2051c6",
+      "bytes": 277
+    },
+    {
+      "path": "members/applications/28259d4c-75eb-4a20-a260-234f734631cc.md",
+      "sha256": "591a8e3e24fc9e914488affb6726fd6d111fcee1657b84698bfa4bef228898d6",
+      "bytes": 319
+    },
+    {
+      "path": "members/applications/2cf81681-dc91-42cd-beb1-fa85b5425603.md",
+      "sha256": "0d5e3290590005271504ded139edcb226804c17d511b9dfa9f6c8957be32642b",
+      "bytes": 267
+    },
+    {
       "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
       "sha256": "277e399ea09f9171cb02b4ff2c81259b13ebf4620b898d76b46c330bec6777da",
       "bytes": 353
-    },
-    {
-      "path": "members/applications/525616cc-31a9-4cf3-b361-499016f256c2.md",
-      "sha256": "fbaf443728677f886ad61390a95bdd60bebe5d5f32fa8c043018f7019f278ed3",
-      "bytes": 247
     },
     {
       "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
@@ -239,9 +249,34 @@
       "bytes": 326
     },
     {
+      "path": "members/applications/64f360bd-2110-4a2b-88df-3f4f54a77a07.md",
+      "sha256": "dfa98413dc0e7102defaae40f503b5bc19c59943c508074366ccd2a5532a34e0",
+      "bytes": 178
+    },
+    {
+      "path": "members/applications/7f98dde1-2e1c-4fc9-9530-da147e290ffb.md",
+      "sha256": "46d87ac977b625974f00ccf8ac5b08df8d9298fd34091e431efa915d0ad07c93",
+      "bytes": 266
+    },
+    {
+      "path": "members/applications/a665c419-72ad-4125-a1ea-da7e729c4c98.md",
+      "sha256": "a26bd3d239c35859a150cb9c94bb1d00a172e9e6753cdf625d82ef204f092658",
+      "bytes": 310
+    },
+    {
       "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
       "sha256": "d7f9c1e29232792a53450e4d77d95c787507358d777508d5e0b4b2effbaeba08",
       "bytes": 331
+    },
+    {
+      "path": "members/applications/c4236dd6-41a7-4f00-b5da-b93266484bf3.md",
+      "sha256": "57d9dddbae21755c06db3f2750f3c642e6b6dfed98413e85a31f38e94f35f12d",
+      "bytes": 282
+    },
+    {
+      "path": "members/applications/fa2a0571-9e7a-4b9a-a775-6aa149cf389a.md",
+      "sha256": "1a3954d63ff366c04a369b8704f08769043a245b80072f20c641623180a7f669",
+      "bytes": 321
     },
     {
       "path": "members/teacher/宫金良.md",
