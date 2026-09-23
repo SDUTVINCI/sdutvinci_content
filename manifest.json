@@ -2,296 +2,261 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-21T16:53:04.486Z",
+  "generatedAt": "2026-08-27T21:11:39.194Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "0895f85050cd3ae63901832d85ac8eceedc01e1a99d503d0c83c147d5fcd5798"
+    "sha256": "394374dbc06a2ec29c3fd843589b4838a7ab97558e9338fcef9b8a4d21acf383"
   },
   "files": [
     {
       "path": "members/2018/崔超.md",
-      "sha256": "cf066bce4e7da7c75c68564f07e6c0da253eb3e3af5e7dc5c0c8183efbbe884f",
-      "bytes": 239
+      "sha256": "daa98b6f889a75c3b298d897093b453c74ffbae8e38ef00f37c382b8a82cd1fe",
+      "bytes": 245
     },
     {
       "path": "members/2018/王虓.md",
-      "sha256": "20043bc496c61bea51ac7983a2b72eacfee900561a8de97a7812e9163dbb52c4",
-      "bytes": 503
+      "sha256": "e645687bb8e9f5f9bdfdadf33b5a0d5bb447d9f7855a7b09bbd662414abe16aa",
+      "bytes": 509
     },
     {
       "path": "members/2020/刘文轩.md",
-      "sha256": "b63eb5d2428f9aecc7a616df5a931133656d29de61bed6419ca628c84a704d65",
-      "bytes": 257
+      "sha256": "a4bee2fd6021c3b0e82157f69c0167754f4943f13d616cbc9014296eb15264e9",
+      "bytes": 263
     },
     {
       "path": "members/2020/卢元正.md",
-      "sha256": "b458567aa433ae1bdbb269b1ce1ceed5c5e817e7005ce35e367f6090b1fa521c",
-      "bytes": 249
+      "sha256": "58efbd943d129da8c52af8fe79ffe1fb77c0935b2c7d5dc6b8826fd8eb04b30e",
+      "bytes": 255
     },
     {
       "path": "members/2020/张洋.md",
-      "sha256": "cb1ee8696d03174ac47d13a57a1a45a982d16508e61aed5f0f0c31c55c6f2597",
-      "bytes": 294
+      "sha256": "05f18a043d12394c6035e7c311ea00a75eeee57a55e5950898f12fee255001e8",
+      "bytes": 300
     },
     {
       "path": "members/2020/王鹏舜.md",
-      "sha256": "607c019c749586da58847c34d70bf0214f489ad4ec02c477674d02395c9e386b",
-      "bytes": 259
+      "sha256": "a87e8d914a5b56b81df75dcb99e688aa54f89c1239bc8ee94cef0de6e833389a",
+      "bytes": 265
     },
     {
       "path": "members/2021/张博武.md",
-      "sha256": "c37b7284aae0ef434546c26876ce350ccd24cbf99051ba954e9b2192fa5fff2f",
-      "bytes": 262
+      "sha256": "b299902f29a0f61a595c10eb9c401e47945c3942a695b3109f1d16cfae1e08c4",
+      "bytes": 268
     },
     {
       "path": "members/2022/常传勇.md",
-      "sha256": "8f91719c8f08056a9c25d3e6ebd5ac4fb7cba6d28f7aa844401d3e0f53fbbf9f",
-      "bytes": 310
+      "sha256": "f437d64e21ae053dcf15862dab9bf368964491b45474b88962dad2d8971c15b1",
+      "bytes": 316
     },
     {
       "path": "members/2022/王子铭.md",
-      "sha256": "2e875dcb8d57d5f038e533c3d69834766789135f4efc59a8780b763e974a461b",
-      "bytes": 657
+      "sha256": "ef23a64afcd19e840466672c31e908e48ffda18ab05dbd27a4d2d55ba4e36868",
+      "bytes": 663
     },
     {
       "path": "members/2022/王鹏程.md",
-      "sha256": "c7101284da6332636a7ef2741857fc6cb30f5e737259d404041a24f35e48d08f",
-      "bytes": 264
+      "sha256": "dd1d76a1cb8a38b1c955c3147cfc883a0ed55ccb93877ea340c247baf3f5d6e1",
+      "bytes": 270
     },
     {
       "path": "members/2022/邹昌迪.md",
-      "sha256": "78896e306756d7263368fc3758ada41de237a6ca146b5b32d811a3fc97e63e54",
-      "bytes": 494
+      "sha256": "b1d1f51dfe70a1583d8eb0ecf9535a627ee4b2a8a3146bbe53bda33066a5921d",
+      "bytes": 500
     },
     {
       "path": "members/2023/曹启硕.md",
-      "sha256": "b2634e080695536be7e22c4da2b790e27ef1bfdd3ffdbbaa3ee51797955c0715",
-      "bytes": 253
-    },
-    {
-      "path": "members/2023/李坤.md",
-      "sha256": "76ecd0cf2995b14b390ec2ed957bb53f65648a621c2ba9e6a2a3e719ab041a91",
-      "bytes": 302
-    },
-    {
-      "path": "members/2023/杨智伟.md",
-      "sha256": "2e00668a598f0922b9769988044a7e4cd339ff490d56338255459f7955a31852",
-      "bytes": 305
-    },
-    {
-      "path": "members/2023/穆化仓.md",
-      "sha256": "ce56c17685634b29e20ba8362c33a6a02a7df7d850089e4219d8d5a87c1ddcda",
-      "bytes": 295
-    },
-    {
-      "path": "members/2023/董佳辉.md",
-      "sha256": "da0a9676286ef41e45a441722b21a7e6b6f88a88d6d73ba222554e2740899ce5",
-      "bytes": 4757
-    },
-    {
-      "path": "members/2023/陈厚瑞.md",
-      "sha256": "d379ec86936690e18cf8831a8bf98fbb19ea8ce95def5be7766759f04b6df168",
-      "bytes": 347
-    },
-    {
-      "path": "members/2024/尚凡兴.md",
-      "sha256": "a67e6b4d583ee9628c984deefab19273b1323c1fffa6dd56d0d9a8c52b63a241",
-      "bytes": 335
-    },
-    {
-      "path": "members/2024/林沼君.md",
-      "sha256": "9072a8a59acb34579ad8bf87cceea13e1558daf1b4be4ea6d068685ee77a4742",
-      "bytes": 293
-    },
-    {
-      "path": "members/2024/苏利昊.md",
-      "sha256": "2fac38a20e942545319ac9a88f258f4602457e0d8e745c276eecb24954e66197",
-      "bytes": 348
-    },
-    {
-      "path": "members/2025/冯平川.md",
-      "sha256": "deab310b20bfd3b0ff88d59f92b462e7bd8c1ad206a3f5ca26cf23f2d52c792a",
-      "bytes": 294
-    },
-    {
-      "path": "members/2025/刘业晗.md",
-      "sha256": "babcc0670888edc938625fc9e9da3604b0b508c63ce5220f7c317fcecf37e9b4",
-      "bytes": 306
-    },
-    {
-      "path": "members/2025/卢湘东.md",
-      "sha256": "ddf4e97f809cfbdaa1dce48fa6e9b515d613eb96a842161e18dc97d85808f474",
-      "bytes": 376
-    },
-    {
-      "path": "members/2025/商芷晨.md",
-      "sha256": "23700b3ebf4f76a2b06f9e5c69d4c4b2e3cfaa8f71b84c7a7428d404796879e3",
-      "bytes": 250
-    },
-    {
-      "path": "members/2025/孔德玮.md",
-      "sha256": "24b9c54fff736b3669bc227b128ac998deb50caebc57123605531f4da18111e3",
+      "sha256": "228389b7f41df9d3ee1d0c932bd9a73ca56ff776972ada4e8d9aae5323f4efa6",
       "bytes": 259
     },
     {
-      "path": "members/2025/孙亚诚.md",
-      "sha256": "a9ea22c119d34c1e04ab90d05d95a292c31bb6f8202d17996a3d4f5dc8f26d1a",
-      "bytes": 296
+      "path": "members/2023/李坤.md",
+      "sha256": "0e44af331181867a3a340198a2d1dcb9d1d89c57c92153383652d2b5f7d4e84e",
+      "bytes": 308
     },
     {
-      "path": "members/2025/孙凯臣.md",
-      "sha256": "610ad56c7e872ca5ce979cb97dfb7559bd9ed39de92a4c5a23860531db524076",
-      "bytes": 248
+      "path": "members/2023/杨智伟.md",
+      "sha256": "94617b15e31c3ea999175b88425da9f69595be3eea6cee7e9be04fe94c2d9550",
+      "bytes": 311
     },
     {
-      "path": "members/2025/崔功岩.md",
-      "sha256": "5933e0bf2377f3712c814bc2c913084c2767af8e06b9b4f30e01039e94de6669",
-      "bytes": 318
+      "path": "members/2023/穆化仓.md",
+      "sha256": "4911d4977d737569f0b9dfbb18f64b4d8b8cbb5b1d9bd7a46ba85310716d4dd5",
+      "bytes": 301
     },
     {
-      "path": "members/2025/崔启文.md",
-      "sha256": "b7d5b4d366f84e67ddc6933fa956c8610df87218bf2452a356a906c214eeb815",
-      "bytes": 274
+      "path": "members/2023/董佳辉.md",
+      "sha256": "aa7d7574b8094f7a4a7334e8de5a6b93e6dc90b17caaa02c439be48e6cb29a43",
+      "bytes": 4769
     },
     {
-      "path": "members/2025/张丽敏.md",
-      "sha256": "e3e492b76e98c631856d89a7d41e61b2feb936d5139af23a1581fe6da0e93fcf",
-      "bytes": 323
-    },
-    {
-      "path": "members/2025/张爱煜.md",
-      "sha256": "0627b180a37d7076aa7ce630e683d204cd9c165e06280320db223f6407e489e3",
-      "bytes": 304
-    },
-    {
-      "path": "members/2025/张益豪.md",
-      "sha256": "d60005049019c6a35be830445dde9ebac28eba8ceb6bb5617d9ea5c7cc999073",
-      "bytes": 289
-    },
-    {
-      "path": "members/2025/张长飞.md",
-      "sha256": "55801f8b7aef82d6e12cfedfeaf27e3d14128554e669907250de4b71d05f6734",
-      "bytes": 317
-    },
-    {
-      "path": "members/2025/房梓豪.md",
-      "sha256": "1a7f14113d24b7f3450fd1e6d85539ba86a3481ee1a27f7105eee2a19a93dc6e",
-      "bytes": 397
-    },
-    {
-      "path": "members/2025/王燕华.md",
-      "sha256": "ef3142e22f416751656e95543729f77a1a8fc79a9b8c118f301e6405e4a8f4b9",
-      "bytes": 293
-    },
-    {
-      "path": "members/2025/薛金鸽.md",
-      "sha256": "ef275668d36dcc3843da008c0faf5a5676e08611c377f6320c9a62bae363fb92",
-      "bytes": 317
-    },
-    {
-      "path": "members/2025/韩文凯.md",
-      "sha256": "b0fdaf13b98adc75055b5f3256ecbc2d7f47830e633f0523ec254e7acf813915",
-      "bytes": 359
-    },
-    {
-      "path": "members/2026/张紫烨.md",
-      "sha256": "e30477df8ba66947b5126f42befd9dfbfadc8b24b6e93953bdc6d0d92704e095",
-      "bytes": 247
-    },
-    {
-      "path": "members/2026/李骏远.md",
-      "sha256": "c5536ab99c0fed2d901e8dfd3d0e86f01f7ddbac2f80be82f33fb858624c9ce1",
-      "bytes": 323
-    },
-    {
-      "path": "members/2026/杨永祺.md",
-      "sha256": "b71f82df77aecd411e3ec38273154feb0e651ade90436c18be9836bf4a272189",
-      "bytes": 272
-    },
-    {
-      "path": "members/2026/毕恒宇.md",
-      "sha256": "ac2f6fc4616306d1160d5959d3497086ca1b0795f2e5fe8893c9fcc7640e0892",
-      "bytes": 517
-    },
-    {
-      "path": "members/2026/陈天泽.md",
-      "sha256": "53ccf2358cf92b5b3a494b85a6791e20f7f3676753059094a6ffb9ee65dd2a88",
-      "bytes": 248
-    },
-    {
-      "path": "members/2026/骆富涵.md",
-      "sha256": "f4b2df6c7d25c5d9a938933c8d2f966ce1c58fc290c5cac4e194814a796fe499",
-      "bytes": 290
-    },
-    {
-      "path": "members/applications/0cec40d6-d17f-4c26-874b-54dbf709084b.md",
-      "sha256": "1fc1f588b914ee1994fd636591935fa5ecfd4a96e0a758ea250aa5feed2051c6",
-      "bytes": 277
-    },
-    {
-      "path": "members/applications/28259d4c-75eb-4a20-a260-234f734631cc.md",
-      "sha256": "591a8e3e24fc9e914488affb6726fd6d111fcee1657b84698bfa4bef228898d6",
-      "bytes": 319
-    },
-    {
-      "path": "members/applications/2cf81681-dc91-42cd-beb1-fa85b5425603.md",
-      "sha256": "0d5e3290590005271504ded139edcb226804c17d511b9dfa9f6c8957be32642b",
-      "bytes": 267
-    },
-    {
-      "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
-      "sha256": "277e399ea09f9171cb02b4ff2c81259b13ebf4620b898d76b46c330bec6777da",
+      "path": "members/2023/陈厚瑞.md",
+      "sha256": "686e6796d0d3721e02ef36e181191258ec05162a0aabe4d9a73c4220478dd97b",
       "bytes": 353
     },
     {
-      "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
-      "sha256": "d49d79aaa6935ed87f007024ad1b3691ac9a18531444159f84a1e2cb7d433b34",
-      "bytes": 326
+      "path": "members/2024/尚凡兴.md",
+      "sha256": "ca1b5e9e956e5182d6fdb8450d73c412788d86e63a822280e83997389d382859",
+      "bytes": 341
     },
     {
-      "path": "members/applications/64f360bd-2110-4a2b-88df-3f4f54a77a07.md",
-      "sha256": "dfa98413dc0e7102defaae40f503b5bc19c59943c508074366ccd2a5532a34e0",
-      "bytes": 178
+      "path": "members/2024/林沼君.md",
+      "sha256": "fe8d55588cad3b8644c3110dc5a48ea7a65321e0365fb3650f2b7923e76c0b3e",
+      "bytes": 299
     },
     {
-      "path": "members/applications/7f98dde1-2e1c-4fc9-9530-da147e290ffb.md",
-      "sha256": "46d87ac977b625974f00ccf8ac5b08df8d9298fd34091e431efa915d0ad07c93",
-      "bytes": 266
+      "path": "members/2024/苏利昊.md",
+      "sha256": "59bab6d5ccf3924b78b5f2579b32645b4d78cbb02735ef44e28d51ccbc15d2b6",
+      "bytes": 354
     },
     {
-      "path": "members/applications/a665c419-72ad-4125-a1ea-da7e729c4c98.md",
-      "sha256": "a26bd3d239c35859a150cb9c94bb1d00a172e9e6753cdf625d82ef204f092658",
+      "path": "members/2025/冯平川.md",
+      "sha256": "07847231b6424735cbb17432b4f53b7e85a2aa1cacf3dc34ed2d34998ad50302",
+      "bytes": 300
+    },
+    {
+      "path": "members/2025/刘业晗.md",
+      "sha256": "49764d07d3a5987c7a7e9bfb7cf7e05b3002a84e97ec700792742c344f894270",
+      "bytes": 312
+    },
+    {
+      "path": "members/2025/卢湘东.md",
+      "sha256": "5afb0f8ea71b57891509762f1fd4eb2de5cea9bc080c9a9558f165e4783358cf",
+      "bytes": 382
+    },
+    {
+      "path": "members/2025/商芷晨.md",
+      "sha256": "d3208057cca8c11a1eb9ccec842c1a5820abe367fe85669f02c121695b34d838",
+      "bytes": 256
+    },
+    {
+      "path": "members/2025/孔德玮.md",
+      "sha256": "a77d93da447e336b3f1cd7498b038bc85f08dbbcb7afacca871eedb50fa679d5",
+      "bytes": 265
+    },
+    {
+      "path": "members/2025/孙亚诚.md",
+      "sha256": "6aa8535b59f7b8fcff7aa7bff18259f912ca6c8405bffa8970632f51372e74e7",
+      "bytes": 302
+    },
+    {
+      "path": "members/2025/孙凯臣.md",
+      "sha256": "43d7558143e8ee46cacf2a39a71359a3ab7542565d3d2b1ac530f80d899424b2",
+      "bytes": 254
+    },
+    {
+      "path": "members/2025/崔功岩.md",
+      "sha256": "585f764fe8443bf9237475aa67ab5f3f39c910a36e9f1f89d77281b7277d5cdf",
+      "bytes": 324
+    },
+    {
+      "path": "members/2025/崔启文.md",
+      "sha256": "5dc82cc9c1645bf9f938d320821dcab52ed2fa6d5e00aa7bc43d1bd57d116068",
+      "bytes": 280
+    },
+    {
+      "path": "members/2025/张丽敏.md",
+      "sha256": "b7aef353229dc294cefa32c742f9ee155e8c3b2b122ab6fdd7f8a43285e15265",
+      "bytes": 329
+    },
+    {
+      "path": "members/2025/张爱煜.md",
+      "sha256": "b719415720ee98159d473c7f9bd7e20184e29fafb6fb3b34c0088fb87037aa62",
       "bytes": 310
     },
     {
+      "path": "members/2025/张益豪.md",
+      "sha256": "07bddd0349e44dc5a7261650ea81cf66a08f88e10e29b077bf63787508059678",
+      "bytes": 295
+    },
+    {
+      "path": "members/2025/张长飞.md",
+      "sha256": "0a16fd58b02a7659f892f9f3630ef58a56be35517aa398e5c1c6d8c8f646f57d",
+      "bytes": 323
+    },
+    {
+      "path": "members/2025/房梓豪.md",
+      "sha256": "80c4383be2cdc5d857a9d4c0549399a02fa4a20e75537105fa1f7df6198ad47d",
+      "bytes": 403
+    },
+    {
+      "path": "members/2025/王燕华.md",
+      "sha256": "aa6c547060525c092b75367f21a375feae024c230f2eb392695f9563b0be3322",
+      "bytes": 299
+    },
+    {
+      "path": "members/2025/薛金鸽.md",
+      "sha256": "745d378b94f0b72b5f68d767c3d00da3077fcfa83773c349628b0e41f4bf2b4b",
+      "bytes": 323
+    },
+    {
+      "path": "members/2025/韩文凯.md",
+      "sha256": "6cde55f43bf0f4a4a11dd22cc990a624a4255b7261cf72cf6acfe1cad9462c4d",
+      "bytes": 365
+    },
+    {
+      "path": "members/2026/张紫烨.md",
+      "sha256": "1533ab92e5d0cb295fd010a86d65841612e090554eadb93203596a80e2ad1ffb",
+      "bytes": 253
+    },
+    {
+      "path": "members/2026/李骏远.md",
+      "sha256": "f71dbad52465a41bc3fff9c9bb8d5aaf06be01bf05dd7ce5869669b5b5332ba1",
+      "bytes": 329
+    },
+    {
+      "path": "members/2026/杨永祺.md",
+      "sha256": "5b0f865fb012689289c1803873e3cef132f643654e25020c277542a84387196d",
+      "bytes": 278
+    },
+    {
+      "path": "members/2026/毕恒宇.md",
+      "sha256": "24182dc04ede67ed32a9bbde8488a45cd6617587272d1f906c76b34878e79217",
+      "bytes": 523
+    },
+    {
+      "path": "members/2026/陈天泽.md",
+      "sha256": "8433867cd0563c7098d4d04a2566b6ad0eb61d2f98d7a037d66af21a30eac9da",
+      "bytes": 254
+    },
+    {
+      "path": "members/2026/骆富涵.md",
+      "sha256": "445cff170168961d4e7bdf37e29c50592aa797aab98665ce7e79a290e7085c67",
+      "bytes": 296
+    },
+    {
+      "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
+      "sha256": "b1e650a969a6a0dfee219c6cc51939e26d4d20a433fc8574e4d1cf179fd70d37",
+      "bytes": 359
+    },
+    {
+      "path": "members/applications/525616cc-31a9-4cf3-b361-499016f256c2.md",
+      "sha256": "fbaf443728677f886ad61390a95bdd60bebe5d5f32fa8c043018f7019f278ed3",
+      "bytes": 247
+    },
+    {
+      "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
+      "sha256": "73128edddbcf9b65e05de42a1e2c9bdb3b56b4d1c560283e475de1f06102cec6",
+      "bytes": 332
+    },
+    {
       "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
-      "sha256": "d7f9c1e29232792a53450e4d77d95c787507358d777508d5e0b4b2effbaeba08",
-      "bytes": 331
-    },
-    {
-      "path": "members/applications/c4236dd6-41a7-4f00-b5da-b93266484bf3.md",
-      "sha256": "57d9dddbae21755c06db3f2750f3c642e6b6dfed98413e85a31f38e94f35f12d",
-      "bytes": 282
-    },
-    {
-      "path": "members/applications/fa2a0571-9e7a-4b9a-a775-6aa149cf389a.md",
-      "sha256": "1a3954d63ff366c04a369b8704f08769043a245b80072f20c641623180a7f669",
-      "bytes": 321
+      "sha256": "0e2d9e0141fa5fd0d5ca3655104496a486a0dde9b443c88af4a3680291586659",
+      "bytes": 337
     },
     {
       "path": "members/teacher/宫金良.md",
-      "sha256": "ce9820e9ac7569a947e41a100837d1dc5ff8114ca6039ea124b32b4c269d835e",
-      "bytes": 927
+      "sha256": "1571c8311ba86bc92c0890a4f3fe4299f6ecad96d65bc2b265383c03b61594ec",
+      "bytes": 933
     },
     {
       "path": "members/teacher/巩丽.md",
-      "sha256": "21f73a6124b3cc9974ff6b48550be6bfabed8bdcb07b3466a1e6d690ab15152f",
-      "bytes": 474
+      "sha256": "496fd2ba5baa7d0161b318320650180373f97e80a6cc483a1c4552a911f85ec4",
+      "bytes": 480
     },
     {
       "path": "members/teacher/张彦斐.md",
-      "sha256": "60a5a3411b7c5bdc20ddc27f21e346e81bf05a3c1c3c179b2df18f1b313d27bb",
-      "bytes": 804
+      "sha256": "cb61e67f68373754f0ad6d0ea0ce931d9ea90dc4c29d490cc9ba075f9e4c4e37",
+      "bytes": 810
     },
     {
       "path": "news/2024-07-06-接受赛委会采访.md",
@@ -300,8 +265,8 @@
     },
     {
       "path": "news/2026-07-16-robocon-volleyball-national-first-prize.md",
-      "sha256": "8010c6d25f519343ec39b5e9c66c280f64ceaac98a08d11943ee25af1f57f2ac",
-      "bytes": 4802
+      "sha256": "b4f4c78bff0b35b64981a97bda581c82345caebf2f9a3adb1722cfd410aa20b7",
+      "bytes": 4862
     },
     {
       "path": "wiki/2021-09-16-OpenWrt编译教学/0100-编译环境准备.md",
@@ -340,13 +305,13 @@
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0200-Vinci机器人队总体路线.md",
-      "sha256": "e48feb78fe9948035eb9cc29a122369c8b71be04f8ae3114dbbf89fde9e39752",
-      "bytes": 8719
+      "sha256": "bfd79a8c821770ec0d23706457c054022278ddef8d076a09c7173b15c87b71f7",
+      "bytes": 8949
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0100-嵌入式组路线.md",
-      "sha256": "f484ac786ee3685a27b33f69414b8a22ef38e8889ce9707718f8d558645a9dc0",
-      "bytes": 12323
+      "sha256": "7dc98c77884d85a2c53ed751c3e2172d1dd6201b156594cea5bc838c5661add7",
+      "bytes": 12449
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0300-0200-软件算法组路线.md",
@@ -360,8 +325,8 @@
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0400-机械组路线.md",
-      "sha256": "803ab6bc46b1e2a8521de4858f22f2a69886b1b3fba9239955892a4bd6a32b5d",
-      "bytes": 4674
+      "sha256": "9e4121c6cc60bd010b4c912bdda68cde32b3cd321cba3d6dda5069efa891a454",
+      "bytes": 4770
     },
     {
       "path": "wiki/2023-09-29-Vinci机器人队培养计划/0500-运营组路线.md",
@@ -775,8 +740,8 @@
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-0100-Arduino常用库函数和速学参考.md",
-      "sha256": "ebbca9681265672d340affa61c498f586b03c86d05dd56e46af19c8e240828f6",
-      "bytes": 15023
+      "sha256": "0d81657a120fffd7384e5bcd692fe61ac488c5a14c8c23cfa59048dc6b691331",
+      "bytes": 15089
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0200-arduino库(了解即可).md",
@@ -800,13 +765,13 @@
     },
     {
       "path": "wiki/2023-10-09-电路教程/0100-硬件基础.md",
-      "sha256": "de9e43e3cad107c66095fcdcf63f8d827b3ca5d153294f50b2b9aa8e42a070ab",
-      "bytes": 3659
+      "sha256": "9bd055ae9d254fafa5820a6295d7f1d81514826b853df83051173afa1961a5d7",
+      "bytes": 3665
     },
     {
       "path": "wiki/2023-10-09-电路教程/0200-嘉立创EDA入门.md",
-      "sha256": "26d550143f090b0a02c829a8145c5db31d2397732412751dc6c5f8a01047890d",
-      "bytes": 16968
+      "sha256": "643b8e172172043688c74f894e7061e15999880456766fd1adc14f636195c749",
+      "bytes": 17214
     },
     {
       "path": "wiki/2023-10-09-电路教程/0300-电路板排查问题.md",
@@ -820,18 +785,18 @@
     },
     {
       "path": "wiki/2023-11-23-CMake-C-Cpp编译环境配置/index.md",
-      "sha256": "594095a9f72fe90a3840cb8bd4168f06ac5544fbada8f2cd2a8e6b113cdaec91",
-      "bytes": 13616
+      "sha256": "2aab9caa6dac327c0354c637ad000d6022d65c79490f18dc100c8144cf93af3b",
+      "bytes": 13682
     },
     {
       "path": "wiki/2023-12-06-STM32任务资料/0100-STM32入门元件采购.md",
-      "sha256": "d3775e871b56fc4af1be9e817ca2dc65368ed5d613623f35148500198c3b8d79",
-      "bytes": 3695
+      "sha256": "036f5448dd8467e55c34a4d09f56c8ea2b425a833c5b8c818e708aed603e6494",
+      "bytes": 3749
     },
     {
       "path": "wiki/2023-12-06-STM32任务资料/index.md",
-      "sha256": "41aa588bb3aa0075157763e53f87e40b769021f8c7fb75b06f8d5e14cc16a814",
-      "bytes": 15889
+      "sha256": "bb502d6224d18b6b7b5fea0d9bbbe5257feb76dc93da65b5eb3726e79d50ad2f",
+      "bytes": 16021
     },
     {
       "path": "wiki/2023-12-10-机器人开发环境搭建/0100-C_C++环境搭建.md",
@@ -920,13 +885,13 @@
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0300-slamtoolbox建图.md",
-      "sha256": "9db072462c88733a6266c4b313eb0789cf943d80a43647bd7319a14df116f174",
-      "bytes": 1601
+      "sha256": "eab4d5944942bb75afec8f372f82065e877910638d0759d5108e93216076fe19",
+      "bytes": 1607
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0400-mid360-localization大致流程.md",
-      "sha256": "26c7e668a307c1c56e93f1e3beb41b427e0720e2283790d84279202efeaad0fc",
-      "bytes": 9692
+      "sha256": "7c023fd3a30c1f8a8547f71eb2d5e47e2ac25462a57d5369d55447fbd98f862a",
+      "bytes": 9716
     },
     {
       "path": "wiki/2023-12-30-ROS导航与建图实践/0500-ros2-mid360里程计部署.md",
@@ -1250,8 +1215,8 @@
     },
     {
       "path": "wiki/2024-01-04-Matlab及自动控制原理/index.md",
-      "sha256": "cff467730eb044b7411a4573f8a05ded8806c7220bf179a7468e9a454a8bdd8a",
-      "bytes": 1880
+      "sha256": "8997e7eef17ef00bf8882d6e6c84e9eddac850d7128acad08249de5816782672",
+      "bytes": 1916
     },
     {
       "path": "wiki/2024-01-21-Arm-Keil-MDK6教程/0100-简介.md",
@@ -1350,18 +1315,18 @@
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0200-软件部分.md",
-      "sha256": "3bf46461b36081e5151128d2f7046934d50e3d00933ed37c3ef19a7f6be0c9c0",
-      "bytes": 5015
+      "sha256": "11a15cafcc9e6501b0822ccc4224d5340c37cc62369baec4a223c9f4615d841c",
+      "bytes": 5075
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0300-绳驱.md",
-      "sha256": "271a0de1f87e7cd1d9ed0933ad5e7be3e7c3eadc02e02d6cdf990669c09ed05f",
-      "bytes": 1346
+      "sha256": "e3f7cbf12640abe1cd1df0642741485e713c1a4a738fc1c4cb5af19c6b216a4d",
+      "bytes": 1376
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0400-3D打印.md",
-      "sha256": "ec1c31c1b563c2a5b38b970389b0bcbd704aa050678ff89c071cb5c7580bddef",
-      "bytes": 7488
+      "sha256": "4c3a01642e70341737ed45b8354638298fadded6fb93884df85aa582e74b051d",
+      "bytes": 7650
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0500-3D打印机常见故障解除.md",
@@ -1370,38 +1335,38 @@
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0600-0100-电机分类.md",
-      "sha256": "d2c4196f592693587f2100a5e51f0233a2c1cc60f73ec5bf6e8b6992ca9e4cd4",
-      "bytes": 953
+      "sha256": "1c1d6fbea37ab67f8a6e4711b5e4042152491639f1f28e4cd2810509cd86e0b5",
+      "bytes": 959
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0600-驱动系统（动力源）.md",
-      "sha256": "3dbd2eff8ecfde88111234f88aba060b30fb2a77286a4d9f76a0806abe978ec0",
-      "bytes": 8362
+      "sha256": "0ffac778bb775cf3257a47eb332771a09f27bbe067d6b1cdb63eb9ee4e51b399",
+      "bytes": 8464
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0700-传动.md",
-      "sha256": "bc1cfee7ac2c4042111135f34936d3f6fac6bf48fe04482658eb3921f41813db",
-      "bytes": 7433
+      "sha256": "f16aa88a5af94bdf3284a875fe26ca40e84183fb9640b76bc265c535b9f15fa3",
+      "bytes": 7475
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0800-SolidWorks入门教程.md",
-      "sha256": "b90407d79608afcb0c4363ae2acc280e0aa1b628dbcca1724fc206ed9309a592",
-      "bytes": 2157
+      "sha256": "cda0b18ec939ab6292e75959d44627430dc1136d2a13e41b235a6e2947548bc3",
+      "bytes": 2169
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0900-SolidWorks进阶教程.md",
-      "sha256": "8793a10b92553fafe9f87658b2a660377a3a43c778bae14ee6655913bcb1e0c7",
-      "bytes": 7587
+      "sha256": "7674713d26db6fd4490ed2865d9092eea3069e24291e824f372080f036955e7a",
+      "bytes": 7719
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-1000-SolidWorks高级技巧.md",
-      "sha256": "9cff50ba4203f6fa70cb2f062ce0e98f922e5213d8dc3e53cf17f4527498cf4d",
-      "bytes": 334
+      "sha256": "b6e57db65a29a0b1040aa289f096bb70ded475751d17c14adff577f4d0009c31",
+      "bytes": 340
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-1100-实验室常用工具介绍.md",
-      "sha256": "c71e1419fbc30177f18951ff078c07fda28c31a03a1979e07c9ca0b1798b2f15",
-      "bytes": 1300
+      "sha256": "b77d8f312aa8d283538fd49d48906eaae1cc15f210ada2e231d0eaf92915b5f3",
+      "bytes": 1318
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-机械组培训.md",
@@ -1450,8 +1415,8 @@
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0100-Boost介绍与基础实现.md",
-      "sha256": "a075702eee52470fb4ded46a33975fb2a275179a5e8c21d9b1b6d0a0a5057d93",
-      "bytes": 12088
+      "sha256": "509e91a87dcc5620c919a9e72a16d917fdd3f054d1b3fa3ad54dbb868fb0f320",
+      "bytes": 12160
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0200-上下位机串口通信协议.md",
@@ -1460,18 +1425,18 @@
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0300-通信协议与多线程.md",
-      "sha256": "37e8e03fa6975d995ae17a3b6575999f05eb78d78de6403513a8c1b64e72ceb0",
-      "bytes": 17105
+      "sha256": "dc82f6d1ace0dc931aca75fd73202ab994b3c0385cdcdf08b9b51fa1786e9322",
+      "bytes": 17129
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0400-单例化与反馈机制.md",
-      "sha256": "9b51b3036470dfe69d04436a0bf8faa51f227e1a5765a8628013d53517748fd8",
-      "bytes": 21717
+      "sha256": "2331c8977a0c1449deb1d15a0241a634d13c87b9dfcc2222272726cf4d6df382",
+      "bytes": 21795
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/0500-硬件连接与问题.md",
-      "sha256": "390e50e9f7171da0221d8e912daf8aea7112d1e2f199f6a2dc417519a73ac804",
-      "bytes": 4187
+      "sha256": "d7525ad057347caac9616d9867a587849601970d86bcf174e2b74eaddab3ded2",
+      "bytes": 4223
     },
     {
       "path": "wiki/2024-07-18-上位机串口通信-Boost库/index.md",
@@ -1480,13 +1445,13 @@
     },
     {
       "path": "wiki/2024-07-18-树莓派教程/0100-树莓派使用教程.md",
-      "sha256": "754445c290181053dec989863a1c40575d0a5d8ab2e1bf0d1863694015dedcc4",
-      "bytes": 1540
+      "sha256": "443da2a0bb5a5a0b80df29c5c1d8e06c6cbfd77883d2809af099782fd386ee9b",
+      "bytes": 1546
     },
     {
       "path": "wiki/2024-07-18-树莓派教程/index.md",
-      "sha256": "8ffa4ad4d384cb0af4099501933fe9e1e8e87e0b26558566ea38416b60d5c8b4",
-      "bytes": 18314
+      "sha256": "85dfcc6cb243a9d398ff637dbfef2fe3a20a49b9c99f1d78b64a7a746e2325a3",
+      "bytes": 18440
     },
     {
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/0100-卷积神经网络.md",
@@ -1510,48 +1475,48 @@
     },
     {
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/0500-Detect模型性能评价.md",
-      "sha256": "a690f21aeed98a96b944480a7e2a6eee5c888b384dd0236d2f11766268d37c1c",
-      "bytes": 13636
+      "sha256": "701e7a8572ac77d9c13aaa7dc93887879229ae2f916bda7fef7019c7ddae0012",
+      "bytes": 13714
     },
     {
       "path": "wiki/2024-07-19-深度学习算法-Yolo系列/index.md",
-      "sha256": "9aa66949d5ad8061fdf8acce11c405b961d53fe2091c3789cf8291b49b05814a",
-      "bytes": 23790
+      "sha256": "4e14400642ee58592b2f4f8d23d6716a4b43593995ac2e150f880dcde4ce069c",
+      "bytes": 23922
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0100-BM-SGBM双目相机测距.md",
-      "sha256": "aaab8df1c65a98210f62c7d6573864fc6b2e693a4e6e78eef4bb82d806448a16",
-      "bytes": 34276
+      "sha256": "e53d0b6df9dcb411ee19bd2b2f3f62bf7d738391c79afd61450fa99d240a3e58",
+      "bytes": 34336
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0200-SOT单目标跟踪-Kalman.md",
-      "sha256": "ac971a44bad8ad5d30aa0f3d385109ac122f6980df1c24f735045d645a17e6de",
-      "bytes": 31106
+      "sha256": "5d8a1ee11afcde2f1125f5f3243b228138b5dd3c77e8ed57d89a762922e2b22d",
+      "bytes": 31148
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0300-0100-匈牙利算法数据关联.md",
-      "sha256": "07be04031d7e371a42781c31d6f40330838973eecb43e7044c8d47219163e37a",
-      "bytes": 7589
+      "sha256": "c327c0dc612a83a5d9e4a22ed6857aefeb03c5154086c2ce8920e59987d0927f",
+      "bytes": 7637
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0300-MOT多目标跟踪-ByteTrack.md",
-      "sha256": "f4043ffdabe1fc4007828e20a1f6f2e6af5dde8b51100d1d450f5500f900a033",
-      "bytes": 4452
+      "sha256": "df1d55527e45f5cdce32c695ee7e9b3b2c6432ba22da2712a86b5dac03724b1e",
+      "bytes": 4482
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0400-目标位置锁定.md",
-      "sha256": "af2b7de09979f16038d050e6546401424109246797fe102bb045459ca9006ecc",
-      "bytes": 7033
+      "sha256": "ee42c0445baf95dc2641a9738d843493c650213b8be7915ff6ae1f296f3dda65",
+      "bytes": 7075
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0500-相机标定与PNP算法.md",
-      "sha256": "3e660c6b4f58a126ced8ca85940692698e98cfa229f1a92d940de69b436679cd",
-      "bytes": 37075
+      "sha256": "8d642d1f50e9da3aad1771da2ca0c4bcc1cacdbf8e3a81adaa3add272387b300",
+      "bytes": 37147
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/0600-使用OpenCV推理Yolov8模型.md",
-      "sha256": "afce4118c2a9e05640915b158ececbf2819ef561abf6d10c2d79c7bfaebf27a9",
-      "bytes": 5911
+      "sha256": "cb9d7067603cfa744905dbe93ed86c55d16bf3a4747451dd9b93e45a36968620",
+      "bytes": 5959
     },
     {
       "path": "wiki/2024-07-19-计算机视觉算法实践/index.md",
@@ -1560,8 +1525,8 @@
     },
     {
       "path": "wiki/2024-09-11-Matlab相机标定方法/index.md",
-      "sha256": "8c3880ad9fb0b77b7e70ae318932e9c018ca3849ace7e7f463eb91d7b5e73667",
-      "bytes": 19908
+      "sha256": "84fd24f5fd8dc58908a52dc942afcaaf67550bb293fcaddf840287298736c795",
+      "bytes": 20118
     },
     {
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
@@ -1635,28 +1600,28 @@
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0200-Vinci战队C-C++提前批考核题目.md",
-      "sha256": "6f62fa6ae72767d158f7c3a76ea5014a5f486cfca9fafcb41f4bbf237a5cdc17",
-      "bytes": 2787
+      "sha256": "19449504da3db9691c853d51097ac1bea3ed1bf61132762f66e6420ad2fe3002",
+      "bytes": 2805
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0300-C-C++公共基础一卷考核题.md",
-      "sha256": "f8dc4befa5f3aba57b4a235eacd8756f7bd803339a7d05fa9939cae2e6129915",
-      "bytes": 8374
+      "sha256": "867ce1e789c4c95230de95be4718b34e49f6c6dd08a8bf2b71219e111524da8a",
+      "bytes": 8434
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0400-C-C++公共基础二卷考核题.md",
-      "sha256": "4648e28def55e64ba07aac6fb201708ca5f9f488ce1e9e23b989afcf4e9096f5",
-      "bytes": 8961
+      "sha256": "5fc6e6dce9dcbbeff0309914f4ccdd0b13e1f2d11860a897edff5efc6192cb1f",
+      "bytes": 9021
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0500-嵌入式组C-C++工程基础综合考核题.md",
-      "sha256": "f3f562b1e7dc1d8f1d1045b3fb4d15d9dab2abaf6d8323ed6fd87b2fe04a9966",
-      "bytes": 9919
+      "sha256": "d2d1211b1305ed502aa1dc6f843efa36db45eb0fd9cc83845c10e9fea873d521",
+      "bytes": 9985
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-C-C++公共基础练习题.md",
-      "sha256": "5abd503d0dc294bac3ec2b0a98f87483985924cf3c1e8c2fe6dbe1c6ed1292de",
-      "bytes": 16505
+      "sha256": "72047ed2eae092024a802072cf579a09cea9c2d51baa57c61a2927c97da7b171",
+      "bytes": 16685
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0100-26届嵌入式组提前批C-C++参考答案.md",
@@ -1665,28 +1630,28 @@
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0200-Vinci战队C-C++提前批考核题答案.md",
-      "sha256": "1139a3f62a8988bbd8b2399edf6134fa3775972507e69950515010508cd2507c",
-      "bytes": 3533
+      "sha256": "eac9a24c4d26680931bf66d791ecc938f5fdc216c0865a460cc4347cb2f3ab14",
+      "bytes": 3551
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0300-C-C++公共基础一卷答案.md",
-      "sha256": "3b2a7a01d2cfc61cd66d49bbfe99cd01bdd298e1de920c7a45e9254c852df8de",
-      "bytes": 10867
+      "sha256": "74a51c93b1e31f19e1577502b79175bd96b02d3cae72414c86f28101878ce80c",
+      "bytes": 10903
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0400-C-C++公共基础二卷答案.md",
-      "sha256": "12fbb93c4e0ac4b3f50412f8852292b0268f6f687489653195a847ea4c2eb6ed",
-      "bytes": 13311
+      "sha256": "657e63dca4e42229334c43b42a93b005c868fabee21853e1afa942461c96691f",
+      "bytes": 13371
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
-      "sha256": "b657b295ccd6e9c075f16c5fc068c5ccf9baf7479a7a60fbc692b7bb820adafb",
-      "bytes": 19122
+      "sha256": "fe1b8cb930aefa41a495aece9cd609b312cc85cbb4ed517e434f8827640d3e19",
+      "bytes": 19188
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-C-C++公共基础练习题及答案.md",
-      "sha256": "3846928cf5798486d003c165882a016de54c883b44a70a0db000c1a1aaa1d301",
-      "bytes": 44463
+      "sha256": "0f1bda0dd3664a98210dd3c28d2002cf1e806b51901b7d49484db972e4447aea",
+      "bytes": 44655
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/index.md",
@@ -1700,13 +1665,13 @@
     },
     {
       "path": "wiki/2025-03-30-C-Cpp图形化QT6教程/index.md",
-      "sha256": "82cb55e1206f4bc50a123cca01c3183892772c8ff7e0c883897ba5de34460a2f",
-      "bytes": 7539
+      "sha256": "2c2cc51c15656a71ec426214ac576fe20cf592beaab2a540bd22beca3defdcac",
+      "bytes": 7755
     },
     {
       "path": "wiki/2025-04-05-科学机场教程/index.md",
-      "sha256": "1a5ef919f69998c2817939142cccc598f0b333227bb5b2797a3a6746ce5432c6",
-      "bytes": 8070
+      "sha256": "dd9755b2d135e2e8e5901275068517275911a78e1ef7661b82706f009cbbc086",
+      "bytes": 8286
     },
     {
       "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",
@@ -1865,8 +1830,8 @@
     },
     {
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
-      "sha256": "fa804e96f311871af48ea54620f61005d8c10704e9368c8f447253e2a7d93dde",
-      "bytes": 12674
+      "sha256": "d928f75034b1cad7aafabca2ab264b4debe4ee784e69c16837f97c0fda3ee057",
+      "bytes": 12680
     },
     {
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",

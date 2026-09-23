@@ -35,13 +35,13 @@ tags:
 
 ##### 下载与安装
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/001-49e97bd6114b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/001-49e97bd6114b.webp)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/002-18f0631c7638.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/002-18f0631c7638.webp)
 
 [https://github.com/clash-verge-rev/clash-verge-rev]()
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/003-e32b33ceb83b.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/003-e32b33ceb83b.webp)
 
 ```Bash
 # Windows 双击安装即可
@@ -55,7 +55,7 @@ sudo dnf install ./clash包名.rpm
 
 ##### 添加订阅
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/004-3810fc43c9d5.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/004-3810fc43c9d5.webp)
 
 把你的订阅链接\(自己整去\)输入上
 
@@ -63,7 +63,7 @@ sudo dnf install ./clash包名.rpm
 
 
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/005-4017691283ad.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/005-4017691283ad.webp)
 
 这个代理里有内容就说明添加订阅成功了。
 
@@ -73,13 +73,13 @@ sudo dnf install ./clash包名.rpm
 
 红色的地方必开，蓝色的部分根据需求开
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/006-5b5ed886cffd.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/006-5b5ed886cffd.webp)
 
 ##### 管理节点
 
 下面界面可以切换节点\(这里的节点指自有服务器的端点\)以及右上角可以切换代理\(这里的代理指多协议网络管理，内网访问，运维工具\)模式
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/007-96fb8e3d0800.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/007-96fb8e3d0800.webp)
 
 ##### 测试
 
@@ -87,7 +87,7 @@ sudo dnf install ./clash包名.rpm
 
 [https://www.google.com.hk/?hl=zh-cn]()
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/008-fa702c3dce15.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/008-fa702c3dce15.webp)
 
 
 
@@ -101,15 +101,15 @@ sudo dnf install ./clash包名.rpm
 
 树莓派5 \+ Ubuntu Server 24\.04 LTS无图形界面版。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/009-ca9b52390d7d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/009-ca9b52390d7d.webp)
 
 ##### 安装shell crash
 
 [https://github.com/juewuy/ShellCrash]()
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/010-ee3a4087b615.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/010-ee3a4087b615.webp)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/011-3f6784cbdeb9.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/011-3f6784cbdeb9.webp)
 
 上面这俩任意一个
 
@@ -119,75 +119,75 @@ bash #如已处于bash环境可跳过
 export url='https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master' && wget -q --no-check-certificate -O /tmp/install.sh $url/install.sh  && bash /tmp/install.sh && source /etc/profile &> /dev/null
 ```
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/012-9cf4690634d2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/012-9cf4690634d2.webp)
 
 选公测版
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/013-ceca53d23c76.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/013-ceca53d23c76.webp)
 
 选在/etc下安装
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/014-58a3c22093ec.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/014-58a3c22093ec.webp)
 
 ##### 添加订阅
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/015-cf0145b97b39.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/015-cf0145b97b39.webp)
 
 ```Bash
 crash
 ```
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/016-cd49fd69484a.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/016-cd49fd69484a.webp)
 
 由于我们是普通的linux且只想代理本机，所以选2\.（如果你是openwrt等想用于软路由设备的发行版，选择1）
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/017-01f9d7f9284e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/017-01f9d7f9284e.webp)
 
 一般咱们家用的ipv4都是NAT分出来的，所以本机设备都没有公网ipv4,所以选择0即可。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/018-fb89eaa130ec.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/018-fb89eaa130ec.webp)
 
 选择导入。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/019-d2bee4765579.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/019-d2bee4765579.webp)
 
 选择在线生成。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/020-cae2261520eb.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/020-cae2261520eb.webp)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/021-f49b6fd2df70.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/021-f49b6fd2df70.webp)
 
 将你购买的机场链接输入上
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/022-f66f32b35ae4.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/022-f66f32b35ae4.webp)
 
 选择1,只导入一个，直接开始生成配置文件。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/023-197c49ad6c15.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/023-197c49ad6c15.webp)
 
 生成完毕后，再输入1,在线生成配置文件。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/024-f671e502040c.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/024-f671e502040c.webp)
 
 立即启动服务即可。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/025-adc02d7e8e95.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/025-adc02d7e8e95.webp)
 
 ##### 设置开机自启
 
 一般默认开机自启，如果没有开机自启的话，可以看下面。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/026-88e72ba9e8ac.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/026-88e72ba9e8ac.webp)
 
 先输入4内核启动设置，再输入1开启shellcrash开机启动（由于我已经开机自启了，所以我这里的1成了禁止开机自启）
 
 ##### 管理节点
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/027-58f70609083f.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/027-58f70609083f.webp)
 
 先9更新，再4安装本地面板
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/028-f41003e7130e.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/028-f41003e7130e.webp)
 
 根据自己喜好安装面板，我这里选择2\.
 
@@ -199,7 +199,7 @@ crash
 192.168.31.10:9999/ui
 ```
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/029-222aa0d58fa7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/029-222aa0d58fa7.webp)
 
 ##### 测试
 
@@ -207,17 +207,17 @@ crash
 
 方法一: 进入浏览器管理ui界面，点击设置，可以看到端口，我这里端口是7890。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/030-45d57e7a555d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/030-45d57e7a555d.webp)
 
 
 
 方法二:查看配置文件，即可知道端口，比如我的是7890。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/031-cedcdbc5a647.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/031-cedcdbc5a647.webp)
 
 左键点击上面这个链接
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/032-9617dda1d751.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/032-9617dda1d751.webp)
 
 
 
@@ -233,7 +233,7 @@ curl -x socks5h://127.0.0.1:7890 https://www.google.com.hk
 
 如果出现下图这种情况，就是代理成功了，也正常连接Google谷歌了。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/033-b4e321515f37.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/033-b4e321515f37.webp)
 
 ##### 常见问题
 
@@ -241,10 +241,10 @@ curl -x socks5h://127.0.0.1:7890 https://www.google.com.hk
 
 如果添加订阅显示格式错误，请按下列步骤:
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/034-6ee90fc8aef7.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/034-6ee90fc8aef7.webp)
 
 选择5，选择肥羊服务器，再选择1重新生成配置文件即可。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/035-b434e6e15813.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/035-b434e6e15813.webp)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2025/04/05/025-adc02d7e8e95.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2025/04/05/025-adc02d7e8e95.webp)

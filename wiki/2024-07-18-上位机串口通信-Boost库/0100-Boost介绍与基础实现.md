@@ -66,7 +66,7 @@ boost的asio提供了boost::asio::serial\_port类————此类专门进行�
 
 **官方说明**：[https://www\.boost\.org/doc/libs/1\_75\_0/doc/html/boost\_asio/overview/serial\_ports\.html](https://www.boost.org/doc/libs/1_75_0/doc/html/boost_asio/overview/serial_ports.html)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/001-fe7491ff3454.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/001-fe7491ff3454.webp)
 
 
 
@@ -283,7 +283,7 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 1. **硬件直接测试**：可以向嵌入式组借用或自行购买USB转TTL模块。USB端连接电脑，另一端通过排线连接单片机或树莓派，用于创建真实串口测试环境。Linux、Boost.Asio和上位机串口程序由软件算法组负责，模块电平、接线和MCU UART由嵌入式组负责。
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/002-504e778dd999.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/002-504e778dd999.webp)
 
 
 
@@ -295,9 +295,9 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 [https://www.bilibili.com/video/BV1u54y1s7B3?vd_source=2a70e8cbccfb71570f2b97be1853e0df]()
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/003-c84d4d123761.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/003-c84d4d123761.webp)
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/004-60e927f7d929.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/004-60e927f7d929.webp)
 
 ---
 
@@ -307,7 +307,7 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 下载串口调试助手**VOFA\+，**有其他串口助手的使用其他的也都一样
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/005-2a8711ee6163.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/005-2a8711ee6163.webp)
 
 用于发送串口信息或者接收验证串口通信数据
 
@@ -317,15 +317,15 @@ void write(string &buf, boost::system::error_code &ec);//异步串口楼通信�
 
 #### **5\.2创建虚拟端口**
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/006-480679c3f742.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/006-480679c3f742.webp)
 
 打开VSPD
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/007-651d73b6b5bd.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/007-651d73b6b5bd.webp)
 
 创建虚拟端口（使用完后直接充值端口就可以删除虚拟端口）
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/008-5b63d8dfb979.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/008-5b63d8dfb979.webp)
 
 
 
@@ -373,13 +373,13 @@ int main()
 }
 ```
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/009-51919c97a4a4.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/009-51919c97a4a4.webp)
 
 设置好端口号，波特率，数据位数，左上角蓝色按钮“连接”
 
 
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/010-72815463c283.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/010-72815463c283.webp)
 
 运行程序，串口调试工具自动接收到数据（这里我设置的是16进制所以是41，可以调成文本模式，收到的就是A）
 
@@ -406,10 +406,10 @@ int main()
 }
 ```
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/011-075bce6b3af2.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/011-075bce6b3af2.webp)
 
 使用串口工具向上位机发送一个A
 
-![image\.png](https://cdn.sdutvinci.cn/site-assets/images/wiki/2024/07/18/012-3616734d9b6d.webp)
+![image\.png](https://cdn.sdutvincirobot.top/site-assets/images/wiki/2024/07/18/012-3616734d9b6d.webp)
 
 程序运行时会挂起，等下位机发送程序，此时程序接收到下位机发送的A，并将其打印输出到终端
