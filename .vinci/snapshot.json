@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-26T02:38:38.097Z",
+  "generatedAt": "2026-09-26T03:21:53.430Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2546,13 +2546,13 @@
     },
     {
       "articleId": "c17512c2-c0d8-49f6-9be4-1651d0871cdb",
-      "revisionId": "b50cbea0-2c98-4dc8-9cc0-dddfbc6f4d64",
-      "revisionNumber": 3,
+      "revisionId": "f36dcc36-6af7-49b0-9588-25ca8d4f4c58",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2024-09-17-山理工移动校园网/index.md",
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
-      "sha256": "938461dafb0fe0a1bfc732d80907139a42866127e97503e1f9e4d44814441d44",
-      "bytes": 269
+      "sha256": "0a559233aa26f7cbb8ffd79fc3d10d9e6fe46b5dd6f1d22790f2b8f2951a4005",
+      "bytes": 272
     },
     {
       "articleId": "ccd3eaa4-c213-55ad-a53f-10e22fe809c3",
@@ -2826,13 +2826,13 @@
     },
     {
       "articleId": "e00a8b45-a5f5-48c4-b990-bf42b03cdc2f",
-      "revisionId": "a8f89a09-ed57-4a1c-a65e-5894f8cc1694",
-      "revisionNumber": 3,
+      "revisionId": "05fc3229-f719-459e-9d59-b534cea592df",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2025-04-05-科学机场教程/index.md",
       "path": "wiki/2025-04-05-科学机场教程/index.md",
-      "sha256": "1a5ef919f69998c2817939142cccc598f0b333227bb5b2797a3a6746ce5432c6",
-      "bytes": 8070
+      "sha256": "c2215c8fd92785603de5253854461bea2ff6c55bea02b038761b9cfc7be17f3a",
+      "bytes": 8060
     },
     {
       "articleId": "1363cf95-3081-5a7f-b82d-f892138070be",

@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-26T02:38:38.097Z",
+  "generatedAt": "2026-09-26T03:21:53.430Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "82f5d17b335583c0e9389c94cea09ee90ca4d9ccf681d57f4b7b45e2544bc6ff"
+    "sha256": "e7ad9a02560f8071067b69f6b0fb54dec278a00852fdc13b15052968052348ed"
   },
   "files": [
     {
@@ -1565,8 +1565,8 @@
     },
     {
       "path": "wiki/2024-09-17-山理工移动校园网/index.md",
-      "sha256": "938461dafb0fe0a1bfc732d80907139a42866127e97503e1f9e4d44814441d44",
-      "bytes": 269
+      "sha256": "0a559233aa26f7cbb8ffd79fc3d10d9e6fe46b5dd6f1d22790f2b8f2951a4005",
+      "bytes": 272
     },
     {
       "path": "wiki/2024-10-03-Docker教程/0100-简介.md",
@@ -1705,8 +1705,8 @@
     },
     {
       "path": "wiki/2025-04-05-科学机场教程/index.md",
-      "sha256": "1a5ef919f69998c2817939142cccc598f0b333227bb5b2797a3a6746ce5432c6",
-      "bytes": 8070
+      "sha256": "c2215c8fd92785603de5253854461bea2ff6c55bea02b038761b9cfc7be17f3a",
+      "bytes": 8060
     },
     {
       "path": "wiki/2025-07-01-Nuxt.js网站框架/0100-简介.md",

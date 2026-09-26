@@ -1,11 +1,11 @@
 ---
 vinciId: e00a8b45-a5f5-48c4-b990-bf42b03cdc2f
-title: 科学机场教程
+title: airplane
 description: 说明
 authors:
   - dongjiahui
 publishedAt: 2025-04-05T00:00:00.000Z
-updatedAt: 2026-08-20T15:06:59.941Z
+updatedAt: 2026-09-26T03:21:53.430Z
 tags:
   - 通用资料
 ---
