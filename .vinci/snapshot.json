@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-21T16:53:04.486Z",
+  "generatedAt": "2026-09-26T02:38:38.097Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3598,13 +3598,13 @@
     },
     {
       "memberId": "5ed3c096-2035-47ba-89e5-d2e4b80bab36",
-      "memberKey": "duanquanyu2",
-      "revisionId": "1e8314e1-95c3-4c40-bda9-4066e88326a6",
-      "revisionNumber": 1,
+      "memberKey": "duanquanyu",
+      "revisionId": "7880e5f8-a900-4ca6-b9c3-34e96b0c0ca9",
+      "revisionNumber": 2,
       "sourcePath": "applications/0cec40d6-d17f-4c26-874b-54dbf709084b.md",
       "path": "members/applications/0cec40d6-d17f-4c26-874b-54dbf709084b.md",
-      "sha256": "1fc1f588b914ee1994fd636591935fa5ecfd4a96e0a758ea250aa5feed2051c6",
-      "bytes": 277
+      "sha256": "4150d504acab411f5eb5bd0b552f451f898bd93963d9a6a0f6d12c22ab5229f6",
+      "bytes": 304
     },
     {
       "memberId": "49276290-0546-44f7-9d94-fb87ed5a92bd",
@@ -3752,6 +3752,11 @@
       "creditKey": "cuizongchuang",
       "displayName": "崔宗闯",
       "memberId": null
+    },
+    {
+      "creditKey": "duanquanyu2",
+      "displayName": "段泉宇",
+      "memberId": "5ed3c096-2035-47ba-89e5-d2e4b80bab36"
     },
     {
       "creditKey": "jingjiale",
