@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T13:54:45.243Z",
+  "generatedAt": "2026-09-29T14:07:44.408Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "fb3700de65e010e90a00c089c25d2e0b2fb1b47616fb5c8c039706656d3a9c16"
+    "sha256": "522abfab12750d0989e5491b99ea5844e3170162940ad1bf5f1271dd588e83e1"
   },
   "files": [
     {
@@ -300,8 +300,8 @@
     },
     {
       "path": "members/teacher/宫金良.md",
-      "sha256": "b8cd6516dd82859abbb21c437f92de394da78b37a7998e4f9950bdd8f89781a1",
-      "bytes": 1083
+      "sha256": "e3dd96c2c63fda0ed3cad66803121a397ac7aee5df700b389a46f3de161d2fe5",
+      "bytes": 1114
     },
     {
       "path": "members/teacher/巩丽.md",
@@ -310,8 +310,8 @@
     },
     {
       "path": "members/teacher/张彦斐.md",
-      "sha256": "d5c1ba053404f69985eafe94c7052499016089b025743e1a5fbe99315e329f77",
-      "bytes": 960
+      "sha256": "41e78dba51a360907b103275d6822e849a5cec0eb39ea2258fb0897ca45dad08",
+      "bytes": 991
     },
     {
       "path": "news/2024-07-06-接受赛委会采访.md",
