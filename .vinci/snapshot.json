@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T06:21:13.586Z",
+  "generatedAt": "2026-09-29T06:23:55.831Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3627,6 +3627,16 @@
       "bytes": 267
     },
     {
+      "memberId": "6111e800-4b73-40fc-96c0-38467ccd0a06",
+      "memberKey": "bianchenyu",
+      "revisionId": "3f219014-6a1f-47fb-9d08-cc5ff043725c",
+      "revisionNumber": 1,
+      "sourcePath": "applications/3d3d8424-172b-43b1-b4d3-68f11da436ec.md",
+      "path": "members/applications/3d3d8424-172b-43b1-b4d3-68f11da436ec.md",
+      "sha256": "61ee56c067a807dfae808fa9526f1c3bfbff90241721b4f836eb4216f89bdc6a",
+      "bytes": 272
+    },
+    {
       "memberId": "9af54f8d-2afd-4ffe-8a1d-c95c490193aa",
       "memberKey": "hejunchao",
       "revisionId": "e306556e-53f2-4b67-9cbe-11fe611ea520",
@@ -3647,6 +3657,16 @@
       "bytes": 326
     },
     {
+      "memberId": "df0e1f06-df80-4011-bb7d-94226b3cc5d8",
+      "memberKey": "caohaozheng",
+      "revisionId": "5a041e0b-971a-41a4-b296-f68b8d69174d",
+      "revisionNumber": 1,
+      "sourcePath": "applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
+      "path": "members/applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
+      "sha256": "a42c5f48daa43e2f2294cfa70d4287a1320d08e2546cb9da404bf538f7a03d89",
+      "bytes": 272
+    },
+    {
       "memberId": "43a3a747-d059-4e4a-9c6f-4fe99180b594",
       "memberKey": "huangcong",
       "revisionId": "a49fbc25-f93f-42f3-882a-a414d6d93260",
@@ -3655,6 +3675,16 @@
       "path": "members/applications/7f98dde1-2e1c-4fc9-9530-da147e290ffb.md",
       "sha256": "46d87ac977b625974f00ccf8ac5b08df8d9298fd34091e431efa915d0ad07c93",
       "bytes": 266
+    },
+    {
+      "memberId": "28080c58-24cc-4f21-a5e1-cfddf06031e0",
+      "memberKey": "zhangzihan",
+      "revisionId": "7ad322fb-ae8e-45a7-982d-478726a5f8cf",
+      "revisionNumber": 1,
+      "sourcePath": "applications/9fb4f44f-afb4-4eb1-a4f2-862c374f0793.md",
+      "path": "members/applications/9fb4f44f-afb4-4eb1-a4f2-862c374f0793.md",
+      "sha256": "9c9f3352a19d375769968255b576beff60f86b7cfb10f5331eb720bdf03b8165",
+      "bytes": 288
     },
     {
       "memberId": "bb8b0a3a-2d9e-4b74-a46b-0d3a28aa0571",
@@ -3741,7 +3771,7 @@
     {
       "creditKey": "caohaozheng",
       "displayName": "曹浩正",
-      "memberId": null
+      "memberId": "df0e1f06-df80-4011-bb7d-94226b3cc5d8"
     },
     {
       "creditKey": "cuitonghui",
