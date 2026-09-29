@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-26T03:21:53.430Z",
+  "generatedAt": "2026-09-29T02:22:26.337Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "e7ad9a02560f8071067b69f6b0fb54dec278a00852fdc13b15052968052348ed"
+    "sha256": "e7a22a9c2162e3ea740e69f0b479bf841c322e4f929fc05bab38b87845bcc7b8"
   },
   "files": [
     {
@@ -85,8 +85,8 @@
     },
     {
       "path": "members/2023/董佳辉.md",
-      "sha256": "da0a9676286ef41e45a441722b21a7e6b6f88a88d6d73ba222554e2740899ce5",
-      "bytes": 4757
+      "sha256": "2cf2134b2706d00bdbce447547334f4c27481d59e6f3dd3dc000d8d97f14ddcd",
+      "bytes": 4760
     },
     {
       "path": "members/2023/陈厚瑞.md",
@@ -175,8 +175,8 @@
     },
     {
       "path": "members/2025/房梓豪.md",
-      "sha256": "1a7f14113d24b7f3450fd1e6d85539ba86a3481ee1a27f7105eee2a19a93dc6e",
-      "bytes": 397
+      "sha256": "4b295e3e2a16bf8e857b589106da9415daeece78590b9b15fa324c2579e1cea0",
+      "bytes": 398
     },
     {
       "path": "members/2025/王燕华.md",
