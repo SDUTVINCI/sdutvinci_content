@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T02:23:26.951Z",
+  "generatedAt": "2026-09-29T02:24:29.280Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3647,16 +3647,6 @@
       "bytes": 326
     },
     {
-      "memberId": "3f5b3e68-5396-4ea9-a8d7-310d04ad0df7",
-      "memberKey": "caohaozheng",
-      "revisionId": "f12eb35f-fec2-4a76-ad89-4431d264c068",
-      "revisionNumber": 1,
-      "sourcePath": "applications/64f360bd-2110-4a2b-88df-3f4f54a77a07.md",
-      "path": "members/applications/64f360bd-2110-4a2b-88df-3f4f54a77a07.md",
-      "sha256": "dfa98413dc0e7102defaae40f503b5bc19c59943c508074366ccd2a5532a34e0",
-      "bytes": 178
-    },
-    {
       "memberId": "43a3a747-d059-4e4a-9c6f-4fe99180b594",
       "memberKey": "huangcong",
       "revisionId": "a49fbc25-f93f-42f3-882a-a414d6d93260",
@@ -3741,7 +3731,7 @@
     {
       "creditKey": "caohaozheng",
       "displayName": "曹浩正",
-      "memberId": "3f5b3e68-5396-4ea9-a8d7-310d04ad0df7"
+      "memberId": null
     },
     {
       "creditKey": "cuitonghui",
