@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T06:45:04.595Z",
+  "generatedAt": "2026-09-29T06:45:51.936Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "7643cb4d9dfc2d1fb593ea32829e0ae25d4b7762ee925458b79b0fd77b35c9ad"
+    "sha256": "6433a1f4385e80bf2806fc0706912aae617fc6c936cc73713fed6d181e63baae"
   },
   "files": [
     {
@@ -255,8 +255,8 @@
     },
     {
       "path": "members/applications/595fcb86-4c5d-47a2-8291-19008ef7c554.md",
-      "sha256": "48acacf8b0a9ae22beb6f595f74a7937cb9ae7b497fecb5b0ec78614f4258327",
-      "bytes": 300
+      "sha256": "4d23493aaad26dd06a768fd569543707e1c77eaf167fff4196a4498814dab7ee",
+      "bytes": 340
     },
     {
       "path": "members/applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
