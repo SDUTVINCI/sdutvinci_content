@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T14:07:44.408Z",
+  "generatedAt": "2026-09-29T14:08:26.968Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "522abfab12750d0989e5491b99ea5844e3170162940ad1bf5f1271dd588e83e1"
+    "sha256": "1e6bc3ad8b35827568173d6a7a68012f7b5098e9a5e1594df5d31e756e080462"
   },
   "files": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "path": "members/2018/王虓.md",
-      "sha256": "e4f445c0f239bb0bf67d5132120b0b931f56d37ce71160382cd76f3649fbeb25",
-      "bytes": 661
+      "sha256": "247122c94457c72537291bf734d25022f8039fca713d64ae7f195bb0581dd32f",
+      "bytes": 685
     },
     {
       "path": "members/2020/刘文轩.md",

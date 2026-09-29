@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T14:07:44.408Z",
+  "generatedAt": "2026-09-29T14:08:26.968Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3179,12 +3179,12 @@
     {
       "memberId": "33839198-a65b-5c3e-a61e-c1cde2519f28",
       "memberKey": "wangxiao",
-      "revisionId": "4d396dd8-3cc1-4f1f-aa79-421ffc952594",
-      "revisionNumber": 3,
+      "revisionId": "0106eebd-2544-4652-b7e3-8b3df0914a5f",
+      "revisionNumber": 4,
       "sourcePath": "2018/王虓.md",
       "path": "members/2018/王虓.md",
-      "sha256": "e4f445c0f239bb0bf67d5132120b0b931f56d37ce71160382cd76f3649fbeb25",
-      "bytes": 661
+      "sha256": "247122c94457c72537291bf734d25022f8039fca713d64ae7f195bb0581dd32f",
+      "bytes": 685
     },
     {
       "memberId": "2ba9f3b9-1923-4082-8dc1-7d21188c3055",
