@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-09-29T14:08:26.968Z",
+  "generatedAt": "2026-09-30T05:05:05.940Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3169,42 +3169,42 @@
     {
       "memberId": "99d96ee2-c8af-49dc-9322-ff5a44dad016",
       "memberKey": "cuichao",
-      "revisionId": "e7dd68d0-dc0b-46a4-9466-947897ef91a0",
-      "revisionNumber": 2,
+      "revisionId": "b7f094e9-3274-4b62-9eac-4948f502f1cd",
+      "revisionNumber": 3,
       "sourcePath": "2018/崔超.md",
       "path": "members/2018/崔超.md",
-      "sha256": "69c788161ae05368dfeb8ef805b35b9195ec2cb45c80e30eaf4351bd1801b1bd",
-      "bytes": 397
+      "sha256": "c67d90f63b19b7619c4174baf88db9fd3f75834953884a2d6f32cdd930a19e7e",
+      "bytes": 413
     },
     {
       "memberId": "33839198-a65b-5c3e-a61e-c1cde2519f28",
       "memberKey": "wangxiao",
-      "revisionId": "0106eebd-2544-4652-b7e3-8b3df0914a5f",
-      "revisionNumber": 4,
+      "revisionId": "072783ec-b286-4eb1-b9d6-af125597af80",
+      "revisionNumber": 5,
       "sourcePath": "2018/王虓.md",
       "path": "members/2018/王虓.md",
-      "sha256": "247122c94457c72537291bf734d25022f8039fca713d64ae7f195bb0581dd32f",
-      "bytes": 685
+      "sha256": "42217eb6c25dc15e27466b9f78bc515702e6c18469034e143469c99bc2105b73",
+      "bytes": 701
     },
     {
       "memberId": "2ba9f3b9-1923-4082-8dc1-7d21188c3055",
       "memberKey": "liuwenxuan",
-      "revisionId": "c96187dd-5535-4c35-bf00-55b62a19a72b",
-      "revisionNumber": 2,
+      "revisionId": "555cc476-1e5d-4838-aa22-848d0f485b3c",
+      "revisionNumber": 3,
       "sourcePath": "2020/刘文轩.md",
       "path": "members/2020/刘文轩.md",
-      "sha256": "ed6db5c2e4cb4cf5648d82a4278f4e121e1e64192861de45dc64abf68ef9b58b",
-      "bytes": 415
+      "sha256": "ac87a0e1a1d23d39132c1c54c55a6f9762ddfbb0a87a32db70526ca1f5a0c0e6",
+      "bytes": 431
     },
     {
       "memberId": "bb635719-eca4-4a28-94ba-b3e5160129ad",
       "memberKey": "luyuanzheng",
-      "revisionId": "4bfac83f-d5c9-43b9-908c-ae29a2d1a2ee",
-      "revisionNumber": 2,
+      "revisionId": "b7b39cd4-f844-48ef-bdfb-b4a74a5ca67f",
+      "revisionNumber": 3,
       "sourcePath": "2020/卢元正.md",
       "path": "members/2020/卢元正.md",
-      "sha256": "5d420fa3edb5ddf52892d7e62221efe3929e6ba9053a2115030b17558a43d59c",
-      "bytes": 407
+      "sha256": "27ecbf61c42d65250dc5df5a2da0c79f1e615a5080adb3be182e1eb479d90c16",
+      "bytes": 423
     },
     {
       "memberId": "bab5fdc6-b73d-4a26-bbd4-f167939682e9",
@@ -3219,12 +3219,12 @@
     {
       "memberId": "b4bc36d8-08f8-4bb8-b061-bc0824f88c40",
       "memberKey": "wangpengshun",
-      "revisionId": "317bd320-c6ff-467a-81c6-483c31bc6b12",
-      "revisionNumber": 2,
+      "revisionId": "7d3a9154-42d1-4825-96fa-147899a68ee0",
+      "revisionNumber": 3,
       "sourcePath": "2020/王鹏舜.md",
       "path": "members/2020/王鹏舜.md",
-      "sha256": "d3546cf611c0d1012502cde1711669c42da149964deb4b1e1612d6f282ed553d",
-      "bytes": 417
+      "sha256": "82f9e274a2ad76baa536fba662e08b98ba2cc036e75523e86b43b8ee71fb25a0",
+      "bytes": 433
     },
     {
       "memberId": "569b383c-1d67-4629-82fc-be5fa733be11",
@@ -3239,42 +3239,42 @@
     {
       "memberId": "1f47ed35-daf6-48d8-91e6-ffa5eaaba812",
       "memberKey": "changchuanyong",
-      "revisionId": "df40d0dc-2084-4561-907a-8cd3f5daca05",
-      "revisionNumber": 3,
+      "revisionId": "a1acc111-31b1-4326-a701-1f0169d0eed0",
+      "revisionNumber": 4,
       "sourcePath": "2022/常传勇.md",
       "path": "members/2022/常传勇.md",
-      "sha256": "cf351d9bfc48edab5616bb93a5b87b315654425e3e39359a7822e0221b8a994a",
-      "bytes": 468
+      "sha256": "b2f4936fc815e44eeb1372d3a07b0b1f91e1298877b60cb816c2929495212a6d",
+      "bytes": 484
     },
     {
       "memberId": "ff8e99e7-e1fc-5617-a0e3-1ab5dea084cd",
       "memberKey": "wangziming",
-      "revisionId": "b122b4af-abf9-4990-8773-6b3566d4fc68",
-      "revisionNumber": 3,
+      "revisionId": "2c6e49f7-26f0-428a-a664-6ae11e887f75",
+      "revisionNumber": 4,
       "sourcePath": "2022/王子铭.md",
       "path": "members/2022/王子铭.md",
-      "sha256": "2bb68aae8818d3bbe21b92dc2676181ec42554e8f035379944050f52a689e304",
-      "bytes": 815
+      "sha256": "c0e598c9bcefa8d06269620e1e375e51ba478d08dba37c1e8dc754dd8c004d3c",
+      "bytes": 831
     },
     {
       "memberId": "07bd4c15-721f-41d5-a432-f3a6115f0a92",
       "memberKey": "wangpengcheng",
-      "revisionId": "44785a29-00b3-4a30-b0fd-f97ec9392980",
-      "revisionNumber": 2,
+      "revisionId": "581804c9-3146-403a-98c2-b3cfba08a1d6",
+      "revisionNumber": 3,
       "sourcePath": "2022/王鹏程.md",
       "path": "members/2022/王鹏程.md",
-      "sha256": "48869affc588cde399d3fb7783650f7cc8f801d6abff726f355cac54479c9ab1",
-      "bytes": 422
+      "sha256": "faf7e5fe2337f158d29fe551ccdf805c6c247e471034f7ca47b75f203312552e",
+      "bytes": 438
     },
     {
       "memberId": "bf8eec27-dee3-5aad-a2d4-c2e77a512215",
       "memberKey": "zouchangdi",
-      "revisionId": "fad6133d-a5f9-4e52-a26f-dfa29a40640c",
-      "revisionNumber": 4,
+      "revisionId": "d3409e01-af69-460d-a266-f7ba6f841e95",
+      "revisionNumber": 5,
       "sourcePath": "2022/邹昌迪.md",
       "path": "members/2022/邹昌迪.md",
-      "sha256": "b3d211db6226c444c665e34e368986fc6436cf3f49db6fd4928f08943d99769a",
-      "bytes": 652
+      "sha256": "77b4dedd4868c322b1aa482762991717e2eb38e5ad4109c4eeb183cf10718306",
+      "bytes": 668
     },
     {
       "memberId": "9eed8540-1e73-5555-a649-0cb938550440",
@@ -3289,22 +3289,22 @@
     {
       "memberId": "7fcc181c-c379-52bb-b6aa-9b0db7f62e3f",
       "memberKey": "likun",
-      "revisionId": "49a4d29b-31fb-4379-9057-f82db8084488",
-      "revisionNumber": 5,
+      "revisionId": "e8f9e003-55fb-48a2-8fbe-588a6770ad77",
+      "revisionNumber": 6,
       "sourcePath": "2023/李坤.md",
       "path": "members/2023/李坤.md",
-      "sha256": "994fa9511a24572869bb3c59d01348bff3637cbedbb00ca3b4b9fcbe192830f2",
-      "bytes": 460
+      "sha256": "b1142cbde806dbe99a97a85064b27283125f6fd0af175c965d060b422b6c832a",
+      "bytes": 476
     },
     {
       "memberId": "dbe65496-d19f-5c4e-ba46-a5b6e9842c73",
       "memberKey": "yangzhiwei",
-      "revisionId": "044eb287-941c-4ab5-84b1-dfa626f4ca86",
-      "revisionNumber": 3,
+      "revisionId": "1b781e3c-0d36-4c80-a1c8-ff1c3af28349",
+      "revisionNumber": 4,
       "sourcePath": "2023/杨智伟.md",
       "path": "members/2023/杨智伟.md",
-      "sha256": "972d9762aeee9024ae0590df12cc4931a244b3e2502f6bea481356e92e7e9371",
-      "bytes": 488
+      "sha256": "a658ccb0165957b5057060c2ace57492de805b1063e72952094fa5ec275c09e8",
+      "bytes": 507
     },
     {
       "memberId": "79994a30-e6df-5939-9cd1-149bc1a18b14",
@@ -3319,52 +3319,52 @@
     {
       "memberId": "a2dd6a83-943d-5b4a-8272-70ecea09e188",
       "memberKey": "dongjiahui",
-      "revisionId": "f4d54230-2c8d-45ce-be18-eb44dd6852fd",
-      "revisionNumber": 5,
+      "revisionId": "a0bdeaca-8634-4b85-b0d5-c7b751397ec4",
+      "revisionNumber": 6,
       "sourcePath": "2023/董佳辉.md",
       "path": "members/2023/董佳辉.md",
-      "sha256": "5c2ae63416ad9341c210e2020848ed338e35c8a9cbdb4c8b02f1c18eec79d1ce",
-      "bytes": 4995
+      "sha256": "55846348b2a2740c83106670d801917bf8d3421a938dd83d1a6597c2cbb29176",
+      "bytes": 5014
     },
     {
       "memberId": "3a6e0d38-a853-5ba1-8e59-7df3fc97bf8b",
       "memberKey": "chenhourui",
-      "revisionId": "3d1e331e-3b73-40d6-b6c0-dacf7b7dfd61",
-      "revisionNumber": 3,
+      "revisionId": "dc87c3dc-4f8d-4863-aeef-7d6b0c6a7cdb",
+      "revisionNumber": 4,
       "sourcePath": "2023/陈厚瑞.md",
       "path": "members/2023/陈厚瑞.md",
-      "sha256": "478985b479e884cdfd267b652ffe97d02284cfcb88214c175ac8f5c31178bda0",
-      "bytes": 505
+      "sha256": "e476f135d742141eb0ae23b801835617ea17049efc8a1fcadfca835ff8b82da4",
+      "bytes": 521
     },
     {
       "memberId": "525ec180-70aa-5a28-9d01-623b9b155910",
       "memberKey": "shangfanxing",
-      "revisionId": "a08dea86-a0a8-46ec-8e92-77c76b830f32",
-      "revisionNumber": 4,
+      "revisionId": "530049ad-0afa-4e3f-9d39-09939da84a1a",
+      "revisionNumber": 5,
       "sourcePath": "2024/尚凡兴.md",
       "path": "members/2024/尚凡兴.md",
-      "sha256": "ce2d70741dd48cc5d7b85a0b1ee24c32f088f21dc9a753c41c99f0fc7cbf84c9",
-      "bytes": 518
+      "sha256": "07296e93897fcf587ba317cc6321d7c0ba01a3bb1e1ddfdad8dd79bf4bc968c2",
+      "bytes": 537
     },
     {
       "memberId": "95a34044-ae95-5005-9114-261b1344308d",
       "memberKey": "linzhaojun",
-      "revisionId": "1fbe67f9-e12d-4da0-b013-bb982de90cb8",
-      "revisionNumber": 3,
+      "revisionId": "b5ac1ef7-553c-413d-8a34-b8e4225b6e39",
+      "revisionNumber": 4,
       "sourcePath": "2024/林沼君.md",
       "path": "members/2024/林沼君.md",
-      "sha256": "245d5b0d994e9ebd9a96a5fd0c5a2be3c92f893f614ae74c78f134b0aba44d9f",
-      "bytes": 534
+      "sha256": "a2ca7e161127fcf94903543b0fc33422299667711cab8f49fe06bb3607fe9900",
+      "bytes": 553
     },
     {
       "memberId": "6fca3c34-515f-5f73-bd3c-c59f46e66de3",
       "memberKey": "sulihao",
-      "revisionId": "cb3169e8-78ad-440d-b635-d55cad8a28fb",
-      "revisionNumber": 4,
+      "revisionId": "6f3812a1-0329-45d3-9d74-daa3ce4b8f3f",
+      "revisionNumber": 5,
       "sourcePath": "2024/苏利昊.md",
       "path": "members/2024/苏利昊.md",
-      "sha256": "05f06f0e2b43eb9ec173174bfbbf1044a86f7fb6accfd0038b06f6d4baf6e75e",
-      "bytes": 535
+      "sha256": "9df16a2c4cf7fd0fde32f1f09f68682ff8fe461559d40b703427df85df5ab10b",
+      "bytes": 554
     },
     {
       "memberId": "00f29605-d4c4-5f3d-a30d-0a7bd2e30cb6",
@@ -3409,12 +3409,12 @@
     {
       "memberId": "c429e86f-a71f-4dfb-a309-fcea6d133a6b",
       "memberKey": "kongdewei",
-      "revisionId": "b998c158-ff84-483a-be5a-9e651d29f7e8",
-      "revisionNumber": 2,
+      "revisionId": "5f0ae8bf-3491-4d40-88e1-9d6f65794c1b",
+      "revisionNumber": 3,
       "sourcePath": "2025/孔德玮.md",
       "path": "members/2025/孔德玮.md",
-      "sha256": "e1f1339be239bd6c42e4685f9a1f1edd420d41bcd71143bea3ac3dc0a0c3a627",
-      "bytes": 417
+      "sha256": "e3f3ec9dda0b7f955d957eb5e7916b78bac9a7112dc2a0ae181ded44c70cced3",
+      "bytes": 433
     },
     {
       "memberId": "7f6c5fca-2bdf-5caa-a764-946262903c58",
@@ -3499,12 +3499,12 @@
     {
       "memberId": "79826d68-2f73-5ce5-9930-93a10fabcd78",
       "memberKey": "fangzihao",
-      "revisionId": "1e4fb687-12d6-47b7-8ea1-800ed7e056d9",
-      "revisionNumber": 4,
+      "revisionId": "88a1e443-82f3-4505-ae77-cf3143109db0",
+      "revisionNumber": 5,
       "sourcePath": "2025/房梓豪.md",
       "path": "members/2025/房梓豪.md",
-      "sha256": "bf7c2c8edb5d9f22db044cfb16d6d3febf9764cbcd1b632e7024faed9333ef89",
-      "bytes": 575
+      "sha256": "f4c92b8bd01381a8fb94a4d4b26f3476355c21637079fb1ca4cddb910c99ed4b",
+      "bytes": 594
     },
     {
       "memberId": "21d1a347-c411-5b15-aa27-d4db1152c92f",
@@ -3539,22 +3539,22 @@
     {
       "memberId": "da148cf9-af5d-4407-9bf7-d323dbdeaa77",
       "memberKey": "zhangziye",
-      "revisionId": "449cd804-571b-474c-a645-239da52ffe0e",
-      "revisionNumber": 2,
+      "revisionId": "e003f022-3e8c-440c-821a-689856a87be4",
+      "revisionNumber": 3,
       "sourcePath": "2026/张紫烨.md",
       "path": "members/2026/张紫烨.md",
-      "sha256": "864f858b67f1246107ad37b25dd9c0cfbd436676dcb9c9ba53cdf0ec0b177a29",
-      "bytes": 405
+      "sha256": "d4eda90d745e3fc12fa274c3ef208778eb3f64a10f26fee66cd3a0a7793e703a",
+      "bytes": 421
     },
     {
       "memberId": "1ff31364-cbbf-45e2-be20-f8375b2293b5",
       "memberKey": "lijunyuan",
-      "revisionId": "9d10f4a0-d0db-476b-98ce-80ce9430b877",
-      "revisionNumber": 3,
+      "revisionId": "719cfc56-9a9f-4c08-9d05-d263967319d0",
+      "revisionNumber": 4,
       "sourcePath": "2026/李骏远.md",
       "path": "members/2026/李骏远.md",
-      "sha256": "3bb3d1b54008be143a8837ccb1b41afc2b7e4a5f9749680cf702551aef6c99cc",
-      "bytes": 524
+      "sha256": "85e00bafb56342bfc7fdf729fb4fafd630d3c1f1b3224131edaf92486ad1129d",
+      "bytes": 543
     },
     {
       "memberId": "2b578382-e510-460f-8bff-c93e7e9af007",
@@ -3609,12 +3609,12 @@
     {
       "memberId": "49276290-0546-44f7-9d94-fb87ed5a92bd",
       "memberKey": "zhangjianshuo1",
-      "revisionId": "e26427e2-a0fc-424c-bc64-cf24fc047977",
-      "revisionNumber": 2,
+      "revisionId": "69b7fd4a-87b8-4b51-9d46-789b9fedd9df",
+      "revisionNumber": 3,
       "sourcePath": "applications/28259d4c-75eb-4a20-a260-234f734631cc.md",
       "path": "members/applications/28259d4c-75eb-4a20-a260-234f734631cc.md",
-      "sha256": "b32f5a7615ed29e578b905e449087f318b082874e4c4b918d217ce47c6a532c8",
-      "bytes": 477
+      "sha256": "285115ecea163cfe117939b4fdb53ccdefe5844d9f21b79dc7e13acef4dd68ed",
+      "bytes": 493
     },
     {
       "memberId": "64545ff9-82c5-4831-be3f-caed769f2019",
@@ -3649,12 +3649,12 @@
     {
       "memberId": "ca2c93eb-3ee7-44c3-9cc4-1ac534b04a42",
       "memberKey": "wuyucheng",
-      "revisionId": "ec432818-7a60-465c-98cb-44c4ba5d9a2a",
-      "revisionNumber": 5,
+      "revisionId": "38bf38b6-7df8-44cc-9dd4-bbbc3f27edc6",
+      "revisionNumber": 6,
       "sourcePath": "applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
       "path": "members/applications/566fd26a-580b-4c1b-bae1-00ec6b340a53.md",
-      "sha256": "ad103f8f3516673a680dc87ca2e7f86fc586eed7fc9e2f0603bc70c46890352b",
-      "bytes": 490
+      "sha256": "94ddd192b4e355cf58ed6dbd3ef696a88dafd2447c490e997331c2143fb864c8",
+      "bytes": 500
     },
     {
       "memberId": "5ae21ef9-b1e0-479e-a6fd-48300c7a9fce",
@@ -3669,12 +3669,12 @@
     {
       "memberId": "df0e1f06-df80-4011-bb7d-94226b3cc5d8",
       "memberKey": "caohaozheng",
-      "revisionId": "892d5e6e-a6c1-4ea3-a55b-4754c7ab909a",
-      "revisionNumber": 2,
+      "revisionId": "fd71b79b-812a-4ead-bc24-2d595e42a1ee",
+      "revisionNumber": 3,
       "sourcePath": "applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
       "path": "members/applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
-      "sha256": "0d8c5b29a43c93260b5368ee740a4e5716c3e114558fb7298053554a504abfe4",
-      "bytes": 430
+      "sha256": "61790ba3c622c0a6eb4f3efe6ae04283b7c161e1729f495a74ab98b172a964a9",
+      "bytes": 446
     },
     {
       "memberId": "43a3a747-d059-4e4a-9c6f-4fe99180b594",
@@ -3709,22 +3709,22 @@
     {
       "memberId": "fb237bb6-7e42-486c-a3e3-c7841943b5d3",
       "memberKey": "renyiqi",
-      "revisionId": "ebd0095b-6f6d-4d5d-becb-83ac5b23064e",
-      "revisionNumber": 4,
+      "revisionId": "4aae0310-56bf-4042-985d-45cab8b2da7c",
+      "revisionNumber": 5,
       "sourcePath": "applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
       "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
-      "sha256": "91167a6215462a56c46bc6f542bca2afdf1b8819d2a5c13d748e6abdf1fe28d2",
-      "bytes": 489
+      "sha256": "ed7f35df06c283dd1cac8a41d46de2b9cb90d9a85344595317096eac64a311ee",
+      "bytes": 505
     },
     {
       "memberId": "cb7643a0-7c89-4228-962d-e6845a877868",
       "memberKey": "gaozifan",
-      "revisionId": "71be81d6-18d3-43c1-aa9c-f4c9ecc9b81c",
-      "revisionNumber": 3,
+      "revisionId": "1eb7318b-6df9-4952-a008-11dfff417adf",
+      "revisionNumber": 4,
       "sourcePath": "applications/c3e94319-0b47-4bdc-b88b-9210fc5b3c06.md",
       "path": "members/applications/c3e94319-0b47-4bdc-b88b-9210fc5b3c06.md",
-      "sha256": "3fbe00a9c7611a0b06d73f2d9a92565e0dfdbd6b047ce05069ef52d925088ceb",
-      "bytes": 573
+      "sha256": "4616ebd037083be54c0d922f7330f44864c8e5d373c8a365a75daa0b50037493",
+      "bytes": 592
     },
     {
       "memberId": "3e062e01-e968-484e-be2c-ed907150eea7",
@@ -3749,31 +3749,31 @@
     {
       "memberId": "059d2dca-467c-5264-88c8-ff3c1c8e1184",
       "memberKey": "gongjinliang",
-      "revisionId": "ef6ece79-be4e-4f8d-82ff-9f7e97a9d74e",
-      "revisionNumber": 4,
+      "revisionId": "3806da64-b608-4141-9972-869f1a19e855",
+      "revisionNumber": 5,
       "sourcePath": "teacher/宫金良.md",
       "path": "members/teacher/宫金良.md",
-      "sha256": "e3dd96c2c63fda0ed3cad66803121a397ac7aee5df700b389a46f3de161d2fe5",
+      "sha256": "402aef6c00cdea4d468ec67d9f0f65a5e0971442fc80656e63bfb069ca81e47e",
       "bytes": 1114
     },
     {
       "memberId": "c73b003d-5feb-5983-9fd6-46eaa2d14ac2",
       "memberKey": "gongli",
-      "revisionId": "eb650d90-5497-4a26-b38a-834f5f5048f0",
-      "revisionNumber": 3,
+      "revisionId": "4d39968b-2468-414a-bb01-2372a10bd280",
+      "revisionNumber": 4,
       "sourcePath": "teacher/巩丽.md",
       "path": "members/teacher/巩丽.md",
-      "sha256": "11a3983b5c4611341f0364b75edae65a1709df80743cf82bb9e7f834c0e4e12c",
+      "sha256": "eb9130d4e92f748a5037f741228d8eb70a3f34ba9d121f4f6e2e7d1c8d137cf1",
       "bytes": 630
     },
     {
       "memberId": "9cd581b2-7d3c-5f86-b2fb-0c4a0da385dc",
       "memberKey": "zhangyanfei",
-      "revisionId": "3921998b-fed7-4408-ab40-e86887c8dc56",
-      "revisionNumber": 4,
+      "revisionId": "bf1e466d-a945-4733-9ca7-bc3c7b2a5aad",
+      "revisionNumber": 5,
       "sourcePath": "teacher/张彦斐.md",
       "path": "members/teacher/张彦斐.md",
-      "sha256": "41e78dba51a360907b103275d6822e849a5cec0eb39ea2258fb0897ca45dad08",
+      "sha256": "6eb82d90988a18e44b70222de1644fde1b82efd2e99b0276df98b95a1f6b23b7",
       "bytes": 991
     }
   ],
