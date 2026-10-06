@@ -260,6 +260,559 @@ Number: 42
 Quit!
 ```
 
+### `std::visit` 与 Visitor 机制
+
+上面的代码中：
+
+```cpp
+std::visit(MessageHandler{}, msg);
+```
+
+这一句刚开始看起来可能比较奇怪。
+
+先记住 `std::visit` 最基本的形式：
+
+```cpp
+std::visit(visitor, variant对象);
+```
+
+其中：
+
+- 第二个参数是 `std::variant`
+- 第一个参数是一个**可调用对象（Callable）**
+- `std::visit` 会根据 `variant` 当前保存的数据类型，调用对应的处理函数
+
+例如：
+
+```cpp
+Message msg;
+
+msg = TextMessage{"Hello World"};
+std::visit(MessageHandler{}, msg);
+```
+
+此时 `msg` 内部保存的是：
+
+```cpp
+TextMessage
+```
+
+因此 `std::visit` 会把这个 `TextMessage` 取出来，并交给 `MessageHandler` 处理。
+
+---
+
+#### `MessageHandler{}` 是什么？
+
+这里：
+
+```cpp
+MessageHandler{}
+```
+
+不是函数，也不是特殊语法。
+
+它就是创建了一个临时的 `MessageHandler` 对象。
+
+例如：
+
+```cpp
+MessageHandler handler;
+```
+
+和：
+
+```cpp
+MessageHandler{}
+```
+
+创建的对象类型是一样的，只不过后者是临时对象。
+
+因此：
+
+```cpp
+std::visit(MessageHandler{}, msg);
+```
+
+也可以写成：
+
+```cpp
+MessageHandler handler;
+std::visit(handler, msg);
+```
+
+---
+
+#### 为什么一个结构体可以像函数一样调用？
+
+因为 `MessageHandler` 重载了：
+
+```cpp
+operator()
+```
+
+例如：
+
+```cpp
+struct MessageHandler
+{
+    void operator()(const TextMessage& msg) const
+    {
+        std::cout << "Text: " << msg.text << "\n";
+    }
+};
+```
+
+创建对象以后：
+
+```cpp
+MessageHandler handler;
+```
+
+就可以直接这样调用：
+
+```cpp
+handler(TextMessage{"Hello"});
+```
+
+看起来像是在调用一个函数。
+
+实际上等价于：
+
+```cpp
+handler.operator()(TextMessage{"Hello"});
+```
+
+所以这种重载了：
+
+```cpp
+operator()
+```
+
+的对象也叫：
+
+**函数对象（Function Object / Functor）**。
+
+---
+
+#### 为什么这里有三个 `operator()`？
+
+因为：
+
+```cpp
+using Message =
+    std::variant<TextMessage, NumberMessage, QuitMessage>;
+```
+
+`Message` 可能保存三种不同的数据：
+
+```cpp
+TextMessage
+NumberMessage
+QuitMessage
+```
+
+因此 `MessageHandler` 分别准备了三个处理函数：
+
+```cpp
+void operator()(const TextMessage& msg) const
+{
+    std::cout << "Text: " << msg.text << "\n";
+}
+```
+
+处理：
+
+```cpp
+TextMessage
+```
+
+---
+
+```cpp
+void operator()(const NumberMessage& msg) const
+{
+    std::cout << "Number: " << msg.number << "\n";
+}
+```
+
+处理：
+
+```cpp
+NumberMessage
+```
+
+---
+
+```cpp
+void operator()(const QuitMessage&) const
+{
+    std::cout << "Quit!\n";
+}
+```
+
+处理：
+
+```cpp
+QuitMessage
+```
+
+它们虽然函数名都是：
+
+```cpp
+operator()
+```
+
+但是参数类型不同，因此属于**函数重载**。
+
+---
+
+#### `std::visit` 到底做了什么？
+
+例如：
+
+```cpp
+msg = TextMessage{"Hello World"};
+
+std::visit(MessageHandler{}, msg);
+```
+
+此时 `msg` 保存的是：
+
+```cpp
+TextMessage
+```
+
+可以粗略理解为 `std::visit` 做了：
+
+```cpp
+MessageHandler{}(TextMessage{"Hello World"});
+```
+
+于是编译器找到：
+
+```cpp
+void operator()(const TextMessage& msg) const
+```
+
+最终输出：
+
+```text
+Text: Hello World
+```
+
+---
+
+再例如：
+
+```cpp
+msg = NumberMessage{42};
+
+std::visit(MessageHandler{}, msg);
+```
+
+可以粗略理解成：
+
+```cpp
+MessageHandler{}(NumberMessage{42});
+```
+
+于是调用：
+
+```cpp
+void operator()(const NumberMessage& msg) const
+```
+
+输出：
+
+```text
+Number: 42
+```
+
+---
+
+最后：
+
+```cpp
+msg = QuitMessage{};
+
+std::visit(MessageHandler{}, msg);
+```
+
+则会选择：
+
+```cpp
+void operator()(const QuitMessage&) const
+```
+
+输出：
+
+```text
+Quit!
+```
+
+整个过程可以理解为：
+
+```text
+                         std::variant
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+       TextMessage      NumberMessage     QuitMessage
+              │               │               │
+              ▼               ▼               ▼
+ operator(TextMessage) operator(NumberMessage) operator(QuitMessage)
+```
+
+`std::visit` 的作用就是：
+
+> 查看 `variant` 当前保存的是哪一种类型，然后自动调用 visitor 中能够处理这个类型的函数。
+
+---
+
+#### `std::visit` 第一个参数必须是结构体吗？
+
+不是。
+
+`std::visit` 第一个参数本质上只要求是一个：
+
+**可调用对象（Callable）**。
+
+也就是说，只要一个东西能够像下面这样调用：
+
+```cpp
+对象(参数);
+```
+
+就可以作为 visitor。
+
+常见的可调用对象包括：
+
+```text
+普通函数
+Lambda
+函数对象（重载 operator() 的 class / struct）
+std::function
+```
+
+上面的例子使用的是：
+
+```cpp
+MessageHandler{}
+```
+
+它属于：
+
+```text
+结构体对象
+    ↓
+重载 operator()
+    ↓
+函数对象 Functor
+    ↓
+可以作为 std::visit 的 Visitor
+```
+
+---
+
+#### Lambda 为什么也能作为 Visitor？
+
+例如：
+
+```cpp
+std::visit(
+    [](const auto& msg)
+    {
+        std::cout << "收到一条消息\n";
+    },
+    msg
+);
+```
+
+这里第一个参数就是一个 Lambda。
+
+Lambda 本身也是一种可调用对象。
+
+例如：
+
+```cpp
+auto f = [](int x)
+{
+    std::cout << x << "\n";
+};
+
+f(10);
+```
+
+能够像函数一样调用：
+
+```cpp
+f(10);
+```
+
+因此它也可以传给：
+
+```cpp
+std::visit
+```
+
+实际上，可以把 Lambda 粗略理解成编译器自动生成了一个匿名的函数对象：
+
+```cpp
+struct 某个匿名类型
+{
+    void operator()(int x) const
+    {
+        std::cout << x << "\n";
+    }
+};
+```
+
+所以从思想上来说：
+
+```cpp
+Lambda
+```
+
+和：
+
+```cpp
+重载了 operator() 的 struct/class
+```
+
+非常相似。
+
+---
+
+#### 为什么这个例子更适合用结构体 Visitor？
+
+如果只有一种简单操作，Lambda 很方便：
+
+```cpp
+[](const auto& value)
+{
+    // ...
+}
+```
+
+但是这里需要针对不同类型执行完全不同的逻辑：
+
+```cpp
+TextMessage
+NumberMessage
+QuitMessage
+```
+
+使用多个 `operator()` 重载会非常直观：
+
+```cpp
+struct MessageHandler
+{
+    void operator()(const TextMessage& msg) const
+    {
+        // 处理文本消息
+    }
+
+    void operator()(const NumberMessage& msg) const
+    {
+        // 处理数字消息
+    }
+
+    void operator()(const QuitMessage&) const
+    {
+        // 处理退出消息
+    }
+};
+```
+
+这样每种消息类型都有自己独立的处理逻辑。
+
+---
+
+#### 核心理解
+
+可以把：
+
+```cpp
+std::visit(MessageHandler{}, msg);
+```
+
+拆成两个部分理解。
+
+首先：
+
+```cpp
+MessageHandler{}
+```
+
+表示：
+
+```text
+创建一个 MessageHandler 临时对象
+```
+
+由于它重载了：
+
+```cpp
+operator()
+```
+
+所以它是一个可调用对象。
+
+然后：
+
+```cpp
+std::visit(..., msg);
+```
+
+负责：
+
+```text
+查看 msg 当前保存的类型
+        ↓
+取出对应的数据
+        ↓
+调用 MessageHandler 对应的 operator()
+```
+
+因此：
+
+```cpp
+std::visit(MessageHandler{}, msg);
+```
+
+可以概括成一句话：
+
+> 根据 `msg` 当前保存的数据类型，让 `MessageHandler` 自动选择对应的 `operator()` 进行处理。
+
+也可以记成：
+
+```cpp
+std::visit(visitor, variant);
+```
+
+即：
+
+```text
+visit
+ │
+ ├── 看 variant 当前是什么类型
+ │
+ ├── 把里面的数据取出来
+ │
+ └── 用这个数据调用 visitor
+```
+
+其中 visitor 并不是某一种固定语法，而是任何能够被调用的对象。
+
+在本例中：
+
+```cpp
+MessageHandler{}
+```
+
+就是一个通过重载 `operator()` 实现的函数对象。
+
+
 ## 运行结果
 
 见上方每个示例的"运行结果"。

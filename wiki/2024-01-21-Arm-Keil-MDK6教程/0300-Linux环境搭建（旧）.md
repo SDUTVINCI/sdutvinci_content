@@ -1,6 +1,6 @@
 ---
 vinciId: 975086d9-e149-5a23-9487-47d62fdeda86
-title: Linux配置MDK6环境教程
+title: "Linux环境搭建（旧）"
 description: （本教程为2024年1月创建的，可能与以后的版本有些出入）
 authors:
   - dongjiahui
@@ -78,7 +78,7 @@ vcpkg --version
 #### 工程生成与编译器配置
 1.  **方式一** ：配置编译器教程需要在Windows进行，在Linux上目前很难修改编译器选项，可以参考下方Windows教程里的生成工程并配置默认编译器。(实质就是把编译器从默认的AC5改成AC6)
 
-2.  **方式二** ：克隆已经生成好的模板（模板目前只有几个常用型号的)
+2.  **方式二** ：克隆已经生成好的模板(模板目前只有几个常用型号的)
 
 仓库链接：
 
@@ -245,6 +245,104 @@ sudo udevadm trigger
 如果没被检测出来，请插拔一下ST-Link，然后点击Add Device添加一下设备。
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2024/01/21/image26.webp)
+
+#### 测试连接设备
+
+随便插上一个debugger，比如我这里插上一个连着`stm32f103c8t6`的`ST-link`：
+
+```bash
+pyocd --version
+
+pyocd list
+```
+
+像下图这样正常识别出来了，就说明成功了。
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790773421631-f4d9d780.webp)
+
+
+进一步，可以继续测试
+
+```bash
+pyocd list --targets | grep -i stm32f103
+
+pyocd list --targets --name stm32f103
+```
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790774325694-5b53e98c.webp)
+
+发现是`stm32f103rc`，然后尝试连接该设备：
+
+```bash
+pyocd commander -t stm32f103rc
+```
+
+如果成功，通常会进入 pyOCD commander：
+
+然后你可以输入：
+status
+再退出：
+exit
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790774481385-67797193.webp)
+
+status 能返回 Running，说明不是“只枚举到了 USB”，而是真的已经连进目标 MCU 了。
+
+成功了。
+
+但是你会发现，咱们明明插的是`stm32f103c8`，为何识别出`stm32f103rc`呢？
+
+pyOCD 当前内置目标里确实有 `stm32f103rc`，但没有内置 `stm32f103c8`；
+pyOCD 官方也说明 target 类型决定 Flash 算法、内存映射等信息，所以正式下载程序时最好不要长期拿 RC 冒充 C8。
+
+更规范的做法是给 pyOCD 安装 STM32F103C8 对应的 CMSIS-Pack：
+
+先查找是否有：
+
+```bash
+pyocd pack find stm32f103c8
+```
+
+第一次跑这个会先下载索引，等一会儿吧（需要特殊网络环境）
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790774784709-8b876bb3.webp)
+
+找到后，显示没安装：
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790774906596-98d2eb3f.webp)
+
+再安装：
+
+```bash
+pyocd pack install stm32f103c8
+```
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790774963118-4448d8b4.webp)
+
+再查：
+
+```bash
+pyocd list --targets --name stm32f103
+```
+
+可以看到已经可以支持一堆设备了。
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790775069337-bff493ff.webp)
+
+```bash
+pyocd commander -t stm32f103c8
+```
+
+如果成功，通常会进入 pyOCD commander：
+
+然后你可以输入：
+status
+再退出：
+exit
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790775243515-955576aa.webp)
+
+
 
 #### 更新ST-Link最新驱动(Linux)
 https://www.st.com/en/development-tools/stsw-link007.html#get-software

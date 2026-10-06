@@ -1,6 +1,6 @@
 ---
 vinciId: 270b7ef7-353a-5468-8359-bde1836439ff
-title: Windows配置MDK6环境教程
+title: "Windows环境搭建（旧）"
 description: |-
   需要准备的软件
   Keil MDK5.3x及以上
@@ -9,6 +9,8 @@ authors:
 publishedAt: 2024-01-21T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:56.043Z
 ---
+
+***`（本教程为2024年1月创建的，可能与以后的版本有些出入）`***
 
 ### 需要准备的软件
 1.  Keil MDK5.3x及以上
