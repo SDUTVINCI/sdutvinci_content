@@ -1,5 +1,4 @@
 ---
-vinciId: 57379738-4d0e-5ff3-a96c-153463d2a6e3
 title: "mutex 与 RAII 锁"
 description: 本节解决什么问题
 authors:

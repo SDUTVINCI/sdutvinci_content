@@ -1,5 +1,4 @@
 ---
-vinciId: a1ed77a6-b5a5-56a5-8b6b-e7b7bb0c9d44
 title: condition_variable
 description: 本节解决什么问题
 authors:
