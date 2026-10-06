@@ -5,7 +5,7 @@ description: （嫌麻烦的话，直接去看各种docker容器部署的章节�
 authors:
   - dongjiahui
 publishedAt: 2024-10-03T00:00:00.000Z
-updatedAt: 2026-08-18T16:48:11.514Z
+updatedAt: 2026-10-06T09:22:17.214Z
 ---
 
 Docker 镜像是通过 `Dockerfile` 文件来构建的。该文件没有任何扩展名，文件名固定为 `Dockerfile`。

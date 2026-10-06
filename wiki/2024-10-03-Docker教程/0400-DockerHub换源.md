@@ -5,8 +5,10 @@ description: （DockerHub已于2024年5月被🇨🇳封杀，各大国内镜像
 authors:
   - dongjiahui
 publishedAt: 2024-10-03T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:55.723Z
+updatedAt: 2026-10-06T09:22:17.193Z
 ---
+
+## 总览
 
 （DockerHub已于2024年5月被🇨🇳封杀，各大国内镜像源均已下架DockerHub镜像源，直接挂梯用官方源吧）
 

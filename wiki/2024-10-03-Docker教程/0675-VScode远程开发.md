@@ -5,7 +5,7 @@ description: 插件1：微软Docker工具
 authors:
   - dongjiahui
 publishedAt: 2024-10-03T00:00:00.000Z
-updatedAt: 2026-08-18T16:48:11.506Z
+updatedAt: 2026-10-06T09:22:17.202Z
 ---
 
 如何SSH那样在VScode中远程开发容器里的系统呢?

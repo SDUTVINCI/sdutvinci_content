@@ -5,7 +5,7 @@ description: 本节解决什么问题
 authors:
   - dongjiahui
 publishedAt: 2023-10-05T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.779Z
+updatedAt: 2026-10-06T09:22:17.392Z
 ---
 
 ## 本节解决什么问题
@@ -76,21 +76,19 @@ std::this_thread::sleep_for(500ms);
 
 int main()
 {
-    using namespace std::chrono;
-
     // 记录开始时间
-    auto start = steady_clock::now();
+    auto start = std::chrono::steady_clock::now();
 
     // 模拟耗时操作
-    std::this_thread::sleep_for(500ms);
+    std::this_thread::sleep_for(std::chrono::milliseconds(500));
 
     // 记录结束时间
-    auto end = steady_clock::now();
+    auto end = std::chrono::steady_clock::now();
 
     // 计算耗时
     auto elapsed = end - start;
-    auto elapsed_ms = duration_cast<milliseconds>(elapsed);
-    auto elapsed_us = duration_cast<microseconds>(elapsed);
+    auto elapsed_ms = duration_cast<std::chrono::milliseconds>(elapsed);
+    auto elapsed_us = duration_cast<std::chrono::microseconds>(elapsed);
 
     std::cout << "Elapsed: " << elapsed_ms.count() << " ms\n";
     std::cout << "Elapsed: " << elapsed_us.count() << " us\n";
@@ -106,6 +104,8 @@ Elapsed: 500 ms
 Elapsed: 500000 us
 ```
 
+这里的us可能有波动，一般是百位数以内级别的波动。
+
 ### 示例 2：在示例 1 基础上，不同时间单位的使用和转换
 
 ```cpp
@@ -114,24 +114,24 @@ Elapsed: 500000 us
 
 int main()
 {
-    using namespace std::chrono;
+    using namespace std::chrono_literals;  //可以使用1s,100ms,500us这种更便捷
 
     // 不同单位
-    auto s = 1s;         // 1 秒
-    auto ms = 100ms;     // 100 毫秒
-    auto us = 500us;     // 500 微秒
+    auto s = 1s;         // 1 秒 等同于 auto s = std::chrono::seconds(1);
+    auto ms = 100ms;     // 100 毫秒 等同于 auto ms = std::chrono::milliseconds(100);
+    auto us = 500us;     // 500 微秒 等同于 auto us = std::chrono::microseconds(500);
 
     // 时长可以相加
     auto total = s + ms + us;
-    std::cout << "total in us: " << duration_cast<microseconds>(total).count() << " us\n";
+    std::cout << "total in us: " << std::chrono::duration_cast<std::chrono::microseconds>(total).count() << " us\n";
 
     // 秒到毫秒的转换
     auto two_seconds = 2s;
-    auto as_ms = duration_cast<milliseconds>(two_seconds);
+    auto as_ms = std::chrono::duration_cast<std::chrono::milliseconds>(two_seconds);
     std::cout << "2s = " << as_ms.count() << " ms\n";
 
     // 毫秒到秒的转换（会截断）
-    auto ms_to_sec = duration_cast<seconds>(1500ms);
+    auto ms_to_sec = std::chrono::duration_cast<std::chrono::seconds>(1500ms);
     std::cout << "1500ms = " << ms_to_sec.count() << " s\n";  // 1 秒
 
     return 0;
@@ -149,30 +149,29 @@ total in us: 1100500 us
 ### 示例 3：在示例 2 基础上，实现一个简单的计时器
 
 ```cpp
-#include <iostream>
 #include <chrono>
+#include <cstdio>
 #include <functional>
+#include <print>
 
 // 简单的计时器：测量函数运行时间
 double measure(std::function<void()> func)
 {
-    using namespace std::chrono;
-
-    auto start = steady_clock::now();
+    auto start = std::chrono::steady_clock::now();
     func();
-    auto end = steady_clock::now();
+    auto end = std::chrono::steady_clock::now();
 
-    return duration_cast<microseconds>(end - start).count() / 1000.0;  // 返回毫秒
+    return std::chrono::duration_cast<std::chrono::microseconds>(end - start).count() / 1000.0;  // 返回毫秒（先转us再转ms可以保留小数，只是最终展示形式以ms形式）
 }
 
 void slow_operation()
 {
-    int sum = 0;
+    long int sum = 0;
     for (int i = 0; i < 10000000; ++i)
     {
         sum += i;
     }
-    std::cout << "sum = " << sum << "\n";
+    std::println("sum = {}",sum);
 }
 
 void quick_operation()
@@ -182,13 +181,13 @@ void quick_operation()
     {
         sum += i;
     }
-    std::cout << "sum = " << sum << "\n";
+    std::println("sum = {}",sum);
 }
 
 int main()
 {
-    std::cout << "slow_op took " << measure(slow_operation) << " ms\n";
-    std::cout << "quick_op took " << measure(quick_operation) << " ms\n";
+    std::print("slow_op took {} ms\n",measure(slow_operation));
+    std::print("quick_op took {} ms\n",measure(quick_operation));
 
     return 0;
 }
@@ -197,40 +196,42 @@ int main()
 **运行结果**（运行时间因机器而异）：
 
 ```
-sum = 887459712
-slow_op took 12.5 ms
+sum = 49999995000000
+slow_op took 17.712 ms
 sum = 499500
-quick_op took 0.001 ms
+quick_op took 0.005 ms
 ```
 
 ### 示例 4：在示例 3 基础上，获取和格式化系统时间
 
 ```cpp
-#include <iostream>
 #include <chrono>
 #include <ctime>
-#include <iomanip>
+#include <print>
 
 int main()
 {
-    using namespace std::chrono;
+    using namespace std::chrono_literals;
 
     // 获取当前系统时间
-    auto now = system_clock::now();
+    auto now = std::chrono::system_clock::now();
 
     // 获取自 epoch（1970-01-01）以来的秒数
-    auto epoch_seconds = duration_cast<seconds>(now.time_since_epoch());
-    std::cout << "Seconds since epoch: " << epoch_seconds.count() << "\n";
+    auto epoch_seconds = std::chrono::duration_cast<std::chrono::seconds>(now.time_since_epoch());
+    std::println("Seconds since epoch: {}",epoch_seconds.count());
 
-    // 转换为 C 风格的 time_t 打印
-    std::time_t now_c = system_clock::to_time_t(now);
-    std::cout << "Current time: " << std::ctime(&now_c);
+    // 转换为 C 风格的 time_t 打印 （打印的是本地时间，比如上海时间UTC+8）
+    std::time_t now_c = std::chrono::system_clock::to_time_t(now);
+    std::print("Current time: {}",std::ctime(&now_c));  //std::ctime()自己带一个换行
 
-    // 计算未来时间点
+    // 计算未来时间点（C++23的chrono格式化打印，打印UTC时间）
     auto future = now + 24h;  // C++20 的 24h 字面量
-    // 如果没有 C++20，可以用: auto future = now + hours(24);
-    std::time_t future_c = system_clock::to_time_t(future);
-    std::cout << "24 hours later: " << std::ctime(&future_c);
+    // 如果没有 C++20，可以用: auto future = now + std::chrono::hours(24);
+    std::println("24 hours later: {:%Y-%m-%d %H:%M:%S}",future); // 末尾会带一串高精度纳秒级部分
+
+    //转秒单位，来忽略future带的更高精度的时间（C++23的chrono格式化打印，打印UTC时间）
+    auto future_sec = std::chrono::time_point_cast<std::chrono::seconds>(future);
+    std::println("24 hours later: {:%Y-%m-%d %H:%M:%S}",future_sec);
 
     return 0;
 }
@@ -239,10 +240,51 @@ int main()
 **运行结果**（日期因运行时间而异）：
 
 ```
-Seconds since epoch: 1748870400
-Current time: Mon Jun  2 12:00:00 2026
-24 hours later: Tue Jun  3 12:00:00 2026
+Seconds since epoch: 1788875788
+Current time: Tue Sep  8 21:56:28 2026
+24 hours later: 2026-09-09 13:56:28.573118608
+24 hours later: 2026-09-09 13:56:28
 ```
+
+这里为何`ctime()`和`{:%Y-%m-%d %H:%M:%S}`打印出来的时间相差8小时呢？
+
+```text
+system_clock::now()
+    ↓
+绝对时间点
+没有“本地时间”这个概念
+    │
+    ├── ctime()
+    │      ↓
+    │   自动按系统本地时区显示
+    │
+    ├── 直接 chrono 格式化 system_clock::time_point
+    │      ↓
+    │   按 UTC 显示
+    │
+    └── zoned_time
+           ↓
+        按指定时区显示
+```
+
+所以
+
+```text
+13:56 UTC
+   =
+21:56 UTC+8
+```
+
+可以通过以下命令在终端里看你的电脑在什么时区里
+
+```bash
+date
+timedatectl
+```
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/10/05/1788876514267-a8ed2547.webp)
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2023/10/05/1788876531473-3c31ee22.webp)
 
 ## 运行结果
 
@@ -272,23 +314,24 @@ Current time: Mon Jun  2 12:00:00 2026
 
 ```cpp
 #include <chrono>
-#include <iostream>
 #include <thread>
+#include <print>
 
 int main()
 {
     // 程序从 main 函数开始执行，下面的语句会按顺序运行。
-    using namespace std::chrono;
+    using namespace std::chrono_literals;
 
-    auto deadline = steady_clock::now() + 300ms;
+    auto deadline = std::chrono::steady_clock::now() + 300ms;
 
-    while (steady_clock::now() < deadline)
+    while (std::chrono::steady_clock::now() < deadline)
     {
-        std::cout << "waiting...\n";
+        std::println("waiting...");
+
         std::this_thread::sleep_for(100ms);
     }
 
-    std::cout << "timeout\n";
+    std::println("timeout");
 
     // 返回 0 表示程序正常结束。
     return 0;
@@ -308,13 +351,13 @@ timeout
 
 ## 常见错误
 
-**错误 1：忘记 `using namespace std::chrono` 导致字面量不识别**
+**错误 1：忘记 `using namespace std::chrono_literals` 或者 `using namespace std::chrono` 导致字面量不识别**
 
 ```cpp
 auto t = 500ms;  // ❌ 编译错误！
 ```
 
-正确做法：加 `using namespace std::chrono;` 或写 `std::chrono::milliseconds(500)`。
+正确做法：加 `using namespace std::chrono_literals;` 或 加 `using namespace std::chrono` 或 写 `std::chrono::milliseconds(500)`。
 
 **错误 2：用 system_clock 测量耗时**
 
@@ -339,6 +382,16 @@ auto sec = duration_cast<seconds>(1500ms);  // 1 秒！不是 1.5 秒
 ```
 
 正确做法：如果需要小数，用 `duration<double>` 或 `duration_cast<milliseconds>` 保留精度。
+
+```cpp
+std::chrono::duration<double> sec = 1500ms;  //std::chrono::duration<double>的默认单位就是“秒”，只不过底层数值类型从整数变成了 double。
+std::println("{}", sec.count());  //输出1.5
+```
+
+```cpp
+auto ms = 1500ms;
+std::println("{}", ms.count() / 1000.0);   //输出1.5
+```
 
 ## 使用建议
 
