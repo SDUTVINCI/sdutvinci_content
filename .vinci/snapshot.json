@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-06T09:22:17.479Z",
+  "generatedAt": "2026-10-08T12:41:29.170Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3303,6 +3303,16 @@
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "sha256": "7dcdece51eb94c89036786de023b1a2ba2825489701aaf4552ba9a7c11fdccc7",
       "bytes": 420
+    },
+    {
+      "articleId": "8f8ab1e2-3078-465c-8281-cce8c14881aa",
+      "revisionId": "59cc1d01-629f-48bf-97b5-7f8d28194910",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-10-08-vofa/index.md",
+      "path": "wiki/2026-10-08-vofa/index.md",
+      "sha256": "ad28088d5e6fc2403507916688ddcc48cab6cf19d842396357e2c9c3e436cd42",
+      "bytes": 3005
     }
   ],
   "members": [
