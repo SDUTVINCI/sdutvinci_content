@@ -1,4 +1,5 @@
 ---
+vinciId: 93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af
 title: "插件使用教程"
 ---
 
