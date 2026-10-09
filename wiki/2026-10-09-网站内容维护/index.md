@@ -4,8 +4,8 @@ title: 网站内容维护
 description: 维护网站内容方式
 authors:
   - dongjiahui
-publishedAt: 2026-10-09T07:13:21.301Z
-updatedAt: 2026-10-09T07:13:21.301Z
+publishedAt: 2026-10-09T07:14:43.408Z
+updatedAt: 2026-10-09T07:14:43.408Z
 tags:
   - 通用资料
 ---
@@ -193,6 +193,24 @@ https://vinci.sdut.edu.cn/cms/content-imports
 
 ![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529150866-2ce19363.webp)
 
+这个冲突是那个`.vscode/settings.json`，不用管：
 
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529797572-cff1e7de.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529834723-514f8f9c.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529862910-6cc53b27.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529922445-2b1f6eb4.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529931640-22c7275c.webp)
+
+##### 提交审核发布
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529964526-5e9ca86d.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529979733-7f78142e.webp)
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529998653-d359586b.webp)
 
 ### 维护网站内容规则

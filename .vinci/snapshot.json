@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-09T07:13:21.337Z",
+  "generatedAt": "2026-10-09T07:14:43.408Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3366,13 +3366,13 @@
     },
     {
       "articleId": "336a7647-d2d4-4afd-94f9-18a7ddc70d8c",
-      "revisionId": "60e50f0e-6c46-4a3a-8e47-e7b64ebde660",
-      "revisionNumber": 1,
+      "revisionId": "1a2c2661-e9d5-4c09-9e68-01f2df951947",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2026-10-09-网站内容维护/index.md",
       "path": "wiki/2026-10-09-网站内容维护/index.md",
-      "sha256": "805cae243437ccea7bfe441378eea7fa667f08331a7bd91079c0fb57d641be1b",
-      "bytes": 7009
+      "sha256": "93965d0f5fc7840d4325133267c2c1ab7f40c74fafe73754a38bb72aaa90b72e",
+      "bytes": 7846
     }
   ],
   "members": [
