@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-08T12:41:29.170Z",
+  "generatedAt": "2026-10-09T05:17:43.022Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2865,6 +2865,16 @@
       "bytes": 9919
     },
     {
+      "articleId": "82076df7-ddea-4a56-abb5-18cc10476a1e",
+      "revisionId": "4c57fd8c-df1c-4ed1-83f5-22290e2dc786",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-02-07-C-Cpp考核资料/0100-0600-26届嵌入式-算法组正式纳新考核.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0600-26届嵌入式-算法组正式纳新考核.md",
+      "sha256": "1b4287632f982853ca824da5a1cb06bf1cb7a609678a4d2a3ba0bf7ab0228dd5",
+      "bytes": 9558
+    },
+    {
       "articleId": "baa8c5cc-201d-48df-bec0-fba8e413a139",
       "revisionId": "4fdf518e-6944-4f87-a0b6-0c00b1a3f2a0",
       "revisionNumber": 3,
@@ -2923,6 +2933,16 @@
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
       "sha256": "b657b295ccd6e9c075f16c5fc068c5ccf9baf7479a7a60fbc692b7bb820adafb",
       "bytes": 19122
+    },
+    {
+      "articleId": "6764df85-459d-4af9-8f25-10286d5da647",
+      "revisionId": "67ce9bfa-07ce-4baf-8897-ec5bb8c575ca",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2025-02-07-C-Cpp考核资料/0200-0600-26届嵌入式-算法组正式纳新考核参考答案.md",
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0600-26届嵌入式-算法组正式纳新考核参考答案.md",
+      "sha256": "aac73bba12fb2776d80aee656064ad3252c5f5cc661eaabf616c60dbc05aba5f",
+      "bytes": 13047
     },
     {
       "articleId": "e3ce3e4e-9906-44bb-a9b8-f728dc376d0a",

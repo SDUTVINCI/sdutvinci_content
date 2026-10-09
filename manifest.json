@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-08T12:41:29.170Z",
+  "generatedAt": "2026-10-09T05:17:43.022Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "101e784d001f815468cb0e43667dcd3b9dfbaf0a066661b0d069a4101b2ab0c9"
+    "sha256": "4bdd94ad9ae765fcba11abb7921da521b7550313b3db6e7ce5918cef3bc9f292"
   },
   "files": [
     {
@@ -1744,6 +1744,11 @@
       "bytes": 9919
     },
     {
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0600-26届嵌入式-算法组正式纳新考核.md",
+      "sha256": "1b4287632f982853ca824da5a1cb06bf1cb7a609678a4d2a3ba0bf7ab0228dd5",
+      "bytes": 9558
+    },
+    {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-C-C++公共基础练习题.md",
       "sha256": "5abd503d0dc294bac3ec2b0a98f87483985924cf3c1e8c2fe6dbe1c6ed1292de",
       "bytes": 16505
@@ -1772,6 +1777,11 @@
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0500-嵌入式组C-C++工程基础综合考核题答案.md",
       "sha256": "b657b295ccd6e9c075f16c5fc068c5ccf9baf7479a7a60fbc692b7bb820adafb",
       "bytes": 19122
+    },
+    {
+      "path": "wiki/2025-02-07-C-Cpp考核资料/0200-0600-26届嵌入式-算法组正式纳新考核参考答案.md",
+      "sha256": "aac73bba12fb2776d80aee656064ad3252c5f5cc661eaabf616c60dbc05aba5f",
+      "bytes": 13047
     },
     {
       "path": "wiki/2025-02-07-C-Cpp考核资料/0200-C-C++公共基础练习题及答案.md",
