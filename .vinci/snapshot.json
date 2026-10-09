@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-09T05:24:57.727Z",
+  "generatedAt": "2026-10-09T07:13:21.337Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3286,43 +3286,73 @@
     },
     {
       "articleId": "8a8da6c6-9593-5d6e-8a15-4d07ad22398e",
-      "revisionId": "90931914-62ca-4190-94a0-a197a11a2409",
-      "revisionNumber": 2,
+      "revisionId": "239673f6-d430-46ff-bf40-c2b36a188065",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0100-简介.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0100-简介.md",
-      "sha256": "cc909f90edda8c3ef677e24947da318b11c90a08bdeb0f68f934f5c639ea7031",
-      "bytes": 999
+      "sha256": "35e5b993aefcf5145fd17315d6dcef284be19b5d5cb8db50f55c2e7673bdeaab",
+      "bytes": 1017
     },
     {
       "articleId": "6eaf62bd-48ae-53f7-8118-839f7211ce7c",
-      "revisionId": "a790ff77-7340-43bc-8bae-c39192d0cb8f",
-      "revisionNumber": 2,
+      "revisionId": "951903c0-87cf-4cab-9ffc-66bdf1f0dece",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0200-参考视频.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0200-参考视频.md",
-      "sha256": "c4a09a6a7e90552a007c3a7bfc9c6dbd93cb5bd9c2003acfd8f3f6b418cf132c",
-      "bytes": 304
+      "sha256": "f3834c3d9d5ddd0c2857061b586d06f8ae4d07fba654feb83849ccdfefc52478",
+      "bytes": 321
+    },
+    {
+      "articleId": "5e88a829-58a5-4df7-b8bd-9a616db8ed27",
+      "revisionId": "0df79b89-baef-4f53-8d85-358ad0da3ed2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-0100-Linux环境准备.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-0100-Linux环境准备.md",
+      "sha256": "60cfea829488d122560ca0e4cddca3b88d3d508e3fa53f6d0779e06bb650b8f3",
+      "bytes": 4678
+    },
+    {
+      "articleId": "9f30f6b2-eba3-4d02-9c32-efdd15bd848e",
+      "revisionId": "4ad41c30-7142-4201-b116-32130abe2b50",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-0200-Windows环境准备.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-0200-Windows环境准备.md",
+      "sha256": "d4639cc6d7568fa62043c303491df5a28de1abbfa46d01319f3490109f4d8ff4",
+      "bytes": 5859
+    },
+    {
+      "articleId": "2809e1eb-4679-410e-9f98-464971f1eb02",
+      "revisionId": "33e80751-23be-4931-bb23-007f298ec86e",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-环境准备.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-环境准备.md",
+      "sha256": "9db4155f9e86fe066cca8a6b443c8db096618aa7e346e4b650156c5ae6c7a96b",
+      "bytes": 205
     },
     {
       "articleId": "93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af",
-      "revisionId": "2f8cbc70-6446-4748-bc02-7327f57b8b64",
-      "revisionNumber": 4,
+      "revisionId": "e9aabf29-bcc2-41f3-a0d7-d8a2ee94fc85",
+      "revisionNumber": 5,
       "collection": "wiki",
-      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
-      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0300-Linux.md",
-      "sha256": "49ee3d5c9b8b5e0a95847756206aa87513f762c5c6fb8fbb8adf1081adaae976",
-      "bytes": 38705
+      "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0400-CubeIDE-VScode教程.md",
+      "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0400-CubeIDE-VScode教程.md",
+      "sha256": "d0ba99c603acf70e05c8e605b33d1d1dea0457a367191d19da39ef51cbb283dd",
+      "bytes": 38474
     },
     {
       "articleId": "0981e483-d90d-5137-9df4-cc6e2230f55a",
-      "revisionId": "735515f8-7b44-4143-8471-e0a1ed1cb836",
-      "revisionNumber": 3,
+      "revisionId": "62c6e563-5446-4a9b-b6a9-a4eeb4b6e36e",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
-      "sha256": "7dcdece51eb94c89036786de023b1a2ba2825489701aaf4552ba9a7c11fdccc7",
-      "bytes": 420
+      "sha256": "7a030a6a7297447c3c72d938678f0c1f640cbdb8cb91d117286989bfb5f3ab21",
+      "bytes": 386
     },
     {
       "articleId": "8f8ab1e2-3078-465c-8281-cce8c14881aa",
@@ -3333,6 +3363,16 @@
       "path": "wiki/2026-10-08-vofa/index.md",
       "sha256": "ad28088d5e6fc2403507916688ddcc48cab6cf19d842396357e2c9c3e436cd42",
       "bytes": 3005
+    },
+    {
+      "articleId": "336a7647-d2d4-4afd-94f9-18a7ddc70d8c",
+      "revisionId": "60e50f0e-6c46-4a3a-8e47-e7b64ebde660",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2026-10-09-网站内容维护/index.md",
+      "path": "wiki/2026-10-09-网站内容维护/index.md",
+      "sha256": "805cae243437ccea7bfe441378eea7fa667f08331a7bd91079c0fb57d641be1b",
+      "bytes": 7009
     }
   ],
   "members": [
