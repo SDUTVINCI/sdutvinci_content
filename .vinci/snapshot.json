@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-09T05:17:43.022Z",
+  "generatedAt": "2026-10-09T05:24:57.727Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2866,13 +2866,13 @@
     },
     {
       "articleId": "82076df7-ddea-4a56-abb5-18cc10476a1e",
-      "revisionId": "4c57fd8c-df1c-4ed1-83f5-22290e2dc786",
-      "revisionNumber": 1,
+      "revisionId": "9dc3784e-5163-401d-a736-55830e6baa2d",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2025-02-07-C-Cpp考核资料/0100-0600-26届嵌入式-算法组正式纳新考核.md",
       "path": "wiki/2025-02-07-C-Cpp考核资料/0100-0600-26届嵌入式-算法组正式纳新考核.md",
-      "sha256": "1b4287632f982853ca824da5a1cb06bf1cb7a609678a4d2a3ba0bf7ab0228dd5",
-      "bytes": 9558
+      "sha256": "78fd1230b35dc924f89363752292587d11842b4c1e7da63205bd62bbf30cb126",
+      "bytes": 9827
     },
     {
       "articleId": "baa8c5cc-201d-48df-bec0-fba8e413a139",
