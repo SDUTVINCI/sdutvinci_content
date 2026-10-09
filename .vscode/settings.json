@@ -1,0 +1,15 @@
+{
+  //请放到个人设置,不要放到settings.json的部分
+  // "mdImageUploader.s3.accessKeyId": "xxxxxxxxxxxxxxxxxxxx",
+  // "mdImageUploader.s3.secretAccessKey": "xxxxxxxxxxxxxxxxxxxx",
+
+  //可以放到settings.json的部分,以下是例子
+  "mdImageUploader.enabled": true,
+  "mdImageUploader.s3.endpoint": "https://s3.sdutvinci.cn",
+  "mdImageUploader.s3.region": "us-east-1",
+  "mdImageUploader.s3.bucket": "vos",
+  "mdImageUploader.s3.forcePathStyle": true,
+  "mdImageUploader.cdnUrl": "https://cdn.sdutvinci.cn",
+  "mdImageUploader.datedUploadPath": "/site-assets/images/wiki",
+  "mdImageUploader.undatedUploadPath": "/site-assets/images/undate"
+}

@@ -1,77 +1,8 @@
 ---
-vinciId: 93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af
-title: Linux
-description: 环境介绍
-authors:
-  - dongjiahui
-publishedAt: 2026-04-17T00:00:00.000Z
-updatedAt: 2026-10-06T09:22:17.111Z
-chapterDepth: 0
-chapterOrder: "0300"
-date: 2026-04-17
-docKey: 2026-04-17-stm32cubeide-vscode-huan-jing-da-jian
-docRoot: /wiki/2026-04-17-stm32cubeide-vscode-huan-jing-da-jian
-docTitle: STM32CubeIDE VScode环境搭建
-isWikiDoc: true
-isWikiIndex: false
-wikiDepth: 1
+title: "插件使用教程"
 ---
 
-## 环境介绍
-本教程环境介绍：
-
-1.  系统：Fedora 43 KDE Edition Linux
-
-2.  系统内核：Linux 6.19.12-200.fc43.x86_64
-
-3.  架构：X86_64(amd64)
-
-其他Linux环境也可以。
-
-## 安装各种软件与环境
-
-### 安装CubeMX
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image9.webp)
-
-下载地址：
-
-https://www.st.com.cn/zh/development-tools/stm32cubemx.html
-
-**推荐下载最新版本（此时最新版本是6.15.0）**
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image10.webp)
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image11.webp)
-
-解压出来
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image12.webp)
-
-用root权限打开这个软件`SetupSTM32CubeMX-6.15.0`（不建议）
-
-```bash
-sudo ./SetupSTM32CubeMX-6.15.0
-```
-
-（更建议：也可以不用root权限打开，但在选择安装路径的时候注意以下，自己改成`/home/xxx`里的某个文件夹里）
-
-```bash
-./SetupSTM32CubeMX-6.15.0
-```
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image13.webp)
-
-在新弹出的界面一直点下一步就行，安装结束后出现如下图就成功了。
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image14.webp)
-
-`/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX`（如果你不是root权限安装的，你的路径不是这个，需要选择对应的路径）进入这个文件夹，然后打开终端输入
-
-```cpp
-./STM32CubeMX
-```
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image15.webp)
+### CubeMX安装FW
 
 点击Help
 
@@ -85,9 +16,9 @@ sudo ./SetupSTM32CubeMX-6.15.0
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image18.webp)
 
-登陆上账号
+可以不用登录账号选`do not ask me again`
 
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image19.webp)
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791521942252-f05003e7.webp)
 
 然后等下载和安装完
 
@@ -95,51 +26,10 @@ sudo ./SetupSTM32CubeMX-6.15.0
 
 下载好就行了。
 
-接下来可以把CubeMX应用配置一个桌面快捷方式等可以快速打开，教程详见[Vinci机器人队Linux入门教程](/wiki/2024-03-30-linux-jiao-cheng/0600-qi-ta-ke-xuan-pei-zhi#appimage)的Appimage章节，可以用ctrl+F快速定位该章节。
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791522194817-41247684.webp)
 
-桌面快捷方式如下：
 
-（如果你不是root权限安装的，你的路径不是这个`/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/`，需要选择对应的路径）
-
-```bash
-[Desktop Entry]
-Name=STM32CubeMX
-Exec=/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/STM32CubeMX
-Icon=/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/help/STM32CubeMX.png
-Type=Application
-Categories=Development;Electronics;Embedded;
-Comment=STM32CubeMX configuration and code generation tool
-Terminal=false
-```
-
-根据教程做，就可以实现这种效果啦。
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image21.webp)
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image22.webp)
-
-### 安装VScode
-https://code.visualstudio.com/Download
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image23.webp)
-
-如果是debian系下载deb,如果是rhel系下载rpm.
-
-下载完之后，点击浏览器，找到这个安装包的文件夹，并在该路径打开终端。
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image24.webp)
-
-Debian系：输入`sudo apt install ./code`然后按`tab`按键补齐文件名，回车。
-
-RHEL系：输入`sudo dnf install ./code`然后按`tab`按键补齐文件名，回车。
-
-例如补齐后的：
-
-```bash
-sudo dnf install ./code-1.102.1-1752598767.el8.x86_64.rpm
-```
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image25.webp)
+### VScode安装插件
 
 然后打开VScode，在终端输入下面的命令
 
@@ -149,20 +39,17 @@ code
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image26.webp)
 
-
 然后可以配置一个环境单独给CubeIDE插件使用，避免和默认环境冲突。
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776420070033.webp)
 
-进行一些设置，按我的来就可以
+进行一些设置，自己按习惯来，不懂的暂时按我的来也行
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776420416232.webp)
 
 选中STM32
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776420490177.webp)
-
-
 
 然后安装一些插件
 
@@ -187,51 +74,7 @@ code
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776420944068.webp)
 
 
-### 安装openOCD
-
-#### 安装
-
-我们主要用openocd来进行debug,这样才支持LiveWatch,而pyocd暂时不支持。
-
-```bash
-# Debian系（如Ubuntu）
-sudo apt install openocd
-
-
-# 红帽系（如Fedora）
-sudo dnf install openocd
-```
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790778562287-aa09e54e.webp)
-
-
-#### 安装udev
-
-先要知道：
-
-```text
-/etc/udev/rules.d/
-    → 你自己手工配置的规则，现在基本清空
-
-/usr/lib/udev/rules.d/
-    → Linux 软件包提供的系统规则
-       └── 60-openocd.rules
-```
-
-查看openocd是否在系统里自动装了udev了：
-
-```bash
-# debian系（ubuntu）
-dpkg -L openocd | grep -E 'udev|rules'
-
-# 红帽系（fedora）
-rpm -ql openocd | grep -E 'udev|rules'
-```
-
-如下图，说明openocd安装过udev了。（这比pyocd方便多了）
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790820989855-95fc4922.webp)
-
+### OpenOCD使用事项
 
 <a id="openocd-parameters"></a>
 
@@ -240,9 +83,7 @@ rpm -ql openocd | grep -E 'udev|rules'
 OpenOCD 一般通过 .cfg 配置文件确定：使用什么调试器 + 连接什么 MCU
 
 ```bash
-openocd \
-    -f interface/调试器.cfg \
-    -f target/芯片系列.cfg
+openocd -f interface/调试器.cfg -f target/芯片系列.cfg
 ```
 
 第一个参数：看你用什么调试器
@@ -299,14 +140,14 @@ STM32C5 要特别注意：
 所以用
 
 ```bash
-openocd \
-    -f interface/stlink.cfg \
-    -f target/stm32f1x.cfg
+openocd -f interface/stlink.cfg -f target/stm32f1x.cfg
 ```
 
 可以插上之后测试一波：
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790822431371-9446f7ae.webp)
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791514972175-9fe9ca6a.webp)
 
 照上图所示，已经连接成功了。
 
@@ -366,6 +207,10 @@ FreeRTOS也要配置一下。
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image67.webp)
 
+这里也打开。
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523019424-a5e98758.webp)
+
 这些文件夹也要配置好，最后Toolchain选择CMake,编译器选择GCC(6.14.1及之前没有选择编译器这个选项很正常)
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image68.webp)
@@ -375,7 +220,7 @@ FreeRTOS也要配置一下。
 
 ### 对工程进行配置与编译
 
-在工程文件夹打开终端
+在工程文件夹打开终端（或者直接在此处打开VScode也行）
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776421629435.webp)
 
@@ -395,9 +240,19 @@ code .
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776421850499.webp)
 
-找个C语言的代码文件打开，然后右下角会提示安装一个C/C++插件，这个可以安装也可以不安装，他也带代码提示，但是他的代码提示对比自带的clangd简直是弱爆了，如果你是新手，你不会设置代码提示，建议按我下面的操作来，直接别装这个插件。
+可能谈一个很长的对话框，是这个`STM32Cube Core`提示的，你直接点yes开始下载（这是自动部署各种环境的）
 
-![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776422028364.webp)
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523340028-dcacecb6.webp)
+
+反正右下角是`STM32Cube Core`提示让你安装的，你安就完了，每个版本提示可能不一样，总之安装就完了。
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523505964-52b2aa1f.webp)
+
+等上面的环境部署完毕后，
+
+找个C语言的代码文件打开，然后右下角会提示安装一个C/C++插件，这个可以安装也可以不安装，他也带代码提示，但是他的代码提示对比自带的clangd简直是弱爆了，如果你是新手，你不会设置代码提示，建议按我下面的操作来，直接别装这个C/C++插件。
+
+默认用的是clangd代码提示
 
 你可以测试一下代码提示，是不是很强。
 
@@ -419,9 +274,7 @@ git clone https://github.com/tungchiahui/STM32HAL_CMake_CPP_Template.git
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776427498924.webp)
 
-然后打开applications文件夹，在Src和Inc文件夹分别创建led_task.cpp和led_task.h，内容分别如下:
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image91.webp)
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523805618-93a96d4e.webp)
 
 main.c:
 
@@ -439,6 +292,31 @@ RTOS放在main()里仅靠`while(1)`的那几个RTOS相关的开启函数的**上
 cpp_main();
 ```
 
+然后要去最顶层的CMakeLists.txt里加上这句话来引用我们自己的CMakeLists.txt。
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image93.webp)
+
+```cmake
+# Add USER generated sources
+add_subdirectory(cmake/user)
+```
+
+在最顶上，也要把编程语言的标准改一下（这一步在`README.md`里写了）
+
+```cmake
+# Setup compiler settings
+set(CMAKE_C_STANDARD 11 CACHE STRING "C language standard")
+set(CMAKE_C_STANDARD_REQUIRED ON)
+set(CMAKE_C_EXTENSIONS ON)
+
+set(CMAKE_CXX_STANDARD 20 CACHE STRING "C++ language standard")
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS ON)
+```
+
+然后打开applications文件夹，在Src和Inc文件夹分别创建led_task.cpp和led_task.h，内容分别如下:
+
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image91.webp)
 
 led_task.cpp:
 
@@ -447,7 +325,7 @@ led_task.cpp:
 #include "cmsis_os.h"
 #include "stm32f1xx_hal.h" 
 
-GPIO_PinState pinstate = GPIO_PIN_RESET;
+int32_t t;
 
 extern "C"
 void StartDefaultTask(void *argument)
@@ -455,6 +333,7 @@ void StartDefaultTask(void *argument)
   for(;;)
   {
     HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13);
+    ++t;
     osDelay(500);
   }
 }
@@ -481,29 +360,6 @@ led_task.h:
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image92.webp)
 
-然后要去最顶层的CMakeLists.txt里加上这句话来引用我们自己的CMakeLists.txt。
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image93.webp)
-
-```cmake
-# Add USER generated sources
-add_subdirectory(cmake/user)
-```
-
-在最顶上，也要把编程语言的标准改一下（这一步在`README.md`里写了）
-（注意：Ubuntu22.04默认最高支持C++20，Ubuntu24.04默认最高支持C++23，Fedora默认最高支持C++最高的标准）
-
-```cmake
-# Setup compiler settings
-set(CMAKE_C_STANDARD 11 CACHE STRING "C language standard")
-set(CMAKE_C_STANDARD_REQUIRED ON)
-set(CMAKE_C_EXTENSIONS ON)
-
-set(CMAKE_CXX_STANDARD 20 CACHE STRING "C++ language standard")
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_EXTENSIONS ON)
-```
-
 大功告成，编译一次试试。可以看到下图，那些新加的文件都编译上了。
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776429160105.webp)
@@ -524,15 +380,9 @@ set(CMAKE_CXX_EXTENSIONS ON)
 
 ##### 原生ST-Link
 
-先更新下STlink的驱动：
+可以更新下STlink的驱动：
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790607581587-4d65b468.webp)
-
-点击`install ST-Link udev rules`，一般VScode右下角会弹一个框进行下载：
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790607134879-933d161f.webp)
-
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790606862537-e94b529c.webp)
 
 ##### 原生JLink
 
@@ -557,6 +407,9 @@ set(CMAKE_CXX_EXTENSIONS ON)
 过一会儿，肯定会调试失败，然后提示你`open launch.json`
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790823682049-c5522e4c.webp)
+
+然后再点`STM32Cube: STM32 Launch GDB`：
+
 
 `launch.json`内容如下：
 
@@ -622,24 +475,17 @@ set(CMAKE_CXX_EXTENSIONS ON)
 我们需要改哪里呢？
 
 主要是：
-- `serverExe` ： 就填二进制程序名 `openocd`
+- `serverExe` ： 就填二进制程序名 `openocd`或者`openocd.exe`
 - `serverParameters` ：填那两个openOCD参数，参考 [openocd的两个-f参数](#openocd-parameters)
 - `serverHost` ：OpenOCD GDB Server 默认监听 localhost，一般不用改
 - `serverPort` ：OpenOCD 默认 GDB 端口 为 `3333`
 - `serverCwd` ： 填`serverExe`这个二进制程序在哪个目录底下
 - 添加`liveWatch`参数（重要）
 
+1. `serverExe`:
 
-1. 添加`liveWatch`参数
-
-在`serverCwd`后面，`runEntry`前面加上：
-
-```json
-            "liveWatch": {
-                "enabled": true,
-                "samplesPerSecond": "4"
-            },
-```
+Linux填openocd
+Windows填openocd.exe
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790826993170-f6f4832e.webp)
 
@@ -697,22 +543,41 @@ STM32 ← OpenOCD ──┤
 ```
 
 
-3. 只有`serverCwd`咱们不知道：
+3. `serverCwd`：
 
 用终端命令直接查找下：
 
 ```bash
 # Linux
 which openocd
+
+# Windows
+where.exe openocd
 ```
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790779741632-f3fe4580.webp)
 
-所以是`/usr/bin/openocd`，所以`serverCwd`填`/usr/bin`。
+Linux如上图是`/usr/bin/openocd`，所以`serverCwd`填`/usr/bin`。
 
-而Windows,你自己装哪的你应该知道吧。。。
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791515580660-37f3dfa4.webp)
+
+Windows如上图是`C:\xpack-openocd-0.12.0-7\bin\openocd.exe`，所以`serverCwd`填`C:\xpack-openocd-0.12.0-7\bin`。
+但是不能直接填`C:\xpack-openocd-0.12.0-7\bin`，因为在`json`中`\`是转义字符，所以傻逼Windows应该填`C:/xpack-openocd-0.12.0-7/bin`或者双反斜杠`C:\\xpack-openocd-0.12.0-7\\bin`。
+
+4. 添加`liveWatch`参数
+
+在`serverCwd`后面，`runEntry`前面加上：
+
+```json
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": "4"
+            },
+```
 
 最后：
+
+**Linux：**
 
 ```json
 {
@@ -788,6 +653,81 @@ which openocd
 }
 ```
 
+**Windows：**
+
+```json
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "stgdbtarget",
+            "request": "launch",
+            "name": "STM32Cube: Launch Generic GDB Server",
+            "origin": "snippet",
+            "cwd": "${workspaceFolder}",
+            "preBuild": "${command:st-stm32-ide-debug-launch.build}",
+            "program": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+            "gdb": "${command:st-stm32-ide-debug-launch.get-gdb-executable}",
+            "deviceName": "${command:st-stm32-ide-debug-launch.get-device-name}",
+            "deviceCore": "${command:st-stm32-ide-debug-launch.get-core-name}",
+            "deviceTrustzone": "${command:st-stm32-ide-debug-launch.get-trustzone-status}",
+            "serverExe": "openocd.exe",
+            "serverParameters": [                
+                "-f",
+                "interface/stlink.cfg",
+
+                "-c",
+                "transport select swd",
+
+                "-f",
+                "target/stm32f1x.cfg",
+
+                "-c",
+                "$_TARGETNAME configure -gdb-max-connections 2"],
+            "serverHost": "localhost",
+            "serverPort": "3333",
+            "serverCwd": "C:/xpack-openocd-0.12.0-7/bin",
+            "liveWatch": {
+                "enabled": true,
+                "samplesPerSecond": "4"
+            },
+            "runEntry": "main",
+            "imagesAndSymbols": [
+                {
+                    "imageFileName": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+                    "imageOffset": "",
+                    "symbolFileName": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+                    "symbolOffset": ""
+                }
+            ]
+        },
+        {
+            "type": "stgdbtarget",
+            "request": "attach",
+            "name": "STM32Cube: Launch GDB Client",
+            "origin": "snippet",
+            "cwd": "${workspaceFolder}",
+            "preBuild": "${command:st-stm32-ide-debug-launch.build}",
+            "program": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+            "gdb": "${command:st-stm32-ide-debug-launch.get-gdb-executable}",
+            "serverHost": "localhost",
+            "serverPort": "${command:st-stm32-ide-debug-launch.get-server-port}",
+            "runEntry": "main",
+            "imagesAndSymbols": [
+                {
+                    "imageFileName": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+                    "imageOffset": "",
+                    "symbolFileName": "${command:st-stm32-ide-debug-launch.get-projects-binary-from-context1}",
+                    "symbolOffset": ""
+                }
+            ]
+        }
+    ]
+}
+```
 
 #### 如何进入调试
 
@@ -829,10 +769,14 @@ which openocd
 
 按照下图所示，把你要监视的变量输入到最顶上的框里，就可以加入到实时监视框里了。
 
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791525244481-514bc00f.webp)
+
+结构体也可以：
+
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790608511630-b448c1d8.webp)
 
 
-#### 更换调试器软件为`cortex debug`（可选，没啥必要）：
+#### 更换调试器软件为`cortex debug`（可选，很没啥必要）：
 
 ##### 安装`cortex debug`插件
 
@@ -1188,3 +1132,4 @@ test -r /dev/bus/usb/001/008 && test -w /dev/bus/usb/001/008 && echo 'USB 设备
 拔插后设备号可能变化，不要照抄示例中的 `001/008`。确认权限后，回到 VS Code 重新选择调试器。如果 `lsusb` 根本看不到调试器，应先检查 USB 线、接口和供电；这不是 udev 权限问题。
 
 这里检查的是 `/dev/bus/usb/...`。如果另外还要打开板载虚拟串口 `/dev/ttyACM*`，那是串口设备的权限，需要分别排查。
+
