@@ -1,4 +1,5 @@
 ---
+vinciId: 0981e483-d90d-5137-9df4-cc6e2230f55a
 title: "STM32CubeIDE-VScode环境搭建"
 ---
 

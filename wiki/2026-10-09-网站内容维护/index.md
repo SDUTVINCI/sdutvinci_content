@@ -152,6 +152,43 @@ tags:
 
 ##### 把分支push到github
 
+基本的git不会该杀，第二天主动找学长领十小时枪子！[Git教程](/wiki/2023-12-29-git-jiao-xue)
+
+先commit
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791528772469-20ccf3dd.webp)
+
+然后push
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791528813021-fa9954c5.webp)
+
+##### 创建PR
+
+打开内容github：https://github.com/SDUTVINCI/sdutvinci_content
+
+点击这个`pull request`：
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791528917759-2e9cd47d.webp)
+
+然后点击`create pull request`：
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791528999657-a77e18c7.webp)
+
+然后出现下方界面就别管了，千万不要点`Merge Pull Request`，有冲突也不要管。
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529035986-fdf5e12d.webp)
+
+记住这个`#10`
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529130995-b8e1880d.webp)
+
+##### 导入PR
+
+https://vinci.sdut.edu.cn/cms/content-imports
+
+输入PR编号：
+
+![](https://cdn.sdutvinci.cn/site-assets/images/wiki/2026/10/09/1791529150866-2ce19363.webp)
 
 
 
