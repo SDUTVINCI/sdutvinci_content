@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-11T11:11:20.767Z",
+  "generatedAt": "2026-10-13T06:13:36.093Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3346,13 +3346,13 @@
     },
     {
       "articleId": "0981e483-d90d-5137-9df4-cc6e2230f55a",
-      "revisionId": "62c6e563-5446-4a9b-b6a9-a4eeb4b6e36e",
-      "revisionNumber": 4,
+      "revisionId": "d8aeaf30-6f0b-48d7-935c-4bccb0d657a5",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
-      "sha256": "7a030a6a7297447c3c72d938678f0c1f640cbdb8cb91d117286989bfb5f3ab21",
-      "bytes": 386
+      "sha256": "db4a7009e467655ca3f2e02ef4a66ecde747dd0221d60ff3c02bdd26e820ba19",
+      "bytes": 420
     },
     {
       "articleId": "8f8ab1e2-3078-465c-8281-cce8c14881aa",
