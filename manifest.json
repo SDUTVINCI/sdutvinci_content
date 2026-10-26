@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-26T13:56:07.022Z",
+  "generatedAt": "2026-10-26T16:31:50.360Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "9f75cdea12d821de35bc6fbae83ca36ca005d761880a6d46e49c9ac95ce94c51"
+    "sha256": "7187533af425154674c465f4f0244d10e38132712794a7676be8a055ceff476c"
   },
   "files": [
     {
@@ -274,6 +274,11 @@
       "bytes": 432
     },
     {
+      "path": "members/applications/36170f9e-8db9-4c52-90de-68575461298b.md",
+      "sha256": "7d3e011eae14b766dc9e3bab0f48c9214eaf92be3de3ec853e7a9e3bb7bf6b83",
+      "bytes": 534
+    },
+    {
       "path": "members/applications/394ceb33-67e3-46f4-aae8-6a87ff462e35.md",
       "sha256": "5d34142632915c979814935f526da4361458e30b58f1f50e3f42b578c5fa2faf",
       "bytes": 462
@@ -342,6 +347,11 @@
       "path": "members/applications/8dc03623-4214-4893-93dd-7cac13dd3bf8.md",
       "sha256": "11888d0ad146dacdfae10bea224994844fb40e50866f781d676077d442b4584d",
       "bytes": 454
+    },
+    {
+      "path": "members/applications/9236eb05-3df1-4afc-ab9b-2cc4d9555a03-76e80e39-ffa8-490f-a76e-97888cab2886.md",
+      "sha256": "aed918b0d1a906651cde837ac76fd50c5794d992517192399e4e55ed46052b4b",
+      "bytes": 538
     },
     {
       "path": "members/applications/9efc5804-be78-4f1c-b0ed-efe07b0bf9f5.md",
