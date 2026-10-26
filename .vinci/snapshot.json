@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-26T13:44:45.652Z",
+  "generatedAt": "2026-10-26T13:53:39.570Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -3839,12 +3839,12 @@
     {
       "memberId": "3685d823-5f31-4ba4-918e-b7bd55aa027d",
       "memberKey": "chufuyuan",
-      "revisionId": "c93c7cbb-6d7e-4b51-82be-55ea8f92f2e7",
-      "revisionNumber": 1,
+      "revisionId": "4d43a721-4511-4e63-883c-99c0c551ecaa",
+      "revisionNumber": 2,
       "sourcePath": "applications/11c8a753-73b1-4d50-8685-fea5ab48c482.md",
       "path": "members/applications/11c8a753-73b1-4d50-8685-fea5ab48c482.md",
-      "sha256": "1c792343b457f06509ae6eb2f4c3f68eaade1eaab7ceed645a2bc5832a097ae2",
-      "bytes": 454
+      "sha256": "72b926459cc0ccd0e545404e487d3c0e038b1021219d43257e7b133f4c027caf",
+      "bytes": 459
     },
     {
       "memberId": "c3ee23af-7a8c-4a37-9d97-f8d025cbffcf",
@@ -4165,16 +4165,6 @@
       "path": "members/applications/eaa5a7bb-7914-44f8-9541-dd2a7ec52a19.md",
       "sha256": "6fb5184d19b6c413c989de52025cf79701d53072439b89d4c5477b15dc19a258",
       "bytes": 448
-    },
-    {
-      "memberId": "89d67ac7-2c5d-4ee5-8213-30dc4b12102e",
-      "memberKey": "chufuyuan1",
-      "revisionId": "48ab41bb-acce-428a-ad66-c25d4d20c97a",
-      "revisionNumber": 1,
-      "sourcePath": "applications/ed307d96-3bf2-43e2-ab06-5ec4d75d157c.md",
-      "path": "members/applications/ed307d96-3bf2-43e2-ab06-5ec4d75d157c.md",
-      "sha256": "dc6c00b3b9ba28c0fc2dedfa01dbaa4634f4a775b3f712fdbca21ac914c21e13",
-      "bytes": 460
     },
     {
       "memberId": "ca9ea94c-bcd6-412e-9eae-c93a7a6f679e",
