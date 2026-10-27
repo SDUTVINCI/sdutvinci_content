@@ -8,7 +8,12 @@ publishedAt: 2023-10-05T00:00:00.000Z
 updatedAt: 2026-08-12T11:38:56.639Z
 ---
 
-本章用一个 Linux-only 的 CMake 工程模板来讲解 C++ 项目如何组织、构建、安装和引入第三方库。
+本章用一个支持 Linux 和 Windows 的 CMake 工程模板来讲解 C++ 项目如何组织、构建、安装和引入第三方库。
+
+模板源码见 [CMake_Template](https://github.com/tungchiahui/CMake_Template)。当前最低要求为 **CMake 3.22**，`CMakePresets.json` 使用**格式版本 3**，默认 C++ 标准为 **C++20**。
+Ubuntu 22.04 可以直接使用系统软件源提供的 **CMake 3.22.1**，准备好 Ninja、C++ 编译器和 Eigen 3 后即可构建，无需为本模板升级 CMake。在容器中开发时，这些工具应安装在容器内，供 VSCode CMake Tools 使用。
+
+Linux 使用 GCC；Windows 使用 GCC / MinGW-w64，推荐 MSYS2 UCRT64。还没有准备环境时，先完成 [C++开发环境搭建与测试](/wiki/2023-10-05-cplusplus-jiao-xue/0100-c-kai-fa-huan-jing-da-jian-yu-ce-shi) 中自己系统的步骤，再来读本章。
 
 这个模板的目标不是把 CMake 所有语法一次讲完，而是围绕一个真实可运行的工程，理解现代 CMake 最常用的一套写法：
 
@@ -28,7 +33,8 @@ updatedAt: 2026-08-12T11:38:56.639Z
 ├── CMakeLists.txt
 ├── CMakePresets.json
 ├── cmake/
-│   └── ProjectOptions.cmake
+│   ├── ProjectOptions.cmake
+│   └── WindowsRuntime.cmake
 └── src/
     ├── CMakeLists.txt
     ├── main.cpp
@@ -53,15 +59,16 @@ updatedAt: 2026-08-12T11:38:56.639Z
 | 文件 | 职责 |
 |:---|:---|
 | `CMakeLists.txt` | 顶层入口，声明项目、加载公共配置、进入 `src` |
-| `CMakePresets.json` | 保存构建预设，例如 `linux-debug` 和 `linux-release` |
+| `CMakePresets.json` | 保存两种平台的 Debug / Release 构建和测试预设 |
 | `cmake/ProjectOptions.cmake` | 保存 C/C++ 标准、公共 warning 等配置 |
+| `cmake/WindowsRuntime.cmake` | 安装 MinGW 工具链中找到的常用 GCC 运行库 |
 | `src/CMakeLists.txt` | 创建最终可执行文件，并链接 `lib1`、`lib2` |
 | `src/lib1/CMakeLists.txt` | 创建 `lib1_src_lib`，管理 lib1 自己的 include、依赖、安装 |
 | `src/lib2/CMakeLists.txt` | 创建 `lib2_src_lib`，管理 lib2 自己的 include、依赖、安装 |
 
 ## 构建命令
 
-这个模板使用 CMakePresets + Ninja。
+这个模板使用 CMakePresets + Ninja。下面先按 Linux 展示流程，再给出 Windows 对应命令。两种系统的 configure、build 和 install 原理相同。
 
 Debug 构建：
 
@@ -81,6 +88,17 @@ cmake --install build/linux-release
 ./install/linux-release/bin/cmake_template
 ```
 
+Windows，PowerShell 中的 Debug 构建：
+
+```powershell
+cmake --preset windows-debug
+cmake --build --preset windows-debug
+cmake --install build/windows-debug
+./install/windows-debug/bin/cmake_template.exe
+```
+
+Release 将 `windows-debug` 改为 `windows-release`。日常开发直接运行 `./build/windows-debug/bin/cmake_template.exe` 即可。
+
 这几条命令分别做了四件事：
 
 | 命令 | 作用 |
@@ -97,6 +115,8 @@ cmake --install build/linux-release
 ```
 
 `install` 更适合用来验证"安装后的目录结构和动态库路径是否正确"。
+
+模板保留了 [GitHub Actions](https://github.com/tungchiahui/CMake_Template/actions) 中 Linux 和 Windows UCRT64 的 Debug / Release 检查。Windows 检查会移除 PATH 中的开发工具链，再运行整体移动后的安装目录。新增第三方库后，还要补齐自己的依赖和测试。
 
 ## configure、build、install 的区别
 
@@ -158,6 +178,23 @@ install/linux-debug/
 
 有些 Linux 发行版会使用 `lib`，有些会使用 `lib64`。本模板通过 `GNUInstallDirs` 让 CMake 自动选择合适目录。
 
+Windows 预设使用静态项目库，安装目录的主要结构为：
+
+```text
+install/windows-debug/
+├── bin/
+│   ├── cmake_template.exe
+│   └── 常用 GCC 运行库文件
+├── include/
+│   ├── lib1/eigen3_test.hpp
+│   └── lib2/eigen3_test.hpp
+└── lib/
+    ├── liblib1_src_lib.a
+    └── liblib2_src_lib.a
+```
+
+两种平台使用同一份头文件和源文件，库类型由各自的预设选择，后面会逐项解释。
+
 ## 为什么不用手写 build/install/log 脚本
 
 旧式模板里常见这种做法：
@@ -176,7 +213,7 @@ install/linux-debug/
 | 手动设置 Debug / Release | preset 里设置 `CMAKE_BUILD_TYPE` |
 | 手动设置安装路径 | preset 里设置 `CMAKE_INSTALL_PREFIX` |
 | 手动调用 Makefile | preset 指定 Ninja |
-| 手动设置动态库路径 | 安装目标设置 `INSTALL_RPATH` |
+| 手动设置动态库路径 | Linux 设置 `INSTALL_RPATH`；Windows 静态链接项目库，并安装常用 GCC 运行库 |
 | 手写 VSCode task | VSCode CMake Tools 直接读取 preset |
 | 手写复杂调试脚本 | VSCode CMake Tools 直接运行或调试当前 CMake target |
 
@@ -209,6 +246,8 @@ build/linux-debug/src/cmake_template
 4. Build。
 5. 选择 `cmake_template` 作为运行/调试 target。
 6. 点击 CMake Tools 提供的运行按钮或 Debug 按钮。
+
+Windows 选择 `windows-debug`，运行路径对应 `build/windows-debug/bin/cmake_template.exe`；GDB 要使用 Windows 工具链中的 `gdb.exe`。界面按钮的含义相同。
 
 更详细的图形界面操作步骤见 [CMakePresets与构建安装](/wiki/2023-10-05-cplusplus-jiao-xue/2200-0100-cmakepresets-yu-gou-jian-an-zhuang)。
 
