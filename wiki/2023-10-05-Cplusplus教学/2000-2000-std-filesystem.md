@@ -5,7 +5,7 @@ description: 本节解决什么问题
 authors:
   - dongjiahui
 publishedAt: 2023-10-05T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.743Z
+updatedAt: 2026-10-27T06:50:34.286Z
 ---
 
 ## 本节解决什么问题
@@ -33,7 +33,7 @@ C++17
 ```cpp
 namespace fs = std::filesystem;
 
-fs::path p = "/home/user/data.txt";  // 路径对象
+fs::path p = "data/data.txt";  // 路径对象
 
 // 检查文件
 fs::exists(p);          // 是否存在
@@ -51,6 +51,19 @@ fs::rename(old, new);         // 重命名
 for (const auto& entry : fs::directory_iterator(p)) { ... }      // 非递归
 for (const auto& entry : fs::recursive_directory_iterator(p)) {} // 递归
 ```
+
+## Linux 和 Windows 中的路径写法
+
+上面的相对路径在两种系统中都可以使用；后面示例如果展示 `/home/user/...`，那是 Linux 的一次运行结果，Windows 会显示自己的盘符和路径。
+
+Windows 绝对路径可以使用原始字符串，拼接目录时优先交给 `path`：
+
+```cpp
+fs::path folder = R"(C:\work\data)";
+fs::path file = folder / "result.txt";
+```
+
+相对路径以 `fs::current_path()` 为基准。`fs::temp_directory_path()` 可以取得当前系统的临时目录，不需要把 Linux 的 `/tmp` 写死。不同系统的权限和路径显示形式也可能不同，示例输出主要用于理解各字段的含义。
 
 ## 常用操作
 

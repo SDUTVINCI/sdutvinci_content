@@ -5,7 +5,7 @@ description: 本节解决什么问题
 authors:
   - dongjiahui
 publishedAt: 2023-10-05T00:00:00.000Z
-updatedAt: 2026-08-12T11:38:56.784Z
+updatedAt: 2026-10-27T06:50:34.310Z
 ---
 
 ## 本节解决什么问题
@@ -29,6 +29,12 @@ C++20/23 引入了 `std::format`（格式化字符串）和 `std::print`（直�
 
 - `std::format`：C++20
 - `std::print`：C++23
+
+## 编译器和系统环境
+
+下面的代码在 Linux 和 Windows 中使用同一份写法。先按 [现代C++ 的编译约定](/wiki/2023-10-05-cplusplus-jiao-xue/2000-xian-dai-c) 检查标准版本和工具链支持。
+
+只有 `std::format` 的例程使用 C++20；出现 `<print>` 的例程需要 C++23 和支持它的标准库。入门模板默认 C++20，所以复制 `std::println` 例程后，还要把对应 target 的编译特性提升为 `cxx_std_23`。Windows 终端显示中文时，源文件与终端也应使用一致的 UTF-8 设置。
 
 ## 需要的头文件
 

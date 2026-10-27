@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-27T06:44:54.435Z",
+  "generatedAt": "2026-10-27T06:50:34.418Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -165,34 +165,54 @@
       "bytes": 1235
     },
     {
+      "articleId": "325b72d2-d1cd-44bd-881e-8c207106b38a",
+      "revisionId": "66e5b0df-6e8e-4793-9440-1db9b5083d34",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0100-0100-Linux开发环境搭建与测试.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-0100-Linux开发环境搭建与测试.md",
+      "sha256": "70fb14a9f8a914244cf1d74d05f8a2fb5ee590b4bf0b1f323f8e1fcef3abe14c",
+      "bytes": 13156
+    },
+    {
+      "articleId": "0ac49b15-6667-4a33-b105-4ce0191bd966",
+      "revisionId": "4ed7a07c-8779-4bd9-9182-718e0dee4ce2",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
+      "sha256": "30eb4126004ca2de6e11b07bcc59064d0a25fb2f3328ee9404c71e45505aa078",
+      "bytes": 13350
+    },
+    {
       "articleId": "d9ef7ec2-e090-5ce7-8d13-88782d596fbe",
-      "revisionId": "5f1d2ab8-d1cd-412d-8dfb-f6fed765f864",
-      "revisionNumber": 2,
+      "revisionId": "ab98244b-ba7e-459e-bf94-be0a125d6bdb",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
       "path": "wiki/2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
-      "sha256": "1fa9bdbfcadb16090e6055fbc92a037e11f36548f1b9b137bf4b50490e3ba8c4",
-      "bytes": 11998
+      "sha256": "a8c78456e0ffffe60f6ecafdd93f643a8e5b0c3ba3c6b0c9a1a47f5d28053ccb",
+      "bytes": 4975
     },
     {
       "articleId": "6c82e4f5-83cd-5389-82f4-f52b2300802e",
-      "revisionId": "c0e890a1-2f24-4ded-8295-7246e39f476f",
-      "revisionNumber": 3,
+      "revisionId": "c8e2f4d9-4f00-432f-8dee-44fbfb7ea542",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/0200-C++基础初识.md",
       "path": "wiki/2023-10-05-Cplusplus教学/0200-C++基础初识.md",
-      "sha256": "3d3b3a070c9f6c0b28575becd5d1d43f8acc2be4d6f569e99fff0bbd0982fbc2",
-      "bytes": 11838
+      "sha256": "e0a2088b7550a9f251e25081ccdd8a773d3812e3123f489cf4689b5e8562281e",
+      "bytes": 12484
     },
     {
       "articleId": "1b35141d-6683-5472-b462-693f02a36cc3",
-      "revisionId": "49b20dbd-d9fa-4590-95b8-cd6cc38e92c3",
-      "revisionNumber": 3,
+      "revisionId": "27119c2e-f0b4-4030-901f-665debf56020",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
       "path": "wiki/2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
-      "sha256": "7a3fab18ac71db684fae864d60d45d5cc9306d94d14177879e08ac5f41ec6c55",
-      "bytes": 19343
+      "sha256": "86be41ed5e8d52623417ebf81152213d004c6b940b147ce3737f0f844a90681d",
+      "bytes": 19977
     },
     {
       "articleId": "974e5789-20eb-5b1d-9791-9270a78dabe8",
@@ -236,13 +256,13 @@
     },
     {
       "articleId": "628ed36c-a523-5c52-a6aa-e9639593df8e",
-      "revisionId": "75a5999a-b810-446c-8c75-c92329401c38",
-      "revisionNumber": 4,
+      "revisionId": "66202a02-e3ca-49f3-8e27-3968921b644a",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/0800-函数与头文件.md",
       "path": "wiki/2023-10-05-Cplusplus教学/0800-函数与头文件.md",
-      "sha256": "7d5f2d7acb6485da18a716912294429d17f88369043dafde8a994a49a196f1b5",
-      "bytes": 27416
+      "sha256": "b4ee20c7bcf70056597190edc04cd3b84e7b102268268e6c5089f91f9b51f6d5",
+      "bytes": 27910
     },
     {
       "articleId": "0a7f19a4-b995-5d17-bcdf-27a6c8cc54ab",
@@ -286,13 +306,13 @@
     },
     {
       "articleId": "9f870e5a-6ad9-5c63-a147-5104d32f7686",
-      "revisionId": "e3658b0b-ae4c-4046-938d-7f167dc9a30c",
-      "revisionNumber": 4,
+      "revisionId": "23f8dd00-bb7e-4339-b4f1-e98c79985436",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/1300-函数提高.md",
       "path": "wiki/2023-10-05-Cplusplus教学/1300-函数提高.md",
-      "sha256": "6eb2e879baee712660b4868316106589bf76115cfa207344d35dad615791ebc2",
-      "bytes": 3423
+      "sha256": "c47ad274f043101ba7b962fc33ed77c4b8995ca6f316274df3192a2d0b5196ce",
+      "bytes": 9788
     },
     {
       "articleId": "ff90a54c-ca25-496d-b7ec-bd77d5228082",
@@ -386,13 +406,13 @@
     },
     {
       "articleId": "ea583730-8e90-5f43-97f1-10b9c30485f6",
-      "revisionId": "03927956-81e6-452a-82b9-fbe2cef9f1c7",
-      "revisionNumber": 3,
+      "revisionId": "787ea587-0835-4b54-ad2e-dd33633c50a3",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/1500-文件操作.md",
       "path": "wiki/2023-10-05-Cplusplus教学/1500-文件操作.md",
-      "sha256": "cd935b71b51d5749bc712b2443247762338102988775c3fc70dd6a1acc5c9557",
-      "bytes": 5928
+      "sha256": "70807ec630b82587298234fb7754811f12130cda04dac45f44ed9b5cce882f84",
+      "bytes": 7111
     },
     {
       "articleId": "10600123-ce60-566e-94f0-fa9dff8f89ac",
@@ -526,13 +546,13 @@
     },
     {
       "articleId": "a7b8c846-17fc-561f-9e5d-907d2d2462ae",
-      "revisionId": "00dce9bb-fff8-4560-9892-e6a6d116b2bd",
-      "revisionNumber": 4,
+      "revisionId": "27b2b05e-d9a2-4aa0-b590-642fcba87aed",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/1800-1200-常用算法.md",
       "path": "wiki/2023-10-05-Cplusplus教学/1800-1200-常用算法.md",
-      "sha256": "4ad8dc13e075a41a0c911f059eacd6a0a90094757105b21b5cab72f30c95c747",
-      "bytes": 28492
+      "sha256": "649c37b20180a9e83855769fc7da82b666267cbaec5307437239fe99d31b1dae",
+      "bytes": 31629
     },
     {
       "articleId": "8a799769-1884-57b9-8ad8-1bfaa941aa9f",
@@ -716,13 +736,13 @@
     },
     {
       "articleId": "7960b879-27ad-580b-b4cd-088400451a74",
-      "revisionId": "263e3da6-db8e-458e-99a6-e204c30a022c",
-      "revisionNumber": 2,
+      "revisionId": "c5cbfeb0-0200-4fda-81a0-aaeaf2e0dff6",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
-      "sha256": "cb51a3b63181ca54c8148f0e5f555897f129420aa2da21474969f4096f8e2993",
-      "bytes": 8043
+      "sha256": "48d031b4bc4a1230fea88e37cb4bf3d256541f6a94df8a10e5eebf5bb923f2a9",
+      "bytes": 8595
     },
     {
       "articleId": "cc29835e-d658-55d3-ada9-ed4e7e680fa1",
@@ -856,13 +876,13 @@
     },
     {
       "articleId": "d49c8e13-6eb5-52f3-b0f5-3b1131a2d0c1",
-      "revisionId": "47fb598f-d815-4992-a480-ee0e98e095f3",
-      "revisionNumber": 2,
+      "revisionId": "aaf6cce5-4fd0-4b70-b8da-983d688f5324",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
-      "sha256": "a391b3c7f78c3e6f803e74ba862bb51c89bb4873d38d7b3444d32002c215489b",
-      "bytes": 10951
+      "sha256": "8bfa8de70623d102c3a9a386e8fc5c2698433e9216425fe37d57abff4b4b0161",
+      "bytes": 11618
     },
     {
       "articleId": "f2961246-33e5-5a2e-9683-ce26c9d2ade0",
@@ -876,13 +896,13 @@
     },
     {
       "articleId": "c4b69756-e9c9-5bd0-9975-42058e00a8c1",
-      "revisionId": "c7bd8509-0c4e-41a5-81a8-2f3384423187",
-      "revisionNumber": 2,
+      "revisionId": "add1fcc8-3518-40cc-bd99-f59f4eb96674",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2000-现代C++.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2000-现代C++.md",
-      "sha256": "504078494f2485026bda63a189de38baf70b73b4267f85042ebaa08e9c97f2ad",
-      "bytes": 7473
+      "sha256": "3a1470c96aa503a10e893d7e5d8e87cb699ddb658427e6c2f2811d2c39160255",
+      "bytes": 8718
     },
     {
       "articleId": "e71788de-afde-5566-9b26-a6e0f604c94a",
@@ -1016,63 +1036,63 @@
     },
     {
       "articleId": "4bf0900c-dbd0-56c2-b66e-a3da0e0d4597",
-      "revisionId": "dcc2cf28-3aa2-4869-96ac-d6b2855fd80b",
-      "revisionNumber": 2,
+      "revisionId": "2faf6b0c-1338-43ae-aaef-39df6d049443",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
-      "sha256": "983cd10433f2d6b1813de1999ab79f9fa71af52bb9079d9f74b029288aabf879",
-      "bytes": 19764
+      "sha256": "29357eb0dcf89c76f836127e35c27b59d20b9ab7f5c8fa40d0204200efea003b",
+      "bytes": 24989
     },
     {
       "articleId": "aaa1543f-8750-5e4c-b702-4ce7aaa706a3",
-      "revisionId": "dfc977bc-5d3c-4365-a7f5-fa102e67b503",
-      "revisionNumber": 3,
+      "revisionId": "caac63fd-b7e7-45ae-a871-02cf92f72ec7",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
-      "sha256": "61303d2bf6785f1add5be19bd7b141ca209ecfcaeea1c1212da14b379da13d33",
-      "bytes": 11769
+      "sha256": "46d070953ad1f2472af363ff576a84f231d92283b65246a1394a73697e6f2a20",
+      "bytes": 16031
     },
     {
       "articleId": "81236dee-9688-5991-9b55-81935f6525b9",
-      "revisionId": "5685279d-a549-4e28-ac40-f56c36636808",
-      "revisionNumber": 3,
+      "revisionId": "f211ddf5-cc43-427e-b815-9d3cfb01da97",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
-      "sha256": "f793602f6c0d935b0e2358a0c2e5b5d1ad5384d7c2bdcfe04d537a4a07fc5917",
-      "bytes": 16557
+      "sha256": "f4745b247a020cdffec562d0144e569266d4956b15941737781a03984bc1d66c",
+      "bytes": 18752
     },
     {
       "articleId": "39a44aa3-0333-562f-a8cc-c0f755f94148",
-      "revisionId": "a2d0c6da-7da3-43e0-8c74-c76d551a288b",
-      "revisionNumber": 3,
+      "revisionId": "e90092c0-e549-4432-9212-f1adf1027a1a",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
-      "sha256": "9b8071998d73ae3b788364f6c6720895a4325f74c949dd47f39b1cad6741b6e7",
-      "bytes": 15439
+      "sha256": "f45bb3916995d12f9910c82fdff69311884eb555f50c79818da2de7cdc74d205",
+      "bytes": 19926
     },
     {
       "articleId": "e6b2276c-0678-5b55-80d0-e53a8b24b09f",
-      "revisionId": "dc465397-5d78-4618-a589-13677d1193fc",
-      "revisionNumber": 2,
+      "revisionId": "f687c1c2-df4b-4a60-9976-d2ad1a3b6e6d",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
-      "sha256": "3ef1741d79b6ffce2b0dd6778617eae56239e924780546372cfb205c8a1f5d84",
-      "bytes": 14124
+      "sha256": "fc18a3f34a15baaf89543c32755c47b0e4717eb6ac96e542635b8199aebe2f66",
+      "bytes": 17920
     },
     {
       "articleId": "b1a33f47-0f5f-5733-bb8f-b167e5540cbf",
-      "revisionId": "f2a142fa-7154-4b51-b5d4-d127bb722b97",
-      "revisionNumber": 2,
+      "revisionId": "222a9eda-611c-40fd-aa0b-6ec3e4825875",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
       "path": "wiki/2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
-      "sha256": "f26aea09b57d54326e53d181d56a2c91ac51111c8c8dfe723d9b5aa00ed2406a",
-      "bytes": 7738
+      "sha256": "7854a1344d1265c5693c2b460005782f930e8445fe26f60a665d1478245e5526",
+      "bytes": 10122
     },
     {
       "articleId": "741468cd-83bb-5196-abaa-02c76fe01af7",
@@ -3336,13 +3356,13 @@
     },
     {
       "articleId": "93a9adb8-7ec9-5022-8f4d-8cc4d4b2f9af",
-      "revisionId": "e9aabf29-bcc2-41f3-a0d7-d8a2ee94fc85",
-      "revisionNumber": 5,
+      "revisionId": "21516bf0-f88e-4fd5-afff-c7c8a7e8ccb4",
+      "revisionNumber": 6,
       "collection": "wiki",
       "relativePath": "2026-04-17-STM32CubeIDE-VScode环境搭建/0400-CubeIDE-VScode教程.md",
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0400-CubeIDE-VScode教程.md",
-      "sha256": "d0ba99c603acf70e05c8e605b33d1d1dea0457a367191d19da39ef51cbb283dd",
-      "bytes": 38474
+      "sha256": "cbab0c0518bb561decb9bc6ee4976ad26059b1d98048e884db56e1d0e2487fec",
+      "bytes": 40818
     },
     {
       "articleId": "0981e483-d90d-5137-9df4-cc6e2230f55a",

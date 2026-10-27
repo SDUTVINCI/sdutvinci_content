@@ -5,8 +5,8 @@ description: CubeMX安装FW
 authors: []
 contributors:
   - dongjiahui
-publishedAt: 2026-10-09T07:13:21.337Z
-updatedAt: 2026-10-09T07:13:21.337Z
+publishedAt: 2026-04-17T00:00:00.000Z
+updatedAt: 2026-10-27T06:50:34.311Z
 ---
 
 ### CubeMX安装FW
@@ -214,7 +214,8 @@ FreeRTOS也要配置一下。
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image67.webp)
 
-这里也打开。
+本例在用户目录中实现 `StartDefaultTask()` 来替换默认任务函数，需要CubeMX生成的同名函数为弱定义。
+可以在FreeRTOS的 `Tasks and Queues` 中，将 `defaultTask` 的 `Code Generation Option` 设为 `As weak`，重新生成后确认该函数带有 `__weak`，避免两个普通定义产生冲突。[参考ST社区说明](https://community.st.com/stm32cubemx-mcus-29/stm32cubeide-mx-with-freertos-4966)。
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523019424-a5e98758.webp)
 
@@ -277,38 +278,73 @@ code .
 git clone https://github.com/tungchiahui/STM32HAL_CMake_CPP_Template.git
 ```
 
-把仓库里的 **所有文件与文件夹（除了`.git`以外）** 复制到我们的STM32工程的目录里。
+把仓库里的除了`.git`以外的东西都复制到我们的STM32工程根目录。
 
 ![alt text](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1776427498924.webp)
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1791523805618-93a96d4e.webp)
 
-main.c:
+模板中的用户代码按功能模块组织，每个模块的 `.cpp`、`.hpp`（或 `.c`、`.h`）放在同一个文件夹里。复制后的目录结构如下：
 
-这里面加上如下：
-
-```c
-#include "cpp_interface.h"
+```text
+STM32工程根目录/
+├── applications/
+│   └── main/
+│       ├── cpp_interface.cpp
+│       └── cpp_interface.h
+├── bsp/
+│   └── boards/
+│       ├── common/
+│       │   └── struct_typedef.h
+│       └── delay/
+│           ├── bsp_delay.cpp
+│           └── bsp_delay.hpp
+└── cmake/
+    ├── stm32cubemx/            # CubeMX生成的配置
+    └── user/
+        └── CMakeLists.txt     # 用户代码的配置
 ```
 
-在main函数里找合适位置加上如下函数：
-一般裸机的话放在`while(1)`**上面**。
-RTOS放在main()里仅靠`while(1)`的那几个RTOS相关的开启函数的**上面**。
+`cmake/user/CMakeLists.txt` 已经把 `applications` 和 `bsp/boards` 加入头文件搜索路径，所以引用用户头文件时统一使用“模块目录/头文件名”的写法：
+
+```cpp
+#include "main/cpp_interface.h"
+#include "delay/bsp_delay.hpp"
+#include "common/struct_typedef.h"
+```
+
+在这两个目录下新增模块时，沿用这个写法即可，不需要为每个模块单独添加头文件搜索路径。
+
+打开CubeMX生成的 `Core/Src/main.c`，在 `USER CODE BEGIN Includes` 和 `USER CODE END Includes` 之间加上：
+
+```c
+#include "main/cpp_interface.h"
+```
+
+然后在 `main()` 的 `USER CODE BEGIN 2` 和 `USER CODE END 2` 之间调用 `cpp_main()`，此时系统时钟和外设已经初始化完成：
 
 ```c
 cpp_main();
 ```
 
-然后要去最顶层的CMakeLists.txt里加上这句话来引用我们自己的CMakeLists.txt。
+注意 `applications/main/cpp_interface.h` 中的 `isRTOS` 设置：
+- 裸机使用默认值 `0`，业务代码可以写在 `cpp_main()` 的无限循环中；
+- 使用FreeRTOS时要改成 `1`，使 `cpp_main()` 执行完初始化后返回，程序才能继续创建任务并启动调度器。
+- 下面沿用前面配置了FreeRTOS的工程，因此先将 `isRTOS` 改为 `1`。
 
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image93.webp)
+然后打开工程根目录的 `CMakeLists.txt`，在CubeMX原有的 `add_subdirectory(cmake/stm32cubemx)` 后面添加 `add_subdirectory(cmake/user)`，引用用户代码的配置：
 
 ```cmake
+# Add STM32CubeMX generated sources
+add_subdirectory(cmake/stm32cubemx)
+
 # Add USER generated sources
 add_subdirectory(cmake/user)
 ```
 
-在最顶上，也要把编程语言的标准改一下（这一步在`README.md`里写了）
+![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image93.webp)
+
+在同一个顶层 `CMakeLists.txt` 中，保留原有的C语言标准设置，并在 `project()` 之前增加C++标准设置（模板的 `README-zh_CN.md` 中也有说明）：
 
 ```cmake
 # Setup compiler settings
@@ -321,16 +357,24 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS ON)
 ```
 
-然后打开applications文件夹，在Src和Inc文件夹分别创建led_task.cpp和led_task.h，内容分别如下:
+然后在 `applications` 下新建 `led_task` 文件夹，把 `led_task.cpp` 和 `led_task.h` 都放进去：
 
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image91.webp)
+```text
+applications/
+├── main/
+│   ├── cpp_interface.cpp
+│   └── cpp_interface.h
+└── led_task/
+    ├── led_task.cpp
+    └── led_task.h
+```
 
-led_task.cpp:
+`applications/led_task/led_task.cpp`：
 
 ```cpp
-#include "led_task.h"
+#include "led_task/led_task.h"
 #include "cmsis_os.h"
-#include "stm32f1xx_hal.h" 
+#include "main.h"
 
 int32_t t;
 
@@ -346,26 +390,30 @@ void StartDefaultTask(void *argument)
 }
 ```
 
-led_task.h:
+`applications/led_task/led_task.h`：
 
 ```cpp
 #ifndef LED_TASK_H
 #define LED_TASK_H
 
-#include "cpp_interface.h"
-
+#include "main/cpp_interface.h"
 
 #endif
-
 ```
 
-然后打开`cmake/user`文件夹下的`CMakeLists.txt`，把刚才新建的led_task.cpp添加上去。
+然后打开 `cmake/user/CMakeLists.txt`，把刚才新建的源文件添加到 `Applications_Src` 列表中：
 
-详细介绍（可以不看）：这里的`cmake/stm32cubemx`下的`CMakeLists.txt`是被CubeMX管理的，你重新用CubeMX生成新代码后，这个文件里的东西会被覆盖。而工作区根目录下的`CMakeLists.txt`是不会被重新覆盖的，而且给我们留了一些区域加源文件和头文件，但是这样会让这个文件太过于嘈杂。所以我们选择新建一个user文件夹，然后在这里面弄一个`CMakeLists.txt`，再用顶层`CMakeLists.txt`去加载这个子`CMakeLists.txt`，这个子`CMakeLists.txt`方便咱们修改，文件结构也更加明显。（这些都不需要咱们自己创建，我已经给创建到**模板**里了，你在上面复制的时候已经复制过来了）
+```cmake
+set(Applications_Src
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../applications/main/cpp_interface.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/../../applications/led_task/led_task.cpp
+)
+```
 
-像下图这样加上cpp文件。
+只需要登记新增的 `.c`、`.cpp` 文件，`.h`、`.hpp` 不需要列为编译源文件。因为 `applications` 已经是头文件搜索根目录，`led_task` 模块也不需要额外添加搜索路径。
 
-![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2025/07/18/image92.webp)
+详细介绍（可以不看）：`cmake/stm32cubemx/CMakeLists.txt` 由CubeMX管理，重新生成代码时可能更新，因此用户代码的源文件列表和头文件搜索路径统一维护在 `cmake/user/CMakeLists.txt` 中，顶层 `CMakeLists.txt` 通过 `add_subdirectory(cmake/user)` 加载它。这个用户配置文件已经包含在模板里，前面复制时就已经带过来了。
+
 
 大功告成，编译一次试试。可以看到下图，那些新加的文件都编译上了。
 
@@ -952,19 +1000,19 @@ gci "$env:LOCALAPPDATA\stm32cube\bundles\gnu-tools-for-stm32" `
 
 ![](https://cdn.tungchiahui.cn/tungwebsite/assets/images/2026/04/17/1790776572642-f50c57f3.webp)
 
-复制输出结果：
+复制输出结果（下方 `your-user` 和工具链版本仅为示例，以本机实际输出为准）：
 
 ```text
-/home/tungchiahui/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gdb
+/home/your-user/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gdb
 ```
 
 但是去掉最后的执行程序`arm-none-eabi-gdb`，只需要到`bin`即可：
 
 ```text
-/home/tungchiahui/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin
+/home/your-user/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin
 ```
 
-所以`armToolchainPath` = `/home/tungchiahui/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin`。
+所以`armToolchainPath` = `/home/your-user/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin`。
 
 4. `serverpath`:
 
@@ -1027,7 +1075,7 @@ which openocd
             // ★ ARM GNU Toolchain 的 bin 目录
             // 建议不要直接写 "~"
             // 用 ${env:HOME} 更稳
-            "armToolchainPath": "/home/tungchiahui/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin",
+            "armToolchainPath": "${env:HOME}/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin",
 
             // 启动后运行到 main()
             "runToEntryPoint": "main",

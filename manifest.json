@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-27T06:44:54.435Z",
+  "generatedAt": "2026-10-27T06:50:34.418Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "8827c9ebdc72e2dd67a43ef3314c6dbd20d3ea80d9cbac32878e0e5a73c08006"
+    "sha256": "ec33d9292d4d164e0a056314a02b369071940a573b61d18baed07adbc15fa11c"
   },
   "files": [
     {
@@ -514,19 +514,29 @@
       "bytes": 1235
     },
     {
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-0100-Linux开发环境搭建与测试.md",
+      "sha256": "70fb14a9f8a914244cf1d74d05f8a2fb5ee590b4bf0b1f323f8e1fcef3abe14c",
+      "bytes": 13156
+    },
+    {
+      "path": "wiki/2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
+      "sha256": "30eb4126004ca2de6e11b07bcc59064d0a25fb2f3328ee9404c71e45505aa078",
+      "bytes": 13350
+    },
+    {
       "path": "wiki/2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
-      "sha256": "1fa9bdbfcadb16090e6055fbc92a037e11f36548f1b9b137bf4b50490e3ba8c4",
-      "bytes": 11998
+      "sha256": "a8c78456e0ffffe60f6ecafdd93f643a8e5b0c3ba3c6b0c9a1a47f5d28053ccb",
+      "bytes": 4975
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0200-C++基础初识.md",
-      "sha256": "3d3b3a070c9f6c0b28575becd5d1d43f8acc2be4d6f569e99fff0bbd0982fbc2",
-      "bytes": 11838
+      "sha256": "e0a2088b7550a9f251e25081ccdd8a773d3812e3123f489cf4689b5e8562281e",
+      "bytes": 12484
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0300-数据类型与数据存放.md",
-      "sha256": "7a3fab18ac71db684fae864d60d45d5cc9306d94d14177879e08ac5f41ec6c55",
-      "bytes": 19343
+      "sha256": "86be41ed5e8d52623417ebf81152213d004c6b940b147ce3737f0f844a90681d",
+      "bytes": 19977
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0400-输入输出.md",
@@ -550,8 +560,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0800-函数与头文件.md",
-      "sha256": "7d5f2d7acb6485da18a716912294429d17f88369043dafde8a994a49a196f1b5",
-      "bytes": 27416
+      "sha256": "b4ee20c7bcf70056597190edc04cd3b84e7b102268268e6c5089f91f9b51f6d5",
+      "bytes": 27910
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0900-指针.md",
@@ -575,8 +585,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1300-函数提高.md",
-      "sha256": "6eb2e879baee712660b4868316106589bf76115cfa207344d35dad615791ebc2",
-      "bytes": 3423
+      "sha256": "c47ad274f043101ba7b962fc33ed77c4b8995ca6f316274df3192a2d0b5196ce",
+      "bytes": 9788
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1350-命名空间.md",
@@ -625,8 +635,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1500-文件操作.md",
-      "sha256": "cd935b71b51d5749bc712b2443247762338102988775c3fc70dd6a1acc5c9557",
-      "bytes": 5928
+      "sha256": "70807ec630b82587298234fb7754811f12130cda04dac45f44ed9b5cce882f84",
+      "bytes": 7111
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1600-异常处理与错误码.md",
@@ -695,8 +705,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1800-1200-常用算法.md",
-      "sha256": "4ad8dc13e075a41a0c911f059eacd6a0a90094757105b21b5cab72f30c95c747",
-      "bytes": 28492
+      "sha256": "649c37b20180a9e83855769fc7da82b666267cbaec5307437239fe99d31b1dae",
+      "bytes": 31629
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/1800-STL提高编程.md",
@@ -790,8 +800,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2000-1700-std-format-print.md",
-      "sha256": "cb51a3b63181ca54c8148f0e5f555897f129420aa2da21474969f4096f8e2993",
-      "bytes": 8043
+      "sha256": "48d031b4bc4a1230fea88e37cb4bf3d256541f6a94df8a10e5eebf5bb923f2a9",
+      "bytes": 8595
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2000-1800-std-chrono.md",
@@ -860,8 +870,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2000-2000-std-filesystem.md",
-      "sha256": "a391b3c7f78c3e6f803e74ba862bb51c89bb4873d38d7b3444d32002c215489b",
-      "bytes": 10951
+      "sha256": "8bfa8de70623d102c3a9a386e8fc5c2698433e9216425fe37d57abff4b4b0161",
+      "bytes": 11618
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2000-2100-modules简介.md",
@@ -870,8 +880,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2000-现代C++.md",
-      "sha256": "504078494f2485026bda63a189de38baf70b73b4267f85042ebaa08e9c97f2ad",
-      "bytes": 7473
+      "sha256": "3a1470c96aa503a10e893d7e5d8e87cb699ddb658427e6c2f2811d2c39160255",
+      "bytes": 8718
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2100-0100-0100-定时器与异步IO.md",
@@ -940,33 +950,33 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0100-CMakePresets与构建安装.md",
-      "sha256": "983cd10433f2d6b1813de1999ab79f9fa71af52bb9079d9f74b029288aabf879",
-      "bytes": 19764
+      "sha256": "29357eb0dcf89c76f836127e35c27b59d20b9ab7f5c8fa40d0204200efea003b",
+      "bytes": 24989
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0200-顶层CMake与公共编译选项.md",
-      "sha256": "61303d2bf6785f1add5be19bd7b141ca209ecfcaeea1c1212da14b379da13d33",
-      "bytes": 11769
+      "sha256": "46d070953ad1f2472af363ff576a84f231d92283b65246a1394a73697e6f2a20",
+      "bytes": 16031
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0300-src与lib模块CMake详解.md",
-      "sha256": "f793602f6c0d935b0e2358a0c2e5b5d1ad5384d7c2bdcfe04d537a4a07fc5917",
-      "bytes": 16557
+      "sha256": "f4745b247a020cdffec562d0144e569266d4956b15941737781a03984bc1d66c",
+      "bytes": 18752
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0400-第三方库依赖写法.md",
-      "sha256": "9b8071998d73ae3b788364f6c6720895a4325f74c949dd47f39b1cad6741b6e7",
-      "bytes": 15439
+      "sha256": "f45bb3916995d12f9910c82fdff69311884eb555f50c79818da2de7cdc74d205",
+      "bytes": 19926
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-0500-模板扩展与常见问题.md",
-      "sha256": "3ef1741d79b6ffce2b0dd6778617eae56239e924780546372cfb205c8a1f5d84",
-      "bytes": 14124
+      "sha256": "fc18a3f34a15baaf89543c32755c47b0e4717eb6ac96e542635b8199aebe2f66",
+      "bytes": 17920
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/2200-CMake工程模板.md",
-      "sha256": "f26aea09b57d54326e53d181d56a2c91ac51111c8c8dfe723d9b5aa00ed2406a",
-      "bytes": 7738
+      "sha256": "7854a1344d1265c5693c2b460005782f930e8445fe26f60a665d1478245e5526",
+      "bytes": 10122
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/index.md",
@@ -2100,8 +2110,8 @@
     },
     {
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/0400-CubeIDE-VScode教程.md",
-      "sha256": "d0ba99c603acf70e05c8e605b33d1d1dea0457a367191d19da39ef51cbb283dd",
-      "bytes": 38474
+      "sha256": "cbab0c0518bb561decb9bc6ee4976ad26059b1d98048e884db56e1d0e2487fec",
+      "bytes": 40818
     },
     {
       "path": "wiki/2026-04-17-STM32CubeIDE-VScode环境搭建/index.md",
