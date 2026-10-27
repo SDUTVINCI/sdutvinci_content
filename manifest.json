@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-26T16:31:50.360Z",
+  "generatedAt": "2026-10-27T06:44:54.435Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "7187533af425154674c465f4f0244d10e38132712794a7676be8a055ceff476c"
+    "sha256": "8827c9ebdc72e2dd67a43ef3314c6dbd20d3ea80d9cbac32878e0e5a73c08006"
   },
   "files": [
     {
@@ -1570,8 +1570,8 @@
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0400-3D打印.md",
-      "sha256": "ec1c31c1b563c2a5b38b970389b0bcbd704aa050678ff89c071cb5c7580bddef",
-      "bytes": 7488
+      "sha256": "1a9218eb9f1a51401a76d25deb6872f8418b14975414f11299328058654673e3",
+      "bytes": 7801
     },
     {
       "path": "wiki/2024-07-12-机械组教程/0200-0500-3D打印机常见故障解除.md",

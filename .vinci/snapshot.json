@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-26T16:31:50.360Z",
+  "generatedAt": "2026-10-27T06:44:54.435Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -2276,13 +2276,13 @@
     },
     {
       "articleId": "f5ee0fda-4c20-48cb-90d6-abe5ec3d4c8b",
-      "revisionId": "4062d7ed-2f85-4634-9417-e495347cec98",
-      "revisionNumber": 2,
+      "revisionId": "5bc77e58-4531-4ad8-a5ed-3ac91a6598c8",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2024-07-12-机械组教程/0200-0400-3D打印.md",
       "path": "wiki/2024-07-12-机械组教程/0200-0400-3D打印.md",
-      "sha256": "ec1c31c1b563c2a5b38b970389b0bcbd704aa050678ff89c071cb5c7580bddef",
-      "bytes": 7488
+      "sha256": "1a9218eb9f1a51401a76d25deb6872f8418b14975414f11299328058654673e3",
+      "bytes": 7801
     },
     {
       "articleId": "bd9473b6-0643-4469-9e00-60f264ecca36",
