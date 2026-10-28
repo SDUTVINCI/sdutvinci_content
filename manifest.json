@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-28T14:59:25.692Z",
+  "generatedAt": "2026-10-28T15:06:09.367Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "e805cc71006f3a5c9beb27d48687ac4517508e81ab505c6f5032e3d2605a5ce3"
+    "sha256": "dedd8827b81e1bbbe8cf73c582e76a0a6f30881e66671ec045a1ddac6b47a22f"
   },
   "files": [
     {
@@ -1035,8 +1035,8 @@
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
-      "sha256": "996471bf5c7d46806c1a0ada085b4904c658805136cdf65d321416c3914f3bbd",
-      "bytes": 92138
+      "sha256": "a885bb822843ca5ea28f395d7ab52038221a672c4ea7fbd7fa91bc7e442f0382",
+      "bytes": 93115
     },
     {
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/index.md",

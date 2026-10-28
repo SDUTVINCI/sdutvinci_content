@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-28T14:59:25.692Z",
+  "generatedAt": "2026-10-28T15:06:09.367Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -1146,13 +1146,13 @@
     },
     {
       "articleId": "3b8c32cc-a5f2-527a-8cf5-cef76724e90c",
-      "revisionId": "bb4d689d-9947-468f-89f1-ea237f2c5699",
-      "revisionNumber": 3,
+      "revisionId": "663aca37-a085-4c46-b8b7-572e17e7011e",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
       "path": "wiki/2023-10-09-STM32-FreeRTOS教程/0400-stm32单片机(重点).md",
-      "sha256": "996471bf5c7d46806c1a0ada085b4904c658805136cdf65d321416c3914f3bbd",
-      "bytes": 92138
+      "sha256": "a885bb822843ca5ea28f395d7ab52038221a672c4ea7fbd7fa91bc7e442f0382",
+      "bytes": 93115
     },
     {
       "articleId": "c86ff04f-3516-5c55-9dbb-7f1990e74770",
