@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-28T09:09:39.860Z",
+  "generatedAt": "2026-10-28T14:59:25.692Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -1346,23 +1346,23 @@
     },
     {
       "articleId": "d2ac9652-8d5b-4d1a-9c09-0d0acdf1fc3d",
-      "revisionId": "9cbbd604-53ff-49f2-a493-fb60c233b261",
-      "revisionNumber": 1,
+      "revisionId": "bd9bc3e2-ca17-4f82-a8cb-a46f244a5c1f",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-12-29-Git教学/0150-安装git.md",
       "path": "wiki/2023-12-29-Git教学/0150-安装git.md",
-      "sha256": "c121c60fe8cd62116b1bdf65f5192e181991a7a4bec9eaac8d09b0418cd5637d",
-      "bytes": 1446
+      "sha256": "2c6c81cb2897ef0194d47129f076565107efe348256dbef8b7f57264c5b310bb",
+      "bytes": 4469
     },
     {
       "articleId": "094fc63a-a198-57b8-ab46-b8d1ee45c982",
-      "revisionId": "a0b87736-9863-44ce-82af-1db16f593d14",
-      "revisionNumber": 4,
+      "revisionId": "c7a03b88-5efc-43d0-9fea-d7367128aaf1",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2023-12-29-Git教学/0200-Git实操.md",
       "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
-      "sha256": "d57f393f66cd26d84599995a4a548530cbb980a9c5d7be0069c96f1bd2ed82a6",
-      "bytes": 28492
+      "sha256": "8c5881bd76e1174b33717f9d72ae5f6732b14652e8ef38e98a287643901cc672",
+      "bytes": 30191
     },
     {
       "articleId": "da12911b-5792-520c-92cf-d9f812a5cabe",
@@ -3847,6 +3847,16 @@
       "bytes": 455
     },
     {
+      "memberId": "4ef2c12e-0870-4d5a-82c9-6cc8447ef9c6",
+      "memberKey": "liuxuanrui",
+      "revisionId": "a78cb3ea-7eba-47bb-bd70-6f0b5b58e0c1",
+      "revisionNumber": 1,
+      "sourcePath": "applications/01a9ab6a-7289-4182-89fb-a7ea13a5a40e.md",
+      "path": "members/applications/01a9ab6a-7289-4182-89fb-a7ea13a5a40e.md",
+      "sha256": "242cd85f3cbdb9879f7653659e2b96646ff71a5a0d1d088a062ea155b96c140c",
+      "bytes": 525
+    },
+    {
       "memberId": "0877ff35-4c04-48c1-9522-a70cf88ee249",
       "memberKey": "danzhixin",
       "revisionId": "43b6b578-ce1d-4a57-a2ac-309549e5be0f",
@@ -3875,6 +3885,16 @@
       "path": "members/applications/11c8a753-73b1-4d50-8685-fea5ab48c482.md",
       "sha256": "72b926459cc0ccd0e545404e487d3c0e038b1021219d43257e7b133f4c027caf",
       "bytes": 459
+    },
+    {
+      "memberId": "65d9c106-81a9-456d-a896-ce95d2a8eb8b",
+      "memberKey": "zhaonike",
+      "revisionId": "b6736bc2-18ca-45ba-bf1a-173c25bafca6",
+      "revisionNumber": 1,
+      "sourcePath": "applications/164bcf30-79be-408f-a811-9f0d519c0921.md",
+      "path": "members/applications/164bcf30-79be-408f-a811-9f0d519c0921.md",
+      "sha256": "7b128c27983a788cd840847fac856ae7b67b4e5b16ce999f2d8b949499818ee3",
+      "bytes": 512
     },
     {
       "memberId": "c3ee23af-7a8c-4a37-9d97-f8d025cbffcf",
@@ -3985,6 +4005,16 @@
       "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
       "sha256": "58b60d1af02167071faa5cb5cd03986bf53ae10fc8f3b675e44216e502ced121",
       "bytes": 511
+    },
+    {
+      "memberId": "b2b20b43-d05f-4d72-b5ae-30fa6b211e80",
+      "memberKey": "zhangxinze",
+      "revisionId": "c46dea4c-371b-4d3f-8d11-248e16997c4c",
+      "revisionNumber": 1,
+      "sourcePath": "applications/46b22def-dcbe-486d-afff-7163c6394e10.md",
+      "path": "members/applications/46b22def-dcbe-486d-afff-7163c6394e10.md",
+      "sha256": "28e30643e38cc526642899d4501f19ebd4bec590ab995d1f31f11094bf706514",
+      "bytes": 537
     },
     {
       "memberId": "23888934-1c98-4073-be6f-28a4bbe82ffd",
@@ -4139,12 +4169,12 @@
     {
       "memberId": "ea0370c8-af9e-4e11-9d3e-275fea4cde89",
       "memberKey": "kongweiyi1",
-      "revisionId": "6ab94be2-72e0-4902-8de3-5f8372143b4e",
-      "revisionNumber": 1,
+      "revisionId": "8029e209-1648-478f-8a21-346ea98c70e3",
+      "revisionNumber": 2,
       "sourcePath": "applications/a60a1038-553e-47e9-a5c0-690104a67301.md",
       "path": "members/applications/a60a1038-553e-47e9-a5c0-690104a67301.md",
-      "sha256": "4a9058d95f07c2728fb84e4856254b2e203ee51db5a2511a4c517572a8d9b5af",
-      "bytes": 463
+      "sha256": "afafdca6423febcd05fe79015ac57c081d8b6bc7b5283050d721c3b2c923b233",
+      "bytes": 511
     },
     {
       "memberId": "bb8b0a3a-2d9e-4b74-a46b-0d3a28aa0571",

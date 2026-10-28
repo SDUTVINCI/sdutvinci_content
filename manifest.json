@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-28T09:09:39.860Z",
+  "generatedAt": "2026-10-28T14:59:25.692Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "7811559312e3a40fd6e2c8e4d599517880a788a261920bb7fc244b9b9ab8c750"
+    "sha256": "e805cc71006f3a5c9beb27d48687ac4517508e81ab505c6f5032e3d2605a5ce3"
   },
   "files": [
     {
@@ -229,6 +229,11 @@
       "bytes": 455
     },
     {
+      "path": "members/applications/01a9ab6a-7289-4182-89fb-a7ea13a5a40e.md",
+      "sha256": "242cd85f3cbdb9879f7653659e2b96646ff71a5a0d1d088a062ea155b96c140c",
+      "bytes": 525
+    },
+    {
       "path": "members/applications/0b1a7627-d091-4f2b-bab2-47533c20201e.md",
       "sha256": "0b0c42321a20e2823721e547891ac8b5c987dacaff12fb9d7643bfc857d5071d",
       "bytes": 462
@@ -242,6 +247,11 @@
       "path": "members/applications/11c8a753-73b1-4d50-8685-fea5ab48c482.md",
       "sha256": "72b926459cc0ccd0e545404e487d3c0e038b1021219d43257e7b133f4c027caf",
       "bytes": 459
+    },
+    {
+      "path": "members/applications/164bcf30-79be-408f-a811-9f0d519c0921.md",
+      "sha256": "7b128c27983a788cd840847fac856ae7b67b4e5b16ce999f2d8b949499818ee3",
+      "bytes": 512
     },
     {
       "path": "members/applications/1f34fa01-6165-482f-8f6e-cf6779a0317c.md",
@@ -297,6 +307,11 @@
       "path": "members/applications/3d50f4a0-d792-4642-ae88-7d43b77b1914.md",
       "sha256": "58b60d1af02167071faa5cb5cd03986bf53ae10fc8f3b675e44216e502ced121",
       "bytes": 511
+    },
+    {
+      "path": "members/applications/46b22def-dcbe-486d-afff-7163c6394e10.md",
+      "sha256": "28e30643e38cc526642899d4501f19ebd4bec590ab995d1f31f11094bf706514",
+      "bytes": 537
     },
     {
       "path": "members/applications/4ba4b57b-c222-4dee-a468-f27d0f61a567.md",
@@ -375,8 +390,8 @@
     },
     {
       "path": "members/applications/a60a1038-553e-47e9-a5c0-690104a67301.md",
-      "sha256": "4a9058d95f07c2728fb84e4856254b2e203ee51db5a2511a4c517572a8d9b5af",
-      "bytes": 463
+      "sha256": "afafdca6423febcd05fe79015ac57c081d8b6bc7b5283050d721c3b2c923b233",
+      "bytes": 511
     },
     {
       "path": "members/applications/a665c419-72ad-4125-a1ea-da7e729c4c98.md",
@@ -1120,13 +1135,13 @@
     },
     {
       "path": "wiki/2023-12-29-Git教学/0150-安装git.md",
-      "sha256": "c121c60fe8cd62116b1bdf65f5192e181991a7a4bec9eaac8d09b0418cd5637d",
-      "bytes": 1446
+      "sha256": "2c6c81cb2897ef0194d47129f076565107efe348256dbef8b7f57264c5b310bb",
+      "bytes": 4469
     },
     {
       "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
-      "sha256": "d57f393f66cd26d84599995a4a548530cbb980a9c5d7be0069c96f1bd2ed82a6",
-      "bytes": 28492
+      "sha256": "8c5881bd76e1174b33717f9d72ae5f6732b14652e8ef38e98a287643901cc672",
+      "bytes": 30191
     },
     {
       "path": "wiki/2023-12-29-Git教学/0300-高级工具.md",
