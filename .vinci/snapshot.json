@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-27T06:50:34.418Z",
+  "generatedAt": "2026-10-28T09:09:39.860Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -176,13 +176,13 @@
     },
     {
       "articleId": "0ac49b15-6667-4a33-b105-4ce0191bd966",
-      "revisionId": "4ed7a07c-8779-4bd9-9182-718e0dee4ce2",
-      "revisionNumber": 1,
+      "revisionId": "fb434e59-7da4-444d-abdd-4ee5b4297966",
+      "revisionNumber": 2,
       "collection": "wiki",
       "relativePath": "2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
       "path": "wiki/2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
-      "sha256": "30eb4126004ca2de6e11b07bcc59064d0a25fb2f3328ee9404c71e45505aa078",
-      "bytes": 13350
+      "sha256": "8e8efd712b62baf6e14fc2d2e985e8c332eab373473de7b3ffa82f4191e8c1ee",
+      "bytes": 25314
     },
     {
       "articleId": "d9ef7ec2-e090-5ce7-8d13-88782d596fbe",
@@ -1345,14 +1345,24 @@
       "bytes": 485
     },
     {
+      "articleId": "d2ac9652-8d5b-4d1a-9c09-0d0acdf1fc3d",
+      "revisionId": "9cbbd604-53ff-49f2-a493-fb60c233b261",
+      "revisionNumber": 1,
+      "collection": "wiki",
+      "relativePath": "2023-12-29-Git教学/0150-安装git.md",
+      "path": "wiki/2023-12-29-Git教学/0150-安装git.md",
+      "sha256": "c121c60fe8cd62116b1bdf65f5192e181991a7a4bec9eaac8d09b0418cd5637d",
+      "bytes": 1446
+    },
+    {
       "articleId": "094fc63a-a198-57b8-ab46-b8d1ee45c982",
-      "revisionId": "44e2edf7-fc99-45b5-83f7-656a83b32207",
-      "revisionNumber": 3,
+      "revisionId": "a0b87736-9863-44ce-82af-1db16f593d14",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-12-29-Git教学/0200-Git实操.md",
       "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
-      "sha256": "8e9fcd8c9ff920ae860aa6b1db00b82b03a02e823f4a8e5ced8e5d4c597b5b0c",
-      "bytes": 25153
+      "sha256": "d57f393f66cd26d84599995a4a548530cbb980a9c5d7be0069c96f1bd2ed82a6",
+      "bytes": 28492
     },
     {
       "articleId": "da12911b-5792-520c-92cf-d9f812a5cabe",
@@ -1476,13 +1486,13 @@
     },
     {
       "articleId": "294ab387-72f7-5d4e-958f-e4a921124090",
-      "revisionId": "8debb58b-1b0d-4cf4-8083-1d7362d6f71c",
-      "revisionNumber": 3,
+      "revisionId": "761f7936-d813-4a7a-a3a0-16a919c3b59f",
+      "revisionNumber": 4,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/0200-入门操作.md",
       "path": "wiki/2023-12-30-ros2-tutorial/0200-入门操作.md",
-      "sha256": "90c2edf46a6969364e5eb9c2f12009dcc90bb79df26360f19b907c1dcc0a5c52",
-      "bytes": 28754
+      "sha256": "a9a6f0500f71533b5bc03e6995cf8e5a2f909dce229a29f05b5e4c4499dc80bd",
+      "bytes": 29206
     },
     {
       "articleId": "fb526900-af4d-524f-b393-fd8fefde6cad",
@@ -1526,13 +1536,13 @@
     },
     {
       "articleId": "f491edda-1fd1-5c28-bf62-f386c9ecda43",
-      "revisionId": "3aab7741-a11d-4687-b323-64e14f82263f",
-      "revisionNumber": 2,
+      "revisionId": "b5170364-af20-43f7-ad8e-6e2682c6fc1e",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
       "path": "wiki/2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
-      "sha256": "f696af91967abfede66d31276ebfefe969d97c8a3a2cc59a5a2d559af63082cf",
-      "bytes": 10527
+      "sha256": "8805f325cef591c0ebdca6cebf1106175965a8a8b95a29ad590e44ca3449a343",
+      "bytes": 33286
     },
     {
       "articleId": "c6eaa0af-2b3d-5247-8734-91e497a87632",
@@ -1886,13 +1896,13 @@
     },
     {
       "articleId": "131a282c-9cc7-5d58-8bc9-1368f576287d",
-      "revisionId": "65579eaf-ea09-4a93-b0e2-6232d62f8621",
-      "revisionNumber": 2,
+      "revisionId": "5cc8f028-adf9-4d24-9173-719dfc5e6267",
+      "revisionNumber": 3,
       "collection": "wiki",
       "relativePath": "2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
       "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
-      "sha256": "92deef52ffcc8fc783ebed0e14de6f1da6e9e9ce9f433c5c2275f625fb0616e4",
-      "bytes": 185
+      "sha256": "988eeeae2006e32e32f02e7191b84e7a1f4f9ee2bc58f907bac5d7255c57140c",
+      "bytes": 3856
     },
     {
       "articleId": "2b49b010-77a5-5b94-a1e0-8b990660a779",
@@ -2236,13 +2246,13 @@
     },
     {
       "articleId": "25597a8c-43e4-57f7-b54c-7eeab0b13a38",
-      "revisionId": "38b10cbb-61cb-46ff-bad9-46e7c3fb5b37",
-      "revisionNumber": 4,
+      "revisionId": "a4cdd88b-dcda-4a21-853e-0099a6894f7b",
+      "revisionNumber": 5,
       "collection": "wiki",
       "relativePath": "2024-03-30-Linux教程/0900-其他操作.md",
       "path": "wiki/2024-03-30-Linux教程/0900-其他操作.md",
-      "sha256": "bbee7db078543db01dec4237c17a2fa47ebc7b357c081c353875e2374ab55609",
-      "bytes": 69481
+      "sha256": "27ebdc5fae88bbe9f6725e17d4b8f212f27a7284c791faeb663ea05aeeaec79e",
+      "bytes": 70269
     },
     {
       "articleId": "999dd671-c92e-5161-8d5c-59005b31fd03",
@@ -4037,6 +4047,16 @@
       "bytes": 454
     },
     {
+      "memberId": "83dd0f4c-9910-490f-8618-f40941d11cbc",
+      "memberKey": "qiaoyan",
+      "revisionId": "37a71c5f-b5ec-41ef-b08f-acb151228e74",
+      "revisionNumber": 1,
+      "sourcePath": "applications/6be08f0f-3c3d-4311-b680-a248df818a70.md",
+      "path": "members/applications/6be08f0f-3c3d-4311-b680-a248df818a70.md",
+      "sha256": "3c07a25503894fac0aaac6c39b2eb2e4cc6fd434edca8f78c44ffe56ea3c0387",
+      "bytes": 698
+    },
+    {
       "memberId": "df0e1f06-df80-4011-bb7d-94226b3cc5d8",
       "memberKey": "caohaozheng",
       "revisionId": "7de3e30b-819a-4102-8097-0b63123852f4",
@@ -4045,6 +4065,16 @@
       "path": "members/applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
       "sha256": "6cc1ff2d9e7b2d1eceb5c4ce3ab94adf47774fc00208763f31e3a4a8f49a4cbc",
       "bytes": 454
+    },
+    {
+      "memberId": "a0573ea5-1c2d-4d8c-9258-68ecf49ebd75",
+      "memberKey": "dengyuexiang",
+      "revisionId": "83153d9e-ca5f-47b4-a30a-7bbf3611faee",
+      "revisionNumber": 1,
+      "sourcePath": "applications/7190a7e7-8b74-4abd-bd94-b6d8abadf655.md",
+      "path": "members/applications/7190a7e7-8b74-4abd-bd94-b6d8abadf655.md",
+      "sha256": "daf57940f5960e9db778b94207e2f8eaf5e36b96b80083375ca24e99445aa53e",
+      "bytes": 645
     },
     {
       "memberId": "1ae06c91-5c01-477e-953f-c26326a384ea",
@@ -4185,6 +4215,16 @@
       "path": "members/applications/df18713c-65a3-4f03-b975-cdf151fcd0fa.md",
       "sha256": "4c64c0132eb1bacf45ddb27825ef238cdd23e5c7b5083efcd3072ff386257511",
       "bytes": 467
+    },
+    {
+      "memberId": "c66f6d77-d95e-4d21-bfda-56832ae9373e",
+      "memberKey": "zhangxinyu",
+      "revisionId": "fd2b15e0-4405-4432-94b6-8edc07a7e9d0",
+      "revisionNumber": 1,
+      "sourcePath": "applications/e53d33a5-1d94-497a-8d6e-a640e07fb2f6.md",
+      "path": "members/applications/e53d33a5-1d94-497a-8d6e-a640e07fb2f6.md",
+      "sha256": "cf7464e0e82b29f8041d6bf02ab63e3d865e58aa961b5819b9f5cd3cdad76a64",
+      "bytes": 525
     },
     {
       "memberId": "384e99a3-5fb0-4e23-9c44-6aeb17e9b50a",

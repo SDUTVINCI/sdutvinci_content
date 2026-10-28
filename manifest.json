@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-27T06:50:34.418Z",
+  "generatedAt": "2026-10-28T09:09:39.860Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "ec33d9292d4d164e0a056314a02b369071940a573b61d18baed07adbc15fa11c"
+    "sha256": "7811559312e3a40fd6e2c8e4d599517880a788a261920bb7fc244b9b9ab8c750"
   },
   "files": [
     {
@@ -329,9 +329,19 @@
       "bytes": 454
     },
     {
+      "path": "members/applications/6be08f0f-3c3d-4311-b680-a248df818a70.md",
+      "sha256": "3c07a25503894fac0aaac6c39b2eb2e4cc6fd434edca8f78c44ffe56ea3c0387",
+      "bytes": 698
+    },
+    {
       "path": "members/applications/7041fcbe-bc74-441d-bff3-888780b0bea1.md",
       "sha256": "6cc1ff2d9e7b2d1eceb5c4ce3ab94adf47774fc00208763f31e3a4a8f49a4cbc",
       "bytes": 454
+    },
+    {
+      "path": "members/applications/7190a7e7-8b74-4abd-bd94-b6d8abadf655.md",
+      "sha256": "daf57940f5960e9db778b94207e2f8eaf5e36b96b80083375ca24e99445aa53e",
+      "bytes": 645
     },
     {
       "path": "members/applications/770703fc-b285-4c9a-aaae-a20c2614e579.md",
@@ -402,6 +412,11 @@
       "path": "members/applications/df18713c-65a3-4f03-b975-cdf151fcd0fa.md",
       "sha256": "4c64c0132eb1bacf45ddb27825ef238cdd23e5c7b5083efcd3072ff386257511",
       "bytes": 467
+    },
+    {
+      "path": "members/applications/e53d33a5-1d94-497a-8d6e-a640e07fb2f6.md",
+      "sha256": "cf7464e0e82b29f8041d6bf02ab63e3d865e58aa961b5819b9f5cd3cdad76a64",
+      "bytes": 525
     },
     {
       "path": "members/applications/eaa5a7bb-7914-44f8-9541-dd2a7ec52a19.md",
@@ -520,8 +535,8 @@
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0100-0200-Windows开发环境搭建与测试.md",
-      "sha256": "30eb4126004ca2de6e11b07bcc59064d0a25fb2f3328ee9404c71e45505aa078",
-      "bytes": 13350
+      "sha256": "8e8efd712b62baf6e14fc2d2e985e8c332eab373473de7b3ffa82f4191e8c1ee",
+      "bytes": 25314
     },
     {
       "path": "wiki/2023-10-05-Cplusplus教学/0100-C++开发环境搭建与测试.md",
@@ -1104,9 +1119,14 @@
       "bytes": 485
     },
     {
+      "path": "wiki/2023-12-29-Git教学/0150-安装git.md",
+      "sha256": "c121c60fe8cd62116b1bdf65f5192e181991a7a4bec9eaac8d09b0418cd5637d",
+      "bytes": 1446
+    },
+    {
       "path": "wiki/2023-12-29-Git教学/0200-Git实操.md",
-      "sha256": "8e9fcd8c9ff920ae860aa6b1db00b82b03a02e823f4a8e5ced8e5d4c597b5b0c",
-      "bytes": 25153
+      "sha256": "d57f393f66cd26d84599995a4a548530cbb980a9c5d7be0069c96f1bd2ed82a6",
+      "bytes": 28492
     },
     {
       "path": "wiki/2023-12-29-Git教学/0300-高级工具.md",
@@ -1170,8 +1190,8 @@
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0200-入门操作.md",
-      "sha256": "90c2edf46a6969364e5eb9c2f12009dcc90bb79df26360f19b907c1dcc0a5c52",
-      "bytes": 28754
+      "sha256": "a9a6f0500f71533b5bc03e6995cf8e5a2f909dce229a29f05b5e4c4499dc80bd",
+      "bytes": 29206
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0300-工作空间与功能包.md",
@@ -1195,8 +1215,8 @@
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0700-回溯rosbag2.md",
-      "sha256": "f696af91967abfede66d31276ebfefe969d97c8a3a2cc59a5a2d559af63082cf",
-      "bytes": 10527
+      "sha256": "8805f325cef591c0ebdca6cebf1106175965a8a8b95a29ad590e44ca3449a343",
+      "bytes": 33286
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/0800-坐标变换TF.md",
@@ -1375,8 +1395,8 @@
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0600-手柄joy.md",
-      "sha256": "92deef52ffcc8fc783ebed0e14de6f1da6e9e9ce9f433c5c2275f625fb0616e4",
-      "bytes": 185
+      "sha256": "988eeeae2006e32e32f02e7191b84e7a1f4f9ee2bc58f907bac5d7255c57140c",
+      "bytes": 3856
     },
     {
       "path": "wiki/2023-12-30-ros2-tutorial/1400-0600-0700-键盘控制节点.md",
@@ -1550,8 +1570,8 @@
     },
     {
       "path": "wiki/2024-03-30-Linux教程/0900-其他操作.md",
-      "sha256": "bbee7db078543db01dec4237c17a2fa47ebc7b357c081c353875e2374ab55609",
-      "bytes": 69481
+      "sha256": "27ebdc5fae88bbe9f6725e17d4b8f212f27a7284c791faeb663ea05aeeaec79e",
+      "bytes": 70269
     },
     {
       "path": "wiki/2024-03-30-Linux教程/index.md",
