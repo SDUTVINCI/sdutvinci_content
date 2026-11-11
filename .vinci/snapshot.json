@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-11-11T02:54:45.257Z",
+  "generatedAt": "2026-11-11T04:57:47.967Z",
   "files": [
     {
       "articleId": "6444deba-2907-501a-bb15-3f864401cf97",
@@ -4125,6 +4125,16 @@
       "path": "members/applications/770703fc-b285-4c9a-aaae-a20c2614e579.md",
       "sha256": "2b96c43cf7138ca0d2b407c7610c33a059819ec65add8b7a3955769bb311d7ab",
       "bytes": 456
+    },
+    {
+      "memberId": "0fac11cf-53a5-414f-a14e-1e2ad94866ed",
+      "memberKey": "lijiazheng",
+      "revisionId": "0e4774ad-1e11-442b-9b6d-a7cc61843aa3",
+      "revisionNumber": 1,
+      "sourcePath": "applications/7a0b1836-bf40-4b18-87bb-2a0d381309e8.md",
+      "path": "members/applications/7a0b1836-bf40-4b18-87bb-2a0d381309e8.md",
+      "sha256": "2f4d416b947b06a703391ad48b41a3f4f9b74f528959a4d6ac0d1eb91eaf5a78",
+      "bytes": 525
     },
     {
       "memberId": "43a3a747-d059-4e4a-9c6f-4fe99180b594",
