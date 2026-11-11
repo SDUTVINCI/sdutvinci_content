@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-10-30T10:15:07.203Z",
+  "generatedAt": "2026-11-11T02:54:45.257Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "fc99fa1cb034ba46cd22c850fc821c8c4fb49e7393d6b98846b00690b9ceefdb"
+    "sha256": "298efa810fba34853c8a0d16283c5a7bd8abb59d83809dccf56634e72a41da23"
   },
   "files": [
     {
@@ -404,6 +404,11 @@
       "bytes": 493
     },
     {
+      "path": "members/applications/a97c2573-7a45-4930-bc67-e032dc7e911f.md",
+      "sha256": "26db08ee18f77ae8689605c1bddb36d1d3ab0966c33201136bd176a66a1e1569",
+      "bytes": 598
+    },
+    {
       "path": "members/applications/bcf9967b-cba0-4a02-a6d7-d38b8f4e546a.md",
       "sha256": "ed7f35df06c283dd1cac8a41d46de2b9cb90d9a85344595317096eac64a311ee",
       "bytes": 505
@@ -457,6 +462,11 @@
       "path": "members/applications/fa2a0571-9e7a-4b9a-a775-6aa149cf389a.md",
       "sha256": "207e24183340a7369594bfe474ea7a72ed201c53baf48764739034e9f147f348",
       "bytes": 608
+    },
+    {
+      "path": "members/applications/fb685803-da2b-4e8c-a143-48abfe43d0e6.md",
+      "sha256": "59c107bbf87cf2d7da46b6505bdc46a4e1397cc947fb50c8475410f8c978253f",
+      "bytes": 526
     },
     {
       "path": "members/teacher/宫金良.md",
