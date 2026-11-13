@@ -2,10 +2,10 @@
   "formatVersion": 1,
   "layoutVersion": 1,
   "serializerVersion": 1,
-  "generatedAt": "2026-11-12T13:01:01.055Z",
+  "generatedAt": "2026-11-13T07:42:12.342Z",
   "snapshot": {
     "path": ".vinci/snapshot.json",
-    "sha256": "928c0cdc98dfb746a8758d5e03a8e60d49df12c8732e4e2a8712028e69303d27"
+    "sha256": "c5a21e449c0fb6db82729d37f9a936f5475bcaaedd3c7adec1b2527b88b3e74b"
   },
   "files": [
     {
@@ -85,8 +85,8 @@
     },
     {
       "path": "members/2023/董佳辉.md",
-      "sha256": "55846348b2a2740c83106670d801917bf8d3421a938dd83d1a6597c2cbb29176",
-      "bytes": 5014
+      "sha256": "42dadd291f315b50ca0bf209ab4489f41d9c1d689fb207f4b39b81eb2c2fa61e",
+      "bytes": 11613
     },
     {
       "path": "members/2023/陈厚瑞.md",
